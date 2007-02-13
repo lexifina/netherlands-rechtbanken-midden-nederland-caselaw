@@ -1,0 +1,473 @@
+---
+ecli: "ECLI:NL:RBALM:2007:AZ8537"
+court: "Rechtbank Almelo"
+court_code: "RBALM"
+docket: "08/710365-06"
+decided: "2007-02-13"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBALM:2007:AZ8537"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBALM:2007:AZ8537 Rechtbank Almelo , 13-02-2007 / 08/710365-06
+
+## Inhoudsindicatie
+
+Verdachte heeft stelselmatig met anderen inbraken op bedrijventerreinen gepleegd. Verdachte heeft hierbij grote hoeveelheden kabels weggenomen. De rechtbank legt hem 240 uur werkstraf op en, voorwaardelijk,  zes maanden gevangenisstraf. Ook moet hij schade vergoeden. De vonnissen tegen de medeverdachten zijn na te lezen onder LJN-nummers AZ8534 en AZ8536
+
+## Uitspraak
+
+RECHTBANK ALMELO
+
+Parketnummer: 710365-06
+
+STRAFVONNIS
+
+Uitspraak: 13 februari 2007
+
+De rechtbank te Almelo, meervoudige kamer voor strafzaken, rechtdoende in de zaak van de officier van justitie in het arrondissement Almelo, tegen:
+
+[verdachte],
+
+geboren te [plaats] op [datum] 1950,
+
+wonende te [adres en woonplaats].
+
+terechtstaande dat:
+
+1.
+
+hij op of omstreeks 22 april 2006, althans in of omstreeks de periode van 22
+
+april 2006 tot en met 23 april 2006, in de gemeente Wierden,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, met het
+
+oogmerk van wederrechtelijke toe-eigening op/aan/vanaf (een bouwterrein aan)
+
+de Rijssensestraat heeft weggenomen (ongeveer) 312 meter, althans een
+
+hoeveelheid, kabel, in elk geval enig goed, geheel of ten dele toebehorende
+
+aan [HN] Beton en Industriebouw BV, in elk geval aan een ander of anderen
+
+dan aan verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn
+
+mededader(s) zich de toegang tot de plaats des misdrijfs heeft/hebben
+
+verschaft en/of de/het weg te nemen goed(eren) onder zijn/hun bereik
+
+heeft/hebben gebracht door middel van braak, verbreking en/of inklimming;
+
+(incident 1, proces-verbaal blz. 99);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+2.
+
+hij in of omstreeks de periode van 24 maart 2006 tot en met 27 maart 2006,
+
+in de gemeente Wierden, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening op/aan/vanaf (een bouwterrein aan) de Rijssensestraat (vanuit een (stapel)bak) heeft weggenomen 6, althans een of meer, verlengkabel(s) met stekkers, in elk geval enig goed, geheel of ten dele toebehorende aan [HN] BV Materieel en/of aan [HN] Beton en Industriebouw B.V., in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s) zich de
+
+toegang tot de plaats des misdrijfs heeft/hebben verschaft en/of de/het weg te
+
+nemen goed(eren) onder zijn/hun bereik heeft/hebben gebracht door middel van
+
+braak, verbreking en/of inklimming;
+
+(incident 2, proces-verbaal blz. 116);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+3.
+
+hij op een of meer tijdstippen in of omstreeks de periode van 31 maart 2006
+
+tot en met 3 april 2006, te Bornerbroek in de gemeente Almelo,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, (telkens)
+
+met het oogmerk van wederrechtelijke toe-eigening op/aan/vanaf (een
+
+bouwterrein aan) de Kanaaldijk heeft weggenomen een (zeer) (grote) hoeveelheid
+
+(tot een totaal van -ongeveer- 460 meter), (electriciteit)kabels en/of een
+
+manometerset, in elk geval enig goed, geheel of ten dele toebehorende aan de
+
+firma [S-T], in elk geval aan een ander of anderen dan aan verdachte
+
+en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s) zich de
+
+toegang tot de plaats des misdrijfs heeft/hebben verschaft en/of de/het weg te
+
+nemen goed(eren) onder zijn/hun bereik heeft/hebben gebracht door middel van
+
+braak, verbreking en/of inklimming;
+
+(incident 3, proces-verbaal blz. 133);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+4.
+
+hij op of omstreeks 16 april 2006, althans in of omstreeks de periode van 14
+
+april 2006 tot en met 16 april 2006, te Vriezenveen in de gemeente Twenterand,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, met het
+
+oogmerk van wederrechtelijke toe-eigening op/aan/vanaf (een bouwterrein aan)
+
+de Koningsweg heeft weggenomen (ongeveer) 50 meter, althans een hoeveelheid,
+
+kabel, in elk geval enig goed, geheel of ten dele toebehorende aan [B]
+
+Aannemersbedrijf, in elk geval aan een ander of anderen dan aan verdachte
+
+en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s) zich de
+
+toegang tot de plaats des misdrijfs heeft/hebben verschaft en/of de/het weg te
+
+nemen goed(eren) onder zijn/hun bereik heeft/hebben gebracht door middel van
+
+braak, verbreking en/of inklimming;
+
+(incident 4, proces-verbaal 144);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+5.
+
+hij in of omstreeks de periode van 10 maart 2006 tot en met 15 maart 2006,
+
+te Bornerbroek in de gemeente Almelo, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening op/aan/vanaf (een perceel aan) het Tusveld heeft weggenomen een trilplaat, in elk geval enig goed, geheel of ten dele toebehorende aan Ballast Nedam, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s) zich de toegang tot de plaats des misdrijfs heeft/hebben
+
+verschaft en/of de/het weg te nemen goed(eren) onder zijn/hun bereik
+
+heeft/hebben gebracht door middel van braak, verbreking en/of inklimming;
+
+(incident 6, proces-verbaal blz. 162);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+6.
+
+hij in of omstreeks de periode van 21 maart 2006 tot en met 23 maart 2006,
+
+te Vriezenveen in de gemeente Twenterand, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening in/uit op/aan/vanaf (een bedrijfsterrein aan) de Krijgerstraat heeft weggenomen (ongeveer) 35 meter installatie-/grondkabel en/of een haspel met (ongeveer) 50 meter grondkabel, in elk geval enig goed, geheel of ten dele toebehorende aan [V]
+
+Installatiebedrijf, in elk geval aan een ander of anderen dan aan verdachte
+
+en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s) zich de
+
+toegang tot de plaats des misdrijfs heeft/hebben verschaft en/of de/het weg te
+
+nemen goed(eren) onder zijn/hun bereik heeft/hebben gebracht door middel van
+
+braak, verbreking en/of inklimming;
+
+(incident 9, proces-verbaal blz. 192);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+7.
+
+hij in of omstreeks de periode van 13 april 2006 tot en met 18 april 2006,
+
+in de gemeente Almelo, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening op/aan/vanaf (een
+
+bouwplaats/-terrein aan) Het Kalkhaar heeft weggenomen een krachtstroomkabel
+
+en/of een steenknipper, in elk geval enig goed, geheel of ten dele
+
+toebehorende aan [J], in elk geval aan een ander of anderen dan aan
+
+verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn mededader(s)
+
+zich de toegang tot de plaats des misdrijfs heeft/hebben verschaft en/of
+
+de/het weg te nemen goed(eren) onder zijn/hun bereik heeft/hebben gebracht
+
+door middel van braak, verbreking en/of inklimming;
+
+(incident 11, proces-verbaal blz. 213);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+ALTHANS, voor zover voor het vorenstaande onder 7 geen veroordeling mocht of zou kunnen volgen, SUBSIDIAIR, terzake dat
+
+hij in of omstreeks de periode van 13 april 2006 tot en met 18 april 2006,
+
+althans in of omstreeks de periode van 13 april 2006 tot en met 23 april 2006,
+
+in de gemeente Almelo, in elk geval in Nederland,
+
+een steenknipper heeft verworven, voorhanden heeft gehad en/of heeft
+
+overgedragen, terwijl hij ten tijde van het verwerven of het voorhanden
+
+krijgen van die steenknipper wist dat het (een) door misdrijf verkregen
+
+goed(eren) betrof;
+
+(incident 11, proces-verbaal blz. 213);
+
+(parketnummer 08/710365-06);
+
+art 416 lid 1 ahf/ond a Wetboek van Strafrecht
+
+ALTHANS, voor zover voor het vorenstaande onder 7 geen veroordeling mocht of zou kunnen volgen, MEER SUBSIDIAIR, terzake dat
+
+hij in of omstreeks de periode van 13 april 2006 tot en met 18 april 2006,
+
+althans in of omstreeks de periode van 13 april 2006 tot en met 23 april 2006,
+
+in de gemeente Almelo, in elk geval in Nederland,
+
+een steenknipper heeft verworven, voorhanden heeft gehad en/of heeft
+
+overgedragen, terwijl hij ten tijde van het verwerven of het voorhanden
+
+krijgen van die steenknipper redelijkerwijs had moeten vermoeden dat het (een)
+
+door misdrijf verkregen goed(eren) betrof;
+
+(incident 11, proces-verbaal blz. 213);
+
+(parketnummer 08/710365-06);
+
+art 417bis lid 1 ahf/ond a Wetboek van Strafrecht
+
+8.
+
+hij in of omstreeks de periode van 19 april 2006 tot en met 20 april 2006,
+
+te Bornerbroek in de gemeente Almelo,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, met het
+
+oogmerk van wederrechtelijke toe-eigening (in/uit een bouwkeet) op of aan Het
+
+Tusveld heeft weggenomen een (gas)kachel, in elk geval enig goed, geheel of
+
+ten dele toebehorende aan Ballast Nedam, in elk geval aan een ander of anderen
+
+dan aan verdachte en/of zijn mededader(s), waarbij verdachte en/of zijn
+
+mededader(s) zich de toegang tot de plaats des misdrijfs heeft/hebben
+
+verschaft en/of de/het weg te nemen goed(eren) onder zijn/hun bereik
+
+heeft/hebben gebracht door middel van braak, verbreking en/of inklimming;
+
+(incident 13, proces-verbaal blz. 229B);
+
+(parketnummer 08/710365-06);
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+Gezien de stukken;
+
+Gelet op het onderzoek ter terechtzitting;
+
+Gehoord de vordering van de officier van justitie;
+
+Gelet op de verdediging door en/of namens verdachte gevoerd;
+
+De rechtbank heeft de in de tenlastelegging begane kennelijke schrijffouten verbeterd in de bewezenverklaring. Verdachte wordt daardoor in zijn verdediging niet geschaad.
+
+De rechtbank acht niet wettig en overtuigend bewezen hetgeen aan verdachte sub 4, sub 5, sub 7 en sub 8 is tenlastegelegd, zodat hij daarvan behoort te worden vrijgesproken. Met betrekking tot de feiten 4, 5, 7 primair en feit 8 is de rechtbank niet gebleken dat verdachte zich aan de tenlastegelegde feiten heeft schuldig gemaakt. Met betrekking tot het feit 7 subsidiair en meer subsidiair is de rechtbank uit niets gebleken dat verdachte wist of redelijkerwijs had moeten vermoeden dat de steenknipper, die hij wel voorhanden heeft gehad, een door misdrijf verkregen goed betrof.
+
+De rechtbank is door de inhoud van wettige bewijsmiddelen – die in de gevallen waarin de wet aanvulling van dit (verkorte) vonnis met de bewijsmiddelen vereist, in een aan dit vonnis te hechten bijlage zullen worden opgenomen – waarop na te melden beslissing steunt, tot de overtuiging gekomen en acht wettig bewezen dat verdachte het sub 1, sub 2, sub 3 en sub 6 tenlastegelegde heeft begaan, met dien verstande dat:
+
+1.
+
+hij op 22 april 2006 in de gemeente Wierden, tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toe-eigening vanaf een bouwterrein aan
+
+de Rijssensestraat heeft weggenomen ongeveer 312 meter kabel toebehorende
+
+aan [HN] Beton en Industriebouw BV, waarbij verdachte en zijn
+
+mededaders het weg te nemen goed onder hun bereik hebben gebracht door middel van braak;
+
+2.
+
+hij in de periode van 24 maart 2006 tot en met 27 maart 2006, in de gemeente Wierden, tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toe-eigening vanaf een bouwterrein aan de Rijssensestraat vanuit een stapelbak heeft weggenomen 6 verlengkabels met stekkers toebehorende aan [HN] Beton en Industriebouw B.V.;
+
+3.
+
+hij in de periode van 31 maart 2006 tot en met 3 april 2006, te Bornerbroek in de gemeente Almelo, tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toe-eigening vanaf een bouwterrein aan de Kanaaldijk heeft weggenomen een hoeveelheid (tot een totaal van -ongeveer- 460 meter) elektriciteitskabels toebehorende aan de firma [S-T], waarbij verdachte en zijn mededaders zich de toegang tot de plaats des misdrijfs hebben verschaft en de weg te nemen goederen onder hun bereik hebben gebracht door middel van
+
+braak en inklimming;
+
+6.
+
+hij in de periode van 21 maart 2006 tot en met 23 maart 2006, te Vriezenveen in de gemeente Twenterand, tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toe-eigening vanaf een bedrijfsterrein aan de Krijgerstraat heeft weggenomen ongeveer 35 meter installatie-/grondkabel en een haspel met ongeveer 50 meter grondkabel toebehorende aan [V] Installatiebedrijf, waarbij verdachte en zijn mededaders zich de toegang tot de plaats des misdrijfs hebben verschaft en de weg te nemen goederen onder hun bereik hebben gebracht door middel van braak.
+
+Tot deze beslissing geven reden de in die bewijsmiddelen voorkomende feiten en omstandigheden, waarbij de inhoud van die bewijsmiddelen telkens alleen is gebezigd tot bewijs van het tenlastegelegde feit, waarop deze inhoud in het bijzonder betrekking heeft.
+
+De rechtbank acht niet bewezen wat aan verdachte meer of anders is tenlastegelegd, zodat hij daarvan behoort te worden vrijgesproken.
+
+Het bewezen verklaarde levert op:
+
+wat betreft sub 1, het misdrijf:
+
+"diefstal door twee of meer verenigde personen waarbij de schuldige het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak",
+
+strafbaar gesteld bij artikel 311 jo. 310 van het Wetboek van Strafrecht;
+
+wat betreft sub 2, het misdrijf:
+
+"diefstal door twee of meer verenigde personen",
+
+strafbaar gesteld bij artikel 311 jo. 310 van het Wetboek van Strafrecht
+
+wat betreft sub 3, het misdrijf:
+
+"diefstal door twee of meer verenigde personen waarbij de schuldige zich de toegang tot de plaats van het misdrijf  heeft verschaft en het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak en inklimming",
+
+strafbaar gesteld bij artikel 311 jo. 310 van het Wetboek van Strafrecht;
+
+en wat betreft sub 6, het misdrijf:
+
+"diefstal door twee of meer verenigde personen waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft en het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak",
+
+strafbaar gesteld bij artikel 311 jo. 310 van het Wetboek van Strafrecht.
+
+De verdachte is strafbaar aangezien niet is gebleken van een zijn strafbaarheid uitsluitende omstandigheid.
+
+De officier van justitie heeft gevorderd dat verdachte terzake sub 1, sub 2, sub 3, sub 4, sub 6 en sub 7 subsidiair wordt veroordeeld tot een gevangenisstraf van 10 maanden, waarvan 3 maanden voorwaardelijk, met als bijzondere voorwaarde verplicht reclasseringscontact, met aftrek van het voorarrest, met toewijzing van de civiele vorderingen van [HN] Bouw B.V. (feit 1 en 2), [V] B.V. (feit 6) en gedeeltelijke toewijzing van de vordering van [S-T] Nederland N.V. (feit 3) en oplegging van de hiervoor genoemde vorderingen van de zogenaamde Terwee-maatregel en met niet-ontvankelijk verklaring van de vorderingen van Bouwbedrijf [H en J] B.V. en GTG Oost B.V..
+
+De rechtbank overweegt wat de straf betreft, dat op grond van de aard van de feiten, de omstandigheden waaronder deze zijn gepleegd en de persoon van verdachte, zoals één en ander uit het onderzoek ter terechtzitting is gebleken, aan verdachte de straf behoort te worden opgelegd, zoals deze hierna zal worden bepaald, waarbij nog het volgende is overwogen:
+
+Verdachte heeft stelselmatig met anderen inbraken op bedrijventerreinen gepleegd. Verdachte heeft hierbij grote hoeveelheden kabels weggenomen. Verdachte heeft verklaard dat hij de misdrijven heeft gepleegd met het oog op financieel gewin. Hij heeft zich op geen enkele wijze gerealiseerd wat de gevolgen van zijn handelen voor de bedrijven zijn. De schade die hierdoor is toegebracht is groot en de bouwbedrijven hebben door het handelen van verdachte hinder ondervonden bij het uitvoeren van hun werkzaamheden. Daarnaast zijn de diefstallen voor in elk geval één van de bouwbedrijven aanleiding geweest om bewaking in te huren voor het, vaak lastig te beveiligen, bouwterrein. Daarnaast heeft de rechtbank kennis genomen van het feit dat verdachte voor het eerst wegens diefstal wordt veroordeeld. Verdachte zal hierom een gedeeltelijk voorwaardelijk straf worden opgelegd, teneinde hem er mede op die wijze van te weerhouden opnieuw dergelijke feiten te plegen. Bij de strafoplegging heeft de rechtbank alleen rekening gehouden met de bewezenverklaarde feiten en niet, zoals gevorderd door de officier van justitie, met andere, door verdachte in het proces-verbaal bekende feiten, nu deze niet ad-informandum op de dagvaarding zijn vermeld.
+
+De rechtbank heeft daarbij, op de voet van het bepaalde in artikel 63 Wetboek van Strafrecht, een eerdere veroordeling van verdachte in rekening gebracht, te weten het vonnis van de rechtbank te Almelo van 29 september 2006, waarbij verdachte is veroordeeld tot een gevangenisstraf van 12 maanden, waarvan 6 maanden voorwaardelijk.
+
+Civiele vorderingen:
+
+De rechtbank overweegt verder, dat [HN] Bouw B.V. (Postbus 75 te (7440 AB) Nijverdal), ter zake van feit 1 en 2, zich via het in artikel 51b van het Wetboek van Strafvordering voorgeschreven formulier heeft gevoegd in het strafproces en opgave heeft gedaan van de vordering tot schadevergoeding als benadeelde partij tot een totaalbedrag van € 10.408,80 en de wettelijke rente vanaf 25 januari 2007.
+
+Naar het oordeel van de rechtbank is deze, gemotiveerd door verdachte betwiste, vordering van de benadeelde partij ten dele gegrond, aangezien op grond van de gebezigde bewijsmiddelen en het verhandelde ter terechtzitting is komen vast te staan dat aan de benadeelde partij door het bewezen verklaarde feit rechtstreeks schade is toegebracht. De schade bedraagt naar het oordeel van de rechtbank minder dan het gevorderde bedrag, namelijk € 5.422,80 (6 verlengkabels en 312 meter kabel) vermeerderd met de wettelijke rente vanaf 25 januari 2007, zodat de vordering tot dat bedrag toewijsbaar is. De rechtbank verklaart de benadeelde partij in zijn vordering tot vergoeding van 300 meter kabel niet- ontvankelijk aangezien deze diefstal niet is opgenomen in de tenlastelegging. De benadeelde partij wordt ook in het overige deel van de vordering niet-ontvankelijk verklaard aangezien dit gedeelte niet eenvoudig is te beoordelen.
+
+[V] Installatiebedrijf B.V. (Postbus 56 te (7630 AB) Ootmarsum) heeft zich terzake van feit 6 via het in artikel 51b van het Wetboek van Strafvordering voorgeschreven formulier gevoegd in het strafproces en heeft opgave gedaan van de vordering tot schadevergoeding als benadeelde partij tot een totaalbedrag van            € 1.488,25.
+
+Naar het oordeel van de rechtbank is deze, gemotiveerd door verdachte betwiste, vordering van de benadeelde partij geheel gegrond, aangezien op grond van de gebezigde bewijsmiddelen en het verhandelde ter terechtzitting is komen vast te staan dat aan de benadeelde partij door het bewezen verklaarde feit rechtstreeks schade is toegebracht ten bedrage van € 1.488,25.
+
+[S-T] Nederland N.V. (Weegschaalstraat 3 te (5632 CW) Eindhoven) heeft zich terzake van feit 3 via het in artikel 51b van het Wetboek van Strafvordering voorgeschreven formulier gevoegd in het strafproces en heeft opgave gedaan van de vordering tot schadevergoeding als benadeelde partij tot een totaalbedrag van € 22.681,71, vermeerderd met de wettelijke rente vanaf 3 april 2006.
+
+Naar het oordeel van de rechtbank is deze, gemotiveerd door verdachte betwiste, vordering van de benadeelde partij ten dele gegrond, aangezien op grond van de gebezigde bewijsmiddelen en het verhandelde ter terechtzitting is komen vast te staan dat aan de benadeelde partij door het bewezen verklaarde feit rechtstreeks schade is toegebracht. De schade bedraagt naar het oordeel van de rechtbank echter minder dan het gevorderde bedrag, namelijk € 13.867,86 (gestolen en beschadigde elektriciteitskabels ten bedrage van € 12.357,86 en € 1.510,--) vermeerderd met de wettelijke rente vanaf 3 april 2006. De vordering met betrekking tot de manometer dient niet-ontvankelijk te worden verklaard nu de rechtbank de diefstal hiervan niet bewezen acht. De benadeelde partij wordt eveneens niet-ontvankelijk verklaard in het resterende deel van de vordering aangezien deze niet eenvoudig is te beoordelen.
+
+De vorderingen van Bouwbedrijf [H en J] B.V. (Westeinde 405 te (7671 EW) Vriezenveen) en GTG Oost B.V. (Dollegoorweg 19 te (7602 EC) Almelo) dienen niet-ontvankelijk te worden verklaard nu verdachte niet is veroordeeld terzake van de feiten waarvoor deze benadeelde partijen zich in het strafproces hebben gevoegd danwel deze niet zijn opgenomen in de tenlastelegging.
+
+De rechtbank zal hierbij de maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht opleggen, aangezien de verdachte jegens het slachtoffer naar burgerlijk recht (mede) aansprakelijk is voor de schade die door feiten zijn toegebracht.
+
+De na te melden straffen zijn gegrond, behalve op voormelde artikelen, op de artikelen 10, 14a, 14b, 14c, 14d, 22c, 22d, 55 en 57 van het Wetboek van Strafrecht.
+
+R E C H T D O E N D E:
+
+Verklaart niet bewezen wat aan verdachte sub 4, sub 5, sub 7 en sub 8 is tenlastegelegd en spreekt hem daarvan vrij.
+
+Verklaart bewezen dat het sub 1, sub 2, sub 3 en sub 6 tenlastegelegde zoals boven omschreven door verdachte is begaan.
+
+Verstaat dat het aldus bewezen verklaarde oplevert de strafbare feiten zoals hierboven vermeld.
+
+Verklaart verdachte strafbaar.
+
+Veroordeelt verdachte tot een taakstraf, te weten een werkstraf, voor 240 uur met bevel, voor het geval dat de veroordeelde de taakstraf niet naar behoren verricht, dat vervangende hechtenis zal worden toegepast voor de duur van 120 dagen.
+
+Veroordeelt verdachte tot een gevangenisstraf voor de tijd van 6 (ZES) maanden en
+
+beveelt dat de gevangenisstraf niet zal worden tenuitvoergelegd, tenzij de rechtbank later anders mocht gelasten, op de grond dat de veroordeelde zich voor het einde van een proeftijd, die hierbij op twee jaren wordt bepaald, aan een strafbaar feit schuldig heeft gemaakt of gedurende de proeftijd de hierna te melden bijzondere voorwaarde niet heeft nageleefd.
+
+Stelt als bijzondere voorwaarde:
+
+De veroordeelde moet zich gedurende de proeftijd gedragen naar de voorschriften en aanwijzingen hem te geven door of namens de Reclassering Nederland, arrondissement Almelo, ook wanneer de aanwijzingen zullen inhouden dat de veroordeelde de COVA-training dient te volgen, met opdracht aan die instelling ingevolge artikel 14d van het Wetboek van Strafrecht.
+
+Veroordeelt verdachte, terzake van het bewezen feit 1 en 2 tot betaling aan de benadeelde partij [HN] Bouw B.V. van een bedrag groot € 5.422,80 vermeerderd met de wettelijke rente vanaf 25 januari 2007, voorzover dit bedrag niet door een mededader zal zijn betaald.
+
+Veroordeelt verdachte daarnaast in de kosten van het geding door de benadeelde partij gemaakt, tot op heden begroot op nihil, alsook in de kosten van betekening van dit vonnis, de in verband met de tenuitvoerlegging van dit vonnis nog te maken kosten en de kosten vallende op de invordering.
+
+Legt de maatregel op dat veroordeelde verplicht is ter zake van het bewezen verklaarde feit 1 en 2 tot betaling aan de Staat der Nederlanden van een bedrag groot € 5.422,80  ten behoeve van de benadeelde [HN] Bouw N.V., met bevel, voor het geval dat volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis voor de tijd van 36 dagen zal worden toegepast, een en ander voorzover dit bedrag niet door een mededader zal zijn voldaan.
+
+Verstaat dat als veroordeelde heeft voldaan aan zijn verplichting tot betaling aan de Staat der Nederlanden van bedoeld bedrag daarmee de verplichting van verdachte om aan de benadeelde partij het bedrag te betalen, komt te vervallen, en andersom, als veroordeelde aan de benadeelde partij het verschuldigde bedrag heeft betaald, dat daarmee de verplichting tot betaling aan de Staat der Nederlanden van dat bedrag komt te vervallen.
+
+Bepaalt dat voornoemde benadeelde partij [HN] Bouw N.V. voor het overige deel niet-ontvankelijk is in haar vordering en dat de benadeelde partij dit gedeelte van de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt verdachte, terzake van het bewezen feit 6 tot betaling aan de benadeelde partij [V] B.V. van een bedrag groot € 1.488,25, voorzover dit bedrag niet door een mededader zal zijn betaald.
+
+Veroordeelt verdachte daarnaast in de kosten van het geding door de benadeelde partij gemaakt, tot op heden begroot op nihil, alsook in de kosten van betekening van dit vonnis, de in verband met de tenuitvoerlegging van dit vonnis nog te maken kosten en de kosten vallende op de invordering.
+
+Legt de maatregel op dat veroordeelde verplicht is ter zake van het bewezen verklaarde feit 6 tot betaling aan de Staat der Nederlanden van een bedrag groot        € 1.488,25 ten behoeve van de benadeelde [V] B.V. met bevel, voor het geval dat volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis voor de tijd van 9 dagen zal worden toegepast, een en ander voorzover dit bedrag niet door een mededader zal zijn voldaan.
+
+Verstaat dat als veroordeelde heeft voldaan aan zijn verplichting tot betaling aan de Staat der Nederlanden van bedoeld bedrag daarmee de verplichting van verdachte om aan de benadeelde partij het bedrag te betalen, komt te vervallen, en andersom, als veroordeelde aan de benadeelde partij het verschuldigde bedrag heeft betaald, dat daarmee de verplichting tot betaling aan de Staat der Nederlanden van dat bedrag komt te vervallen.
+
+Veroordeelt verdachte, terzake van het bewezen feit 3 tot betaling aan de benadeelde partij [S-T] Nederland N.V. van een bedrag groot € 13.867,86 verhoogd met de wettelijke rente vanaf 3 april 2006, voorzover dit bedrag niet door een mededader zal zijn betaald.
+
+Veroordeelt verdachte daarnaast in de kosten van het geding door de benadeelde partij gemaakt, tot op heden begroot op nihil, alsook in de kosten van betekening van dit vonnis, de in verband met de tenuitvoerlegging van dit vonnis nog te maken kosten en de kosten vallende op de invordering.
+
+Legt de maatregel op dat veroordeelde verplicht is ter zake van het bewezen verklaarde feit 3 tot betaling aan de Staat der Nederlanden van een bedrag groot        € 13.867,86  ten behoeve van de benadeelde [S-T] Nederland N.V. met bevel, voor het geval dat volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis voor de tijd van 92 dagen zal worden toegepast, een en ander voorzover dit bedrag niet door een mededader zal zijn voldaan.
+
+Verstaat dat als veroordeelde heeft voldaan aan zijn verplichting tot betaling aan de Staat der Nederlanden van bedoeld bedrag daarmee de verplichting van verdachte om aan de benadeelde partij het bedrag te betalen, komt te vervallen, en andersom, als veroordeelde aan de benadeelde partij het verschuldigde bedrag heeft betaald, dat daarmee de verplichting tot betaling aan de Staat der Nederlanden van dat bedrag komt te vervallen.
+
+Bepaalt dat voornoemde benadeelde partij [S-T] Nederland N.V. voor het overige deel niet-ontvankelijk is in haar vordering en dat de benadeelde partij dit gedeelte van de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Bepaalt dat voornoemde benadeelde partijen Bouwbedrijf [H en J] B.V. en GTG Oost B.V. in het geheel niet-ontvankelijk zijn in de vorderingen en dat deze benadeelde partijen de vorderingen slechts bij de burgerlijke rechter kunnen aanbrengen.
+
+Verklaart niet bewezen wat aan de verdachte sub 1, sub 2, sub 3 en sub 6 meer of anders is tenlastegelegd dan hierboven bewezen is verklaard en spreekt hem daarvan vrij.
+
+Heft op het tegen verdachte verleende (geschorste) bevel tot voorlopige hechtenis, met ingang van heden.
+
+Aldus gewezen door mr. Teekman, voorzitter, mr. Caminada en mr. Scholten, rechters, in tegenwoordigheid van mr. Lambers, griffier,
+
+en uitgesproken ter openbare terechtzitting op 13 februari.
