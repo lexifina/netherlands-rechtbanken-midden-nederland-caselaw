@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBUTR:2007:BA6717"
-published_in: ["Rechtspraak.nl", "NJF 2007, 359", "RZA 2007, 149", "RAV 2007, 32", "AV&S 2007, 39 met annotatie van P.G.H. ALBERT, M.B. Esseling", "JIN 2007/301", "GJ 2007/125"]
+published_in: ["Rechtspraak.nl", "NJF 2007, 359", "RZA 2007, 149", "RAV 2007, 32", "AV&S 2007, 39 met annotatie van M.B. Esseling, P.G.H. ALBERT", "JIN 2007/301", "GJ 2007/125"]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-233.md", "netherlands/national/acts/bw-boek-6/art-234.md", "netherlands/national/acts/bw-boek-6/art-237.md", "netherlands/national/acts/bw-boek-6/art-248.md", "netherlands/national/acts/bw-boek-7/art-940.md"]
 ---
 
