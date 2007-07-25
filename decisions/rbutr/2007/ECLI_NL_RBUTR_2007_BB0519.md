@@ -1,0 +1,209 @@
+---
+ecli: "ECLI:NL:RBUTR:2007:BB0519"
+court: "Rechtbank Utrecht"
+court_code: "RBUTR"
+docket: "224337/ HA ZA 07-87"
+decided: "2007-07-25"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBUTR:2007:BB0519"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBUTR:2007:BB0519 Rechtbank Utrecht , 25-07-2007 / 224337/ HA ZA 07-87
+
+## Inhoudsindicatie
+
+Aandelenlease, Spaarbeleg.
+
+## Uitspraak
+
+vonnis
+
+RECHTBANK UTRECHT
+
+Sector handels- en familierecht
+
+zaaknummer / rolnummer: 224337 / HA ZA 07-87
+
+Vonnis van 25 juli 2007
+
+in de zaak van
+
+[eiseres],
+
+wonende te [woonplaats],
+
+eiseres,
+
+procureur mr. C. Beijer,
+
+tegen
+
+de naamloze vennootschap
+
+AEGON BANK NV,
+
+gevestigd te Nieuwegein,
+
+gedaagde,
+
+procureur mr. B.F. Keulen.
+
+Partijen zullen hierna [eiseres] en Spaarbeleg genoemd worden.
+
+1.	De procedure
+
+1.1.	Het verloop van de procedure blijkt uit:
+
+-	het tussenvonnis van 21 maart 2007
+
+-	het proces-verbaal van comparitie van 15 juni 2007.
+
+1.2.	Ten slotte is vonnis bepaald.
+
+2.	De inleiding
+
+2.1.	Spaarbeleg is een financiële instelling die overeenkomsten sluit met betrekking tot financiële producten, waaronder het zogenaamde SprintPlan. Bij een SprintPlan-overeenkomst wordt gedurende een periode van vijf jaar belegd met een door Spaarbeleg verstrekte lening. Met het geleende bedrag worden voor de belegger participaties aangekocht in het Spaarbeleg Garantiefonds. De participaties worden op naam van de Stichting Aegon BeleggingsGiro (door de jaren heen soms anders genaamd) gesteld die deze voor rekening en risico van de cliënt gaat houden. Na afloop van de looptijd van de overeenkomst worden de participaties in het Garantiefonds verkocht en wordt de lening afgelost. Het SprintPlan-product kent een gegarandeerde einduitkering (de zogenaamde garantiewaarde) waarmee het geleende bedrag kan worden terugbetaald.
+
+2.2.	Deze rechtbank heeft in verband met de SprintPlan-overeenkomsten in de afgelopen jaren reeds vonnis gewezen in een tweetal collectieve acties tegen Spaarbeleg, aanhangig gemaakt door de Gedupeerden SprintPlan (GeSp) (vonnis van 22 december 2004, NJF 2005/60) en door de Vereniging Consument & Geldzaken (vonnis van 4 januari 2006, NJF 2006/152), alsmede in diverse procedures die door individuele deelnemers aan het SprintPlan tegen Spaarbeleg zijn aangespannen. In deze vonnissen is bij de opsomming van de feiten steeds uitgebreid geciteerd uit het door Spaarbeleg aan de deelnemers van het SprintPlan verstrekte informatiemateriaal. De rechtbank acht de formulering van de voor de beoordeling relevante passages in dit informatiemateriaal inmiddels bekend en zal in dit vonnis niet opnieuw tot het citeren hiervan overgaan.
+
+2.3.	De rechtbank acht de vonnissen die zij in verband met de SprintPlan-overeenkomsten heeft gewezen en die (bijna) allemaal zijn gepubliceerd op (in ieder geval) rechtspraak.nl, eveneens inmiddels bekend bij de advocaten die namens hun cliënten tegen Spaarbeleg procederen. Voor zover de rechtbank van oordeel is dat op stellingen en verweren die in deze procedure worden aangevoerd, in één of meer van haar eerdere vonnissen reeds is beslist, zal zij bij de motivering van haar oordeel over deze stellingen en verweren volstaan met een verwijzing naar deze eerdere vonnissen.
+
+3.	De feiten
+
+3.1.	[eiseres] heeft na het insturen van het Inschrijfformulier van Spaarbeleg een welkomstpakket ontvangen met daarin een Certificaat, de Algemene Voorwaarden, de Specifieke Bepalingen van het Spaarbeleg Garantiefonds en de Brochure.
+
+3.2.	Het door [eiseres] afgesloten SprintPlan had een looptijd van 5 jaar, ingaande 2 oktober 2000 tot en met 30 september 2005. [eiseres] heeft ter uitvoering van de overeenkomst 60 maandtermijnen van EUR 113,45 (NLG 250,00) aan Spaarbeleg voldaan, derhalve in totaal een bedrag van EUR 6.807,00.
+
+4.	Het geschil
+
+4.1.	[eiseres] vordert – samengevat – terugbetaling van alle door haar aan Spaarbeleg betaalde bedragen, vermeerderd met de wettelijke rente en buitengerechtelijke incassokosten van EUR 250,00 vermeerderd met BTW wegens:
+
+-	nietigheid van de overeenkomst op grond van strijd met artikel 9 van de Wet Consumentenkrediet (Wck),
+
+-	ontbinding van de overeenkomst op grond van toerekenbare tekortkoming wegens schending van de zorgplicht,
+
+-	vernietiging op grond van misbruik van omstandigheden
+
+-	handelen in strijd met artikel 28 van de Nadere Regeling
+
+-	vernietiging op grond van dwaling,
+
+-	misleidende reclame
+
+-	onrechtmatig handelen wegens schending van de zorgplicht.
+
+4.2.	Spaarbeleg voert verweer. Op de stellingen van partijen wordt hierna, voor zover van belang, nader ingegaan.
+
+5.	De beoordeling
+
+Nietigheid wegens strijd met Wck
+
+5.1.	De rechtbank heeft in haar vonnis van 6 juli 2005 (LJN AT8955), in een procedure aangespannen door een deelnemer aan het SprintPlan tegen Spaarbeleg, bepaald dat de Wck niet op de SprintPlan-overeenkomst van toepassing is. De rechtbank heeft daarbij, kort samengevat, het volgende overwogen:
+
+"Naar het oordeel van de rechtbank is de SprintPlan-overeenkomst te beschouwen als een krediettransactie in de zin van art. 1 aanhef en onder a, 1° Wck. De rechtbank is evenwel ook van oordeel dat de SprintPlan-overeenkomst een vorm van effectenbelening is die op grond van art. 4 lid 1 aanhef en onder h Wck van de werking van de Wck is uitgezonderd. De rechtbank baseert zich hierbij op een analyse van de uitlatingen door de verantwoordelijk Minister (van Financiën) over (de gevolgen van) de aandelenlease-overeenkomsten, de Memorie van toelichting naar aanleiding van een wijziging van o.a. de Wck en de relatie tussen de bescherming die de Wck beoogt te bieden en de beschermingsgedachte die ten grondslag ligt aan de Europese regelgeving op dit terrein.”
+
+5.2.	De rechtbank heeft dit oordeel herhaald in diverse andere vonnissen (waaronder die met LJN: AZ3654 en AZ3667). Door [eiseres] zijn in de onderhavige procedure geen nieuwe argumenten aangevoerd die de rechtbank aanleiding geven om van haar eerdere, in bovengenoemd vonnis van 6 juli 2005 uitgebreid gemotiveerde, oordeel af te wijken. De vordering van [eiseres], voor zover gebaseerd op de stelling dat de SprintPlan-overeenkomsten nietig zijn wegens strijd met de Wck, wordt dan ook afgewezen.
+
+Ontbinding wegens toerekenbare tekortkoming door schending van de zorgplicht
+
+5.3.	Deze rechtbank heeft in haar vonnis van 18 oktober 2006, LJN AZ0660, geoordeeld dat zij schending van de zorgplicht door Spaarbeleg niet langer zal kwalificeren als een toerekenbare tekortkoming, doch enkel als een onrechtmatige daad (zie hierna). De rechtbank heeft dit oordeel nadien in diverse andere vonnissen met betrekking tot het SprintPlan herhaald. De rechtbank ziet geen aanleiding om nu anders te oordelen. Ook deze vordering wordt daarom afgewezen.
+
+Vernietiging op grond van misbruik van omstandigheden
+
+5.4.	Voor misbruik van omstandigheden is onder andere vereist dat Spaarbeleg wist of moest begrijpen dat [eiseres] door de door haar gestelde onervarenheid tot het sluiten van de overeenkomst werd bewogen. Van een dergelijke kenbaarheid is de rechtbank evenwel niet gebleken. De overeenkomst is tot stand gekomen kennelijk zonder dat er enig inhoudelijk contact tussen partijen heeft plaatsgevonden. [eiseres] heeft volstaan met het opvragen en inzenden van een inschrijfformulier en Spaarbeleg met het toezenden van het inschrijfformulier en het welkomstpakket. Nu niet gesteld kan worden dat alleen onervaren consumenten zullen worden bewogen tot het afsluiten van een SprintPlan op de wijze zoals in dit geval is geschied, kan niet worden geconcludeerd dat Spaarbeleg wist of moest begrijpen dat haar onervarenheid [eiseres] bewoog tot het inzenden van het inschrijfformulier en dat dit Spaarbeleg van het sluiten van de overeenkomst had behoren te weerhouden.
+
+Handelen in strijd met artikel 28 NR
+
+5.5.	De vordering van [eiseres] voor zover gebaseerd op schending van artikel 28 lid 2 tot en met 4 Nadere Regeling – de rechtbank begrijpt Nadere Regeling 1999 (hierna: NR 1999) – zal als onvoldoende gemotiveerd worden afgewezen. Volgens [eiseres] had Spaarbeleg op grond van deze regeling moeten blijven toetsen of zij wel aan haar verplichtingen kon blijven voldoen. Nu is gebleken dat [eiseres] in staat was om aan haar contractuele verplichtingen uit de overeenkomst te kunnen voldoen en ook nimmer een betalingsachterstand heeft gehad, is de rechtbank van oordeel dat het op de weg van [eiseres] had gelegen om aan te geven waarom zij desondanks nog belang heeft bij haar vordering gebaseerd op voormelde grondslag. Nu [eiseres] hieromtrent niets heeft gesteld, zal deze vordering als zijnde zonder belang worden afgewezen. Of het genoemde artikel uit de NR 1999 van toepassing is op een SprintPlan-overeenkomst, zoals door Spaarbeleg gemotiveerd is betwist, kan derhalve in het midden blijven.
+
+Vernietiging op grond van dwaling
+
+5.6.	[eiseres] heeft een beroep gedaan op dwaling. De rechtbank begrijpt de feitelijke grondslag van dat beroep aldus dat [eiseres] dacht dat het SprintPlan een spaarproduct was en dat Spaarbeleg onvoldoende heeft gewezen op het risico dat de inleg verloren kon gaan.
+
+5.7.	De rechtbank heeft in diverse vonnissen, recent nog in haar vonnis van de meervoudige kamer van 24 januari 2007 (LJN AZ7231), geoordeeld dat deelnemers aan het SprintPlan uit de door Spaarbeleg verstrekte schriftelijke informatie zelfs bij oppervlakkige lezing niet kunnen en mogen afleiden dat het SprintPlan een spaarproduct was. Bij oplettende bestudering van de informatie hadden zij bovendien kunnen en moeten begrijpen dat het SprintPlan inhield dat zij maandelijks een bedrag aan rente zouden betalen over een bij Spaarbeleg afgesloten lening en dat Spaarbeleg vervolgens met deze lening voor rekening en risico van hen participaties zou kopen in het GarantieFonds. In de Algemene Voorwaarden staat immers met zoveel woorden vermeld dat het door de deelnemer betaalde maandbedrag rente is over de aankoopsom van de voor hem of haar gekochte (fracties van) participaties en dat de aankoopsom wordt gefinancierd door Spaarbeleg. Ook staat vermeld dat na afloop van een SprintPlan-contract een eindafrekening plaatsvindt en dat Spaarbeleg aan de deelnemer alsdan betaalt het bedrag dat na de einddatum wordt uitgekeerd op de alsdan voor de deelnemer gehouden (fracties van) participaties, verminderd met de voor het SprintPlan-contract geldende aankoopsom en verder verminderd met al hetgeen de deelnemer alsdan uit hoofde van het SprintPlan-contract aan Spaarbeleg verschuldigd mocht zijn.
+
+5.8.	[eiseres] heeft geen feiten of omstandigheden gesteld die aanleiding geven om van dit oordeel af te wijken. Het beroep op dwaling wordt dan ook afgewezen.
+
+Misleidende reclame
+
+5.9.	[eiseres] heeft ter onderbouwing van haar stelling dat Spaarbeleg misleidende informatie heeft verstrekt, aangevoerd dat niet duidelijk was dat het SprintPlan-product een karakter van geldlening en belegging met geleend geld in zich droeg en dat zij het risico liep om haar inleg te verliezen.
+
+5.10.	Zoals de rechtbank in het bovenstaande ten aanzien van het beroep op dwaling reeds heeft overwogen, had [eiseres] bij oplettende bestudering van de aan haar verstrekte informatie kunnen en moeten begrijpen wat het SprintPlan inhield en dat het niet een spaarproduct betrof. De rechtbank heeft in haar vonnissen van 22 december 2004 (NJF 2005/60) en 4 januari 2006 (NJF 2006/152) reeds uitgebreid gemotiveerd dat naar haar oordeel de door Spaarbeleg verstrekte informatie betreffende het SprintPlan niet als misleidend in de zin van artikel 6:194 BW kan worden gekwalificeerd. Misschien wekte de informatie van Spaarbeleg wel verwarring, maar deze is niet misleidend. Nu [eiseres] in de onderhavige procedure geen nieuwe argumenten aanvoert, ziet de rechtbank geen aanleiding om van deze eerdere oordelen af te wijken.
+
+Onrechtmatig handelen wegens schending zorgplicht
+
+5.11.	[eiseres] heeft gesteld dat Spaarbeleg jegens haar de zorgplicht heeft geschonden en mitsdien op grond van onrechtmatige daad verplicht is de door haar dientengevolge geleden schade te vergoeden.
+
+5.12.	De rechtbank heeft in diverse uitspraken (onder meer 22 december 2004, NJF 2005/60; 4 januari 2006, NJF 2006/152; 24 januari 2007, LJN AZ7231) geoordeeld dat op Spaarbeleg een bijzondere zorgplicht rust, waarvan de omvang wordt bepaald door de resultante van twee verplichtingen, te weten het verstrekken van informatie aan en het inwinnen van informatie bij de potentiële deelnemer, en tevens dat Spaarbeleg aan de op haar, in het kader van deze zorgplicht, rustende verplichtingen niet heeft voldaan. Zo heeft Spaarbeleg onvoldoende gewezen op het risico dat de opbrengst van het SprintPlan lager dan het totaal van de door deelnemer betaalde maandtermijnen, en zelfs nihil kon zijn. Spaarbeleg had, zeker nu zij ervoor heeft gekozen om het SprintPlan aan te bieden aan een breed, niet gesegmenteerd publiek, dienen te verifiëren of de deelnemer uit het door Spaarbeleg verstrekte informatiemateriaal het bestaan van dit risico had begrepen en of het SprintPlan wel beantwoordde aan de beleggingsdoelstelling van deze individuele deelnemer.
+
+5.13.	Ook in het onderhavige geval komt de rechtbank tot het oordeel dat Spaarbeleg haar zorgplicht jegens [eiseres] heeft geschonden. Zoals reeds in eerdere vonnissen is geoordeeld, diende de potentiële deelnemer de informatie uit de verschillende toegezonden bescheiden te combineren en enkele denkstappen te maken om de risico’s geheel te kunnen doorgronden. Spaarbeleg heeft niet bij [eiseres] geverifieerd of zij al die denkstappen had gemaakt om het SprintPlan-product op haar merites te kunnen beoordelen en om te beoordelen of het SprintPlan wel beantwoordde aan de beleggingsdoelstelling van [eiseres]. Hetgeen Spaarbeleg hierover verder heeft aangevoerd, kan niet tot een ander oordeel leiden.
+
+causaal verband
+
+5.14. 	De rechtbank gaat voorbij aan de stelling van Spaarbeleg dat het causaal verband tussen de schending van de zorgplicht en de door [eiseres] gestelde schade ontbreekt. [eiseres] heeft aangevoerd dat haar doel met het SprintPlan was het opbouwen van een vermogen en dat zij niet aan het SprintPlan begonnen zou zijn als haar duidelijk was geweest dat er aan het SprintPlan risico’s verbonden waren. De rechtbank is van oordeel dat [eiseres] met deze verklaring voldoende aannemelijk heeft gemaakt dat zij het SprintPlan niet zou hebben afgesloten als Spaarbeleg aan haar zorgplicht had voldaan.
+
+schade
+
+5.15.	De stelling van Spaarbeleg dat het verlies van de maandelijks verrichte betalingen (zijnde de rente over de lening) niet als schade kan worden aangemerkt, is door de rechtbank in voorgaande vonnissen (waaronder 24 januari 2007, LJN AZ7231) steeds verworpen, omdat aannemelijk is dat de overeenkomst niet tot stand zou zijn gekomen als Spaarbeleg zich van haar zorgplicht had gekweten. De rechtbank gaat aan die stelling ook nu voorbij.
+
+eigen schuld
+
+5.16.	In voorgaande vonnissen betreffende het SprintPlan heeft de rechtbank een beroep van Spaarbeleg op eigen schuld bij de deelnemer al verscheidene keren gehonoreerd (onder meer 18 oktober 2006, LJN AZ0660; 29 november 2006, LJN AZ3654). De rechtbank heeft bij deze beslissingen steeds van belang geacht dat de deelnemer er bij oplettende bestudering van het informatiemateriaal niet zonder meer ervan uit had mogen gaan dat het SprintPlan als een spaarproduct kon worden gezien en dat hij/zij, bij twijfel, zich nader had dienen te informeren.
+
+5.17.	De eigen schuld die de deelnemer heeft aan het ontstaan van zijn of haar schade door geen nader onderzoek naar het product SprintPlan in te stellen alvorens de overeenkomst te sluiten, wordt door de rechtbank afgezet tegen de zorgplicht die op Spaarbeleg rustte. Bij die beoordeling wordt vooropgesteld dat een financiële instelling als Spaarbeleg zich behoort te realiseren dat producten als de onderhavige - die breed in de markt zijn gezet om ook de onervaren beleggers te bewegen tot het beleggen in uiterst koersgevoelige producten - beleggers aantrekt die zich van de risico’s van beleggen onvoldoende bewust zijn en/of het zich, gezien hun vermogens- en /of inkomenspositie in relatie tot hun uitgavenpatroon, niet kunnen veroorloven in dergelijke risicovolle producten te beleggen en dat Spaarbeleg hiermee bij het sluiten van de overeenkomst rekening dient te houden.
+
+5.18.	Tegen deze achtergrond is de rechtbank van oordeel dat als uitgangspunt geldt dat de schade die een deelnemer als gevolg van een schending van de zorgplicht heeft geleden, voor een groter deel voor rekening dient te komen van Spaarbeleg dan voor rekening van de deelnemer. Concreet betekent dit dat in beginsel 60% van de schade voor rekening van Spaarbeleg blijft. Bij het vaststellen van dit uitgangspunt heeft de rechtbank - samenvattend - rekening gehouden met het feit dat het SprintPlan, anders dan de meeste andere aandelenlease-producten, een voorziening behelst ter voorkoming van een restschuld, en daarom een lager risico kent, maar ook dat de informatie over de inhoud van het SprintPlan en de daaraan verbonden risico’s (door de versnipperde wijze van aanbieden hiervan) moeilijker te doorgronden is dan bij de meeste andere aandelenlease-producten het geval is.
+
+5.19.	Voor de vaststelling van de mate van eigen schuld zijn daarnaast de specifieke omstandigheden van het geval van belang, zoals:
+
+-	de omvang van de risico’s die de deelnemer heeft genomen;
+
+-	de leeftijd van de deelnemer bij het sluiten van de overeenkomst;
+
+-	de vermogens- en inkomenspositie van de deelnemer;
+
+-	de opleiding en/of (beleggings)ervaring van de deelnemer;
+
+-	de informatie die de deelnemer in het concrete geval over het SprintPlan heeft ontvangen;
+
+-	de rol van een eventuele tussenpersoon.
+
+Deze omstandigheden zullen door de rechtbank, in onderlinge samenhang bezien en voor zover door partijen belicht, in ieder concreet geval worden gewogen.
+
+5.20.	[eiseres] was ten tijde van het afsluiten van SprintPlan 45 jaar oud en betaalde een bedrag van NLG 250,00 per maand. [eiseres] heeft haar belastingaangifte over 2000 overgelegd waaruit haar financiële positie ten tijde van het afsluiten van het SprintPlan is af te leiden. Hieruit blijkt dat zij in 2000 gehuwd was en een inkomen had van bruto NGL 142.394,00 per jaar, terwijl haar toenmalige echtgenoot in dat jaar NGL 33.000,00 bruto verdiende. De echtelijke woning had een WOZ-waarde van NGL 271.000,00 en was belast met hypothecaire lening waarvoor jaarlijks een bedrag van NGL 21.525,00 werd betaald. [eiseres] en haar toenmalige echtgenoot hadden geen spaargeld.
+
+5.21.	[eiseres] heeft gesteld dat zij geen beleggingservaring heeft en geen verstand heeft van ingewikkelde financiële producten. Haar opleidingniveau is universitair en zij was en is verzekeringsarts.
+
+5.22.	De rechtbank ziet in het inkomen en het opleidingsniveau van [eiseres] aanleiding om naar onderen af te wijken van het hiervoor weergegeven uitgangspunt voor de schadeverdeling. Het inkomen van [eiseres] is hoger dan gemiddeld evenals haar opleidingsniveau. Daar staat tegenover dat zij ten tijde van het afsluiten van het Sprintplan geen spaartegoeden had en aannemelijk is dat zij geen ervaring had met beleggen.
+
+Dat betekent dat Spaarbeleg 40 % van de schade zal moeten dragen. De gevorderde hoofdsom zal derhalve voor een bedrag van EUR 2.722,80 worden toegewezen, te vermeerderen met rente zoals na te melden.
+
+5.23.	De vordering tot vergoeding van buitengerechtelijke kosten zal worden afgewezen. [eiseres] heeft niet (voldoende onderbouwd) gesteld dat zij deze kosten daadwerkelijk heeft gemaakt en dat die kosten betrekking hebben op verrichtingen die meer omvatten dan een enkele aanmaning, het enkel doen van een schikkingsvoorstel, het inwinnen van eenvoudige inlichtingen of het op gebruikelijke wijze samenstellen van het dossier.
+
+5.24.	Spaarbeleg zal als de grotendeels in het ongelijk gestelde partij in de proceskosten worden veroordeeld. De kosten aan de zijde van [eiseres] worden begroot op:
+
+- dagvaarding	EUR 	84,87
+
+- vast recht		248,00
+
+- salaris procureur	768,00 (2,0 punten × tarief EUR 384,00)
+
+Totaal	EUR 	1.100,87.
+
+6.	De beslissing
+
+De rechtbank
+
+6.1.	veroordeelt Spaarbeleg om aan [eiseres] te betalen een bedrag van EUR 2.722,80 (tweeduizendzevenhonderdtweeëntwintig euro en tachtig cent), vermeerderd met de wettelijke rente over de helft van de maandelijks door [eiseres] uit hoofde van de overeenkomst aan Spaarbeleg betaalde bedragen telkens vanaf de dag van deze maandelijkse betaling, tot de dag van volledige betaling,
+
+6.2.	veroordeelt Spaarbeleg in de proceskosten, aan de zijde van [eiseres] tot op heden begroot op EUR 1.100,87,
+
+6.3.	verklaart dit vonnis tot zover uitvoerbaar bij voorraad,
+
+6.4.	wijst het meer of anders gevorderde af.
+
+Dit vonnis is gewezen door mr. A.A.T. van Rens en in het openbaar uitgesproken op 25 juli 2007.
