@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBUTR:2012:BV3753"
-published_in: ["Rechtspraak.nl", "RF 2012/32", "RO 2012/41", "Ondernemingsrecht 2012/51 met annotatie van B.J. de Jong", "JONDR 2012/628", "JOR 2012/243 met annotatie van prof. mr. J.H.M. Willems", "OR-Updates.nl 2012-0281 met annotatie van M.H.C. Sinninghe Damsté"]
+published_in: ["Rechtspraak.nl", "RF 2012/32", "RO 2012/41", "Ondernemingsrecht 2012/51 met annotatie van B.J. de Jong", "JONDR 2012/628", "JOR 2012/243 met annotatie van prof. mr. J.H.M. Willems", "OR-Updates.nl 2012-0281 met annotatie van M.H.C. Sinninghe Damsté", "AA20120744 met annotatie van Raaijmakers M.J.G.C. Theo"]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-162.md"]
 ---
 
