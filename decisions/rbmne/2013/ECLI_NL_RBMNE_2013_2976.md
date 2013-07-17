@@ -1,0 +1,143 @@
+---
+ecli: "ECLI:NL:RBMNE:2013:2976"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "16701054-12"
+decided: "2013-07-17"
+published: "2013-07-25"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2013:2976"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2013:2976 Rechtbank Midden-Nederland , 17-07-2013 / 16701054-12
+
+## Inhoudsindicatie
+
+Rechtbank Midden-Nederland heeft relatieve bevoegdheid. Herziening gerechtelijke kaart.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Afdeling Strafrecht
+
+Zittingslocatie Utrecht
+
+Parketnummer: 16-701054-12 (strafzaak en ontnemingszaak)
+
+Vonnis van de meervoudige kamer voor strafzaken op tegenspraak gewezen in de zaken tegen:
+
+[verdachte]
+,
+
+geboren op [geboortedatum] te[geboorteplaats],
+
+wonende te [postcode][woonplaats], [adres].
+
+Raadsman: mr. D.E. Wiersum, advocaat te Amsterdam.
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzitting van 3 juli 2013.
+
+De tenlastelegging
+
+De tenlastelegging is als bijlage aan dit vonnis gehecht.
+
+De verdenking komt er, kort en feitelijk weergegeven, op neer dat verdachte:
+
+Feit 1:
+
+in de periode van 1 april 2011 tot en met 6 juni 2012 zich in vereniging heeft schuldig gemaakt aan gewoontewitwassen van € 95.415,-, € 220.236,- en/of
+
+€ 166.102,-;
+
+Feit 2:
+
+in de periode van 1 april 2011 tot en met 6 juni 2012 in vereniging 1.226,60 (gram) en/of 37.536,60 gram hasj opzettelijk heeft verkocht en/of afgeleverd en/of verstrekt en/of veroverd, in elk geval opzettelijk aanwezig heeft gehad;
+
+Feit 3:
+
+op 6 juni 2012 opzettelijk 5,08 gram cocaïne aanwezig heeft gehad.
+
+Overweging
+
+De verdediging heeft primair aangevoerd dat de rechtbank Midden-Nederland in het geheel niet bevoegd is. Subsidiair is betoogd dat indien de rechtbank Midden-Nederland naast de rechtbank Amsterdam bevoegd is, niettemin de bevoegdheid van de rechtbank Amsterdam prevaleert, omdat de vervolging daar het eerst bevoegd is ingesteld.
+
+De rechtbank overweegt als volgt.
+
+Het arrondissement van de rechtbank Midden-Nederland omvat met ingang van 1 januari 2013 het grondgebied van de provincies Flevoland en Utrecht, alsmede van de gemeenten Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp en Wijdemeren. De ten laste gelegde feiten zijn binnen dit grondgebied begaan. Op het moment dat de zaak aanhangig werd gemaakt bij de rechtbank was de rechtbank Midden-Nederland bevoegd. Het tijdstip van aanhangig maken is namelijk het moment waarop de dagvaarding is uitgebracht. Dit is na 1 januari 2013 gebeurd, te weten op 19 juni 2013.
+
+Gelet op het voorgaande wordt het primaire standpunt verworpen.
+
+Met betrekking tot het subsidiair gevoerde standpunt overweegt de rechtbank als volgt.
+
+Voor zaken die vóór de herziening van de gerechtelijke kaart (1 januari 2013) reeds aanhangig waren bij de rechtbank Amsterdam geldt, dat de rechtbank Amsterdam bevoegd blijft. De zaak wás echter nog niet bij de rechtbank Amsterdam aanhangig. Op het moment van het aanhangig maken van de zaak was de rechtbank Amsterdam niet (meer) bevoegd op grond van artikel 2 lid 1 Wetboek van Strafvordering (hierna: Sv).
+
+Er is geen sprake van gelijktijdige vervolging bij de rechtbank Amsterdam en de rechtbank Midden-Nederland. Weliswaar hebben daden van vervolging plaatsgevonden bij de Amsterdamse rechter, maar hiermee is nog geen sprake van gelijktijdige vervolging bij meer dan één rechtbank als bedoeld in artikel 2, tweede lid, Sv. De vervolging wordt thans immers voortgezet door het uitbrengen van een dagvaarding voor de rechtbank Midden-Nederland en niet eveneens voortgezet door een dagvaarding voor de rechtbank Amsterdam. Deze uitleg van artikel 2, tweede lid, Sv is niet alleen een redelijke, maar ook in overeenstemming is met de wetsgeschiedenis. Artikel 4 van het Ontwerp van wet voor de vaststelling van een Wetboek van Strafvordering hield onder meer in:
+
+Van de rechtbanken zijn gelijkelijk bevoegd
+
+Die binnen welker rechtsgebied het feit is gepleegd; …etc
+
+En:
+
+In  geval van strafvervolging bij meer dan ééne rechtbank blijft uitsluitend bevoegd de rechtbank die bij deze rangschikking vroeger is geplaatst of, indien het rechtbanken van gelijke rangschikking betreft, de rechtbank bij wie de vervolging het eerst is aangevangen
+
+.
+
+De memorie van toelichting houdt in:
+
+“…alleen is artikel 4 aangevuld met… alsmede met eene voorziening voor het geval dat de strafvervolging gelijktijdig bij rechtbanken van gelijke rangschikking
+mocht zijn aanhangig gemaakt
+”
+.
+
+Aanhangig maken geschiedt, zoals hiervoor overwogen, door het uitbrengen van de dagvaarding.
+
+Het beroep op onbevoegdheid wordt dus ook in zoverre verworpen.
+
+Voor zover enige handeling van de rechter-commissaris relatief onbevoegd zou zijn geschied, geldt dat dit geen consequenties heeft voor het verrichte onderzoek op grond van artikel 179 Sv, dat ook na de recente wetswijzigingen bepaalt: Indien gedurende of na de door hem verrichte onderzoekshandelingen de rechter- commissaris onbevoegd blijkt te zijn, blijft niettemin het gevoerde onderzoek van kracht.
+
+De rechtbank zal het onderzoek heropenen.
+
+DE BESLISSING
+
+De rechtbank beslist als volgt:
+
+Heropent het onderzoek.
+
+Bepaalt dat het onderzoek wordt hervat tegen een nog nader te bepalen tijdstip, met bevel tot oproeping van verdachte en zijn raadsman tegen dat tijdstip.
+
+Dit vonnis is gewezen door mrs. M.J. Grapperhaus, J.P.W. Helmonds en N.H.J.M. Veldman-Gielen, bijgestaan door mr. J.M.T. Bouwman-Everhardus als griffier en uitgesproken op de openbare terechtzitting van deze rechtbank van 17 juli 2013.
+
+Noot:
+
+De rechtbank verzoekt de verdediging uiterlijk op 24 juli 2013 haar verhinderdata in de maanden oktober en november 2013 per faxbericht aan de strafgriffie ter attentie van mr. J.M.T. Bouwman-Everhardus te doen toekomen.
+
+BIJLAGE : De tenlastelegging
+
+1.
+
+zij op één of meer tijdstippen in of omstreeks de periode van 01 april 2011 tot en met 6 juni 2012, te Bussum en/of Naarden, althans in Nederland, tezamen en in vereniging met anderen en/of een ander, althans alleen, van het plegen van witwassen een gewoonte heeft/hebben gemaakt, immers heeft/hebben zij, verdachte en/of haar mededader(s) van (een) voorwerp(en), te weten meerdere geldbedragen (te weten; 95.415,00 euro, 220.236,00 euro en/of 166.102,00 euro) en/of goederen, de werkelijke aard, de herkomst, de vindplaats, de vervreemding en/of de verplaatsing verborgen en/of verhuld, althans heeft/hebben zij en/of haar mededader(s) verborgen en/of verhuld wie de rechthebbende op (een) voorwerp(en), te weten genoemde geldbedragen en/of goederen, was/waren of wie bovenomschreven voorwerp(en), te weten genoemde geldbedragen en/of goederen, voorhanden had(den), terwijl zij en/of haar mededader(s) wist(en), althans redelijkerwijs had moeten vermoeden, dat dat/die voorwerp(en) - onmiddellijk of middellijk - afkomstig was/waren uit enig misdrijf;
+
+2.
+
+zij op één of meer tijdstippen in of omstreeks de periode van 01 april 2011 tot en met 06 juni 2012 te Bussum en/of Naarden, in elk geval in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk heeft verkocht en/of afgeleverd en/of verstrekt en/of vervoerd, in elk geval opzettelijk aanwezig heeft gehad, een hoeveelheid van (in totaal)1226,6 hennep, zijnde hennep een middel als bedoeld in de bij de Opiumwet behorende lijst II en/of (in totaal) 37 kilo en 536,6 gram hashies, in elk geval een hoeveelheid van meer dan 30 gram van een gebruikelijk vast mengsel van hennephars en plantaardige elementen van hennep (hasjiesj) waaraan geen andere substanties zijn toegevoegd, zijnde hasjiesj een middel als bedoeld in de bij de Opiumwet behorende lijst II, dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+
+3.
+
+zij op of omstreeks 06 juni 2012 te Bussum opzettelijk aanwezig heeft gehad ongeveer 5,08 gram, in elk geval een hoeveelheid van een materiaal bevattende cocaïne, zijnde cocaïne een middel als bedoeld in de bij de Opiumwet behorende lijst I, dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet.
+
+Artikel 7 van de Wet van 12 juli 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten (Wet herziening gerechtelijke kaart), Stb 2012, 313
+
+T&C op Wetboek van Strafvordering, aantekening 2 op artikel 2 WvSv, verwijzend naar HR 15 januari 1940, NJ 1940, 757; BN8609, Gerechtshof 's-Gravenhage, 29-09-2010; aantekening 2b op artikel 258 WvSv
+
+Lid 2 van het overgangsrechtelijke artikel CII (Zaken die op de dag voorafgaand aan de inwerkingtreding van artikel I aanhangig waren bij de rechtbank te Amsterdam, tot kennisneming waarvan de rechtbank Amsterdam onderscheidenlijk de rechtbank Midden-Nederland bevoegd is, gaan van rechtswege over naar de rechtbank Amsterdam onderscheidenlijk de rechtbank Midden-Nederland.), Voorstel van wet, TK 32891 nr 2) is om praktische redenen geschrapt bij de Tweede nota van wijziging EK 32 891 nr 9, p. 2,3,5,6 en het eerste lid bepaalt dat zaken die aanhangig waren bij de rechtbank te Amsterdam overgaan naar de rechtbank Amsterdam.
+
+Later omgenummerd tot artikel 2; Zitting 1919-1920 –kamerstukken 18; nr. 3
+
+Zitting 1913-1914, kamerstukken 286, nr. 2
+
+Zitting 1913-1914, kamerstukken 286 nr. 3
