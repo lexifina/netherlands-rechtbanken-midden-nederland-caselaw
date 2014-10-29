@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2014:7697"
-published_in: ["Rechtspraak.nl", "PJ 2018/181 met annotatie van M.J.C.M. van der Poel", "PR-Updates.nl PR-2018-0130"]
+published_in: ["Rechtspraak.nl", "PJ 2018/181 met annotatie van M.J.C.M. van der Poel", "PR-Updates.nl PR-2018-0130", "PR-Updates.nl 2018-0130"]
 ---
 
 # ECLI:NL:RBMNE:2014:7697 Rechtbank Midden-Nederland , 29-10-2014 / 2881446 MC 14-2909
