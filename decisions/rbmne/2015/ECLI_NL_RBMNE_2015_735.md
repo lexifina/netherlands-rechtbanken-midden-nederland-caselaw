@@ -1,0 +1,394 @@
+---
+ecli: "ECLI:NL:RBMNE:2015:735"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "16/700487-13 (P)"
+decided: "2015-02-09"
+published: "2015-02-10"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2015:735"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2015:735 Rechtbank Midden-Nederland , 09-02-2015 / 16/700487-13 (P)
+
+## Inhoudsindicatie
+
+Verdachte heeft zich op 10 februari 2013 in Montfoort schuldig gemaakt aan het voorhanden hebben van 10,5 kilogram hennep. Deze grote hoeveelheid hennep was bedoeld voor verkoop en export. Gelet op de ernst van het feit acht de rechtbank in beginsel een (deels) onvoorwaardelijke gevangenisstraf passend en geboden. Vanwege het tijdsverloop zal de rechtbank de gevangenisstraf, voor de duur van vier maanden, geheel voorwaardelijk opleggen. Daarnaast acht de rechtbank het opleggen van een taakstraf voor de duur van 240 uren passend en geboden.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Afdeling Strafrecht
+
+Zittingslocatie Utrecht
+
+Parketnummer: 16/700487-13 (P)
+
+Vonnis van de meervoudige strafkamer van 9 februari 2015
+
+in de strafzaak tegen
+
+[verdachte],
+
+geboren te [geboorteplaats] (Marokko) op [1975],
+
+ingeschreven in de gemeentelijke basisadministratie persoonsgegevens op het adres
+
+[adres 1].
+
+1
+Het onderzoek ter terechtzitting
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzitting van 26 januari 2015.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie en van wat verdachte en zijn raadsman, mr. B.J.W. Tijkotte, naar voren hebben gebracht.
+
+2
+Tenlastelegging
+
+De tenlastelegging is als bijlage aan dit vonnis gehecht.
+
+De verdenking komt er, kort en feitelijk weergegeven, op neer dat verdachte:
+
+samen met een ander 60 kilogram hennep, althans 544,44 gram en/of 993,30 gram en/of 49,45 gram en/of 5081,26 gram hennep, heeft verkocht/afgeleverd/verstrekt/vervoerd, althans aanwezig heeft gehad.
+
+3
+Voorvragen
+
+De dagvaarding is geldig, deze rechtbank is bevoegd tot kennisneming van het ten laste gelegde feit en de officier van justitie is ontvankelijk. Er zijn geen redenen voor schorsing van de vervolging.
+
+4
+Waardering van het bewijs
+
+4.1
+
+Het standpunt van het Openbaar Ministerie
+
+De officier van justitie heeft gevorderd wettig en overtuigend bewezen te verklaren dat verdachte samen met een ander 10,5 kilogram hennep aanwezig heeft gehad.
+
+4.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft betoogd dat uit de bewijsmiddelen in het dossier niet ondubbelzinnig kan worden afgeleid dat verdachte wetenschap had van de aangetroffen hennep. De getuigenverklaringen en de aangetroffen sporen bieden daarvoor onvoldoende steun. Verdachte dient daarom te worden vrijgesproken.
+
+Subsidiair heeft de raadsman bepleit dat verdachte dient te worden vrijgesproken van de ten laste gelegde 60 kilogram hennep, omdat er geen enkel bewijs is dat er 60 kilogram hennep in de woning aanwezig is geweest.
+
+Bewezenverklaring van 10,5 kilogram hennep is niet mogelijk, omdat dit grondslagverlating van de tenlastelegging zou opleveren.
+
+4.3
+
+Het oordeel van de rechtbank
+
+4.3.1
+
+Partiële vrijspraak
+
+De rechtbank acht onvoldoende wettig en overtuigend bewezen dat verdachte de ten laste gelegde hoeveelheden hennep heeft verkocht, afgeleverd, verstrekt en/of vervoerd en zal verdachte daarom partieel vrijspreken van deze bestanddelen.
+
+4.3.2
+
+Het bewijs
+
+De rechtbank acht wettig en overtuigend dat verdachte opzettelijk 10.500 gram hennep aanwezig heeft gehad op grond van de volgende bewijsmiddelen.
+
+[A] (hierna: [A]), wonende op [adres 2], heeft op 11 februari 2013 verklaard dat [medeverdachte 1] (de rechtbank begrijpt: [medeverdachte 1], hierna: [medeverdachte 1]) een paar dagen geleden bij zijn woning is geweest. [medeverdachte 1] vroeg aan [A] of hij iets bij hem neer mocht leggen. [medeverdachte 1] heeft toen ongeveer 7 zakken, 10 à 12 kilo, wiet in de slaapkamerkast van de woning van [A] gelegd.
+
+In verband met een Frans onderzoek werd in de periode van 7 februari 2013 tot en met 22 februari 2013 het Franse mobiele telefoonnummer [telefoonnummer] (hierna:*[telefoonnummer]), dat in gebruik is bij [X], getapt. Dit nummer bleek contact te hebben met het Nederlandse nummer [telefoonnummer] (hierna: *[telefoonnummer]), in gebruik bij verdachte. In de uitgeschreven tapgesprekken zijn de deelnemende personen aangeduid met “M” ([X]) en “FH” (NN-Hollander). Verdachte heeft verklaard dat het gesprek op 10 februari 2013 te 13.43 uur door hem is gevoerd.
+
+Gesprek d.d. 10-2-2013 te 13.43.15 uur
+
+FH: wil je net als toen of wil je beter?
+
+(…)
+
+M: ik wil hetzelfde als vijf en twee, heb je die gezien van 5200???
+
+FH: ja
+
+(…)
+
+M: … Heb je mij iets gegeven in een plastic zakje?
+
+FH: Hè??? Ja, ja
+
+M: In het plastic, vijf en twee!!!
+
+FH: Ja
+
+M: Dat is die, ik wil die, heb je dat???
+
+FH: Ja, ja het is voorradig
+
+(…)
+
+M: Goed, kijk naar de prijs en kijk hoeveel je mij wil geven, ik heb 62000
+
+FH: (…) ik ga voor een goede prijs kijken en goed spul, goed???
+
+Gesprek d.d. 10-2-2013 te 17.42.26 uur
+
+M: Is het je gelukt iets te krijgen???
+
+FH: uh … tien en een half
+
+(…)
+
+M: naar Utrecht?
+
+FH: Ja, kom meteen!!!
+
+[medeverdachte 2] (hierna: [medeverdachte 2]) heeft bij zijn aanhouding op 10 februari 2014 tegenover de Franse politie verklaard dat hij een jaar daarvoor in Nederland was voor het kopen van een hoeveelheid hasjiesj.
+
+[A] verklaart op 11 februari 2013 dat [medeverdachte 1] de dag voor het verhoor (de rechtbank begrijpt: op 10 februari 2013) bij hem was gekomen. [medeverdachte 1] was in gezelschap van een onbekende vriend en een Franstalig man en vrouw. Voordat [A] naar buiten ging, heeft [medeverdachte 1] de wiet naar de woonkamer gebracht om het te wegen.
+
+Nadat de Fransen weg waren, heeft [A] de wiet uit de kledingkast gehaald en heeft die onder het afdakje van het fietsenhok gezet. De zakken wiet die in de woonkamer stonden, lagen er toen niet meer.
+
+Op 11 februari 2013 wordt forensisch onderzoek ingesteld in de woning aan de [adres 2]. In de woning worden strijkzakken aangetroffen. In één van deze strijkzakken zijn gedroogde henneptoppen aanwezig.
+
+De strijkzak met henneptoppen die in de woning is aangetroffen, wordt voorzien van het spoornummer 17 en goednummer 828451. De hennep in deze strijkzak is getest en gaf een positieve reactie, indicatief voor THC, de werkzame stof in hennep en hasjiesj, vermeld op lijst II van de Opiumwet.
+
+Op 12 februari 2013 worden in een fietsenstalling, in de voortuin van de woning, onder andere de volgende goederen aangetroffen: een rood/witte tas met henneptoppen, twee gripzakken met henneptoppen, een Albert Heijntas met henneptoppen en een strijkzak met henneptoppen. De rood/witte tas met goednummer 828577 wordt veilig gesteld onder het nummer AAFU2701NL, de henneptoppen in deze tas krijgen het nummer AAFD6100NL. De hennep in de twee gripzakken, de Albert Heijntas en de strijkzak krijgen, respectievelijk, de volgende nummers: AAFD6101NL, AAFD6102NL, AAFD6103NL en AAFD6104NL.
+
+Op de rood/witte tas, veilig gesteld onder het nummer AAFU2701NL, wordt een dactyloscopisch spoor aangetroffen, dat wordt gewaarmerkt met het nummer: AAFW5751NL. Dit spoor blijkt geïdentificeerd te zijn op: [verdachte], geboren op [1975].
+
+De aangetroffen plantendelen, voorzien van de nummers AAFD6100NL, AAFD6101NL, AAFD6102NL, AAFD6103NL en AAFD6104NL, worden door de verbalisant herkend als hennep. De test van een representatief monster geeft een positieve indicatie voor THC, zijn de werkzame stof in hennep en hasjiesj, vermeld op lijst II van de Opiumwet.
+
+4.3.2
+
+Bewijsoverwegingen
+
+Geen grondslagverlating
+
+De rechtbank verwerpt het verweer van de raadsman dat een bewezenverklaring van een hoeveelheid van 10.500 gram hennep grondslagverlating van de tenlastelegging zou opleveren. De rechtbank is van oordeel dat door het ten laste leggen van 60.000 gram daarmee ook -impliciet subsidiair- het mindere wordt ten laste gelegd. Het feit dat in de tenlastelegging ook, subsidiair, kleinere hoeveelheden worden genoemd, maakt dit niet anders.
+
+Hoeveelheid hennep
+
+[A] verklaart dat voorafgaand aan de ontmoeting met de Franstalige personen, door [medeverdachte 1] een hoeveelheid hennep in de woning is gebracht. Hij schat deze hoeveelheid op 10 tot 12 kilogram. Op het moment dat de Franstalige personen in de woning waren, werd door [medeverdachte 1] de wiet naar de woonkamer gebracht om te wegen. Door de politie is, na deze ontmoeting, een hoeveelheid hennep aangetroffen in de woning en in het fietsenhok bij de woning.
+
+Op de dag van de hiervoor genoemde ontmoeting, 10 februari 2013, vinden meerdere telefoongesprekken plaats tussen de Franse contactpersoon en het telefoonnummer van verdachte. In die gesprekken wordt gesproken over ‘iets in een zakje’, ‘goed spul’ en worden geldbedragen en getallen genoemd. Gelet op dit tapgesprek, de ontmoeting die heeft plaatsgevonden kort na dit gesprek en de verklaring van [A] dat tijdens deze ontmoeting hennep werd gewogen, is de rechtbank van oordeel dat in dit tapgesprek wordt gesproken over de levering van hennep. Uit het hiervoor genoemde tapgesprek -dat het laatste telefonische contact is voorafgaand aan de bewuste ontmoeting- wordt door de Franse contactpersoon de vraag gesteld: “Is het je gelukt iets te krijgen?” Daarop wordt geantwoord: “uh … tien en een half”.
+
+Uit de hiervoor genoemde bewijsmiddelen, in onderlinge samenhang bezien, leidt de rechtbank af dat in dit telefoongesprek wordt gesproken over 10,5 kilogram hennep en dat dat de hoeveelheid was die verdachte, samen met een ander, op dat moment aanwezig had. De verklaring van verdachte dat hij handelde in auto’s en met de Franse contactpersoon daarover sprak in telefoongesprekken, acht de rechtbank, in het licht van al het voorgaande, volstrekt onaannemelijk.
+
+5
+Bewezenverklaring
+
+De rechtbank acht op grond van de in rubriek 4.3 genoemde bewijsmiddelen bewezen dat verdachte
+
+op 10 februari 2013 te Montfoort, tezamen en in vereniging met een ander of anderen,
+
+opzettelijk aanwezig heeft gehad, een hoeveelheid van ongeveer 10.500 gram hennep, zijnde hennep een middel als bedoeld in de bij de Opiumwet behorende lijst II, dan wel
+
+aangewezen krachtens het vijfde lid van artikel 3a van die wet.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten staan, zijn deze verbeterd. Verdachte is hierdoor niet in de verdediging geschaad.
+
+6
+De strafbaarheid van het feit
+
+Het bewezen geachte feit is volgens de wet strafbaar als
+
+medeplegen van het opzettelijk handelen in strijd met een in artikel 3, onder C, van de Opiumwet gegeven verbod.
+
+Het bestaan van een rechtvaardigingsgrond is niet aannemelijk geworden.
+
+7
+De strafbaarheid van verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van verdachte uitsluit. Verdachte is dan ook strafbaar.
+
+8
+Motivering van de straffen en maatregelen
+
+8.1
+
+De eis van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte voor het door haar bewezen geachte feit zal worden veroordeeld tot een voorwaardelijke gevangenisstraf van 4 maanden, met een proeftijd van 2 jaren en een werkstraf van 240 uren, met bevel, voor het geval dat verdachte de werkstraf niet naar behoren (heeft) verricht, dat vervangende hechtenis zal worden toegepast van 120 dagen, met aftrek van het voorarrest.
+
+8.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft de rechtbank verzocht bij een eventuele strafoplegging rekening te houden met het feit dat verdachte dit incident ternauwernood heeft overleefd en nog steeds last heeft van de gevolgen van deze gebeurtenis.
+
+Verder heeft de raadsman opgemerkt dat de aangetroffen hoeveelheid hennep kan worden vergeleken met een hennepkwekerij van ongeveer 236 planten. Wanneer hierbij aansluiting wordt gezocht, kan worden volstaan met het opleggen van een werkstraf van een beperkte duur.
+
+8.3
+
+Het oordeel van de rechtbank
+
+De hierna te noemen strafoplegging is in overeenstemming met de ernst van het bewezen geachte, de omstandigheden waaronder dit is begaan en de persoon van verdachte, zoals daarvan ter terechtzitting is gebleken.
+
+Verdachte heeft zich schuldig gemaakt aan het voorhanden hebben van 10,5 kilogram hennep. Deze grote hoeveelheid hennep was bedoeld voor verkoop en export.
+
+Het is een feit van algemene bekendheid dat softdrugs veel overlast veroorzaken en vaak samen gaan met andere criminele activiteiten. Daarbij wordt ook geweld niet geschuwd. Deze zaak maakt dat treffend duidelijk. Dat verdachte last heeft van de gevolgen van de gebeurtenissen op 10 februari 2013 is begrijpelijk, doch vormt geen strafverminderende omstandigheid.
+
+Wat betreft de persoon van de verdachte heeft de rechtbank gelet op een uittreksel uit de justitiële documentatie van 3 december 2014. Daaruit blijkt dat verdachte niet recent is veroordeeld voor soortgelijke strafbare feiten.
+
+Gelet op de ernst van het feit acht de rechtbank in beginsel een (deels) onvoorwaardelijke gevangenisstraf passend en geboden. Vanwege het tijdsverloop zal de rechtbank de gevangenisstraf, voor de duur van vier maanden, geheel voorwaardelijk opleggen.
+
+Daarnaast acht de rechtbank het opleggen van een taakstraf voor de duur van 240 uren passend en geboden.
+
+9
+Het beslag
+
+9.1
+
+De eis van de officier van justitie
+
+De officier van justitie heeft gevorderd het onder verdachte in beslag genomen geldbedrag van € 2.624,40 terug te geven aan verdachte.
+
+9.2
+
+Het standpunt van de verdediging
+
+De verdediging heeft verzocht het onder verdachte in beslag genomen geldbedrag terug te geven aan verdachte.
+
+9.3
+
+Het oordeel van de rechtbank
+
+Onder verdachte is een geldbedrag van € 2.624,40 in beslag genomen. De rechtbank is van oordeel dat dit geldbedrag dient te worden teruggegeven aan verdachte.
+
+10
+Toepasselijke wettelijke voorschriften
+
+De beslissing berust op de artikelen 9, 14a, 14b, 14c, 22c, 22d en 47 van het Wetboek van Strafrecht en artikel 11 van de Opiumwet zoals deze artikelen luidden ten tijde van het bewezen verklaarde.
+
+11
+Beslissing
+
+De rechtbank:
+
+Bewezenverklaring
+
+Verklaart bewezen dat verdachte het ten laste gelegde heeft begaan zoals hiervoor in rubriek 5 is vermeld.
+
+Verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd dan hiervoor is bewezen verklaard en spreekt verdachte daarvan vrij.
+
+Strafbaarheid
+
+Het bewezen verklaarde levert op:
+
+medeplegen van het opzettelijk handelen in strijd met een in artikel 3, onder C, van de Opiumwet gegeven verbod.
+
+Verklaart het bewezene strafbaar.
+
+Verklaart verdachte daarvoor strafbaar.
+
+Straf
+
+Veroordeelt verdachte tot een gevangenisstraf van 4 (vier) maanden.
+
+Beveelt dat deze gevangenisstraf niet zal worden ten uitvoer gelegd, tenzij later anders wordt gelast.
+
+Stelt daarbij een proeftijd van 2 (twee) jaren vast.
+
+De tenuitvoerlegging kan worden gelast, indien veroordeelde zich voor het einde van de proeftijdschuldig maakt aan een strafbaar feit.
+
+Veroordeelt verdachte tot een taakstraf van 240 (tweehonderdveertig) uren.
+
+Beveelt, voor het geval dat de verdachte de taakstraf niet naar behoren heeft verricht, dat vervangende hechtenis zal worden toegepast voor de duur van 120 dagen.
+
+Beveelt dat de tijd die door verdachte vóór de tenuitvoerlegging van deze uitspraak in verzekering is doorgebracht, bij de uitvoering van deze straf geheel in mindering zal worden gebracht naar de maatstaf van 2 uren per dag.
+
+Beslag
+
+Gelast de teruggave aan verdachte van: een geldbedrag van € 2.624,40 (goednummer: 827528).
+
+Dit vonnis is gewezen door mr. A.M. Verhoef, voorzitter, mrs. A. van Maanen en V. van Dam, rechters, in tegenwoordigheid van mr. M.C. van Reenen, griffier, en uitgesproken op de openbare terechtzitting van deze rechtbank van 9 februari 2015.
+
+BIJLAGE: De tenlastelegging
+
+Aan [medeverdachte 1] wordt tenlastegelegd dat
+
+hij in of omstreeks de periode van 10 februari 2013 tot en met 11 februari
+
+2013 te Montfoort, althans in Nederland, tezamen en in vereniging met een
+
+ander of anderen, althans alleen, opzettelijk heeft verkocht en/of afgeleverd
+
+en/of verstrekt en/of vervoerd, althans opzettelijk aanwezig heeft gehad, een
+
+hoeveelheid van (ongeveer) 60.000 gram, althans een hoeveelheid van (ongeveer)
+
+544,44 gram en/of een hoeveelheid van (ongeveer) 993,30 gram en/of een
+
+hoeveelheid van (ongeveer) 49,45 gram en/of een hoeveelheid van ongeveer
+
+5081,26 gram,
+
+in elk geval een hoeveelheid van meer dan 30 gram hennep, zijnde hennep
+
+een middel als bedoeld in de bij de Opiumwet behorende lijst II, dan wel
+
+aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+
+art 3 ahf/ond B Opiumwet
+
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+
+art 11 lid 2 Opiumwet
+
+Voor zover niet anders vermeld, wordt in de hierna volgende voetnoten telkens verwezen naar bewijsmiddelen die zich in het aan deze zaak ten grondslag liggende proces-verbaal, nummer 2014084176 D (onderzoek 097WIJK), te weten ordner I tot en met V (pagina 1 tot en met 1366), ordner VI (pagina 1 tot en met 141 en A tot en met 311) en ordner VII en VIII (pagina 1 tot en met 610) en het proces-verbaal nummer 2014084176 E (pagina 1367 tot en met 1436) bevinden, volgens de in die processen-verbaal toegepaste nummering. Tenzij anders vermeld, gaat het daarbij om processen-verbaal, in de wettelijke vorm opgemaakt door daartoe bevoegde opsporingsambtenaren.
+
+Voor zover het gaat om geschriften als bedoeld in artikel 344.1.5° Wetboek van Strafvordering, worden deze alleen gebruikt in verband met de inhoud van andere bewijsmiddelen.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 11 februari 2013, p. 91.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 11 februari 2013, p. 92.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 11 februari 2013, p. 93.
+
+Het proces-verbaal, d.d. 10 juli 2014, p. 746.
+
+Het proces-verbaal van verhoor van verdachte [verdachte], d.d. 4 juli 2013, p. 326.
+
+Uitgeschreven tapgesprek nummer 115, als bijlage opgenomen bij het proces-verbaal, d.d. 10 juli 2014, p. 751.
+
+Uitgeschreven tapgesprek nummer 168, als bijlage opgenomen bij het proces-verbaal, d.d. 10 juli 2014, p. 753.
+
+Een geschrift, te weten een document van de commandant van politie, [verbalisant], betreffende informatie met betrekking tot de mondelinge verklaringen die gedaan zijn door de persoon genaamd [medeverdachte 2], aangehouden in het kader van een Europees Aanhoudingsbevel, d.d. 13-2-2014,
+
+p. 365.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 11 februari 2013, p. 95.
+
+Het proces-verbaal van verhoor van getuige [A] bij de rechter-commissaris, d.d. 25 november 2014, p. 2.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 21 februari 2013, p. 107.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 11 mei 2013, p. 121.
+
+Het proces-verbaal van verhoor van verdachte [A], d.d. 21 februari 2013, p. 111.
+
+Het proces-verbaal sporenonderzoek, d.d. 8 maart 2013, p. 797.
+
+Het proces-verbaal sporenonderzoek, d.d. 8 maart 2013, p. 797.
+
+Het proces-verbaal sporenonderzoek, d.d. 8 maart 2013, p. 800 en 844.
+
+Het proces-verbaal, Rapport Opiumwet, d.d. 14 februari 2013, p. 993.
+
+Het proces-verbaal, Rapport Opiumwet, d.d. 14 februari 2013, p. 994.
+
+Het proces-verbaal sporenonderzoek, d.d. 24 februari 2013, p. 938.
+
+Het proces-verbaal sporenonderzoek, d.d. 24 februari 2013, p. 940.
+
+Het proces-verbaal sporenonderzoek, d.d. 24 februari 2013, p. 938.
+
+Het proces-verbaal sporenonderzoek, d.d. 24 februari 2013, p. 939.
+
+Het proces-verbaal sporenonderzoek, d.d. 25 februari 2013, p. 998.
+
+Het proces-verbaal uitslag sporenonderzoek, d.d. 4 maart 2013, p. 1008.
+
+Het proces-verbaal, Rapport Opiumwet, d.d. 14 februari 2013, p. 995.
+
+Het proces-verbaal, Rapport Opiumwet, d.d. 14 februari 2013, p. 996.
