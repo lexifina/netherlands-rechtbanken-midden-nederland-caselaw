@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBMNE:2015:6448"
 court: "Rechtbank Midden-Nederland"
 court_code: "RBMNE"
-docket: "16/661416-15 en 99/000513-43 (VI-zaaknummer)"
+docket: "16/661416-15 en 99/000513-43"
 decided: "2015-08-17"
 published: "2015-09-02"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2015:644
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBMNE:2015:6448 Rechtbank Midden-Nederland , 17-08-2015 / 16/661416-15 en 99/000513-43 (VI-zaaknummer)
+# ECLI:NL:RBMNE:2015:6448 Rechtbank Midden-Nederland , 17-08-2015 / 16/661416-15 en 99/000513-43
 
 ## Inhoudsindicatie
 
