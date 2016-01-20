@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:244"
-published_in: ["Rechtspraak.nl", "AR 2016/176", "PJ 2016/26", "AR-Updates.nl 2016-0063", "PR-Updates.nl AR-2016-0063"]
+published_in: ["Rechtspraak.nl", "AR 2016/176", "PJ 2016/26", "AR-Updates.nl 2016-0063", "PR-Updates.nl AR-2016-0063", "PR-Updates.nl 2016-0063"]
 ---
 
 # ECLI:NL:RBMNE:2016:244 Rechtbank Midden-Nederland , 20-01-2016 / 4116744 UC EXPL 15-6867 mc/936
