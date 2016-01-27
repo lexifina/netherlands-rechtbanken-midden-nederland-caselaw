@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:1879"
-published_in: ["Rechtspraak.nl", "AR 2016/1045", "PJ 2016/76", "JAR 2016/102", "AR-Updates.nl 2016-0332", "PR-Updates.nl AR-2016-0332"]
+published_in: ["Rechtspraak.nl", "AR 2016/1045", "PJ 2016/76", "JAR 2016/102", "AR-Updates.nl 2016-0332", "PR-Updates.nl AR-2016-0332", "PR-Updates.nl 2016-0332"]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-248.md", "netherlands/national/acts/bw-boek-6/art-258.md", "netherlands/national/acts/bw-boek-7/art-699.md", "netherlands/national/acts/wet-gelijke-behandeling-op-grond-van-leeftijd-bij-de-arbeid/art-003.md", "netherlands/national/acts/wet-gelijke-behandeling-op-grond-van-leeftijd-bij-de-arbeid/art-007.md"]
 ---
 
