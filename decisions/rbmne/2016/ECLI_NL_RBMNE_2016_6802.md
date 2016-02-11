@@ -1,0 +1,485 @@
+---
+ecli: "ECLI:NL:RBMNE:2016:6802"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "16-659705-15 (P)"
+decided: "2016-02-11"
+published: "2016-12-20"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:6802"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2016:6802 Rechtbank Midden-Nederland , 11-02-2016 / 16-659705-15 (P)
+
+## Inhoudsindicatie
+
+De rechtbank Midden-Nederland veroordeelt acht mannen tot een werkstraf van 120 uur voor openlijk geweld en het medeplegen van bedreiging bij de noodopvang voor vluchtelingen in Woerden. Zeven andere verdachten worden veroordeeld tot een werkstraf van 40 uur voor samenscholing en hebben daarmee bijgedragen aan de grimmige sfeer. De drie overgebleven verdachten zijn vrijgesproken van openlijk geweld en bedreiging.
+
+Relsituatie
+
+Op 9 oktober 2015 is er ‘s avonds bij de noodopvang voor vluchtelingen in Woerden een relsituatie ontstaan die veel angst heeft opgeroepen bij de vluchtelingen, beveiligers en vrijwilligers. Er zijn dranghekken omgegooid en er is met eieren en zeer zwaar vuurwerk richting de beveiligers gegooid. In totaal werden er 18 mannen verdacht van openlijke geweldpleging en bedreiging.
+
+Openlijk geweld en bedreiging
+
+Als er vanuit een groep geweld is gepleegd, betekent dit op zichzelf niet dat iedereen die tot die groep behoort ook strafrechtelijk kan worden veroordeeld voor openlijk geweld. De rechtbank concludeert dat van acht verdachten vastgesteld kan worden dat zij een wezenlijke bijdrage aan het geweld hebben geleverd. Deze acht verdachten worden dan ook veroordeeld voor bedreiging en krijgen een werkstraf opgelegd van 120 uur.
+
+Samenscholing
+
+Voor tien verdachten geldt dat er onvoldoende bewijs is dat zij openlijk geweld hebben gepleegd, of gedreigd hebben met openlijk geweld. De rechtbank oordeelt dat zeven van deze tien verdachten wel hebben bijgedragen aan de grimmige sfeer en veroordeelt deze verdachten wegens samenscholing tot een werkstraf van 40 uur.
+
+Schadevergoeding
+
+De acht mannen die veroordeeld zijn voor openlijk geweld en bedreiging moeten samen een schadevergoeding betalen van €2.578,00 aan een beveiliger. Vlakbij de man ontplofte zwaar vuurwerk.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Afdeling Strafrecht
+
+Zittingslocatie Utrecht
+
+Parketnummer: 16-659705-15 (P)
+
+vonnis van de meervoudige strafkamer van 11 februari 2016
+
+in de strafzaak tegen
+
+[verdachte] ,
+
+geboren op [1994] te [geboorteplaats] ,
+
+wonende te [postcode] [woonplaats] , [adres] .
+
+1
+Het onderzoek ter terechtzitting
+
+Het onderzoek ter terechtzitting heeft plaatsgevonden op 27 en 28 januari 2016. De verdachte is ter terechtzitting van 27 januari 2016 in persoon verschenen en heeft zich ter terechtzitting laten bijstaan door mr. A.M.R. van Ginneken, advocaat te Utrecht.
+
+Tijdens de terechtzitting van 28 januari 2016, waarbij alleen het onderzoek is gesloten, is niemand verschenen.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie en van wat verdachte en diens raadsvrouw naar voren hebben gebracht.
+
+2
+Tenlastelegging
+
+De tenlastelegging is als bijlage aan dit vonnis gehecht.
+
+De verdenking komt er, kort en feitelijk weergegeven, op neer dat verdachte:
+
+Feit 1 primair:
+
+op 9 oktober 2015 openlijk en in vereniging geweld heeft gepleegd;
+
+Feit 1 subsidiair:
+
+op 9 oktober de APV van de gemeente Woerden heeft overtreden;
+
+Feit 2:
+
+al dan niet samen met anderen op 9 oktober 2015 beveiligers en/of vluchtelingen heeft bedreigd;
+
+Feit 3:
+
+op 9 oktober 2015 niet voldaan heeft aan zijn identificatieplicht.
+
+3
+Voorvragen
+
+De dagvaarding is geldig, deze rechtbank is bevoegd tot kennisneming van het ten laste gelegde, de officier van justitie is ontvankelijk in de vervolging en er zijn geen redenen voor schorsing van de vervolging.
+
+4
+Waardering van het bewijs
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie acht het onder 1 primair en 2 ten laste gelegde wettig en overtuigend bewezen. Zij heeft vrijspraak van het onder 3 ten laste gelegde gevorderd.
+
+4.2
+
+Het standpunt van de verdediging
+
+Ten aanzien van het onder 1 primair en 2 ten laste gelegde heeft de raadsvrouw zich gerefereerd aan het oordeel van de rechtbank.
+
+De verdediging heeft betoogd dat verdachte moet worden vrijgesproken van het onder 3 ten laste gelegde. Verdachte had zijn portemonnee en telefoon bij zich en kon zich derhalve  legitimeren.
+
+4.3
+
+Het oordeel van de rechtbank
+
+4.3.1
+
+De vrijspraak
+
+Ten aanzien van het onder 3 ten laste gelegde
+
+Op de fouilleringslijsten van verdachten wordt genoteerd wat een verdachte ten tijde van zijn insluiting op het arrestantencomplex in Houten bij zicht heeft. Verdachte had een identiteitsbewijs in zijn fouillering. Hij was dus in staat om zich bij zijn aanhouding te identificeren. Gelet hierop zal de rechtbank verdachte van dit feit vrijspreken.
+
+4.3.2
+
+De bewijsmiddelen
+
+Ten aanzien van het onder 1 primair en 2 ten laste gelegde
+
+De heer [A] heeft namens de gemeente Woerden aangifte gedaan. Op 9 oktober hebben personen vuurwerk en eieren naar [naam locatie] gegooid terwijl er 148 vluchtelingen en vrijwilligers in de sporthal aanwezig waren.
+
+[B] was op 9 oktober 2015 omstreeks 22.30 uur werkzaam als beveiliger bij de [naam locatie] , gelegen aan de [adres] te Woerden. In de sporthal verbleven tijdelijk vluchtelingen. Hij zat samen met zijn collega [C] (de rechtbank begrijpt: [C] ) in zijn voertuig. Hij zag dat een groep mensen de parkeerplaats op kwam lopen. Het waren 20 tot 25 personen. De personen waren in het donker gekleed en hadden hun gezicht beschermd met  hoodies. Hij kon van niemand het gezicht zien. De voorste persoon moedigde de groep aan. Vervolgens gooide een aantal personen uit deze groep eieren in de richting van zijn voertuig. Hij zag dat uit de groep met vuurwerk werd gegooid. Hij hoorde een knal op het dak van zijn voertuig. Hij zag dat de groep langs de sporthal in de richting van de ingang liepen. Hij zag dat het hek dat daar stond ter afscherming opzij werd gegooid.
+
+[C] heeft verklaard dat zij op 9 oktober 2015 omstreeks 22.30 uur als beveiliger werkzaam was bij [naam locatie] , gelegen aan de [adres] te Woerden. Ze was hier werkzaam voor de beveiliging van de daar opgevangen vluchtelingen. Zij was samen met collega [B] en zaten in zijn voertuig die geparkeerd stond op de parkeerplaats tegenover de fietsenstalling voor de sporthal. Zij hoorden dat er dranghekken omgegooid werden. Vervolgens zagen zij dat er een groep van ongeveer 20 personen aan kwam lopen. Zij gooiden de dranghekken om die je als eerste aan de linkerkant tegenkomt na het passeren van het bruggetje over de sloot vanaf de [adres] . Ze zag dat ze donkere kleding droegen. Ze zag ook dat ze capuchons en sjaaltjes voor hun mond droegen. Zij hebben de hekken rechts van hun omgegooid. De groep benaderde hun vanaf de passagierskant waar zij zat. Ze zag en hoorde dat zij eieren en vuurwerk naar hun toe gooiden. Ze hoorde ongeveer drie à vier hele harde knallen. Ze zag dat de eieren tegen de voorruit kwamen. Ze zag dat de groep eieren en vuurwerk bleef gooien op de auto waarin ze zaten. Ze waren luidruchtig. Ze zag dat er drie mannen vooruit liepen in de richting van de ingang van de sporthal. Ze hoorde sirenes van de politie en zag dat de groep aanvallers verdwenen was. Op de parkeerplaats zag ze een stuk vuurwerk op de grond liggen waarop de tekst “Cobra 6” stond.
+
+Op 10 oktober 2015 omstreeks 00.25 uur is forensisch onderzoek verricht naar sporen op de openbare weg te [adres] in Woerden.
+
+Aan de voorzijde van het perceel, nabij de parkeerplaats, werd een vlinderbom, type Cobra 6, merk Elio di Blasio, aangetroffen. Een tweede vlinderbom, eveneens type Cobra 6, merk Elio di Blasio, werd aangetroffen ter hoogte van de ingang in het vaste hekwerk rondom het plein aan de voorzijde.
+
+Langs een groenstrook, rechts van de inrit, lag een doos eieren. Dit betrof een voordeelpak van 20 eieren. Er ontbraken drie eieren uit dit pak.
+
+Het vuurwerk dat afkomstig is uit het onderzoek in de gemeente Woerden naar aanleiding van de onregelmatigheden bij het gebouw waarin tijdelijk vluchtelingen waren ondergebracht, is bij Regeling aanwijzing consumenten- en theatervuurwerk niet aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik. Het onderzochte vuurwerk voldeed aan de omschrijving van professioneel vuurwerk.
+
+Het onderzochte vuurwerk betreft bangers (knalvuurwerk) (bijvoorbeeld vlinders). Op de verpakking staat Cobra 6.
+
+Verdachte heeft ter terechtzitting verklaard dat hij op 9 oktober 2015 bij de vluchtelingenopvang aan de [adres] in Woerden is geweest. Hij is via whatsapp benaderd om eerst naar café [café] in Woerden te gaan. Hij heeft in café [café] gehoord dat er vuurwerk mee zou gaan naar Woerden. Hij heeft in Woerden gezien dat er vuurwerk naar een beveiliger werd gegooid. Verdachte heeft zijn capuchon in Woerden op gedaan.
+
+Verdachte maakt deel uit van de whatsapp groep ‘Goalsquare Porver’. Zijn naam in die groep is [D] .
+
+In Woerden kwamen twee groepen bij elkaar. Ze liepen in één groep richting de vluchtelingenopvang.
+
+In café [café] trof verdachte [medeverdachte 1] , [medeverdachte 2] , [medeverdachte 3] en [medeverdachte 4] . In café [café] werd het vluchtelingenprobleem besproken. In café [café] is afgesproken dat ze naar Woerden zouden gaan. Verdachte heeft apps gestuurd in de groepsapp of er nog een paar van zijn eigen vrienden mee wilden. Ze zijn met auto’s naar Woerden gegaan. [medeverdachte 1] en [medeverdachte 2] (de bijnaam van [medeverdachte 2] ) zaten bij verdachte in de auto. Ze hebben het erover gehad dat ze zich zouden laten horen. Ze hebben de auto geparkeerd. Het was vijf minuten lopen van de sporthal af. Hij liep bij zijn maten [medeverdachte 1] en [medeverdachte 2] . Dat was aan de voorkant van de groep. Toen ze er waren zag verdachte vuurwerk voorbij komen. Hij had in café [café] gehoord dat er vuurwerkbommen mee werden genomen. Ze liepen het bruggetje over bij de [adres] en liepen de parkeerplaats op. De parkeerplaats grenst aan een weggetje die langs de sporthal loopt. Op de parkeerplaats stonden hekken zodat je dat weggetje langs de sporthal niet in kon. Er werden dingen geschreeuwd als: “Oprotten, niet welkom”. Het vuurwerk werd gegooid en de dranghekken werden omgegooid. De beveiliger werd bekogeld met vuurwerk. Er stond een beveiligingsauto met twee beveiligers erin. De beveiligers reden vol gas naar achteren naar de achterkant van de sporthal. Ze liepen achter de auto aan. Ze hadden allemaal uitlatingen als “Oprotten”. Verdachte deed hier aan mee. Hij zag de hekken omgaan en die auto achteruit komen, er werd geschreeuwd. Er werd geroepen dat ze hun capuchon op moesten. Verdachte heeft gezien dat er mensen met eieren liepen. Er is in [café] over eieren gesproken.
+
+Verdachte maakt deel uit van de whatsapp groep ‘Goalsquare Porver’, ‘Goalsquare Hooligans’ of ‘Ons Montfoort Vluchtelingen Vrij’. De naam van deze whatsapp groep is enige malen gewijzigd.
+
+Verdachte heeft de volgende berichten in deze groep verstuurd.
+
+- 07-10-2015 te 16.47 uur: “Haha ideeën om ze Af te maken? Daar is een heel goed idee voor hoor”
+
+- 07-10-2015 te 16.48 uur: 3 emoticons van een bom
+
+- 07-10-2015 te 19.25 uur: “Proberen via v dommelen wat mensen oo te trommelen voor vrijdag?”
+
+- 08-10-2015 te 18.24 uur: “T heeft geen zin als we met die groepje gaan”
+
+- 08-10-2015 te 18.41 uur: “Morgen dus maar beslissen of we gaan, want ik heb weinig trek in dar we daar met 15 man staan”
+
+- 08-10-2015 te 18.42 uur: “Zoveel mogelijk mensne nog proberen op te trommelen”
+
+[medeverdachte 3] heeft [verdachte] in Woerden bij de dranghekken zien staan.
+
+4.3.3
+
+De bewijsoverwegingen
+
+Ten aanzien van het onder 1 primair ten laste gelegde
+
+Bij de noodopvang voor vluchtelingen is sprake geweest van een relsituatie. Een kenmerk daarvan is dat het handelen van de individuele personen die zich in die groep bevinden in mindere of meerdere mate onderdeel heeft uitgemaakt van het gewelddadige handelen van de hele groep. Het is dan veelal niet goed vast te stellen wie nu precies wat heeft gedaan.
+
+Als er vanuit een groep geweld is gepleegd, betekent dit op zichzelf niet dat iedereen die tot die groep behoort ook strafrechtelijk kan worden veroordeeld voor openlijk geweld als bedoeld in artikel 141 van het Wetboek van Strafrecht (Sr). De wetgever heeft er indertijd, bij het opnemen van artikel 141 Sr in de wet en het wijzigen daarvan, voor gekozen dat veroordeling alleen mogelijk is als van een verdachte kan worden vastgesteld dat hij een voldoende wezenlijke bijdrage aan het geweld heeft geleverd. Alleen maar aanwezig zijn in een groep is daarvoor niet voldoende.
+
+Van geweld in groepsverband is overigens al snel sprake. Het besmeuren van een pand met eieren of tomaten of het met verf bespuiten van een muur of een trein levert bijvoorbeeld al openlijk geweld op, zo volgt uit eerdere arresten van de Hoge Raad.
+
+Het is mede tegen deze achtergrond dat de rechtbank vaststelt dat op 9 oktober 2015 openlijk geweld is gepleegd door een groep personen gericht tegen de noodopvang van vluchtelingen in Woerden en de beveiligers die daarbij aanwezig waren. Er zijn immers vanuit de groep dranghekken omgegooid, er is met zeer zwaar (illegaal) vuurwerk en eieren gegooid in de richting van de beveiligers en de sporthal waarin zich vluchtelingen en vrijwilligers bevonden en vanuit de groep is geroepen en gejoeld.
+
+In dit geval kan van verdachte worden vastgesteld dat hij aanwezig was bij de groep die op 9 oktober 2015 te Woerden geweld pleegde nabij de noodopvang voor vluchtelingen. Dit verklaart verdachte immers zelf (op zitting dan wel bij de politie).
+
+De vraag is dus of de bijdrage die verdachte aan dit openlijk geweld heeft geleverd voldoende wezenlijk is om tot een bewezenverklaring te kunnen komen. Daarbij merkt de rechtbank op dat de bijdrage van een individu op zichzelf niet gewelddadig hoeft te zijn.
+
+Verdachte heeft zich bevonden in de groep die zich op 9 oktober 2015 enkele minuten na 22:30 uur heeft verplaatst richting de ingang van het terrein waarop de vluchtelingenopvang zich bevindt. Hij wist dat de groep niet van plan was vreedzaam te demonstreren. Dit blijkt uit het volgende.
+
+Verdachte is vooraf in café [café] in Montfoort geweest waar de groep zich heeft verzameld. In dit café heeft hij gehoord dat er vuurwerk mee zou gaan naar Woerden. In dit café is ook over eieren gesproken. In Woerden heeft hij mensen met eieren zien lopen. Hij heeft in Woerden zijn capuchon op gedaan. Hij liep aan de voorkant van de groep richting de vluchtelingenopvang. Bij de sporthal is hij de brug over de parkeerplaats opgelopen. Hij heeft bij de dranghekken gestaan. Hij is achter de beveiligingsauto gelopen nadat deze achteruit reed nadat hier vuurwerk naartoe was gegooid. Verdachte heeft voorafgaand op 8 oktober 2015 opruiende teksten verstuurd in de whatsappgroep ‘Goalsquare Porver’ waaronder drie maal een emoticon van een bommetje. Verder heeft hij via deze whatsapp groep getracht mensen te verzamelen.
+
+Ten aanzien van het onder 2 ten laste gelegde
+
+De verdachte zal worden veroordeeld voor het onder feit 2 tenlastegelegde medeplegen van bedreiging.
+
+Hiertoe overweegt de rechtbank als volgt.
+
+In de dagvaarding is omschreven op welke wijze de bedreigingen hebben plaatsgevonden. Er zou sprake zijn geweest van dreigende gedragingen van de verdachte en/of zijn mededaders en van  verbale uitingen. Het verwijt is dat deze gedragingen een strafbare bedreiging opleveren met openlijk geweld tegen personen en/of goederen.
+
+De gedragingen omvatten het omgooien van dranghekken, het gooien van vuurwerk en/of het gooien van eieren in de richting van de beveiligingsmedewerkers.
+
+De verbale uitingen omvatten het roepen en joelen naar de vluchtelingen in de sporthal.
+
+De gedragingen zijn voor de beveiligingsmedewerkers bedreigend geweest. Uit het dossier blijkt dat deze aangevers zich ook bedreigd hebben gevoeld. De eieren en het vuurwerk werden in de richting van de beveiligingsmedewerkers gegooid, hetgeen een bedreigende handeling oplevert, waardoor daadwerkelijk bij deze beveiligingsmedewerkers een vrees voor het plegen van openlijk geweld is ontstaan.
+
+Deze vrees was ook objectief gezien gerechtvaardigd, gezien de omvang van de groep, het geroep, de grimmige sfeer en het feit dat in ieder geval een deel van de groep zich richting de ingang van de sporthal bewoog, terwijl er vanuit deze groep met voorwerpen werd gegooid.
+
+De verdachte is onder feit 1 primair veroordeeld voor openlijke geweldpleging. Uit de bewijsmiddelen hiervan blijkt reeds dat de intenties om te relschoppen en ter plaatse met de groep sensatie te zoeken bij de verdachte aanwezig waren. Bij de sporthal hebben verdachte en/of zijn mededaders de bedreigende handelingen gepleegd. Gelet op de intenties en hetgeen vervolgens gebeurd is, kan worden vastgesteld dat er bij de bedreigingen sprake is geweest van een bewuste of nauwe samenwerking van de verdachte met de medeverdachten.
+
+4.3.4
+
+Bewezenverklaring
+
+De rechtbank acht op grond van de in rubriek 4.3.2 genoemde bewijsmiddelen bewezen dat verdachte
+
+1. primair
+
+op 9 oktober 2015 te Woerden, op of aan de openbare weg, te weten op of aan de [adres] , openlijk in vereniging geweld heeft gepleegd tegen goederen (aldaar geplaatste dranghekwerken en een auto) en personen (te weten [B] en [C] , zijnde beveiligingsmedewerkers) welk geweld bestond uit
+
+- het omgooien van dranghekken en
+
+- het gooien van illegale vuurwerkbommen en/of eieren  in de richting van en/of op/tegen voornoemde beveiligingsmedewerkers en/of [naam locatie] waarin 148 vluchtelingen en meerdere vrijwilligers aanwezig waren en/of een auto en
+
+- het luidkeels roepen en/of joelen naar/in de richting van de vluchtelingen in de [naam locatie] .
+
+2. op 9 oktober 2015 te Woerden, tezamen en in vereniging met een ander of anderen, [B] en/of [C] , zijnde beveiligingsmedewerkers heeft bedreigd met openlijke geweldpleging tegen personen en/of goederen, immers heeft/hebben verdachte en/of (een of meer van) zijn mededader(s) opzettelijk dreigend
+
+- (een) dranghek(ken) omgegooid en/of
+
+- (illegale) vuurwerk(bommen) en/of eieren en/of dranghekken in de richting van en/of op/tegen voornoemde beveiligingsmedewerkers gegooid en/of
+
+- luidkeels naar/in de richting van de vluchtelingen in de [naam locatie] geroepen en/of gejoeld.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten staan, zijn deze verbeterd. Verdachte is hierdoor niet in de verdediging geschaad.
+
+5
+De strafbaarheid van het feit
+
+Het bewezen geachte feit is volgens de wet strafbaar als
+
+Feit 1 primair
+
+Openlijk in vereniging geweld plegen tegen personen en goederen
+
+Feit 2:
+
+medeplegen van bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen.
+
+6
+De strafbaarheid van verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van verdachte uitsluit. Verdachte is dan ook strafbaar.
+
+7
+Motivering van de straffen en maatregelen
+
+7.1.
+
+De eis van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte voor de door haar onder feit 1 primair en feit 2 bewezen geachte feiten zal worden veroordeeld tot een voorwaardelijke gevangenisstraf van één maand met een proeftijd van twee jaren, alsmede een werkstraf van 180 uren, met bevel, voor het geval dat verdachte de werkstraf niet naar behoren (heeft) verricht, dat vervangende hechtenis zal worden toegepast van 90 dagen, met aftrek van voorarrest.
+
+Verder heeft de officier van justitie gevorderd de vordering van de benadeelde partij genaamd [B] , ter grootte van € 3.170,72 volledig toe te wijzen, inclusief wettelijke rente berekend vanaf 9 oktober 2015 tot aan de dag der algehele vergoeding, waarbij verdachte hoofdelijk aansprakelijk is voor het te betalen bedrag. Voorts heeft de officier van justitie verzocht de schadevergoedingsmaatregel op te leggen.
+
+7.2.
+
+Het standpunt van de verdediging
+
+De verdediging heeft aangevoerd dat bij een eventuele strafoplegging rekening dient te worden gehouden met de omstandigheid dat verdachte gedurende zes dagen in alle beperkingen in het cellencomplex in Houten heeft doorgebracht, hetgeen een grote impact op hem heeft gehad. De raadsvrouw verzoekt de rechtbank om aan verdachte een zoveel mogelijke voorwaardelijke straf op te leggen met een proeftijd van 2 jaren. Indien de rechtbank tot oplegging van een onvoorwaardelijk strafdeel komt, verzoekt de raadsvrouw deze op te leggen in de vorm van een werkstraf. Bij een bewezenverklaring van een overtreding, verzoekt de raadsvrouw de rechtbank te volstaan met een geldboete.
+
+7.3.
+
+Het oordeel van de rechtbank
+
+De hierna te noemen strafoplegging is in overeenstemming met de ernst van het bewezen geachte, de omstandigheden waaronder dit is begaan en de persoon van verdachte, zoals daarvan ter terechtzitting is gebleken.
+
+Verdachte heeft zich schuldig gemaakt aan openlijke geweldpleging, door in de avond, terwijl het donker was, in een grote groep naar de tijdelijke opvang voor vluchtelingen in Woerden te gaan om daar, kort gezegd, te gaan rellen. Deze rel heeft geleid tot ernstig letsel- en wellicht zelfs levensgevaar voor ten minste een van de aanwezige beveiligers (naar wie zeer zwaar vuurwerk werd gegooid) en gevoelens van angst bij zowel deze beveiligers als de vluchtelingen. Uit de slachtofferverklaring van één van de beveiligers blijkt hoe groot deze angst is geweest en welke impact de gebeurtenissen, zowel lichamelijk als geestelijk, op hem hebben gehad. Voorts is gebleken dat er bij sommige vluchtelingen zoveel angst is ontstaan dat zij direct wilden vertrekken uit de tijdelijke opvang. De verdachte heeft door zijn handelwijze op geen enkele manier rekening gehouden met de belevingswereld en achtergrond van de vluchtelingen en hun negatieve ervaringen met (oorlogs)geweld. Voorts heeft hij evenmin rekening gehouden met de beveiligers die hun taak zo goed mogelijk wilden uitoefenen en vervolgens in een persoonlijke aanval werden betrokken. De rechtbank rekent dit verdachte aan.
+
+Het dreigend omgooien van dranghekken en gooien van vuurwerk en andere voorwerpen hebben bijgedragen aan de grimmige sfeer ter plaatse, en maakten ook onderdeel uit van het openlijk geweld, waarvoor verdachte wordt veroordeeld. Om die reden zal ondanks de bewezenverklaring van feit 2 geen extra straf worden opgelegd ten opzichte van de straf die voor feit 1 wordt bepaald.
+
+De rechtbank ziet geen aanleiding om bij het bepalen van de strafsoort en strafmaat ten voordele van verdachte rekening te houden met de media-aandacht die deze zaak teweeg heeft gebracht. Naar het oordeel van de rechtbank is het in het algemeen aanvaardbaar dat strafzaken, gelet op hun aard en inhoud, een zekere vorm van media-aandacht met zich mee kunnen brengen. Dat over deze strafzaak door de media is gepubliceerd, is een gevolg van de maatschappelijke en politieke context waarbinnen het feit zich heeft afgespeeld. Niet is gesteld of gebleken dat sprake is van onevenredige media-aandacht ten opzichte van de persoonlijke situatie van deze specifieke verdachte, enkel is er duidelijke mediabelangstelling geweest voor het feitencomplex als zodanig, zodat de rechtbank hiermee geen rekening zal houden bij de strafmaat.
+
+Wat betreft de persoon van de verdachte heeft de rechtbank in het bijzonder gelet op van de inhoud van een de verdachte betreffend uittreksel uit de justitiële documentatie van 16 december 2015, waaruit blijkt dat de verdachte niet eerder strafrechtelijk is veroordeeld.
+
+Verdachte heeft geen persoonlijke omstandigheden naar voren gebracht die moeten leiden tot matiging van de bij dit soort delicten gebruikelijk op te leggen straf. Dit betreft een forse werkstraf, maar minder omvangrijk dan de door de officier van justitie gevorderde.
+
+De rechtbank is van oordeel dat gelet op alle genoemde omstandigheden aanleiding bestaat bij de straftoemeting af te wijken van wat de officier van justitie heeft gevorderd. Alles overwegende acht de rechtbank een werkstraf van 120 uren subsidiair 60 dagen hechtenis passend en geboden.
+
+8
+Ten aanzien van de benadeelde partij en de schadevergoedingsmaatregel
+
+De benadeelde partij [B] heeft een vordering tot schadevergoeding ingediend ten bedrage van in totaal € 3.170,72, vermeerderd met rente en de kosten van tenuitvoerlegging, welke vordering wat betreft de hoofdsommen als volgt is opgebouwd:
+
+Eigen risico voor schade aan de auto, die door de geweldpleging is ontstaan
+
+€ 150,00
+
+Terugval no-claimkorting autoverzekering over 3 jaren
+
+€ 1.120,72
+
+Gederfde inkomsten
+
+€ 900,00
+
+Immateriële schade
+
+€ 1.000,00
+
+Totaal
+
+€ 3.170,72
+
+De rechtbank oordeelt hierover als volgt.
+
+Eigen risico.
+
+De rechtbank acht voldoende aannemelijk, op grond van de aangifte van [B] , de foto’s van de auto na het incident en de rekening van de garage, dat door de openlijke geweldpleging waaraan verdachte heeft deelgenomen, de door [B] gestelde schade aan zijn auto is ontstaan. Daarvoor is verdachte aansprakelijk, ongeacht of hijzelf handelingen heeft verricht die deze schade direct hebben veroorzaakt (zoals het gooien van vuurwerk, etc.). Zijn aansprakelijkheid berust op artikel 6:166 lid 1 van het Burgerlijk Wetboek. [B] heeft zijn schade geclaimd bij zijn verzekering, die deze ook heeft uitgekeerd, met uitzondering van het eigen risico van
+
+€ 150,00. Dat eigen risico heeft [B] zelf moeten betalen, en dat is dus schade voor hem, die vergoed moet worden door de verdachte.
+
+Terugval no-claimkorting.
+
+[B] heeft zijn schade ter zake van terugval no-claimkorting onderbouwd met een e-mail van zijn verzekeringsmaatschappij, die de terugval specificeert op het door [B] gestelde bedrag, over een periode van 3 jaren. Deze onderbouwing is voldoende. Omdat het gaat om (extra) verzekeringspremie die pas in de toekomst hoeft te worden betaald, dient deze post echter contant te worden gemaakt tegen de aanvangsdatum van de wettelijke rente. Uitgaande van een percentage van 2% voor contant maken, begroot de rechtbank deze post schattenderwijs op € 1.080,00.
+
+Gederfde inkomsten.
+
+[B] werkt als ZZP-er. Hij stelt door het incident drie dagen niet te hebben kunnen werken: twee dagen omdat hij zijn auto niet beschikbaar had (wegens reparatie) en één dag omdat hij vrij moest nemen voor een intake voor agressietherapie, die naar zijn stelling verband houdt met (zijn reactie op) het incident. [B] rekent hiervoor 3 dagen à 12 uur à € 25,00 (ex btw). De rechtbank acht het causaal verband, het aantal dagen en het tarief voldoende onderbouwd. De 12 uur per dag acht de rechtbank niet zonder meer voor de hand liggend en deze werkuren per dag zijn ook niet concreet onderbouwd. De rechtbank zal daarom uitgaan van een gebruikelijke werkdag van 8 uur per dag. Voor het meerdere zou nadere onderbouwing nodig zijn, en dat zou een onevenredige belasting van het strafgeding opleveren. In zoverre zal [B] daarom niet ontvankelijk worden verklaard in zijn vordering wat betreft dat deel dat niet kan worden toegewezen. Verder betreffen de opgegeven gederfde inkomsten kennelijk een brutobedrag, dat, voor zover het in aanmerking wordt genomen, voor de schadeberekening netto dient te worden gemaakt. De rechtbank zal dat doen tegen het IB-tarief schijven 2 en 3, 2015: 42%. Aldus begroot de rechtbank deze post op 3 dagen x 8 uur x tarief € 25 x 58% (bruto-netto) = € 348,00. De rest van dit deel van de vordering zal niet-ontvankelijk worden verklaard.
+
+Immateriële schade.
+
+Uit de bewijsmiddelen uit het dossier blijkt dat [B] eerst in zijn auto, en later ook toen hij was uitgestapt, door een groep van 20 tot  25 man, in welke groep verdachte zich bevond, is bekogeld met eieren en zeer zwaar vuurwerk. Hij heeft daarbij voor zijn leven, of althans zeer zwaar letsel, moeten vrezen. Dat het uiteindelijk opgelopen letsel niet zwaar was is zonder meer een geluk, maar doet aan de schok niet af. De rechtbank acht ook aannemelijk dat [B] , zoals hij beschrijft, door het gebeuren psychisch een forse klap heeft opgelopen. Tegen de achtergrond van dit een en ander acht de rechtbank de gevorderde immateriële schade van € 1.000,00 toewijsbaar.
+
+Rente en kosten.
+
+De wettelijke rente (artikel 6:119 van het Burgerlijk Wetboek) zal worden toegewezen vanaf 9 oktober 2015. De rechtbank zal verdachte ook veroordelen in de (nog te maken) kosten van tenuitvoerlegging.
+
+Hoofdelijkheid.
+
+[B] vordert het geheel van zijn schade van verdachte, maar ook geheel van diens medeverdachten. De rechtbank leidt hieruit af dat [B] deze schade hoofdelijk vordert. Aldus zal deze ook – voor verdachte – hoofdelijk worden toegewezen.
+
+9
+Toepasselijke wettelijke voorschriften
+
+De beslissing berust op de artikelen 9, 22c, 22d, 24c, 36f, 47, 57, 141 en 285 van het Wetboek van Strafrecht zoals deze artikelen luidden ten tijde van het bewezen verklaarde.
+
+10
+Beslissing
+
+De rechtbank:
+
+Verklaart het onder 3 ten laste gelegde niet bewezen en spreekt verdachte daarvan vrij.
+
+Verklaart bewezen dat verdachte het onder 1 primair en 2 ten laste gelegde heeft begaan zoals hiervoor in rubriek 4.3.4 is vermeld.
+
+Verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd dan hiervoor is bewezen verklaard en spreekt verdachte daarvan vrij.
+
+Het bewezen verklaarde levert op:
+
+Feit 1 primair
+
+Openlijk in vereniging geweld plegen tegen personen en goederen
+
+Feit 2:
+
+medeplegen van bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen
+
+Verklaart het bewezene strafbaar.
+
+Verklaart verdachte, daarvoor strafbaar.
+
+Veroordeelt verdachte tot een taakstraf, bestaande uit het verrichten van onbetaalde arbeid, van 120 uren, met bevel, voor het geval dat de verdachte de taakstraf niet naar behoren heeft verricht, dat vervangende hechtenis zal worden toegepast van 60 dagen, met bevel dat de tijd die door verdachte vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis is doorgebracht, bij de uitvoering van deze straf geheel in mindering zal worden gebracht naar de maatstaf van 2 uren per dag.
+
+Veroordeelt verdachte om aan de benadeelde partij [B] te betalen een bedrag van € 2.578,00 (tweeduizend vijfhonderdachtenzeventig euro), vermeerderd met de wettelijke rente vanaf 9 oktober 2015 tot de dag van volledige betaling, en de kosten van tenuitvoerlegging, deze laatste tot op heden begroot op nihil.
+
+Verklaart de benadeelde partij [B] voor het meerdere niet ontvankelijk in zijn vordering; in zoverre kan de benadeelde partij [B] zijn vordering aanhangig maken bij de burgerlijke rechter.
+
+Legt verdachte de verplichting op ten behoeve van [B] voornoemd aan de Staat te betalen een bedrag van € 2.578,00 (tweeduizend vijfhonderdachtenzeventig euro), vermeerderd met de wettelijke rente vanaf 9 oktober 2015 tot de dag van volledige betaling, bij gebreke van betaling en verhaal aan te vullen met 35 dagen hechtenis. De toepassing van die hechtenis heft de hiervoor opgelegde verplichting dus niet op.
+
+Bepaalt dat, indien en voor zover verdachte en/of zijn medeverdachten en/of -daders aan een van de genoemde (dienovereenkomstige) betalingsverplichtingen jegens [B] en/of de Staat voldoen, daarmee voor verdachte de andere/eigen vervallen.
+
+Heft op het - geschorste - bevel tot voorlopige hechtenis.
+
+Dit vonnis is gewezen door
+
+mr. H.A. Gerritse, voorzitter,
+
+mrs. J.W. Frieling en J.G. van Ommeren, rechters,
+
+in tegenwoordigheid van mr. J.M.T. Bouwman-Everhardus, griffier,
+
+en uitgesproken op de openbare terechtzitting van deze rechtbank van 11 februari 2016.
+
+BIJLAGE : De tenlastelegging
+
+1.
+
+primair:
+
+hij op of omstreeks 9 oktober 2015 te Woerden, althans in het arrondissement Midden-Nederland met een ander of anderen, op of aan de openbare weg, te weten op of aan de [adres] , in elk geval op of aan een openbare weg en/of op een voor het publiek toegankelijke plaats, openlijk in vereniging geweld heeft gepleegd tegen goederen ((een) aldaar geplaatst(e) (drang)hekwerk(en) en/of een sporthal en/of een auto) en/of personen (te
+
+weten [B] en/of [C] , zijnde beveiligingsmedewerkers) welk geweld bestond uit
+
+- het omgooien van (een) dranghek(ken) en/of
+
+- het gooien van (illegale) vuurwerk(bommen) en/of eieren en/of flessen en/of dranghekken in de richting van en/of op/tegen voornoemde beveiligingsmedewerkers en/of [naam locatie] (waarin 148 vluchtelingen en meerdere vrijwilligers aanwezig waren) en/of een auto en/of
+
+- het luidkeels roepen en/of joelen naar/in de richting van  de vluchtelingen in de [naam locatie] ;
+
+subsidiair:
+
+hij op of omstreeks 09 oktober 2015 te Woerden met anderen, althans een ander, heeft deelgenomen aan een samenscholing, en/of onnodig heeft opgedrongen en/of door uitdagend gedrag aanleiding heeft gegeven tot ongeregelheden, immers maakte hij, verdachte, deel uit van een groep van ongeveer 25 personen, althans een aantal personen, welke personen:
+
+- verzamelden nabij [naam locatie] en/of
+
+- ( vervolgens) met bivakmutsen en/of capuchons en/of donkere kleding op hun hoofd in de richting van  [naam locatie] renden/liepen en/of
+
+- vervolgens (een) dranghek(ken) hebben omgegooid en/of
+
+- ( illegale) vuurwerk(bommen) en/of eieren en/of flessen en/of dranghekken in de richting van en/of op/tegen voornoemde beveiligingsmedewerkers hebben gegooid en/of
+
+- luidkeels naar/in de richting van de vluchtelingen in de [naam locatie] geroepen en/of gejoeld, onder meer teksten als "oprotten" en/of "niet welkom" en/of woorden van soortgelijke dreigende aard en/of strekking waardoor een dreigende situatie ontstond;
+
+2.
+
+hij op of omstreeks 9 oktober 2015 te Woerden, althans in het arrondissement Midden-Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, [B] en/of [C] , zijnde beveiligingsmedewerkers en/of 148, althans een grote groep asielzoekers/vluchtelingen heeft bedreigd met openlijke geweldpleging tegen personen en/of goederen, immers heeft/hebben verdachte en/of (een of meer van) zijn mededader(s) opzettelijk dreigend
+
+- ( een) dranghek(ken) omgegooid en/of
+
+- ( illegale) vuurwerk(bommen) en/of eieren en/of flessen en/of dranghekken in de richting van en/of op/tegen voornoemde beveiligingsmedewerkers gegooid en/of
+
+- luidkeels naar/in de richting van de vluchtelingen in de [naam locatie] geroepen en/of gejoeld, onder meer teksten als "oprotten" en/of "niet welkom" en/of woorden van soortgelijke dreigende aard en/of strekking;
+
+3.
+
+hij op of omstreeks 9 oktober 2015 te Woerden, althans in het arrondissement Midden-Nederland, niet heeft voldaan aan zijn verplichting om een identiteitsbewijs ter inzage aan te bieden, die is opgelegd bij artikel 2 van de Wet op de identificatieplicht.
+
+Indien hierna wordt verwezen naar paginanummers, wordt hierbij verwezen naar een bijlage bij het in de wettelijke vorm opgemaakte proces-verbaal van de politie Midden-Nederland, genummerd 2015306195F, van 24 november 2015, met bijlagen, doorgenummerde pagina’s 1 tot en met 1212.
+
+Proces-verbaal van aangifte van [A] , doorgenummerde pagina 860.
+
+Proces-verbaal van aangifte van [A] , doorgenummerde pagina 861.
+
+Proces-verbaal van aangifte van [B] , doorgenummerde pagina 841.
+
+Proces-verbaal van aangifte van [C] , doorgenummerde pagina 850.
+
+Proces-verbaal van aangifte van [C] , doorgenummerde pagina 851.
+
+Proces-verbaal sporenonderzoek, doorgenummerde pagina 919.
+
+Proces-verbaal sporenonderzoek, doorgenummerde pagina 920.
+
+Proces-verbaal van onderzoek aan in beslag genomen vuurwerk, doorgenummerde pagina 945.
+
+Proces-verbaal van onderzoek aan in beslag genomen vuurwerk, doorgenummerde pagina 944.
+
+Proces-verbaal van onderzoek aan in beslag genomen vuurwerk, doorgenummerde pagina 942.
+
+Proces-verbaal ter terechtzitting van 27 januari 2016.
+
+Proces-verbaal van verhoor van verdachte, doorgenummerde pagina 119.
+
+Proces-verbaal van verhoor van verdachte, doorgenummerde pagina 120.
+
+Proces-verbaal van verhoor van verdachte, doorgenummerde pagina 121.
+
+Proces-verbaal van verhoor van verdachte, doorgenummerde pagina 122.
+
+Proces-verbaal van verhoor van verdachte, doorgenummerde pagina 123.
+
+Proces-verbaal van verhoor van verdachte, doorgenummerde pagina 124.
+
+Proces-verbaal rapportage analyse whatsapp groep ‘Ons Montfoort Vluchtelingen Vrij’, doorgenummerde pagina 1117.
+
+Een geschrift, zijnde een bijlage bij een proces-verbaal van verhoor van verdachte, inhoudende whatsapp gesprekken, doorgenummerde pagina 129.
+
+Een geschrift, zijnde een bijlage bij een proces-verbaal van verhoor van verdachte, inhoudende whatsapp gesprekken, doorgenummerde pagina 130.
+
+Een geschrift, zijnde een bijlage bij een proces-verbaal van verhoor van verdachte, inhoudende whatsapp gesprekken, doorgenummerde pagina 132.
+
+Een geschrift, zijnde een bijlage bij een proces-verbaal van verhoor van verdachte, inhoudende whatsapp gesprekken, doorgenummerde pagina 133.
+
+Proces-verbaal van verhoor van J. van Veen, doorgenummerde pagina 50.
