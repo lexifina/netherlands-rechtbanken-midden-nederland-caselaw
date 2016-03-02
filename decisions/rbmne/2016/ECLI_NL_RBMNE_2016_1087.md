@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:1087"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2016-0213", "PR-Updates.nl AR-2016-0213"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2016-0213", "PR-Updates.nl AR-2016-0213", "PR-Updates.nl 2016-0213"]
 ---
 
 # ECLI:NL:RBMNE:2016:1087 Rechtbank Midden-Nederland , 02-03-2016 / 4333926 AC EXPL 15-3233 mc/936
