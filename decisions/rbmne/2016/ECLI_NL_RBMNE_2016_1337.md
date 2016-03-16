@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:1337"
-published_in: ["Rechtspraak.nl", "AR 2016/802", "PJ 2016/58", "AR-Updates.nl 2016-0273", "PR-Updates.nl AR-2016-0273"]
+published_in: ["Rechtspraak.nl", "AR 2016/802", "PJ 2016/58", "AR-Updates.nl 2016-0273", "PR-Updates.nl AR-2016-0273", "PR-Updates.nl 2016-0273"]
 ---
 
 # ECLI:NL:RBMNE:2016:1337 Rechtbank Midden-Nederland , 16-03-2016 / 4045532 UC EXPL  15-5470 LH/1040
