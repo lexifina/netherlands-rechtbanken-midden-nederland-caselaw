@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:2986"
-published_in: ["Rechtspraak.nl", "AR 2016/1624", "AR-Updates.nl 2016-0619", "PR-Updates.nl AR-2016-0619"]
+published_in: ["Rechtspraak.nl", "AR 2016/1624", "AR-Updates.nl 2016-0619", "PR-Updates.nl AR-2016-0619", "PR-Updates.nl 2016-0619"]
 ---
 
 # ECLI:NL:RBMNE:2016:2986 Rechtbank Midden-Nederland , 08-06-2016 / 4618068 AC EXPL  15-5053 RK/1069
