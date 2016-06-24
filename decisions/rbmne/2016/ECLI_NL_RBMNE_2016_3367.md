@@ -12,7 +12,11 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:336
 published_in: ["Rechtspraak.nl", "Module Aanbesteding 2016/441", "JAAN 2016/204"]
 ---
 
-# ECLI:NL:RBMNE:2016:3367
+# ECLI:NL:RBMNE:2016:3367 Rechtbank Midden-Nederland , 24-06-2016 / 414820/KG ZA 16-342
+
+## Inhoudsindicatie
+
+Europese Aanbesteding. Geschil over de berekening van een fictieve korting voor verkorting van de uitvoeringsduur. Afwijzing vorderingen. In de aanbestedingsstukken is voldoende duidelijk, precies en ondubbelzinnig weergegeven op welke wijze de fictieve korting wordt berekend en de aan eiser toegekende fictieve korting is op de juiste wijze vastgesteld.
 
 ## Uitspraak
 
