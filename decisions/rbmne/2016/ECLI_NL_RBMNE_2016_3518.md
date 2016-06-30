@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2016:3518"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2016/450", "JAAN 2016/206 met annotatie van mr. G. Verberne en mr. T. Ruers"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2016/450", "JAAN 2016/206 met annotatie van mr. G. Verberne, Mr. T. Ruers"]
 cites_law: ["netherlands/national/acts/aanbestedingswet-2012/art-02-114.md"]
 ---
 
