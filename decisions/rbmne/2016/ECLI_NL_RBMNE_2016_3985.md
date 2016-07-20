@@ -258,7 +258,7 @@ Vaststaat dat [gedaagde] bij brief van 4 april 2016 aan [eiseres] en de overige 
 
 4.6.
 
-[eiseres] stelt zich op het standpunt dat [gedaagde] niet bevoegd was om haar gunningsvoornemen van 4 april 2016 in te trekken en [eiseres] van gunning uit te sluiten. Volgens [eiseres] ontbreekt daarvoor iedere grond. De gronden zoals genoemd in de brief van 4 mei 2016 kunnen die beslissing niet dragen en andere gronden  dan vermeld in die brief mogen niet meer worden aangevoerd, omdat dit gelet op vaste jurisprudentie tardief zou zijn. Voor zover geoordeeld zou worden dat dit laatste toch mogelijk is dan betwist [eiseres] dat er een andere grond bestaat. Meer in het bijzonder betwist [eiseres] dat zij – zoals [gedaagde] en [Bedrijf]  in deze procedure aanvoeren – een ongeldige inschrijving heeft gedaan.
+[eiseres] stelt zich op het standpunt dat [gedaagde] niet bevoegd was om haar gunningsvoornemen van 4 april 2016 in te trekken en [eiseres] van gunning uit te sluiten. Volgens [eiseres] ontbreekt daarvoor iedere grond. De gronden zoals genoemd in de brief van 4 mei 2016 kunnen die beslissing niet dragen en andere gronden  dan vermeld in die brief mogen niet meer worden aangevoerd, omdat dit gelet op vaste jurisprudentie tardief zou zijn. Voor zover geoordeeld zou worden dat dit laatste toch mogelijk is dan betwist [eiseres] dat er een andere grond bestaat. Meer in het bijzonder betwist [eiseres] dat zij – zoals [gedaagde] en [Bedrijf] [Bedrijf] in deze procedure aanvoeren – een ongeldige inschrijving heeft gedaan.
 
 4.7.
 
