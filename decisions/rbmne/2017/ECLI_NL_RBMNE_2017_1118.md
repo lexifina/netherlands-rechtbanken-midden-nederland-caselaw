@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2017:1118"
-published_in: ["Rechtspraak.nl", "PJ 2017/40", "AR 2017/1232", "RAR 2017/94", "AR-Updates.nl 2017-0251", "PR-Updates.nl AR-2017-0251"]
+published_in: ["Rechtspraak.nl", "PJ 2017/40", "AR 2017/1232", "RAR 2017/94", "AR-Updates.nl 2017-0251", "PR-Updates.nl AR-2017-0251", "PR-Updates.nl 2017-0251"]
 ---
 
 # ECLI:NL:RBMNE:2017:1118 Rechtbank Midden-Nederland , 01-03-2017 / 5310505 UC EXPL  16-11882 LH/1040
