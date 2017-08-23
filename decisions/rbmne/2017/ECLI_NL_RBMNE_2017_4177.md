@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2017:4177"
-published_in: ["Rechtspraak.nl", "AR 2017/4566", "PJ 2017/145", "AR-Updates.nl 2017-1054", "PR-Updates.nl AR-2017-1054"]
+published_in: ["Rechtspraak.nl", "AR 2017/4566", "PJ 2017/145", "AR-Updates.nl 2017-1054", "PR-Updates.nl AR-2017-1054", "PR-Updates.nl 2017-1054"]
 ---
 
 # ECLI:NL:RBMNE:2017:4177 Rechtbank Midden-Nederland , 23-08-2017 / 4801546 UC EXPL 16-2339
