@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:62"
-published_in: ["Rechtspraak.nl", "AR 2018/285", "PJ 2018/18 met annotatie van E. Lutjens", "AR-Updates.nl 2018-0109", "PR-Updates.nl PR-2018-0001"]
+published_in: ["Rechtspraak.nl", "AR 2018/285", "PJ 2018/18 met annotatie van E. Lutjens", "AR-Updates.nl 2018-0109", "PR-Updates.nl PR-2018-0001", "VAAN-AR-Updates.nl 2018-0109", "PR-Updates.nl 2018-0001"]
 ---
 
 # ECLI:NL:RBMNE:2018:62 Rechtbank Midden-Nederland , 10-01-2018 / 5753809 / MC EXPL  17-2374
