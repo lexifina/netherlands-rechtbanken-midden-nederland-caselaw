@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:263"
-published_in: ["Rechtspraak.nl", "AR 2018/588", "PJ 2018/44", "AR-Updates.nl 2018-0171", "PR-Updates.nl PR-2018-0013"]
+published_in: ["Rechtspraak.nl", "AR 2018/588", "PJ 2018/44", "AR-Updates.nl 2018-0171", "PR-Updates.nl PR-2018-0013", "VAAN-AR-Updates.nl 2018-0171", "PR-Updates.nl 2018-0013"]
 ---
 
 # ECLI:NL:RBMNE:2018:263 Rechtbank Midden-Nederland , 24-01-2018 / 5704991
