@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:832"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0016"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0016", "PR-Updates.nl 2018-0016"]
 ---
 
 # ECLI:NL:RBMNE:2018:832 Rechtbank Midden-Nederland , 13-02-2018 / 450077 / HA RK 17-262
