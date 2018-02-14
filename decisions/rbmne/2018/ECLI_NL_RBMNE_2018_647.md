@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:647"
-published_in: ["Rechtspraak.nl", "PJ 2018/46 met annotatie van B. Degelink", "AR-Updates.nl 2018-0267", "PR-Updates.nl PR-2018-0021"]
+published_in: ["Rechtspraak.nl", "PJ 2018/46 met annotatie van B. Degelink", "AR-Updates.nl 2018-0267", "PR-Updates.nl PR-2018-0021", "VAAN-AR-Updates.nl 2018-0267", "PR-Updates.nl 2018-0021"]
 ---
 
 # ECLI:NL:RBMNE:2018:647 Rechtbank Midden-Nederland , 14-02-2018 / 5247574 AC EXPL 16-3014
