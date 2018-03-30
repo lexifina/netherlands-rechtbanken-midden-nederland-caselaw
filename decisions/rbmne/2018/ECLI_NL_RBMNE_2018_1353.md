@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:1353"
-published_in: ["Rechtspraak.nl", "PJ 2018/86", "JONDR 2018/500", "OR-Updates.nl 2018-0059", "PR-Updates.nl PR-2018-0044"]
+published_in: ["Rechtspraak.nl", "PJ 2018/86", "JONDR 2018/500", "OR-Updates.nl 2018-0059", "PR-Updates.nl PR-2018-0044", "PR-Updates.nl 2018-0044"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2018:8354"]]
 ---
 
