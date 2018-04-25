@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:1888"
-published_in: ["Rechtspraak.nl", "PJ 2018/95", "AR-Updates.nl 2018-0540", "PR-Updates.nl PR-2018-0064"]
+published_in: ["Rechtspraak.nl", "PJ 2018/95", "AR-Updates.nl 2018-0540", "PR-Updates.nl PR-2018-0064", "VAAN-AR-Updates.nl 2018-0540", "PR-Updates.nl 2018-0064"]
 ---
 
 # ECLI:NL:RBMNE:2018:1888 Rechtbank Midden-Nederland , 25-04-2018 / 6555953 UE VERZ 17-538 JH/1050
