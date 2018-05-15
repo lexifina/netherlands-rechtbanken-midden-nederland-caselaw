@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:2080"
-published_in: ["Rechtspraak.nl", "PJ 2018/104", "AR-Updates.nl 2018-0586", "PR-Updates.nl PR-2018-0067"]
+published_in: ["Rechtspraak.nl", "PJ 2018/104", "AR-Updates.nl 2018-0586", "PR-Updates.nl PR-2018-0067", "VAAN-AR-Updates.nl 2018-0586", "PR-Updates.nl 2018-0067"]
 ---
 
 # ECLI:NL:RBMNE:2018:2080 Rechtbank Midden-Nederland , 15-05-2018 / 5316439 UC EXPL 16-12071
