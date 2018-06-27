@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:2984"
-published_in: ["Rechtspraak.nl", "PJ 2018/139", "PR-Updates.nl PR-2018-0093"]
+published_in: ["Rechtspraak.nl", "PJ 2018/139", "PR-Updates.nl PR-2018-0093", "PR-Updates.nl 2018-0093"]
 ---
 
 # ECLI:NL:RBMNE:2018:2984 Rechtbank Midden-Nederland , 27-06-2018 / C/16/444097 / HA ZA 17-640
