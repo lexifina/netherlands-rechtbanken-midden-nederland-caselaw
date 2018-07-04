@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:3064"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0828", "PR-Updates.nl PR-2018-0098"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0828", "PR-Updates.nl PR-2018-0098", "VAAN-AR-Updates.nl 2018-0828", "PR-Updates.nl 2018-0098"]
 ---
 
 # ECLI:NL:RBMNE:2018:3064 Rechtbank Midden-Nederland , 04-07-2018 / 5715433 UE VERZ 17-68
