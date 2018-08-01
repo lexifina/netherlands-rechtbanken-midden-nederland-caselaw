@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:4070"
-published_in: ["Rechtspraak.nl", "PJ 2018/155", "PR-Updates.nl PR-2018-0106"]
+published_in: ["Rechtspraak.nl", "PJ 2018/155", "PR-Updates.nl PR-2018-0106", "PR-Updates.nl 2018-0106"]
 ---
 
 # ECLI:NL:RBMNE:2018:4070 Rechtbank Midden-Nederland , 01-08-2018 / 6346743 UC EXPL  17-12677 LH/1040
