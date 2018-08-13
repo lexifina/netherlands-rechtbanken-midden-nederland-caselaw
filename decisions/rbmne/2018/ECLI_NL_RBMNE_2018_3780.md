@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:3780"
-published_in: ["Rechtspraak.nl", "PJ 2018/163", "Prg. 2018/239", "AR-Updates.nl 2018-0972", "PR-Updates.nl PR-2018-0108"]
+published_in: ["Rechtspraak.nl", "PJ 2018/163", "Prg. 2018/239", "AR-Updates.nl 2018-0972", "PR-Updates.nl PR-2018-0108", "VAAN-AR-Updates.nl 2018-0972", "PR-Updates.nl 2018-0108"]
 ---
 
 # ECLI:NL:RBMNE:2018:3780 Rechtbank Midden-Nederland , 13-08-2018 / 6979138
