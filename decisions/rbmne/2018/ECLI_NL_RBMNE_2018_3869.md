@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:3869"
-published_in: ["Rechtspraak.nl", "JAR 2018/264 met annotatie van mr. drs. A.M. Helstone", "PJ 2018/166", "RAR 2018/165", "AR-Updates.nl 2018-0964", "GZR-Updates.nl 2018-0373", "PR-Updates.nl PR-2018-0107"]
+published_in: ["Rechtspraak.nl", "JAR 2018/264 met annotatie van mr. drs. A.M. Helstone", "PJ 2018/166", "RAR 2018/165", "AR-Updates.nl 2018-0964", "GZR-Updates.nl 2018-0373", "PR-Updates.nl PR-2018-0107", "VAAN-AR-Updates.nl 2018-0964", "PR-Updates.nl 2018-0107"]
 ---
 
 # ECLI:NL:RBMNE:2018:3869 Rechtbank Midden-Nederland , 13-08-2018 / 6885445 / MC FORM  18-3614
