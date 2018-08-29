@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:4045"
-published_in: ["Rechtspraak.nl", "PJ 2018/172", "AR-Updates.nl 2018-0997", "PR-Updates.nl PR-2018-0123"]
+published_in: ["Rechtspraak.nl", "PJ 2018/172", "AR-Updates.nl 2018-0997", "PR-Updates.nl PR-2018-0123", "VAAN-AR-Updates.nl 2018-0997", "PR-Updates.nl 2018-0123"]
 ---
 
 # ECLI:NL:RBMNE:2018:4045 Rechtbank Midden-Nederland , 29-08-2018 / 6455605
