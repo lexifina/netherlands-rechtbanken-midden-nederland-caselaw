@@ -1,0 +1,355 @@
+---
+ecli: "ECLI:NL:RBMNE:2018:5322"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "16/707156-16 en 16/660105-14 (TUL) (P)"
+decided: "2018-11-01"
+published: "2018-11-01"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:5322"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2018:5322 Rechtbank Midden-Nederland , 01-11-2018 / 16/707156-16 en 16/660105-14 (TUL) (P)
+
+## Inhoudsindicatie
+
+Vrijspraak. De rechtbank constateert dat de verklaringen die de slachtoffers hebben afgegeven bij de politie wezenlijk verschillen met de verklaringen zoals afgelegd bij de rechter-commissaris. Het overige, objectieve, bewijs is marginaal en vormt geen wettig en overtuigend bewijs voor het strafwaardig handelen door verdachten.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Afdeling strafrecht
+
+Zittingsplaats Utrecht
+
+Parketnummers: 16/707156-16 en 16/660105-14 (TUL) (P)
+
+Vonnis van de meervoudige kamer van 1 november 2018
+
+in de strafzaak tegen
+
+[verdachte]
+,
+
+geboren op [1990] te [geboorteplaats] ,
+
+ingeschreven in de Basisregistratie personen op het adres
+
+[adres] , [woonplaats] .
+
+1
+ONDERZOEK TER TERECHTZITTING
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzittingen van 26 januari 2017, 2 februari 2017, 8 juni 2017 en 18 oktober 2018.
+
+De rechtbank heeft kennisgenomen van de vordering en standpunten van officier van justitie mr. A. van Waveren en van hetgeen verdachte en mr. I.V. Nagelmaker, advocaat te Apeldoorn, alsmede mr. R.G.M. Rijkhoff namens de benadeelde partij [slachtoffer 1] naar voren hebben gebracht.
+
+2
+TENLASTELEGGING
+
+De tenlastelegging is op de zitting gewijzigd. De gewijzigde tenlastelegging is als bijlage aan dit vonnis gehecht.
+
+De verdenking komt er, kort en feitelijk weergegeven, op neer dat verdachte:
+
+feit 1
+
+(primair) op 9 september 2016 te Eemnes en/of Baarn tezamen en in vereniging met een ander met het oogmerk om zichzelf of een ander wederrechtelijk te bevoordelen door met geweld of bedreiging met geweld [slachtoffer 1] en [slachtoffer 2] te dwingen tot afgifte van huissleutels, horloge en geld terwijl het geweld dan wel de bedreiging met geweld bestond uit een vuurwapen op [slachtoffer 1] en [slachtoffer 2] te richten, die [slachtoffer 1] en [slachtoffer 2] te slaan met de vuist en het vuurwapen en [slachtoffer 1] en [slachtoffer 2] te dwingen tot het afleggen van een belastende verklaring dan wel (subsidiair) medeplichtigheid daaraan
+
+en/of
+
+op 9 september 2016 te Eemnes en/of Baarn tezamen en in vereniging met een ander huissleutels, een horloge en geld hebben weggenomen van [slachtoffer 1] en/of [slachtoffer 2] wat voorafgegaan, vergezeld of gevolgd werd van geweld of bedreiging met geweld
+
+en/of
+
+op 9 september 2016 te Eemnes en/of Baarn tezamen en in vereniging met een ander door geweld of andere feitelijkheid of bedreiging daarmee [slachtoffer 1] en/of [slachtoffer 2] hebben gedwongen een bekentenis af te leggen;
+
+feit 2
+
+(primair) op 9 september 2016 te Eemnes en/of Baarn tezamen en in vereniging met een ander heeft geprobeerd zich wederrechtelijk te bevoordelen door [slachtoffer 1] en [slachtoffer 2] te dwingen tot afgifte van € 5.000,- dan wel (subsidiair) medeplichtigheid daaraan;
+
+feit 3
+
+(primair) op 9 september 2016 te Eemnes en/of Baarn tezamen en in vereniging met een ander opzettelijk [slachtoffer 1] en [slachtoffer 2] van hun vrijheid hebben beroofd dan wel (subsidiair) medeplichtigheid daaraan.
+
+3
+VOORVRAGEN
+
+De dagvaarding is geldig, de rechtbank is bevoegd tot kennisneming van het ten laste gelegde, de officier van justitie is ontvankelijk in de vervolging van verdachte en er zijn geen redenen voor schorsing van de vervolging.
+
+4
+VRIJSPRAAK
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie acht feit 1, tweede alternatief (voor zover dat betrekking heeft op de diefstal), feit 1, derde alternatief (de dwang) en feit 3 primair wettig en overtuigend te bewijzen. Voor feit 1 primair, eerste alternatief en feit 2 (zowel primair als subsidiair) heeft de officier van justitie vrijspraak gevraagd. De officier van justitie heeft aangevoerd dat er geen wettig en overtuigend bewijs is voor het toegepaste geweld en het gebruik van een vuurwapen en dat de verdachten van die twee onderdelen dienen te worden vrijgesproken.
+
+De officier van justitie meent dat de verklaring van [slachtoffer 1] wordt ondersteund door de eerste verklaring van [slachtoffer 2] bij de politie en door objectieve bewijsmiddelen, te weten de historische gegevens van de telefoons, het aantreffen van het horloge van [slachtoffer 1] in de woning van verdachte [medeverdachte 1] , tapgesprekken waaruit blijkt dat er druk wordt uitgeoefend op de slachtoffers en dat [slachtoffer 1] niet meer in het bezit is van zijn huissleutels en tot slot de camerabeelden waarop te zien is dat [slachtoffer 1] en [slachtoffer 2] een bekentenis afleggen op een donkere plek. Uit de verklaringen van de verdachten zelf volgt dat er is gesproken met stemverheffing en dat ervoor is gekozen om [medeverdachte 1] het woord te laten voeren, omdat hij gelet op zijn voorkomen indruk zou maken op [slachtoffer 1] en [slachtoffer 2] .
+
+De officier van justitie acht daarmee wettig en overtuigend bewezen dat het horloge en de huissleutels wederrechtelijk zijn weggenomen, [slachtoffer 1] en [slachtoffer 2] zijn gedwongen tot het afleggen van een verklaring en zij ook wederrechtelijk van hun vrijheid zijn beroofd. Zij acht daarnaast bewezen dat deze feiten in vereniging met de twee medeverdachten zijn gepleegd.
+
+4.2
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft vrijspraak bepleit van alle ten laste gelegde feiten. De raadsvrouw heeft daartoe het volgende aangevoerd. De verklaringen van [slachtoffer 1] en [slachtoffer 2] moeten als onbetrouwbaar worden aangemerkt. [slachtoffer 1] en [slachtoffer 2] hebben bij de politie een aangifte gedaan, pas een aantal weken na het feit. [slachtoffer 2] wilde in eerste instantie ook geen aangifte doen. Daarna zijn zij ook beiden bij de rechter-commissaris als getuigen gehoord. [slachtoffer 1] heeft toen grotendeels een ander verhaal verteld, met name met betrekking tot het vermeende geweld. [slachtoffer 2] heeft zelfs bij de rechter-commissaris verklaard dat hij het verhaal bij de politie uit zijn duim heeft gezogen en dat [slachtoffer 1] dit ook heeft gedaan. Op de beelden van het filmpje dat is opgenomen wordt door een deskundige van het NFI geen letsel bij [slachtoffer 1] en [slachtoffer 2] waargenomen. Ook door getuige M. Güçlü, de buurman van [slachtoffer 1] , wordt bij [slachtoffer 1] geen letsel waargenomen. Er is dus geen wettig en overtuigend bewijs dat [slachtoffer 1] en [slachtoffer 2] letsel hebben opgelopen door toedoen van de verdachten.
+
+Door [slachtoffer 1] en [slachtoffer 2] wordt in eerste instantie verklaard over een wapen dat doorgeladen zou zijn en waarmee [slachtoffer 1] ook geslagen zou zijn. [slachtoffer 2] verklaart bij de rechter-commissaris dat hij zich niets meer kan herinneren van een wapen en ook dat hij bij de politie onzin heeft verteld. Er is ook nooit een wapen aangetroffen, dus ook daar is geen enkel bewijs voor.
+
+Ten laste is gelegd dat [slachtoffer 1] en [slachtoffer 2] zijn meegenomen naar een donkere en afgelegen parkeerplaats, maar ook daar is volgens de raadsvrouw niets van waar. Het station in Baarn is niet afgelegen, zij waren duidelijk zichtbaar en overal hangen camera’s. Ook hotel De Witte Bergen is geen afgelegen plek, maar een drukbezochte locatie aan de A1. Ook hier is geen bewijs voor.
+
+Het horloge van [slachtoffer 1] dat zou zijn weggenomen, heeft [slachtoffer 1] kennelijk gegeven aan medeverdachte [medeverdachte 1] . Verdachte was daar niet bij betrokken en wist daar niets van. Ook van het geld dat zou zijn weggenomen, en waar de verklaringen van [slachtoffer 1] en [slachtoffer 2] over uiteen lopen, wist verdachte niets.
+
+Van wederrechtelijke vrijheidsberoving is wat betreft de raadsvrouw geen sprake. [slachtoffer 1] is vrijwillig met verdachte mee gegaan in de auto. Ook is er geen sprake van een wapen, fysiek geweld of dreiging daarmee. [slachtoffer 1] en [slachtoffer 2] zijn door verdachte naar huis gebracht en als zij dat hadden gewild hadden ze op elk moment het gesprek kunnen beëindigen en zelf weg kunnen gaan.
+
+De raadsvrouw heeft tot slot met betrekking tot de afpersing aangevoerd dat verdachte geen enkel opzet op afpersing had, naar zijn weten moest er alleen wat besproken worden met [slachtoffer 1] en [slachtoffer 2] en ging het niet om geld.
+
+4.3
+
+Het oordeel van de rechtbank
+
+De rechtbank overweegt als volgt. In dit dossier zijn de objectieve gegevens beperkt, geven geen directe steun voor het strafwaardige karakter van het handelen van verdachten en weerspreken ook niet de verklaringen van de verdachten. Voor een bewezenverklaring zou de rechtbank dus in zeer belangrijke mate moeten varen op de verklaringen van [slachtoffer 1] en [slachtoffer 2] .
+
+[slachtoffer 1] en [slachtoffer 2] hebben op 2 oktober 2016 respectievelijk 4 oktober 2016 een eerste verklaring afgelegd bij de politie. Zij hebben toen een gedetailleerde verklaring afgelegd, met name over het geweld dat door de verdachten zou zijn gepleegd. Deze verklaringen werden ondersteund door ander bewijs, onder andere door de historische gegevens van de telefoons waaruit de route volgt die zij met de verdachten zouden hebben afgelegd en het aantreffen van het horloge van [slachtoffer 1] bij verdachte [medeverdachte 1] . Ook komen de eerste verklaringen van [slachtoffer 1] en [slachtoffer 2] met elkaar overeen.
+
+[slachtoffer 1] heeft in zijn eerste verklaring bij de politie verklaard dat er op meerdere momenten fors geweld en dreiging daarmee heeft plaatsgevonden. Zo verklaart hij dat de verdachte [medeverdachte 1] meerdere malen een doorgeladen vuurwapen op hem heeft gericht en hem daarmee met kracht in zijn gezicht heeft geslagen. Verder verklaart hij dat hij met [slachtoffer 2] op een afgelegen terrein bij de Witte Bergen op hun knieën moesten gaan zitten met hun handen achter hun hoofd, dat er een wapen op hun hoofd werd gericht, dat zij in het gezicht werden geslagen en dat zij werden gedwongen een verklaring af te leggen wat met de mobiele telefoon van één van de verdachten werd gefilmd. Voor de zitting van 26 januari 2017 is dit betreffende filmpje aan het dossier toegevoegd. Hierop is te zien dat [slachtoffer 1] en [slachtoffer 2] staan, zonder hun handen achter hun hoofd en dat zij een verklaring afleggen. Op het filmpje is geen enkele vorm van geweld dan wel dreiging daarmee te zien. Uit het forensisch geneeskundig rapport van het NFI van 19 april 2017 blijkt bovendien dat de forensisch arts géén voor letsels verdachte afwijkingen bij [slachtoffer 1] en [slachtoffer 2] op het filmpje heeft waargenomen.
+
+Een belangrijk onderdeel van de verklaring van [slachtoffer 1] bij de politie wordt dus door dit objectieve bewijsmiddel weersproken. Vervolgens wordt [slachtoffer 1] op 30 januari 2017 bij de rechter-commissaris gehoord. In die verklaring komt hij terug op bepaalde onderdelen van zijn eerste verklaring bij de politie. Het betreft met name de onderdelen over het toegepaste geweld en de dreiging daarmee. Zo verklaart [slachtoffer 1] , nadat hij door de rechter-commissaris is beëdigd, dat zij pas zijn gefilmd toen ze stonden en dus niet op het moment dat zij op hun knieën zaten zoals hij eerder bij de politie heeft verklaard. Ook heeft [slachtoffer 1] bij de rechter-commissaris verklaard dat hij die dag slechts één keer is geslagen en dat dit niet met een vuurwapen is gebeurd.
+
+[slachtoffer 2] is op 23 mei 2017 door de rechter-commissaris als getuige gehoord. Hij heeft tijdens dat verhoor verklaard dat hij bij de politie het verhaal uit zijn duim gezogen heeft en hij komt daarmee dus op zijn gehele verklaring bij de politie terug.
+
+De rechtbank constateert aldus dat de door [slachtoffer 1] en [slachtoffer 2] afgelegde verklaringen bij de politie wezenlijk verschillen met de verklaringen zoals afgelegd bij de rechter-commissaris, met name voor wat betreft de strafwaardige elementen van het handelen van de verdachten. Het toegepaste geweld wordt door [slachtoffer 1] gereduceerd tot één klap en [slachtoffer 2] komt in zijn geheel terug op hetgeen hij eerder heeft verklaard. Nu er voorts geen concrete verklaring wordt gegeven waarom op eerdere verklaringen wordt teruggekomen, kan de rechtbank niet anders dan de verklaringen van [slachtoffer 1] en [slachtoffer 2] als onbetrouwbaar terzijde schuiven. Zij zal deze bewijsmiddelen dan ook niet voor het bewijs gebruiken.
+
+Nu de rechtbank de verklaringen van [slachtoffer 2] en [slachtoffer 1] niet voor het bewijs zal gebruiken, moet gekeken worden naar het overige bewijs. Zoals eerder al gezegd is dit overige, objectieve bewijs marginaal en vormt geen wettig en overtuigend bewijs voor het strafwaardig handelen door verdachten, hetgeen door de verdachten juist wordt betwist. Het objectieve bewijs past in het door verdachten geschetste alternatieve scenario.
+
+Gelet op het bovenstaande, is de rechtbank van oordeel dat wettig en overtuigend bewijs voor de ten laste gelegde strafbare handelingen ontbreekt. De rechtbank zal verdachte dan ook vrijspreken van alle ten laste gelegde feiten.
+
+5
+BENADEELDE PARTIJ
+
+[slachtoffer 1] heeft zich als benadeelde partij in het geding gevoegd en vordert een bedrag van
+
+€ 3.031,53. Dit bedrag bestaat uit € 31,53 materiële schade en € 3.000,00 immateriële schade, ten gevolge van de aan verdachte ten laste gelegde feiten. Daarnaast wordt er
+
+€ 2.420,00 aan proceskosten gevorderd.
+
+5.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de materiële schade en de proceskosten volledig toegewezen kunnen worden. Met betrekking tot de immateriële schade heeft de officier van justitie zich op het standpunt gesteld dat dit tot een bedrag van
+
+€ 1.000,00 dient te worden gematigd, nu zij niet tot een bewezenverklaring van het geweld en het vuurwapen komt en de aangehaalde uitspraken in de vordering juist daarop zien.
+
+De officier van justitie heeft gevraagd om de vordering hoofdelijk toe te wijzen met oplegging van de schadevergoedingsmaatregel en de wettelijke rente.
+
+5.2
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft zich primair op het standpunt gesteld dat de vordering dient te worden afgewezen gelet op de bepleitte vrijspraak. Subsidiair heeft de raadsvrouw verzocht om het toe te wijzen bedrag te matigen.
+
+5.3
+
+Het oordeel van de rechtbank
+
+De rechtbank zal de benadeelde partij [slachtoffer 1] niet-ontvankelijk verklaren in de vordering nu verdachte van de ten laste gelegde feiten zal worden vrijgesproken. De benadeelde partij kan de vordering bij de burgerlijke rechter aanbrengen.
+
+Nu de benadeelde partij niet-ontvankelijk wordt verklaard in haar vordering, zullen kosten worden gecompenseerd, in die zin dat ieder haar eigen kosten draagt.
+
+6
+VORDERING TENUITVOERLEGGING
+
+6.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de vordering tot tenuitvoerlegging kan worden toegewezen, nu er geen redenen zijn om van dat standpunt af te wijken.
+
+6.2
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft zich primair op het standpunt gesteld dat de vordering tenuitvoerlegging dient te worden afgewezen nu zij vrijspraak heeft bepleit. Subsidiair heeft de raadsvrouw aangevoerd dat er al dusdanig lange tijd is verstreken, dat het verlengen van de proeftijd geen mogelijkheid meer is. Meer subsidiair heeft de raadsvrouw aangevoerd dat verdachte een vaste baan heeft en dus het moeten uitzitten van de voorwaardelijke gevangenisstraf een zeer slecht effect op zijn leven zal hebben. Tot slot heeft de raadsvrouw uiterst subsidiair gevraagd om de gevangenisstraf om te zetten in een taakstraf.
+
+6.3
+
+Het oordeel van de rechtbank
+
+De rechtbank zal de vordering tot tenuitvoerlegging afwijzen, nu verdachte wordt vrijgesproken van de ten laste gelegde feiten.
+
+7
+BESLISSING
+
+De rechtbank:
+
+Vrijspraak
+
+- verklaart de ten laste gelegde feiten niet bewezen en spreekt verdachte daarvan vrij;
+
+Benadeelde partij
+
+verklaart [slachtoffer 1] niet-ontvankelijk in de vordering en bepaalt dat de vordering kan worden aangebracht bij de burgerlijke rechter;
+
+compenseert de proceskosten van de benadeelde partij en verdachte, in die zin dat ieder haar eigen kosten draagt;
+
+Vordering tenuitvoerlegging met parketnummer 16/660105-14
+
+- wijst af de vordering tot tenuitvoerlegging.
+
+Dit vonnis is gewezen door mr. G. Perrick, voorzitter, mrs. J.A. Spee en B.G.W.P. Heijne, rechters, in tegenwoordigheid van mr. mr. S. Passchier, griffier, en is uitgesproken op de openbare terechtzitting van 1 november 2018.
+
+Mr. B.G.W.P. Heijne is buiten staat dit vonnis mede te ondertekenen.
+
+Bijlage: de tenlastelegging
+
+Aan verdachte wordt ten laste gelegd dat:
+
+1.
+
+(primair) hij op of omstreeks 9 september 2016 te Eemnes en/of Baarn, althans in het arrondissement
+
+Midden-Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en / of (een) ander(en) wederrechtelijk te bevoordelen door geweld en / of bedreiging met geweld [slachtoffer 1] en/of [slachtoffer 2] heeft gedwongen tot de afgifte van
+
+(huis)sleutels en/of een horloge en/of geld, in elk geval van enig goed,
+
+geheel of ten dele toebehorende aan die de [slachtoffer 1] en/of die [slachtoffer 2] , in elk geval aan een ander of anderen dan aan verdachte en / of zijn mededader(s),
+
+(subsidiair) [medeverdachte 2] en/of [medeverdachte 1] op of omstreeks 9 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld [slachtoffer 1] en/of [slachtoffer 2] heeft gedwongen tot afgifte van
+
+(huis)sleutels en/of een horloge en/of geld, in elk geval enig goed,
+
+geheel of ten dele toebehorende aan die de [slachtoffer 1] en/of die [slachtoffer 2] , in elk geval aan een ander of anderen dan aan die [medeverdachte 2] en/of [medeverdachte 1] en/of zijn mededader(s) en/of verdachte,
+
+welk geweld en/of bedreiging met geweld hierin bestond(en) dat die [medeverdachte 2] en/of [medeverdachte 1] tezamen en in vereniging met zijn medeverdachte(n), althans alleen,
+
+- een (doorgeladen) pistool, althans een op een vuurwapen gelijkend voorwerp op die [slachtoffer 1] en/of die [slachtoffer 2] heeft/hebben gericht en/of
+
+- die [slachtoffer 1] en/of die [slachtoffer 2] met de vuist/hand en/of dat vuurwapen, althans dat op een vuurwapen gelijkend voorwerp in/op/tegen het lichaam heeft/hebben gestompt/geslagen en/of
+
+- die [slachtoffer 1] en/of die [slachtoffer 2] (daarbij) hebben gedwongen tot het afleggen van een voor hem/hen zelf en of derde(n) belastende verklaring;
+
+tot en/of bij het plegen van welk misdrijf verdachte op of omstreeks 9 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland opzettelijk gelegenheid, middelen en/of inlichtingen heeft verschaft en/of opzettelijk behulpzaam is geweest door die [slachtoffer 1] naar die [medeverdachte 2] en/of die [medeverdachte 1] , al dan niet via smoes te brengen en/of die [slachtoffer 1] en/of die [slachtoffer 2] een/of meerdere keren te vervoeren en/of zijn mobiele telefoon aan die [medeverdachte 2] en/of die [medeverdachte 1] ter beschikking te stellen opdat die [medeverdachte 1] en/of [medeverdachte 2] een filmopname van die [slachtoffer 1] en/of die [slachtoffer 2] kon maken en/of in de directe en/of zichtbare afstand van die [slachtoffer 1] en/of [slachtoffer 2] te staan;
+
+en/of
+
+hij op of omstreeks 9 september 2016 te Eemnes en/of Baarn althans in het arrondissement Midden-Nederland, tezamen en in vereniging met een ander of anderen, althans alleen,
+
+met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen (huis)sleutels en/of horloge en/of geld, in elk geval van enig goed,
+
+geheel of ten dele toebehorende aan [slachtoffer 1] en/of [slachtoffer 2] , in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s),
+
+welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen die [slachtoffer 1] en/of [slachtoffer 2] , gepleegd met het oogmerk om die diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan (een) andere deelnemer(s) van voormeld misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren,
+
+welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte tezamen en in vereniging met zijn medeverdachte(n), althans alleen,
+
+- een (doorgeladen) pistool, althans een op een vuurwapen gelijkend voorwerp op die [slachtoffer 1] en/of die [slachtoffer 2] heeft/hebben gericht en/of
+
+- die [slachtoffer 1] en/of die [slachtoffer 2] met de vuist/hand en/of dat vuurwapen, althans dat op een vuurwapen gelijkend voorwerp in/op/tegen het lichaam heeft/hebben gestompt/geslagen en/of
+
+- die [slachtoffer 1] en/of die [slachtoffer 2] (daarbij) hebben gedwongen tot het afleggen van een voor hem/hen zelf en of derde(n) belastende verklaring en/of
+
+- die [slachtoffer 1] en/of [slachtoffer 2] mee te nemen naar een donkere en/of afgelegen parkeerplaats en/of
+
+- dreigend en /of intimiderend in de (directe) nabijheid van die [slachtoffer 1] en/of [slachtoffer 2] met stemverheffing en/of geschreeuw de woorden “wie heeft het gedaan, moet ik jou hebben of jou?”, althans woorden van gelijke aard en/of strekking te uiten
+
+art 312 lid 2 ahf/sub 2 Wetboek van Strafrecht
+
+art 317 lid 1 Wetboek van Strafrecht
+
+art 312 lid 2 ahf/sub 2 Wetboek van Strafrecht
+
+art 48 Wetboek van Strafrecht
+
+en/of
+
+hij op of omstreeks 9 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland, tezamen en in vereniging, met een ander of anderen, althans alleen,
+
+door geweld of enige andere feitelijkheid en/of
+
+door bedreiging met geweld of enige andere feitelijkheid gericht tegen [slachtoffer 1] en/of [slachtoffer 2] wederrechtelijk heeft gedwongen iets te doen, niet te doen of te dulden, immers heeft verdachte, tezamen en in vereniging, met zijn medeverdachte(n), althans alleen,
+
+- die [slachtoffer 1] en/of [slachtoffer 2] meegenomen naar een donkere afgelegen parkeerplaats en/of
+
+- driegend en/of intimiderend in de (directe) nabijheid van die [slachtoffer 1] en/of [slachtoffer 2] met stemverheffing en/of geschreeuw de woorden “wie heeft het gedaan, moet ik jou hebben of jou?”, althans woorden van gelijke aard en/of strekking geuit en/of
+
+- die [slachtoffer 1] en/of [slachtoffer 2] een bekentenis van een diefstal van een goed laten afleggen en/of die bekentenis opgenomen op camera van een telefoon
+
+Art 284 Wetboek van Strafrecht
+
+2.
+
+(primair) hij op of omstreeks 9 september 2016 te Eemnes en/of Baarn ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld [slachtoffer 1] en/of [slachtoffer 2] te dwingen tot de afgifte van (in totaal) 5000 euro, in elk geval van enig goed,
+
+geheel of ten dele toebehorende aan die [slachtoffer 1] en/of die [slachtoffer 2] , in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s),
+
+- een (doorgeladen) pistool, althans een op een vuurwapen gelijkend voorwerp, op die [slachtoffer 1] en/of [slachtoffer 2] heeft/hebben gericht en/of
+
+- die [slachtoffer 1] en/of [slachtoffer 2] met de vuist/hand en/of dat vuurwapen, althans dat op een vuurwapen gelijkend voorwerp in/op/tegen het lichaam heeft/hebben gestompt/geslagen
+
+en/of
+
+- die [slachtoffer 1] en/of die [slachtoffer 2] (daarbij) hebben gedwongen tot het afleggen van een voor hem/hen zelf en of derde(n) belastende verklaring en/of
+
+- die [slachtoffer 1] en/of [slachtoffer 2] mee te nemen naar een donkere en/of afgelegen parkeerplaats en/of
+
+- dreigend en/of intimiderend in de (directe) nabijheid van die [slachtoffer 1] en/of [slachtoffer 2] met stemverheffing en/of geschreeuw de woorden “wie heeft het gedaan, moet ik jou hebben of jou?”, althans woorden van gelijke aard en/of strekking, te uiten;
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+(subsidiair) [medeverdachte 2] en/of [medeverdachte 1] op of omstreeks 9 september 2016 te Eemnes en/of Baarn ter uitvoering van het door die [medeverdachte 2] en/of die [medeverdachte 1]  voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld [slachtoffer 1] en/of [slachtoffer 2] te dwingen tot de afgifte van (in totaal) 5000 euro, in elk geval van enig goed,
+
+geheel of ten dele toebehorende aan die [slachtoffer 1] en/of die [slachtoffer 2] , in elk geval aan een ander of anderen dan aan die [medeverdachte 2] en/of die [medeverdachte 1] en/of zijn mededader(s) en/of verdachte,
+
+- een (doorgeladen) pistool, althans een op een vuurwapen gelijkend voorwerp, op die [slachtoffer 1] en/of [slachtoffer 2] heeft/hebben gericht en/of
+
+- die [slachtoffer 1] en/of [slachtoffer 2] met de vuist/hand en/of dat vuurwapen, althans dat op een vuurwapen gelijkend voorwerp in/op/tegen het lichaam heeft/hebben gestompt/geslagen
+
+en/of
+
+- die [slachtoffer 1] en/of die [slachtoffer 2] (daarbij) hebben gedwongen tot het afleggen van een voor hem/hen zelf en of derde(n) belastende verklaring en/of
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+tot en/of bij het plegen van welk misdrijf verdachte op of omstreeks 9 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland opzettelijk gelegenheid, middelen en/of inlichtingen heeft verschaft en/of opzettelijk behulpzaam is geweest door die [slachtoffer 1] naar die [medeverdachte 2] en/of die [medeverdachte 1] , al dan niet via smoes te brengen en/of die [slachtoffer 1] en/of die [slachtoffer 2] een/of meerdere keren te vervoeren en/of zijn mobiele telefoon aan die [medeverdachte 2] en/of die [medeverdachte 1] ter beschikking te stellen opdat die [medeverdachte 1] en/of [medeverdachte 2] een filmopname van die [slachtoffer 1] en/of die [slachtoffer 2] kon maken en/of in de directe en/of zichtbare afstand van die [slachtoffer 1] en/of [slachtoffer 2] te staan;
+
+art 312 lid 2 ahf/sub 2 Wetboek van Strafrecht
+
+art 317 lid 1 Wetboek van Strafrecht
+
+art 312 lid 2 ahf/sub 2 Wetboek van Strafrecht
+
+art 45 lid 1 Wetboek van Strafrecht
+
+art 48 Wetboek van Strafrecht
+
+3.
+
+(primair) hij op of omstreeks 09 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk [slachtoffer 1] en/of [slachtoffer 2] wederrechtelijk van de vrijheid heeft/hebben beroofd en / of beroofd gehouden, immers heeft hij, verdachte, en/of zijn mededader(s) opzettelijk wederrechtelijk, onder bedreiging van een (doorgeladen) vuurwapen, althans een op een vuurwapen gelijkend voorwerp en/of fysiek geweld en/of (daarbij) te zeggen dat die [slachtoffer 1] en die [slachtoffer 2] niet weg mochten
+
+-hem/hen gedwongen in een auto plaats te nemen en/of in die auto te blijven en/of
+
+-hem/hen mee te nemen naar een afgelegen plaats en/of hem/hen daar gedwongen
+
+uit de auto te stappen en/of hen daar gedwongen enige tijd te verblijven;
+
+(subsidiair) [medeverdachte 2] en/of [medeverdachte 1] op of omstreeks 09 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk [slachtoffer 1] en/of [slachtoffer 2] wederrechtelijk van de vrijheid heeft/hebben beroofd en / of beroofd gehouden, immers heeft die [medeverdachte 2] en/of die [medeverdachte 1] en/of zijn mededader(s), opzettelijk wederrechtelijk, onder bedreiging van een (doorgeladen) vuurwapen, althans een op een vuurwapen gelijkend voorwerp en/of fysiek geweld en/of (daarbij) te zeggen dat die [slachtoffer 1] en die [slachtoffer 2] niet weg mochten
+
+-hem/hen gedwongen in een auto plaats te nemen en/of in die auto te blijven en/of
+
+-hem/hen mee te nemen naar een afgelegen plaats en/of hem/hen daar gedwongen
+
+uit de auto te stappen en/of
+
+- hen daar gedwongen enige tijd te verblijven;
+
+tot en/of bij het plegen van welk misdrijf verdachte op of omstreeks 9 september 2016 te Eemnes en/of Baarn, althans in het arrondissement Midden-Nederland opzettelijk gelegenheid, middelen en/of inlichtingen heeft verschaft en/of opzettelijk behulpzaam is geweest door die [slachtoffer 1] naar die [medeverdachte 2] en/of die [medeverdachte 1] , al dan niet via smoes te brengen en/of die [slachtoffer 1] en/of die [slachtoffer 2] een/of meerdere keren te vervoeren en/of zijn mobiele telefoon aan die [medeverdachte 2] en/of die [medeverdachte 1] ter beschikking te stellen opdat die [medeverdachte 1] en/of [medeverdachte 2] een filmopname van die [slachtoffer 1] en/of die [slachtoffer 2] kon maken en/of in de directe en/of zichtbare afstand van die [slachtoffer 1] en/of [slachtoffer 2] te staan;
+
+art 282 lid 1 Wetboek van Strafrecht
+
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
