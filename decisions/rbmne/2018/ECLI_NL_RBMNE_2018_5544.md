@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:5544"
-published_in: ["Rechtspraak.nl", "PJ 2019/14", "PR-Updates.nl PR-2018-0147"]
+published_in: ["Rechtspraak.nl", "PJ 2019/14", "PR-Updates.nl PR-2018-0147", "PR-Updates.nl 2018-0147"]
 ---
 
 # ECLI:NL:RBMNE:2018:5544 Rechtbank Midden-Nederland , 14-11-2018 / 5941926
