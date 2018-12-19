@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2018:6563"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0049", "PJ 2019/36", "PR-Updates.nl PR-2019-0009"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0049", "PJ 2019/36", "PR-Updates.nl PR-2019-0009", "VAAN-AR-Updates.nl 2019-0049", "PR-Updates.nl 2019-0009"]
 ---
 
 # ECLI:NL:RBMNE:2018:6563 Rechtbank Midden-Nederland , 19-12-2018 / 7222651 AC EXPL  18-3041 LH/1040
