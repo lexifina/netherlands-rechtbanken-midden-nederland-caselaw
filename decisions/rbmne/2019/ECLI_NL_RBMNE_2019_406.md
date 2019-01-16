@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:406"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0143", "PR-Updates.nl PR-2019-0030"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0143", "PR-Updates.nl PR-2019-0030", "VAAN-AR-Updates.nl 2019-0143", "PR-Updates.nl 2019-0030"]
 ---
 
 # ECLI:NL:RBMNE:2019:406 Rechtbank Midden-Nederland , 16-01-2019 / 6676836 UC EXPL 18-1970  en 6676866 UC EXPL 18-1971 LH/1040
