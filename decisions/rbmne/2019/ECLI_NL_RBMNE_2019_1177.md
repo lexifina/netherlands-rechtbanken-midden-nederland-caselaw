@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:1177"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0068"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0068", "PR-Updates.nl 2019-0068"]
 ---
 
 # ECLI:NL:RBMNE:2019:1177 Rechtbank Midden-Nederland , 12-03-2019 / C/16/442859 / FA RK 17-3976
