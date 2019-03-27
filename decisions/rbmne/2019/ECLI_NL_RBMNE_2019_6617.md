@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6617"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0743", "PR-Updates.nl PR-2020-0134", "PJ 2020/119"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0743", "PR-Updates.nl PR-2020-0134", "PJ 2020/119", "VAAN-AR-Updates.nl 2020-0743", "PR-Updates.nl 2020-0134"]
 ---
 
 # ECLI:NL:RBMNE:2019:6617 Rechtbank Midden-Nederland , 27-03-2019 / 6808606 / LC EXPL  18-1048
