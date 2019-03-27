@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:1191"
-published_in: ["Rechtspraak.nl", "JIN 2019/85 met annotatie van Menso, F.R.", "PFR-Updates.nl 2019-0159"]
+published_in: ["Rechtspraak.nl", "JIN 2019/85 met annotatie van Menso, F.R.", "PFR-Updates.nl 2019-0159", "FJR 2026/46.23"]
 ---
 
 # ECLI:NL:RBMNE:2019:1191 Rechtbank Midden-Nederland , 27-03-2019 / C/16/473896 / FO RK 19-76
