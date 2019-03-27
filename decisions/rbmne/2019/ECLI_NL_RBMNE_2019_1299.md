@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:1299"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1168", "JAAN 2019/92 met annotatie van Snijders-van Erp, E.L.H."]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1168", "JAAN 2019/92 met annotatie van mr. E.L.H. Snijders-van Erp"]
 ---
 
 # ECLI:NL:RBMNE:2019:1299 Rechtbank Midden-Nederland , 27-03-2019 / C/16/475769 / KG ZA 19-111
