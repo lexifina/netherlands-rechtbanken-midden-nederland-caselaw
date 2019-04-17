@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:1602"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0457", "JAR 2019/119", "PJ 2019/95", "PR-Updates.nl PR-2019-0072"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0457", "JAR 2019/119", "PJ 2019/95", "PR-Updates.nl PR-2019-0072", "VAAN-AR-Updates.nl 2019-0457", "PR-Updates.nl 2019-0072"]
 ---
 
 # ECLI:NL:RBMNE:2019:1602 Rechtbank Midden-Nederland , 17-04-2019 / 7518380
