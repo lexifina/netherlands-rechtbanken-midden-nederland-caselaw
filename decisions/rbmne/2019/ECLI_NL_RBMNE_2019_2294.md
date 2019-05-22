@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:2294"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0582", "JAR 2019/157 met annotatie van Schadewijk, M.A.N. van", "PJ 2019/74", "RAR 2019/128", "PR-Updates.nl PR-2019-0073"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0582", "JAR 2019/157 met annotatie van Schadewijk, M.A.N. van", "PJ 2019/74", "RAR 2019/128", "PR-Updates.nl PR-2019-0073", "VAAN-AR-Updates.nl 2019-0582", "PR-Updates.nl 2019-0073"]
 ---
 
 # ECLI:NL:RBMNE:2019:2294 Rechtbank Midden-Nederland , 22-05-2019 / 6724900 UC EXPL  18-2787 LH/1040
