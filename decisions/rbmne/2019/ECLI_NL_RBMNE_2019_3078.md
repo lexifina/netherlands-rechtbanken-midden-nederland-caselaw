@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:3078"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0785", "PJ 2019/104", "PR-Updates.nl PR-2019-0099"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0785", "PJ 2019/104", "PR-Updates.nl PR-2019-0099", "VAAN-AR-Updates.nl 2019-0785", "PR-Updates.nl 2019-0099"]
 ---
 
 # ECLI:NL:RBMNE:2019:3078 Rechtbank Midden-Nederland , 03-07-2019 / 7701422
