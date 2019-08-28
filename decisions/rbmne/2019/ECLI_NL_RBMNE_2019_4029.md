@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:4029"
-published_in: ["Rechtspraak.nl", "JAR 2019/231", "AR-Updates.nl 2019-0932", "JIN 2020/3 met annotatie van Bakker, P.", "PR-Updates.nl PR-2019-0138", "PJ 2020/96"]
+published_in: ["Rechtspraak.nl", "JAR 2019/231", "AR-Updates.nl 2019-0932", "JIN 2020/3 met annotatie van Bakker, P.", "PR-Updates.nl PR-2019-0138", "PJ 2020/96", "VAAN-AR-Updates.nl 2019-0932", "PR-Updates.nl 2019-0138"]
 ---
 
 # ECLI:NL:RBMNE:2019:4029 Rechtbank Midden-Nederland , 28-08-2019 / 7293118
