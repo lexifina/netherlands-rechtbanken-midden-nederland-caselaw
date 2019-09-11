@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:4389"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1003", "PR-Updates.nl PR-2019-0137"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1003", "PR-Updates.nl PR-2019-0137", "VAAN-AR-Updates.nl 2019-1003", "PR-Updates.nl 2019-0137"]
 ---
 
 # ECLI:NL:RBMNE:2019:4389 Rechtbank Midden-Nederland , 11-09-2019 / 7523797 / MC EXPL  19-1218
