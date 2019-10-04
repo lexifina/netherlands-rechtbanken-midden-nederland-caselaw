@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:4639"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0143", "PJ 2020/77"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0143", "PJ 2020/77", "PR-Updates.nl 2019-0143"]
 ---
 
 # ECLI:NL:RBMNE:2019:4639 Rechtbank Midden-Nederland , 04-10-2019 / C/16/484759 / KG ZA 19-495
