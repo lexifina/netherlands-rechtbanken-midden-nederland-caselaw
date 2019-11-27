@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6141"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0039", "PR-Updates.nl PR-2020-0023", "PJ 2020/21 met annotatie van B. Degelink"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0039", "PR-Updates.nl PR-2020-0023", "PJ 2020/21 met annotatie van B. Degelink", "VAAN-AR-Updates.nl 2020-0039", "PR-Updates.nl 2020-0023"]
 ---
 
 # ECLI:NL:RBMNE:2019:6141 Rechtbank Midden-Nederland , 27-11-2019 / 6902090 UC EXPL  18-5658 JH/1050
