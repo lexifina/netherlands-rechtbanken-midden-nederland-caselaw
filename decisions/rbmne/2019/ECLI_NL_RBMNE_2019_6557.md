@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6557"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0088"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0088", "PR-Updates.nl 2020-0088"]
 ---
 
 # ECLI:NL:RBMNE:2019:6557 Rechtbank Midden-Nederland , 28-11-2019 / NL19.4162
