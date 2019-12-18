@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6112"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0057", "XpertHR.nl 2020-20003029", "PR-Updates.nl PR-2020-0028"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0057", "PR-Updates.nl PR-2020-0028", "VAAN-AR-Updates.nl 2020-0057", "Brightmine 2020-20003029", "PR-Updates.nl 2020-0028"]
 ---
 
 # ECLI:NL:RBMNE:2019:6112 Rechtbank Midden-Nederland , 18-12-2019 / 8133082
