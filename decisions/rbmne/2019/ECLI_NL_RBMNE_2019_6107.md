@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2019:6107"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0019", "PR-Updates.nl PR-2020-0012", "PJ 2020/33 met annotatie van T. Huijg"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0019", "PR-Updates.nl PR-2020-0012", "PJ 2020/33 met annotatie van T. Huijg", "VAAN-AR-Updates.nl 2020-0019", "PR-Updates.nl 2020-0012"]
 ---
 
 # ECLI:NL:RBMNE:2019:6107 Rechtbank Midden-Nederland , 18-12-2019 / 7655476 UC EXPL 19-3521 JH/1050
