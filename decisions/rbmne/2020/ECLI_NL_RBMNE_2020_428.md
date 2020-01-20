@@ -1,0 +1,162 @@
+---
+ecli: "ECLI:NL:RBMNE:2020:428"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "UTR - 19 _ 4891"
+decided: "2020-01-20"
+published: "2020-02-06"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:428"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2020:428 Rechtbank Midden-Nederland , 20-01-2020 / UTR - 19 _ 4891
+
+## Inhoudsindicatie
+
+Shishalounge, staken activiteiten, intrekken horeca-exploitatievergunning
+
+Samenvatting:
+
+Verweerder heeft niet de horeca-exploitatievergunning van de exploitant kunnen intrekken én ook niet kunnen bepalen dat hij zijn activiteiten moet staken. Verweerder heeft namelijk niet aannemelijk gemaakt dat eiser een shishalounge exploiteert in plaats van een eetcafé. Verweerder heeft bij eiser een controle uitgevoerd en naar aanleiding daarvan heeft verweerder het vermoeden kunnen ontlenen dat eiser mogelijk een shishalounge exploiteert in plaats van een eetcafé. Maar om dit daadwerkelijk aannemelijk te achten, had verweerder met meer moeten komen dan de resultaten van de enkele controle. Daarom ontbreekt de grondslag voor het intrekken van de horeca-exploitatievergunning en om te bepalen dat hij zijn activiteiten moet staken.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 19/4891
+
+uitspraak van de enkelvoudige kamer van 20 januari 2020 in de zaak tussen
+
+[eiser] h.o.d.n. [eetcafé] , te [woonplaats] , eiser
+(gemachtigde: mr. Z.M. Nasir),
+
+en
+
+de burgemeester én het college van burgemeester en wethouders van de gemeente Nieuwegein, verweerder
+
+(gemachtigde: mr. R.A. Hanoeman, mr. Y.W.J. Dofferhoff).
+
+Procesverloop
+
+In het besluit van 31 mei 2019 (het primaire besluit 1) heeft verweerder aan eiser een last onder bestuursdwang opgelegd. De last houdt in dat eiser de exploitatie van [eetcafé] op het adres [adres] te [vestigingsplaats] moet staken en gestaakt moet houden vanaf uiterlijk vrijdag 31 mei 2019 om 19.00 uur.
+
+In het besluit van 19 juni 2019 (het primaire besluit 2) heeft verweerder de aan eiser verstrekte horeca-exploitatievergunning voor de exploitatie van [eetcafé] op het adres [adres] te [vestigingsplaats] ingetrokken.
+
+Eiser heeft tegen de primaire besluiten bezwaar gemaakt en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+In de uitspraak van 18 juli 2019 heeft de voorzieningenrechter het verzoek tot het treffen van een voorlopige voorziening toegewezen (ECLI:NL:RBMNE:2019:3287).
+
+Op 13 november 2019 heeft eiser beroep ingesteld tegen het uitblijven van een beslissing op zijn bezwaren tegen de primaire besluiten.
+
+In het besluit van 21 november 2019 (het bestreden besluit) heeft verweerder de bezwaren van eiser ongegrond verklaard.
+
+Eiser heeft meegedeeld het niet eens te zijn met het bestreden besluit. Verder heeft eiser de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+Op 2 januari 2020 heeft een zitting plaatsgevonden en is het verzoek om een voorlopige voorziening te treffen behandeld. Na afloop van de zitting heeft de voorzieningenrechter onmiddellijk uitspraak gedaan op het verzoek (UTR 19/4994).
+
+Partijen hebben de rechtbank telefonisch toestemming gegeven om zonder (nadere) zitting uitspraak te doen op het beroep.
+
+Overwegingen
+
+Inleiding
+
+1. Eiser exploiteert [eetcafé] en heeft hiervoor op 30 oktober 2018 een horeca-exploitatievergunning verleend gekregen. Verweerder heeft aanleiding gezien voor een controle bij [eetcafé] op 28 mei 2019 omstreeks 22.40 uur. Naar aanleiding van de resultaten van die controle heeft verweerder bepaald dat eiser de exploitatie van [eetcafé] moet stoppen en heeft verweerder vervolgens de horeca-exploitatievergunning ingetrokken. Deze procedure gaat over de vraag of verweerder voldoende aannemelijk heeft gemaakt dat voldaan is aan de voorwaarden om tot het opleggen van de last die inhoudt dat eiser moet stoppen met zijn activiteiten en de voorwaarden voor het intrekken van de vergunning. Daarbij is de kern van het geschil gelegen in de vraag of de hoofdactiviteiten van het eetcafé bestonden uit het aanbieden van shisha in plaats van het aanbieden van gerechten.
+
+Beroep tegen het niet tijdig nemen van een besluit
+
+2. Inmiddels is er een beslissing op de bezwaren van eiser, maar dat is genomen nadat eiser bij de rechtbank beroep had ingesteld tegen het niet tijdig nemen van een beslissing op zijn bezwaren. Voor zover eisers beroep zich daar nog tegen richt, is de rechtbank van oordeel dat eiser geen belang meer heeft bij een inhoudelijke beoordeling van dit deel van het beroep. Verweerder heeft namelijk een beslissing genomen en heeft aan eiser een dwangsom toegekend. Het is niet gesteld of gebleken dat de hoogte van de dwangsom niet klopt. Omdat eiser geen belang meer heeft bij een oordeel over het uitblijven van een beslissing op zijn bezwaren, verklaart de rechtbank het beroep tegen het niet tijdig nemen van een besluit niet-ontvankelijk.
+
+3. De rechtbank stelt vast dat het beroep tegen het niet tijdig nemen van een besluit ook betrekking heeft op het alsnog genomen besluit (artikel 6:20, derde lid, van de Algemene wet bestuursrecht, Awb). In dit geval dus het bestreden besluit. De rechtbank kan en zal hier dan ook een inhoudelijk oordeel over geven.
+
+Waar zijn de besluiten van verweerder op gebaseerd?
+
+4. Verweerder heeft op grond van artikel 2:28 van de Algemene plaatselijke verordening (APV) bepaald dat eiser de exploitatie van [eetcafé] moet stoppen. Verweerder legt hieraan ten grondslag dat eiser een shishalounge exploiteert en dat dit niet is toegestaan met de aan hem verleende horeca-exploitatievergunning.
+
+Op grond van artikel 1:6 van de APV heeft verweerder eisers horeca-exploitatievergunning ingetrokken. Verweerder legt hieraan ten grondslag dat eiser bij het verkrijgen van de horeca-exploitatievergunning onjuiste of onvolledige gegevens heeft verstrekt, omdat hij niet heeft aangegeven dat hij een shishalounge wilde exploiteren (onderdeel a). Als de eerste grondslag niet zou opgaan, legt verweerder hieraan ten grondslag dat de horeca-exploitatievergunning niet zou zijn verleend als hij had geweten dat eiser een shishalounge wilde exploiteren (onderdeel b). Tot slot kan volgens verweerder het besluit worden gedragen door het gegeven dat eiser zich niet heeft gehouden aan de voorschriften en beperkingen die aan de vergunning verbonden zijn, omdat eiser een shishalounge exploiteert én omdat er geen leidinggevende aanwezig was tijdens de controle (onderdeel c).
+
+Verweerder baseert het besluit op de volgende stukken:
+
+een proces-verbaal van de politie van 30 april 2019;
+
+een proces-verbaal van de politie van 11 juni 2019;
+
+een proces-verbaal van de politie van 6 augustus 2019;
+
+een proces-verbaal van de politie van 8 augustus 2019;
+
+een constateringsrapport stadstoezicht van [A] van 29 mei 2019;
+
+een constateringsrapport stadstoezicht van [A] en [B] van 29 mei 2019;
+
+een constateringsrapport stadstoezicht van [C] van 31 mei 2019;
+
+een inspectierapport van Veiligheidsregio Utrecht (VRU) van [D] over de inspectie op 28 mei 2019;
+
+meerdere print-screens van reacties op sociale media over [eetcafé] .
+
+5. Verweerder stelt zich op het standpunt dat het voor hem voldoende duidelijk is dat eisers hoofdactiviteit bestaat uit het aanbieden van shisha. Volgens verweerder volgt dit uit de stukken die zijn opgesteld naar aanleiding van de controle op 28 mei 2019. Tijdens die controle is een groot aantal waterpijpen aangetroffen, kooltjes, tabak en gasbranders (kachel). Ook waren er op dat moment veel bezoekers aanwezig die shisha aan het roken waren. Verweerder ziet niet in dat hij zijn besluit niet kan baseren op de resultaten van deze controle en de overige informatie, zoals de berichten op sociale media. Verder merkt verweerder op dat hij niet betwist dat eiser ook drank en etenswaar aanbiedt, maar dat dit gezien moet worden als nevenactiviteit. De hoofdactiviteit is het exploiteren van een shishalounge, aldus verweerder.
+
+Waarom is eiser het niet met de besluitvorming eens?
+
+6. Eiser voert aan dat verweerder geen gebruik heeft kunnen maken van zijn bevoegdheid om een last onder bestuursdwang op te leggen en om zijn vergunning in te trekken. Volgens eiser heeft verweerder niet aannemelijk gemaakt dat zijn hoofdactiviteit bestaat uit het aanbieden van shisha. Verweerder heeft slechts één keer gecontroleerd, wat een momentopname is. Eiser betwist niet dat hij destijds shisha aanbod, maar dit werd slechts gedaan als nevenactiviteit. Zijn hoofdactiviteit bestond en bestaat nog steeds uit het exploiteren van een eetcafé. Eiser stelt zich op het standpunt dat de controle op 28 mei 2019 ook met de overige informatie onvoldoende grondslag biedt voor het bestreden besluit.
+
+Hoe moet de rechtbank het bestreden besluit toetsen?
+
+7. Er is in de uitspraak van 18 juli 2019 door de voorzieningenrechter een voorlopig oordeel gegeven. Kort samengevat was de voorzieningenrechter van oordeel dat de informatie van verweerder onvoldoende was om de conclusie te kunnen dragen dat de hoofdactiviteit van eiser in het eetcafé het aanbieden van shisha was. De rechtbank stelt vast dat verweerder – ten opzichte van de primaire besluiten en de uitspraak van de voorzieningenrechter – geen nieuwe feiten of omstandigheden aan de last en de intrekking ten grondslag heeft gelegd. Wel heeft verweerder bepaalde punten nader gemotiveerd en/of onderbouwd (zoals de nadere toelichting over de term ‘rookwaren’ uit de APV en het indienen van de processen-verbaal van 6 en 8 augustus 2019). De rechtbank zal in deze procedure opnieuw kijken of wat verweerder aan het besluit ten grondslag heeft gelegd, voldoende is om de besluiten te kunnen dragen. Daarbij is van belang vast te stellen dat verweerder voor de last en de intrekking bepalend heeft gevonden dat hij van mening is dat eisers hoofdactiviteit bestaat uit het aanbieden van shisha.
+
+8. Het is aan verweerder om aannemelijk te maken (met voldoende onderbouwing) dat eisers hoofdactiviteit bestaat uit het aanbieden van shisha en dat verweerder daarom de bevoegdheid heeft tot het nemen van de bestreden beslissing. Dit is aan verweerder, omdat het hier gaat om voor eiser ingrijpende, belastende, besluiten. De kernvraag is hier met andere woorden: heeft verweerder aannemelijk gemaakt dat eiser een shishalounge exploiteert in plaats van een eetcafé.
+
+Oordeel van de rechtbank
+
+9. De rechtbank is van oordeel dat verweerder niet aannemelijk heeft gemaakt dat eiser een shishalounge exploiteert in plaats van een eetcafé en overweegt daartoe als volgt.
+
+Verweerder baseert zich op de in overweging 4 opgesomde stukken. Zoals verweerder op zitting heeft gezegd, mag hij in beginsel uitgaan van de juistheid van deze stukken. De inhoud hiervan wordt ook niet betwist. De rechtbank is – anders dan verweerder – van oordeel dat uit de inhoud van de processen-verbaal, de rapporten en de print-screens niet de conclusie kan worden getrokken dat aannemelijk is dat eisers hoofdactiviteit bestaat uit het aanbieden van shisha. Daarvoor vindt de rechtbank het volgende van belang.
+
+Uit de stukken blijkt dat tijdens de controle een groot aantal waterpijpen in opslag zijn aangetroffen (61 stuks) en andere gebruiksvoorwerpen om shisha aan te bieden (waterpijptabak, kooltjes, tabak, gasbrander, menukaart met verschillende smaken tabak). Verder is geconstateerd dat ten tijde van de controle gasten aan het roken waren en tien waterpijpen in gebruik waren. De rechtbank kan verweerder volgen dat ten tijde van de controle het er alle schijn van had dat eisers hoofdactiviteit bestond uit het aanbieden van shisha. Maar de resultaten van deze enkele controle zijn in dit geval onvoldoende om te kunnen concluderen dat aannemelijk is dat eiser hoofdzakelijk een shishalounge exploiteert. Er zijn gevallen denkbaar dat een enkele controle voldoende is. Bijvoorbeeld als in een eetcafé alleen shishabenodigdheden worden aangetroffen en niets wat duidt op het exploiteren van een eetcafé (zoals een werkende keuken, inventaris, etenswaar, drankvoorraad, etc.). Dat is hier niet het geval. Zo is er bijvoorbeeld een ingerichte keuken met bijbehorende inventaris aangetroffen en een menukaart waarop verschillende etenswaar en dranken worden aangeboden. Dat verweerder stelt dat er geen (vies) bestek en borden tijdens de controle zijn aangetroffen, volgt de rechtbank niet. Dit blijkt namelijk niet zo eenduidig en kenbaar uit de stukken. Daarbij vindt de rechtbank het tijdstip waarop de controle heeft plaatsgevonden van belang, namelijk rond 22.40 uur. Het is niet verwonderlijk dat er op dat tijdstip niet meer gegeten wordt. Verder vindt de rechtbank niet dat de inrichting van de ruimte en de grootte van de tafels per se kenmerkend is voor een shishalounge. Het is de rechtbank namelijk onduidelijk wat een typische inrichting voor een shishalounge is en waarom deze inrichting niet (ook) bij een eetcafé zou passen. Dat de inrichting dermate professioneel zou zijn dat het niet anders kan dan dat eiser in feite een shishalounge is, volgt de rechtbank dan ook niet.
+
+Het proces-verbaal dat verweerder voor het eerst in het bestreden besluit heeft genoemd (het proces-verbaal van 6 augustus 2019), zou moeten onderbouwen dat eiser buiten de controle om ook shisha heeft aangeboden. Daarvoor biedt het proces-verbaal echter onvoldoende aanknopingspunten. Het klopt dat op een ander moment ook een groot aantal waterpijpen in het pand van eiser is aangetroffen (namelijk op 16 april 2019 om 14.00 uur) maar er is niet waargenomen dat shisha ook daadwerkelijk werd aangeboden of werd gebruikt. Het geeft dus geen nader inzicht in de activiteiten van eiser. Ook de door verweerder overgelegde reacties op sociale media over [eetcafé] laten geen eenduidig beeld zien dat eiser hoofdzakelijk een shishalounge is. Verschillende reacties hebben namelijk ook betrekking op het zijn van een eetcafé.
+
+Kortom: naar aanleiding van de resultaten van de controle heeft verweerder het vermoeden kunnen ontlenen dat eiser mogelijk een shishalounge exploiteert in plaats van een eetcafé. Maar om dit daadwerkelijk aannemelijk te achten, had verweerder met meer moeten komen dan de resultaten van de enkele controle.
+
+10. Verweerder heeft dus niet aannemelijk gemaakt dat eiser als hoofdactiviteit heeft het aanbieden van shisha. Nu verweerder dit wel op die manier aan de last en de intrekking ten grondslag heeft gelegd, is er geen andere conclusie mogelijk dan dat de grondslag ontbreekt voor het opleggen van de last onder bestuursdwang en het intrekken van de horeca-exploitatievergunning. De beroepsgrond slaagt.
+
+11. Het beroep is hierom al gegrond. Wat verder is aangevoerd behoeft dan ook geen bespreking.
+
+Wat zijn de gevolgen van dit oordeel?
+
+12. De rechtbank vernietigt het bestreden besluit. De rechtbank ziet geen aanleiding om een bestuurlijke lus toe te passen. Verweerder is met de uitspraak van de voorzieningenrechter van 18 juli 2019 voldoende in de gelegenheid gesteld om nader onderzoek te doen. Verder ziet de rechtbank geen aanleiding om de rechtsgevolgen van het vernietigde bestreden besluit in stand te laten. Verweerder heeft zijn bevoegdheden namelijk aangewend met het standpunt dat eisers hoofdactiviteit bestaat uit het aanbieden van shisha. Nu dat niet voldoende aannemelijk is gemaakt, ontbreekt de grondslag voor de last en de intrekking. Aangezien verweerder de primaire besluiten op hetzelfde standpunt heeft gebaseerd, ziet de rechtbank wel aanleiding om zelf in de zaak te voorzien. In die zin dat het primaire besluit wordt herroepen. Dat betekent dat de primaire besluiten niet langer bestaan en er voor eiser dus geen plicht is zijn activiteiten te staken en dat de horeca-exploitatievergunning voor de exploitatie van [eetcafé] niet is ingetrokken. De keuze om al dan niet een nieuw belastend primair besluit te nemen, ligt bij verweerder.
+
+13. Ten overvloede merkt de rechtbank op dat het bestreden besluit is gebaseerd op artikel 2:28 en artikel 1:6 van de APV. Het bestreden besluit geeft er geen blijk van dat het optreden tegen overtredingen van het Bouwbesluit 2012 (in combinatie gezien met de Wet algemene bepalingen omgevingsrecht) een zelfstandige grond is. Daarom ziet de rechtbank niet in dat het college van burgemeester en wethouders bevoegd zou zijn en het bestreden besluit mede door haar ondertekend moest worden.
+
+14. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt.
+
+15. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 2.362,50 (twee punten voor de bezwaarschriften, een punt voor het bijwonen van de hoorzitting, een half punt voor het indienen van het beroepschrift tegen het uitblijven van een besluit en een punt voor het indienen van het inhoudelijke beroepschrift met een waarde per punt van € 525,- en een wegingsfactor 1).
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep tegen het niet tijdig nemen van een besluit niet-ontvankelijk;-	verklaart het beroep tegen het bestreden besluit gegrond;-	vernietigt het bestreden besluit;
+
+- herroept de primaire besluiten;
+
+- draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 2.362,50.
+
+Deze uitspraak is gedaan door mr. V.E. van der Does, rechter, in aanwezigheid van mr. S. Westerhof, griffier. De beslissing is in het openbaar uitgesproken op 20 januari 2020.
+
+griffier						rechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
