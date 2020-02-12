@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:478"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0210", "PR-Updates.nl PR-2020-0040", "JAR 2020/77"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0210", "PR-Updates.nl PR-2020-0040", "JAR 2020/77", "VAAN-AR-Updates.nl 2020-0210", "PR-Updates.nl 2020-0040"]
 ---
 
 # ECLI:NL:RBMNE:2020:478 Rechtbank Midden-Nederland , 12-02-2020 / 8176688
