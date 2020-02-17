@@ -1,0 +1,199 @@
+---
+ecli: "ECLI:NL:RBMNE:2020:714"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "UTR - 19 _ 2826"
+decided: "2020-02-17"
+published: "2020-02-25"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:714"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2020:714 Rechtbank Midden-Nederland , 17-02-2020 / UTR - 19 _ 2826
+
+## Inhoudsindicatie
+
+Wet inburgering, inburgeringstermijn en -boete. Verzoek van eiser om verlenging van de inburgeringstermijn wegens medische omstandigheden. Verweerder wijst dit verzoek af en legt eiser een boete op omdat hij niet binnen de termijn is ingeburgerd (artikel 31 lid 1 en artikel 7b lid 1 Wet inburgering). Het advies dat verweerder aan dit besluit ten grondslag legt is naar het oordeel van de rechtbank onzorgvuldig, omdat de medisch adviseur niet inhoudelijk op de ptss van eiser is ingegaan. In een aanvullend advies doet de medisch adviseur dit wel, zodat dit advies wel zorgvuldig is. Eiser heeft op zijn beurt niet aannemelijk gemaakt dat hem geen verwijt treft ter zake van het niet tijdig voldoen aan zijn inburgeringsplicht (artikel 7b, derde lid, onder a Wet inburgerging). Beroep gegrond, rechtsgevolgen in stand gelaten.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 19/2826
+
+uitspraak van de enkelvoudige kamer van 17 februari 2020 in de zaak tussen
+
+[eiser] , te [woonplaats] , eiser,
+
+en
+
+De Minister van Sociale Zaken en Werkgelegenheid, verweerder
+(gemachtigde: mr. B.C. Rots).
+
+Procesverloop
+
+Bij besluit van 8 januari 2019 (het primaire besluit) heeft verweerder aan eiser een bestuurlijke boete van € 1.250,- opgelegd omdat hij niet binnen de inburgeringstermijn heeft voldaan aan de inburgeringsplicht.
+
+Bij besluit van 21 juni 2019 (het bestreden besluit) heeft verweerder de hoogte van de boete verlaagd naar € 500,- en het bezwaar van eiser voor het overige ongegrond verklaard.
+
+Eiser heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 8 januari 2020. Eiser is naar de zitting gekomen, bijgestaan door de heer [A] , begeleider van eiser bij [.] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Inleiding
+
+1.1.
+
+Eiser moet inburgeren en heeft daarvoor van Dienst Uitvoering Onderwijs (DUO) van 14 juli 2014 tot 28 december 2017 de tijd gekregen. Op 14 november 2017 heeft eiser DUO gevraagd om deze inburgeringstermijn te verlengen, omdat het hem vanwege psychische problemen niet lukt om binnen de termijn in te burgeren. Hij geeft daarbij informatie over zijn medische situatie. Hierop schakelt DUO een medisch adviseur in om de informatie te beoordelen. Die adviseert op basis van de informatie om de inburgeringstermijn niet te verlengen. DUO neemt dit advies over in zijn beslissing op bezwaar. Eiser is het oneens met het advies en de beslissing van DUO. De vraag die de rechtbank moet beantwoorden is of DUO eisers verzoek om verlenging van de inburgeringstermijn mocht afwijzen. Het is afhankelijk van het antwoord op deze vraag of verweerder ook terecht een boete aan eiser heeft opgelegd vanwege overschrijding van de inburgeringstermijn. Eiser heeft geen afzonderlijke beroepsgronden aangevoerd tegen de boete.
+
+1.2.
+
+De voor deze zaak relevante wetgeving is opgenomen in de bijlage.
+
+Oordeel rechtbank
+
+2.
+
+2.1.
+
+De rechtbank oordeelt dat DUO mocht beslissen om eisers verzoek om verlenging van de inburgeringstermijn af te wijzen en hem een boete op te leggen vanwege overschrijding van die termijn. Dit mocht zij alleen niet beslissen op basis van het eerste advies van de medisch adviseur van DUO, omdat dit naar het oordeel van de rechtbank onzorgvuldig was. Op dit punt krijgt eiser dus gelijk, zodat het beroep gegrond is. Toch bepaalt de rechtbank dat de uitkomst van het besluit hetzelfde blijft. Dit betekent dat de afwijzing van de verlenging van de termijn en de oplegging van de boete in stand blijven. De reden daarvoor is dat DUO een tweede keer advies heeft gevraagd en dat dit tweede advies volgens de rechtbank wel voldoet aan de eisen. Hiermee heeft DUO als het ware goedgemaakt wat bij het eerste advies miste. De zogeheten rechtsgevolgen van het besluit blijven daarom in stand. Eiser krijgt wat het resultaat van het besluit betreft dus geen gelijk.
+
+2.2.
+
+Hieronder licht de rechtbank toe hoe zij tot dit oordeel komt. Eerst legt de rechtbank uit hoe zij het besluit van DUO heeft getoetst. Vervolgens gaat zij in op het eerste advies van de medisch adviseur van DUO. Tot slot licht de rechtbank toe waarom eiser niet aannemelijk heeft gemaakt dat hij niet op tijd kon inburgeren.
+
+Overwegingen
+
+Hoe heeft de rechtbank het besluit getoetst?
+
+3.
+
+3.1.
+
+Eiser heeft verlenging van de inburgeringstermijn aangevraagd omdat het hem door medische omstandigheden niet lukte om op tijd in te burgeren. Dit moet hij aannemelijk maken. Dat wil zeggen dat eiser met bewijs moet onderbouwen waarom hij niet op tijd kon inburgeren. Eiser heeft informatie gegeven van zijn psychotherapeut.
+
+3.2.
+
+Om deze informatie te beoordelen heeft DUO een medisch adviseur in de hand genomen. Die heeft geoordeeld dat er geen medische redenen waren voor verlenging van inburgeringstermijn. DUO heeft dit oordeel overgenomen.
+
+3.3.
+
+Om de rechtmatigheid van het besluit van DUO te beoordelen heeft de rechtbank eerst bekeken of DUO het advies van de medisch adviseur wel kon overnemen. Daarvoor heeft de rechtbank beoordeeld of het advies voldoet aan de eisen die in het algemeen worden gesteld aan deskundigenadvies. Vervolgens heeft de rechtbank bekeken of het besluit van DUO dat eiser geen recht heeft op verlenging van de inburgeringstermijn in stand kan blijven. Hiervoor heeft zij beoordeeld of eiser aannemelijk heeft gemaakt dat hij vanwege zijn medische situatie niet op tijd kon inburgeren.
+
+Mocht DUO het advies van zijn medisch adviseur opvolgen?
+
+4.
+
+4.1.
+
+DUO heeft het bestreden besluit gebaseerd op het medisch advies van [B] , verzekeringsarts bij [organisatie 1] (de medisch adviseur) van 20 mei 2019. DUO mag het advies van een deskundige, zoals in dit geval de medisch adviseur, alleen opvolgen als het op een zorgvuldige manier tot stand is gekomen en naar inhoud inzichtelijk en concludent is. Dat betekent dat er bijvoorbeeld geen tegenstrijdigheden in het advies mogen staan en dat de conclusies die in het advies zijn getrokken logisch volgen op wat er daarvoor is vastgesteld. Het is aan eiser om met argumenten aan te geven waarom de inhoud van een advies onjuist is of waarom er iets anders mee mis is. Dit kan hij onderbouwen met stukken en eventueel met een advies van een andere deskundige (een contra-expertise).
+
+4.2.
+
+Volgens de medisch adviseur van DUO blijkt uit de medische informatie van eiser niet dat hij tenminste drie maanden achter elkaar geen onderwijs heeft kunnen volgen. Daarom adviseert zij om de verlenging van de inburgeringsperiode af te wijzen. Dit vereiste van drie aaneengesloten maanden niet in staat zijn om onderwijs te volgen, is de vaste invulling die DUO heeft gegeven aan de mogelijkheid die de wet biedt om de inburgeringstermijn te verlengen. Als dit niet blijkt, verlengt DUO de inburgeringstermijn in het algemeen niet.
+
+4.3.
+
+De medisch adviseur gaat in haar advies in op de eigen verklaring van eiser van 12 januari 2018 en op de brief van zijn psychotherapeut van 22 mei 2018. De psychotherapeut stelt in februari 2018 een posttraumatische stressstoornis (ptss) vast bij eiser en licht toe dat hij hier waarschijnlijk al veel eerder mee rondliep, maar dit maskeerde. Eiser voert aan dat de medisch adviseur in haar advies van 20 mei 2019 te weinig heeft stilgestaan bij de diagnose ptss en de gevolgen daarvan voor eisers mogelijkheid om op tijd in te burgeren.
+
+4.4.
+
+De rechtbank is dit met eiser eens. De medisch adviseur schrijft in haar advies dat de diagnose ptss in februari 2018 buiten de inburgeringsperiode valt en daarom niet meegenomen kan worden in de beoordeling. Zij is dus niet inhoudelijk ingegaan op de ptss en de mogelijke gevolgen daarvan voor het op tijd kunnen voldoen aan de inburgeringsverplichtingen. Omdat de psychotherapeut vermeldt dat eiser voordat zij de diagnose stelde mogelijk al met ptss kampte, vindt de rechtbank dit niet concludent. Het valt namelijk niet te concluderen dat eiser binnen de inburgeringstermijn geen last heeft gehad van zijn ptss bij het volgen van lessen en proberen te behalen van inburgeringsexamens. Daarom had de adviseur de ptss niet volledig buiten beschouwing mogen laten.
+
+4.5.
+
+Omdat eiser op dit punt gelijk krijgt, is het beroep gegrond. De rechtbank oordeelt dat het bestreden besluit niet op een zorgvuldige manier is genomen. Daarom vernietigt de rechtbank het besluit.
+
+Heeft eiser aannemelijk gemaakt dat hij niet binnen de gestelde termijn kon inburgeren?
+
+5.
+
+5.1.
+
+Nadat eiser in beroep is gegaan, heeft DUO zijn medisch adviseur nogmaals om advies gevraagd. Zij geeft dit tweede advies op 20 december 2019 en gaat daarbij ook in op het bezwaarschrift van eiser en op de uitdraai van het medisch journaal van zijn huisarts over de periode 18 oktober 2016 tot 18 juli 2019, die hij in beroep heeft overgelegd. In dit advies gaat de medisch adviseur wél inhoudelijk in op de mogelijke gevolgen van eisers ptss voor zijn inburgering. Zij concludeert dat op basis van de informatie die eiser heeft aangeleverd, niet te zeggen is of hij dusdanig veel klachten van zijn ptss had, dat hij niet op tijd kon inburgeren. De conclusie van haar tweede advies blijft dus dezelfde – niet toekennen van verlenging van de termijn – maar de manier waarop zij tot die conclusie komt is anders dan bij het eerste advies.
+
+5.2.
+
+De rechtbank is van oordeel dat dit tweede advies van 20 december 2019 wel zorgvuldig en inhoudelijk concludent is. Op dit advies mocht DUO zijn besluit dus wel baseren. Dat betekent dat DUO de onzorgvuldige manier waarop zij het besluit - op basis van het eerste advies - had genomen als het ware heeft hersteld met het tweede advies. Dat is voor de rechtbank aanleiding om te kijken of de rechtsgevolgen van het besluit in stand kunnen blijven. Dat betekent dat de uitkomst van het besluit – de afwijzing van het verzoek om verlenging van de inburgeringstermijn – dezelfde blijft.
+
+5.3.
+
+Zoals de rechtbank eerder overwoog is het aan eiser om aannemelijk te maken dat het niet aan hem te wijten was dat hij niet binnen de termijn kon inburgeren. Uit de informatie van eisers psychotherapeut blijkt dat hij zulke zware psychische klachten heeft dat hij is doorverwezen van de basis-GGZ naar de specialistische GGZ. Ook komt naar voren dat hij in een moeilijke situatie verkeert. In beroep heeft eiser nog het medisch journaal van zijn huisarts overgelegd, waaruit blijkt dat hij voor zijn problemen is doorverwezen naar [organisatie 2] , gespecialiseerd in de behandeling van posttraumatische stressstoornissen van oorlogsslachtoffers. Tijdens de zitting heeft eiser verklaard dat hij zich niet kon concentreren op de inburgeringslessen, omdat hij in zijn hoofd steeds bezig is met alles wat hij heeft meegemaakt en omdat hij slecht slaapt, zodat hij op den duur ook niet meer naar de lessen wilde gaan.
+
+5.4.
+
+De rechtbank vindt het zeker voorstelbaar dat de psychische klachten van eiser van invloed zijn geweest op zijn prestaties bij de inburgeringscursussen en –examens. Uit de ingediende stukken wordt alleen niet duidelijk in welke mate en op welke manier eiser hier last van heeft gehad. De rechtbank leest dat ook in het tweede advies van de medisch adviseur van DUO. De rechtbank kan op basis van de informatie die zij heeft daarom niet zeggen dat eiser niet in staat was om binnen de inburgeringstermijn van drie jaar zijn inburgering af te ronden. Daarvoor is de medische informatie van eisers psychotherapeut en zijn huisarts te algemeen en te weinig specifiek. Ook wat eiser op de zitting heeft gezegd is onvoldoende om dat aan te nemen. Naar het oordeel van de rechtbank heeft eiser daarom niet aannemelijk gemaakt dat het niet aan hem te wijten is dat hij niet binnen de gestelde termijn kon inburgeren.
+
+5.5.
+
+Dat betekent dat de afwijzing van de verlenging van de inburgeringstermijn in stand blijft. De boete blijft daarom ook gelden.
+
+Conclusie
+
+6. Het beroep is gegrond en de rechtbank vernietigt het bestreden besluit.
+
+7. De rechtbank ziet aanleiding de rechtsgevolgen van het vernietigde besluit in stand te laten, omdat DUO het onzorgvuldige eerste advies heeft aangevuld met een tweede advies dat wel aan de eisen voldoet.
+
+8. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat DUO het door eiser betaalde griffierecht aan hem vergoedt.
+
+9. Voor een veroordeling van DUO in de proceskosten is geen reden, omdat eiser niet heeft gevraagd om DUO in die kosten te veroordelen en omdat niet is gebleken dat hij kosten heeft gemaakt die voor vergoeding in aanmerking komen.
+
+Beslissing
+
+De rechtbank:-	verklaart het beroep gegrond;-	vernietigt het bestreden besluit;
+
+- bepaalt dat de rechtsgevolgen van het vernietigde bestreden besluit in stand blijven;
+
+- draagt verweerder op het betaalde griffierecht van € 47,- aan eiser te vergoeden.
+
+Deze uitspraak is gedaan door mr. J.J. Catsburg, rechter, in aanwezigheid van mr. E.H.W. Schierbeek, griffier. De beslissing is in het openbaar uitgesproken op 17 februari 2020.
+
+griffier						rechter
+
+Afschrift verzonden aan partijen op:
+
+Wat kunt u doen als u het niet eens bent met deze uitspraak?
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+
+Bijlage: relevante wetgeving
+
+Wet inburgering
+
+Artikel 7
+
+1. De inburgeringsplichtige behaalt:
+
+a. het inburgeringsexamen (…)
+
+2. Het inburgeringsexamen bestaat uit de volgende onderdelen:
+
+a. het participatieverklaringstraject;
+
+b. de examinering van mondelinge en schriftelijke vaardigheden in de Nederlandse taal op ten minste het niveau A2 van het Europese Raamwerk voor Moderne Vreemde Talen, en
+
+c. de examinering van de kennis van de Nederlandse samenleving.
+
+Artikel 7b
+
+1. De inburgeringsplichtige behaalt binnen drie jaar de onderdelen van het inburgeringsexamen, bedoeld in artikel 7, tweede lid, onderdelen b en c.
+
+2. De termijn van drie jaar, genoemd in het eerste lid, vangt aan op het moment dat de vreemdeling inburgeringsplichtig wordt.
+
+3. Onze Minister verlengt de termijn van drie jaar, genoemd in het eerste lid:a. indien de inburgeringsplichtige aannemelijk maakt dat hem geen verwijt treft ter zake van het niet tijdig behalen van deze onderdelen van het inburgeringsexamen.(…)
+
+Artikel 31
+
+1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die de onderdelen van het inburgeringsexamen, bedoeld in artikel 7, tweede lid, onderdelen b en c, niet binnen de in artikel 7b, eerste lid, genoemde termijn, of de met toepassing van artikel 7b, derde lid, of van de krachtens artikel 8, eerste lid, aanhef en onderdeel a, gestelde regels verlengde termijn, heeft behaald.
+
+(…)
+
+In artikel 7b, derde lid, van de Wet Inburgering (zie de bijlage).
