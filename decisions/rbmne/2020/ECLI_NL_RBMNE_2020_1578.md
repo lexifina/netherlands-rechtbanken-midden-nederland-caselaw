@@ -1,0 +1,165 @@
+---
+ecli: "ECLI:NL:RBMNE:2020:1578"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "19/1095"
+decided: "2020-03-18"
+published: "2020-04-21"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:1578"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2020:1578 Rechtbank Midden-Nederland , 18-03-2020 / 19/1095
+
+## Inhoudsindicatie
+
+Herziening uitwonendenbeurs
+
+Studiefinanciering, Uitwonendenbeurs, Bewijslast
+
+Samenvatting:
+
+Verweerder heeft de uitwonendenbeurs van eiseres herzien, omdat hij aannemelijk vindt dat zij ten tijde van de controle niet op het brp-adres (het adres van haar zus woonde). Verweerder baseert zich op een verklaring van de buurvrouw dat zij eiseres niet kent en op het feit dat er bij de controle weinig spullen van eiseres zijn aangetroffen. Eiseres heeft erkend dat zij ten tijde van de controle elders verbleef, maar stelt dat zij wel haar hoofdverblijf op het brp-adres had. De rechtbank vindt dat verweerder teveel waarde hecht aan de twee door hem genoemde bewijsmiddelen en onvoldoende heeft gekeken naar feiten die een sterke aanwijzing zijn vóór bewoning, zoals het tonen door haar van haar kamer, haar matras, haar administratie op haar telefoon en haar verbinding met het wifi-netwerk van de woning, het feit dat zij in de woning is aangetroffen (omdat zij er nog altijd veel over de vloer kwam) en het feit dat zij een sleutel had waarmee zij de woning binnenging.
+
+Daarbij vindt de rechtbank van belang dat de omstandigheid dat de pas bevallen zus van eiseres ruimte nodig had voor zichzelf en dat eiseres daarom zes weken elders verbleef, wel degelijk zou kunnen verklaren waarom er ten tijde van de controle geen, althans weinig, spullen van eiseres op het brp-adres lagen. Verweerder heeft een aantal van die andere indicaties weliswaar in het bestreden besluit genoemd, maar niet kunnen volstaan met de niet nader gemotiveerde conclusie dat deze indicaties niet afdoen aan verweerders standpunt dat eiseres niet op het brp-adres woonde. De rechtbank acht het hoogst onwaarschijnlijk dat verweerder de gebreken die aan de besluitvorming kleven alsnog kan herstellen met gegevens die dateren van op of rond de datum van de controle in september 2018 en daarom voorziet zij zelf in de zaak door het primaire besluit te herroepen.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 19/1095
+
+uitspraak van de enkelvoudige kamer van 18 maart 2020 in de zaak tussen
+
+[eiseres] , te [woonplaats] , eiseres
+(gemachtigde: mr. N.M. Fakiri),
+
+en
+
+de minister van Onderwijs, Cultuur en Wetenschap, verweerder
+(gemachtigde: mr. G.J.M. Naber).
+
+Procesverloop
+
+Bij besluit van 7 november 2018 (het primaire besluit) heeft verweerder het recht van eiseres
+
+op studiefinanciering herzien en de uitwonendenbeurs vanaf 1 februari 2016 omgezet in studiefinanciering voor thuiswonenden. Het bedrag van € 6.858,60 aan te veel ontvangen studiefinanciering heeft verweerder omgezet in een schuld.
+
+Bij besluit van 7 februari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard.
+
+Eiseres heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Eiseres heeft vervolgens haar schriftelijke beroepsgronden ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 18 oktober 2019. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+Inleiding.
+
+1. Eiseres staat vanaf 25 oktober 2015 ingeschreven in de basisregistratie personen (brp) op het adres [adres] te [woonplaats] (brp-adres). Vanaf 1 februari 2016 volgt zij de opleiding HBO-Rechten aan de hogeschool [hogeschool] in [vestigingsplaats] . In opdracht van de Dienst Uitvoering Onderwijs (DUO) is een controle uitgevoerd naar de woonsituatie van eiseres op het brp-adres. De controleurs hebben hun bevindingen neergelegd in een rapportage van 23 september 2018 (de rapportage).
+
+2. Uit de rapportage blijkt – beknopt en zakelijk weergegeven – het volgende. Op 19 september 2018 omstreeks 20.00 uur hebben twee controleurs een huisbezoek aan het brp-adres afgelegd. Eiseres opende de deur en heeft de controleurs door de woning geleid. Zij verklaarde dat haar zus met haar man en kinderen op het brp-adres woonde en dat eiseres en haar nichtje, tot eind augustus 2018 op de zolderkamer woonden. Eiseres verklaarde verder dat zij sinds eind augustus 2018 weer bij haar ouders verblijft en dat zij haar spullen heeft meegenomen, dat zij nog wel vaak in de woning van haar zus komt, en dat zij met haar zus heeft afgesproken dat zij na zes weken, in de tweede week van oktober, weer haar kamer op het brp-adres zou betrekken. Het tijdelijke verblijf van eiseres bij haar ouders had te maken met de bevalling van de zus van eiseres. Eiseres toonde een loonstrookje van juni en juli 2018 en een stageovereenkomst waarop als haar adres het brp-adres stond vermeld. Eiseres verklaarde verder dat haar telefoonabonnement en bankrekening nog wel op het adres van haar ouders stonden. Eiseres toonde de controleurs ook dat haar telefoon was verbonden met de wifi in de woning. Eiseres verklaarde verder dat zij geen huurcontract heeft met haar zus, maar dat zij wel een sleutel van de woning heeft. Nadat de controleurs de woning hadden verlaten, zagen zij dat eiseres de woning met een sleutel weer binnen ging. Op 22 september 2018 hebben twee controleurs een buurtonderzoek gedaan. De bewoonster van huisnummer [huisnummer] verklaarde dat op het brp-adres een gezin woont bestaande uit een man, vrouw en drie kinderen. De bewoonster verklaarde dat er normaal burencontact is met de bewoners van het brp-adres en dat zij de namen [A] en [eiseres] niet kende. Verder verklaarde zij nooit een jongvolwassene als bewoner van het brp-adres te hebben gezien. De bewoner van huisnummer [huisnummer] verklaarde desgevraagd niets te weten over de gezinssamenstelling op het brp-adres. Op het aanbellen van de controleurs op de huisnummers [huisnummers] werd niet gereageerd.
+
+3. In het primaire besluit, gehandhaafd in bezwaar, heeft verweerder het recht van eiseres op studiefinanciering herzien en het te veel ontvangen bedrag omgezet in een schuld. Verweerder stelt dat uit de controle is gebleken dat eiseres niet haar hoofdverblijf op het brp-adres had. Verweerder baseert dit standpunt, samengevat, op de verklaring van eiseres tijdens het huisbezoek dat zij al haar spullen heeft meegenomen naar haar ouders, omdat zij vanwege de bevalling van haar zus tijdelijk bij haar ouders verblijft, en op de verklaringen de buurvrouw van huisnummer [huisnummer] tijdens het buurtonderzoek dat zij op het brp-adres geen jongvolwassene heeft gezien en dat zij de voornaam van eiseres niet kent. De afwezigheid van spullen van eiseres op het brp-adres, bezien in samenhang met de verklaringen van de buurvrouw, duiden volgens verweerder niet op bewoning door eiseres. Dat eiseres vanwege de bevalling van haar zus tijdelijk elders verbleef, kan volgens verweerder het geheel ontbreken van spullen van eiseres op het brp-adres niet verklaren. Eiseres heeft volgens verweerder vervolgens ook geen onomstotelijk bewijs geleverd dat zij voorafgaand aan het huisbezoek wél op het brp-adres heeft gewoond.
+
+4. Eiseres is het met het bestreden besluit niet eens. Op wat zij heeft aangevoerd wordt hieronder ingegaan.
+
+Mochten de controleurs het brp-adres betreden?
+4. Eiseres betoogt dat de huisbezoeken op 19 september 2018 omstreeks 20.12 uur (de rechtbank begrijpt dat eiseres 20.00 uur bedoelt, 20.12 uur is het tijdstip waarop op 17 september 2018 bij de woning is aangebeld) en 20.32 uur in strijd waren met artikel 8 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) en dat het tijdens die huisbezoeken verkregen bewijs daarom onrechtmatig is verkregen en dus niet aan de besluitvorming ten grondslag mocht worden gelegd. In haar schriftelijke beroepsgronden heeft eiseres hiertoe aangevoerd dat zij de controleurs niet mondeling toestemming heeft gegeven om de woning om 20.00 uur te betreden, dat ten aanzien van die binnentreding een ‘informed consent-formulier’ ontbreekt en dat de controleurs de zus van eiseres pas na het opnieuw betreden van de woning omstreeks 20:32 uur hebben gevraagd om toestemming om het huisbezoek af te leggen, terwijl zij dat daarvoor hadden moeten doen. Tijdens de zitting heeft eiseres verder alsnog erkend dat zij de controleurs mondeling toestemming heeft gegeven voor de binnentreding om 20.00 uur, maar ook gesteld dat zij die toestemming actief heeft ingetrokken na het telefoongesprek met haar zus.
+
+5. Volgens vaste rechtspraak mag in het algemeen van de juistheid van een tegenover een sociaal rechercheur of handhavingsspecialist afgelegde en ondertekende verklaring worden uitgegaan en heeft een latere intrekking of ontkenning van die verklaring weinig betekenis. Dit geldt ook voor een tegenover een controleur van verweerder afgelegde verklaring en ongeacht of het daarop betrekking hebbende rapport op ambtseed is opgemaakt.
+
+6. Uit de rapportage blijkt dat eiseres de controleurs op 19 september 2018 wel degelijk mondeling toestemming heeft gegeven om de woning omstreeks 20.00 uur te betreden, zoals eiseres tijdens de zitting ook heeft erkend. Hoewel uit de rapportage verder niet volgt dat eiseres een ‘informed consent-formulier’ heeft ondertekend, blijkt daaruit wel dat de controleurs zich voor de binnentreding omstreeks 20.00 uur tegenover eiseres hebben gelegitimeerd, dat zij haar het doel van hun komst hebben uitgelegd en dat zij haar hebben verteld dat zij niet verplicht is om mee te werken en het weigeren van medewerking geen gevolgen zou hebben voor de studiefinanciering. Er was dus wel sprake van ‘informed consent’, in die zin dat de toestemming van de belanghebbende berust op volledige en juiste informatie over de reden en het doel van het huisbezoek en over de gevolgen die het weigeren van toestemming voor de verlening van de studiefinanciering heeft. Naar het oordeel van de rechtbank was de binnentreding om 20.00 uur gelet hierop rechtmatig en niet in strijd met artikel 8 van het EVRM.
+
+Nog daargelaten dat een eenmaal verleende toestemming tot binnentreding in het geval van een rechtmatige binnentreding naar het oordeel van de rechtbank niet met terugwerkende kracht kan worden ingetrokken, blijkt uit de rapportage verder dat de controleurs zich, voordat zij de woning omstreeks 20.32 uur opnieuw betraden, ook tegenover de zus van eiseres hebben gelegitimeerd en haar het doel van hun bezoek hebben uitgelegd. De zus van eiseres heeft er vervolgens mee ingestemd om het gesprek binnen voort te zetten en eenmaal binnen heeft zij een ‘formulier toestemming huisbezoek’ ondertekend. Verder hebben de controleurs eiseres (en haar zus) er toen nogmaals op gewezen dat zij niet verplicht waren tot medewerking. Gelet hierop was naar het oordeel van de rechtbank ook de voortzetting van het huisbezoek omstreeks 20.32 uur rechtmatig en niet in strijd met artikel 8 EVRM.
+
+7. Omdat de controleurs de woning op 19 september 2018 om 20.00 uur en 20.32 uur rechtmatig zijn binnengetreden, mocht verweerder hun bevindingen tijdens die binnentredingen bij de besluitvorming betrekken. De rechtbank concludeert dan ook dat dit betoog van eiseres niet slaagt.
+
+Was controleur [controleur] bevoegd?
+
+8. Eiseres bestrijdt verder de bevoegdheid van controleur [controleur] , één van de twee controleurs die op 17 september 2018 bij de woning hebben aangebeld en op 22 september 2018 het buurtonderzoek hebben gedaan. Eiseres betoogt dat op de overgelegde arbeidsovereenkomst van deze controleur het uurloon ontbreekt, terwijl uit de uitspraak van de CRvB van 5 februari 2018 volgt dat het uurloon van belang is om te kunnen bepalen of een controleur als bevoegd controleur heeft te gelden.
+
+9. Ook dit betoog slaagt niet.  De door eiseres aangehaalde uitspraak is niet vergelijkbaar met deze zaak. In de uitspraak van de CRvB ging het om een controleur van wie op voorhand vaststond dat zij een stagiaire was en over wie vervolgens is geoordeeld dat ook het bedrag dat zij heeft ontvangen voor haar werkzaamheden zo gering was dat haar positie niet kan worden gelijkgesteld personen die op basis van een arbeidsovereenkomst controlebevoegd zijn. De rechtbank is het eens met verweerders standpunt dat de bevoegdheid van de controleur in deze zaak met de overgelegde arbeidsovereenkomst voldoende is onderbouwd. Dat op de arbeidsovereenkomst het uurloon om redenen van privacy is weggelakt, geeft geen reden om aan de bevoegdheid van de controleur te twijfelen. Verweerder mocht daarom ook de bevindingen van controleur [controleur] bij de besluitvorming betrekken.
+
+Heeft verweerder aannemelijk gemaakt dat eiseres niet op het brp-adres woonde?
+
+10. Volgens artikel 1.5, eerste lid, van de Wet studiefinanciering 2000 (Wsf) komt voor het normbedrag voor een uitwonende deelnemer in aanmerking de deelnemer die voldoet aan de volgende verplichtingen:
+
+de deelnemer woont op het adres waaronder hij in de basisregistratie personen staat ingeschreven, en
+
+het woonadres van de deelnemer is niet het adres waaronder zijn ouders of een van hen in de basisregistratie personen staat of staan ingeschreven.
+
+Op grond van artikel 7.1, tweede lid, aanhef en onder c, van de Wsf, voor zover van belang, vindt herziening plaats op grond van het feit dat te veel of te weinig studiefinanciering is toegekend.
+
+In artikel 9.9, tweede lid, van de Wsf is, voor zover hier van belang, bepaald dat herziening plaatsvindt met ingang van de datum van de laatste adreswijziging van de deelnemer in de basisregistratie personen.
+
+11. Voorop staat dat de herziening van de studiefinanciering van eiseres naar de norm voor een thuiswonende studerende een voor haar belastend besluit is, zodat het aan verweerder is om de nodige kennis te vergaren over de relevante feiten en omstandigheden. Dit betekent dat verweerder aannemelijk moet maken dat eiseres niet heeft voldaan aan de verplichtingen bedoeld in artikel 1.5 van de Wsf.
+
+12. In deze zaak gaat het om de vraag of verweerder aannemelijk heeft gemaakt dat eiseres niet op het brp-adres woonde ten tijde van de controle. De rechtbank merkt hierbij op niet elk tijdelijk verblijf op een ander adres betekent dat iemand niet (meer) op het brp-adres woont. De rechtbank zal hierna uitleggen wat dit in deze zaak betekent.
+
+12. Eiseres voert als belangrijkste argument aan dat zij de woning aan het brp-adres tijdelijk had verlaten, maar dat zij daar wel haar hoofdverblijf heeft gehouden en daar nog woont in de zin van artikel 1.5 van de Wsf. Eiseres heeft tijdens de controle een verklaring gegeven die er op neer komt dat zij tijdelijk niet op het brp-adres verblijft, maar binnen een afzienbare periode weer terugkeert. Ter onderbouwing van haar standpunt heeft eiseres een onderzoeksrapportage van 21 augustus 2018 van L.J. Berkhout, psycholoog in opleiding tot GZ-psycholoog en L.E. van Wonderen-Werkhoven, GZ-psycholoog overgelegd (het intakeverslag). Daarnaast heeft eiseres een aantal afdrukken van foto’s overgelegd, met metadata waaruit volgens haar blijkt dat deze op het brp-adres zijn genomen. Ook heeft zij twee facturen en een foto van een postpakket, waarop haar naam en het brp-adres zijn vermeld, overgelegd. Ten slotte heeft eiseres elf schriftelijke getuigenverklaringen overgelegd.
+
+12. De rechtbank overweegt dat verweerder op zich terecht heeft opgemerkt dat uit de verklaring van eiseres bleek dat zij op het moment van de controle niet op het brp-adres overnachtte. Dat er nagenoeg geen spullen van eiseres in de woning zijn aangetroffen staat ook vast. Dit zijn aanwijzingen dat eiseres niet woonde op het brp-adres. Het is in dit geval echter de vraag of daarmee, in het licht van de verklaring van eiseres zoals zij die onmiddellijk – tijdens de controle – gaf en daarna heeft herhaald en onderbouwd, (in bewijsrechtelijke zin) voldoende aannemelijk is gemaakt dat zij niet op het brp-adres woonde. Daarvoor moest verweerder naar het oordeel van de rechtbank meer onderzoek doen naar de vraag of eiseres door tijdelijk elders te verblijven ook haar hoofdverblijf heeft verplaatst, in dit geval van het brp-adres naar het adres van haar ouders. Verweerder heeft dat niet gedaan en eiseres heeft vervolgens bovendien een nadere onderbouwing gegeven van haar stellingen.
+
+15. In beroep heeft eiseres een verslag van 21 augustus 2018 overgelegd van de intake van haar zus (de hoofdbewoner van het brp-adres) bij psycholoog Berkhout. Uit dit intakeverslag volgt, voor zover hier van belang, dat de zus van eiseres bij haar psycholoog heeft verklaard dat zij twee inwonenden heeft, haar zusje en een nichtje, en dat zij het gevoel heeft geen ruimte te hebben voor zichzelf, nu zij hoogzwanger is. Uit het intakeverslag volgt ook dat de zus van eiseres het advies heeft gekregen om haar woonsituatie aan te passen door de inwonenden, eiseres en haar nichtje, tijdelijk elders te laten verblijven.
+
+De rechtbank ziet in het intakeverslag een nadere onderbouwing van het al sinds de controle door eiseres ingenomen standpunt dat zij ten tijde van de controle tijdelijk (ca. zes weken) elders verbleef in verband met de bevalling van haar zus, maar dat zij wel op het brp-adres haar hoofdverblijf had. De rechtbank stelt verder vast dat het intakeverslag geheel in lijn is met dat sinds de controle door eiseres ingenomen standpunt. Verweerders stelling ter zitting dat uit het intakeverslag niet blijkt om welke periode het gaat volgt de rechtbank niet, onder meer omdat is vermeld dat de zus op 21 augustus 2018 door de psychologen is gezien, zij hoogzwanger was en niet in geschil is dat de zus eind augustus 2018 is bevallen.
+
+Verder overweegt de rechtbank dat het intakeverslag ook in lijn is met de in bezwaar overgelegde brief van de zus van eiseres van 16 november 2018. Daarin schrijft de zus van eiseres, voor zover hier van belang, dat eiseres sinds de inschrijving op het brp-adres altijd daar heeft gewoond en dat haar spullen ook altijd daar hebben gestaan, met uitzondering van de periode rondom de bevalling.
+
+De rechtbank ziet geen reden om aan de verklaring van de zus van eiseres tegenover haar psycholoog te twijfelen. Daarbij acht de rechtbank van belang dat het intakegesprek  ongeveer een maand voor de controle heeft plaatsgevonden, toen eiseres nog geen belang had bij deze voor haar gunstige uitlating van haar zus. Verweerders stelling ter zitting, in het licht van het intakeverslag, dat eiseres onomstotelijk moet bewijzen dat zij op het brp-adres woonde ten tijde van de controle en dat het intakeverslag niet voldoet aan die hoge bewijsmaatstaf volgt de rechtbank niet. In dit stadium van de beoordeling is immers nog aan de orde de vraag of verweerder aannemelijk heeft gemaakt dat eiseres niet op het brp-adres woonde.
+
+16. De rechtbank ziet het voorgaande als een sterke aanwijzing dat, hoewel eiseres ten tijde van de controle tijdelijk elders verbleef, zij toen wel op het brp-adres haar hoofdverblijf had. Verweerder vindt in dit geval van groot belang dat er geen spullen van eiseres op het brp-adres lagen en dat de buurvrouw van nummer [huisnummer] heeft gezegd dat zij eiseres niet kende. Eiseres bestrijdt verweerders vaststelling over het ontbreken van  haar spullen en zij vindt dat hij ook niet zonder meer mag afgaan op wat de buurvrouw heeft gezegd. De rechtbank oordeelt dat, daargelaten of er echt geen spullen van eiseres in de woning zijn aangetroffen en of aan de verklaringen van de buurvrouw het gewicht toekomt dat verweerder eraan hecht, deze twee bewijsmiddelen in dit geval onvoldoende gewicht in de schaal leggen tegenover de sterke aanwijzingen die er zijn vóór bewoning. Daarbij vindt de rechtbank van belang dat de omstandigheid dat de pas bevallen zus van eiseres ruimte nodig had voor zichzelf en dat eiseres daarom zes weken elders verbleef, wel degelijk zou kunnen verklaren waarom er ten tijde van de controle geen, althans weinig, spullen van eiseres op het brp-adres lagen. Verder acht de rechtbank van belang dat, zoals eiseres zelf ook aanvoert, uit de rapportage ook blijkt van andere aanwijzingen die vóór bewoning door eiseres pleiten, zoals het tonen door haar van haar kamer, haar matras, haar administratie op haar telefoon en haar verbinding met het wifi-netwerk van de woning, het feit dat zij in de woning is aangetroffen (omdat zij er nog altijd veel over de vloer kwam) en het feit dat zij een sleutel had waarmee zij de woning binnenging. Verweerder heeft een aantal van die andere indicaties weliswaar in het bestreden besluit genoemd, maar niet kunnen volstaan met de niet nader gemotiveerde conclusie dat deze indicaties niet afdoen aan verweerders standpunt dat eiseres niet op het brp-adres woonde.
+
+17. Omdat verweerder niet aannemelijk heeft gemaakt dat eiseres ten tijde van de controle niet op het brp-adres woonde, gaat het wettelijk vermoeden dat eiseres ook in de periode daarvóór niet daar woonde (welk wettelijk vermoeden alleen met onomstotelijk bewijs van de kant van eiseres kan worden weerlegd) in dit geval niet op. Artikel 9.9, tweede lid, van de Wsf, is dus niet van toepassing.
+
+Conclusie.
+
+18. Gelet op het voorgaande is het beroep gegrond en behoeven de overige beroepsgronden, alsook de elf getuigenverklaringen die eiseres in beroep heeft overgelegd, geen bespreking. Het bestreden besluit is in strijd met artikel 3:2 en artikel 7:12, eerste lid, van de Algemene wet bestuursrecht (Awb). De rechtbank vernietigt het bestreden besluit. Omdat de rechtbank het hoogst onwaarschijnlijk acht dat verweerder de gebreken die aan de besluitvorming kleven alsnog kan herstellen met gegevens die dateren van op of rond de datum van de controle in september 2018, ziet de rechtbank aanleiding om zelf in de zaak te voorzien door het primaire besluit te herroepen en te bepalen dat deze uitspraak in de plaats treedt van het vernietigde bestreden besluit
+
+18. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiseres het door haar betaalde griffierecht van € 47,- zal vergoeden. Daarnaast ziet de rechtbank aanleiding om verweerder te veroordelen in de door eiseres gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en een wegingsfactor 1). De rechtbank ziet geen aanleiding om proceskosten voor de bezwaarfase te vergoeden omdat eiseres zelf het inleidende bezwaarschrift heeft ingediend en niet gebleken is van een hoorzitting of andere voor vergoeding in aanmerking komende handelingen die door de gemachtigde zijn verricht.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het bestreden besluit;
+
+bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;
+
+herroept het primaire besluit van 7 november 2018;
+
+draagt verweerder op het betaalde griffierecht van € 47,- aan eiseres te vergoeden;
+
+veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.050,-.
+
+Deze uitspraak is gedaan door mr. O. Veldman, rechter, in aanwezigheid van mr. M.E.C. Bakker, griffier. De beslissing is in het openbaar uitgesproken op 18 maart 2020.
+
+De rechter is verhinderd
+
+de uitspraak te ondertekenen.
+
+griffier						rechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep
+
+Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 19 augustus 2015, ECLI:NL:CRVB:2015:2788.
+
+ECLI:NL:CRVB:2018:269.
+
+Zie in dit verband ook de uitspraken van de CRvB van 2 december 2015 (ECLI:NL:CRVB:2015:4192) en 1 juni 2016 (ECLI:NL:CRVB:2016:1943).
