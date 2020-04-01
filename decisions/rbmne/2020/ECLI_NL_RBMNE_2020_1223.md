@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:1223"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0082", "PJ 2020/103"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0082", "PJ 2020/103", "PR-Updates.nl 2020-0082"]
 ---
 
 # ECLI:NL:RBMNE:2020:1223 Rechtbank Midden-Nederland , 01-04-2020 / 7700902
