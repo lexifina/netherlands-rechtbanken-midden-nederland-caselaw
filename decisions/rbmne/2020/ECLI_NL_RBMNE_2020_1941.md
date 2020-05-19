@@ -1,0 +1,118 @@
+---
+ecli: "ECLI:NL:RBMNE:2020:1941"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "UTR 19/3064-T"
+decided: "2020-05-19"
+published: "2020-05-25"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:1941"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2020:1941 Rechtbank Midden-Nederland , 19-05-2020 / UTR 19/3064-T
+
+## Inhoudsindicatie
+
+Wob
+
+Eiser heeft een Wob-verzoek ingediend voor informatie over het besluit van het Rijk tot het uitfaseren van de anti-virussoftware van [bedrijfsnaam]. De documenten die verweerder heeft geweigerd zijn verzamelingen e-mailberichten aan verschillende Rijksonderdelen waarin uitgevraagd wordt of gebruik wordt gemaakt van producten en diensten van [bedrijfsnaam] en de antwoorden van de Rijksonderdelen op deze vraag.
+
+De rechtbank stelt vast dat eiser terecht aanvoert dat verweerder niet per zelfstandig onderdeel heeft gemotiveerd of een weigeringsgrond zich tegen openbaarmaking verzet. Niet in te zien valt dat dat in dit geval niet mogelijk was.
+
+De rechtbank volgt eiser niet in zijn stelling dat de weigeringsgronden zijn achterhaald nu de uitfasering is afgerond. Verweerder heeft duidelijk uiteengezet dat van een volledige uitfasering nog geen sprake is en hoe dat komt. De rechtbank ziet geen aanleiding om hieraan te twijfelen.
+
+Verweerder stelt zich op het standpunt dat het de veiligheid van de Staat kan schaden als door de openbaarmaking inzicht wordt gegeven in de door de verschillende Rijksonderdelen gebruikte anti-virussoftware. De rechtbank volgt verweerder op zichzelf wel in deze stelling, maar niet in zijn stelling dat dit ook betekent dat de volledige antwoorden van de verschillende Rijksonderdelen geheim moeten blijven. Het gegeven antwoord kan volledig geanonimiseerd worden. Ook is onvoldoende gemotiveerd hoe het geven van inzicht in de antwoorden maakt dat het aantal Rijksonderdelen dat software van [bedrijfsnaam] gebruikt of gebruikt heeft, inzichtelijk wordt en als gevolg daarvan ook de veiligheid van de Staat kan worden geschaad.
+
+Verweerder heeft een beroep gedaan op artikel 10. Tweede lid, aanhef en onder b, van de Wob, maar naar het oordeel van de rechtbank heeft verweerder onvoldoende gemotiveerd hoe bij marktpartijen inzicht kan ontstaan in de vervangingsvraag van departementen en organisatieonderdelen als de namen van departementen en organisatieonderdelen worden weggelakt.
+
+De rechtbank doet een tussenuitspraak en stelt verweerder in de gelegenheid om de geconstateerde gebreken te herstellen.
+
+(ZIE OOK: ECLI:NL:RBMNE:2020:1939, ECLI:NL:RBMNE:2020:1940, ECLI:NL:RBMNE:2020:1942)
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 19/3064-T
+
+tussenuitspraak van de meervoudige kamer van 19 mei 2020 in de zaak tussen
+
+[eiser] , te [woonplaats] , eiser
+
+en
+
+de Minister van Binnenlandse Zaken en Koninkrijksrelaties, verweerder
+(gemachtigde: mr. E.C. Pietermaat en ir. A.W. van der Togt).
+
+Procesverloop
+
+Bij besluit van 10 oktober 2018 (het primaire besluit) heeft verweerder gedeeltelijk geweigerd documenten op grond van de Wet openbaarheid van bestuur (Wob) openbaar te maken.
+
+Bij besluit van 4 juli 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.
+
+Eiser heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 20 februari 2020. Het beroep is gelijktijdig behandeld met het beroep met nummer UTR 19/3582. Eiser is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.
+
+Overwegingen
+
+Op 25 mei 2018 heeft eiser, in zijn hoedanigheid als journalist bij [..] , een Wob-verzoek ingediend bij het ministerie van Justitie en Veiligheid over informatie met betrekking tot het besluit om de antivirussoftware van [bedrijfsnaam] B.V. ( [bedrijfsnaam] ) voor het Rijk uit te faseren. Dit verzoek is voor gedeeltelijke behandeling doorgestuurd aan verweerder. Verweerder heeft bij het primaire besluit elf documenten gedeeltelijk openbaar gemaakt en twee documenten (te weten documenten 10 en 11; een verzameling e-mailberichten) volledig geweigerd. Dit besluit is na bezwaar gehandhaafd.
+
+Eiser heeft zijn beroep beperkt tot de twee volledig geweigerde documenten 10 en 11.
+
+Gelet op de gezamenlijke behandeling van de beroepen van eiser en van [bedrijfsnaam] ter zitting en gelet op het overige verloop van beide procedures ziet de rechtbank aanleiding om de gronden zoals door [bedrijfsnaam] in zijn beroep naar voren gebracht, te beschouwen als te zijn ingeroepen door eiser.
+
+Met toepassing van artikel 8:29 van de Algemene wet bestuursrecht (Awb) heeft de rechtbank kennis genomen van documenten 10 en 11. Eiser heeft hiervoor toestemming verleend als bedoeld in artikel 8:29, vijfde lid, van de Awb.De redenen van verweerder om de documenten niet openbaar te maken
+
+Verweerder heeft aan de weigering tot openbaarmaking het volgende ten grondslag gelegd. Het gaat om een aantal e-mails met antwoorden van Rijksonderdelen naar aanleiding van de uitvraag over het gebruik van producten en diensten van [bedrijfsnaam] bij de verschillende Rijksonderdelen en de doorgeleiding van deze e-mails aan het NBV. De openbaarmaking van deze e-mailberichten zou concreet inzicht geven in het gebruik van beveiligingsoplossingen van diverse departementen of organisatieonderdelen. Openbaarmaking geeft direct dan wel indirect inzicht in de gebruikte systemen, waardoor kwaadwillende personen hun (cyber)aanvalstechnieken hierop kunnen afstemmen. Een cyberaanval kan leiden tot onevenredige benadeling van departementen of onderdelen (artikel 10, tweede lid, onder g, van de Wob). In het ernstigste geval zou het ook de veiligheid van de Staat kunnen benadelen (artikel 10, eerste lid, onder b, van de Wob). Tot slot legt verweerder artikel 10, tweede lid, aanhef en onder b, van de Wob aan de weigering ten grondslag. De documenten geven potentieel inzicht in gebruikte producten bij departementen of organisatieonderdelen. Gelet op de kamerbrief van de minister van Justitie en Veiligheid en de intentie om producten op termijn uit te faseren, geeft deze informatie op haar beurt inzicht in de potentiële vervangingsvraag. Hierdoor kan de onderhandelings-positie van de Staat in het gedrang komen.Niet per passage beoordeeld
+
+Eiser voert aan dat onduidelijk is of verweerder per passage heeft beoordeeld of een weigeringsgrond zich tegen openbaarmaking verzet. Na kennisneming van de documenten stelt de rechtbank vast dat dit niet het geval is. Het is vaste rechtspraak dat een bestuursorgaan in beginsel per zelfstandig onderdeel van een document, zoals een alinea, moet beoordelen of het belang van openbaarmaking opweegt tegen een belang dat zich verzet tegen openbaarmaking, tenzij het gaat om steeds dezelfde of vergelijkbare informatie en een herhaalde motivering geen redelijk doel dient. Naar het oordeel van de rechtbank is van dat laatste in dit geval geen sprake. Niet valt in te zien waarom in dit geval geen beoordeling per alinea kan plaatsvinden. De e-mailberichten bestaan uit de uitvraag, of het doorzetten van de uitvraag in andere bewoordingen en een antwoord daarop. Deze passages zijn goed van elkaar te scheiden, zodat een beoordeling per onderdeel eenvoudig gemaakt kan worden. Daarbij merkt de rechtbank nog op dat de uitvraag zoals die gedaan is, in andere documenten wel openbaar gemaakt is, zodat er ook geen reden is om openbaarmaking van die passages in deze e-mails te weigeren. Uitfasering wel of niet voltooid
+
+Eiser heeft aangevoerd dat geen van de gebruikte weigeringsgronden nog kan slagen als de uitfasering is afgerond en het is onaannemelijk dat dat nog niet het geval is.  Verweerder heeft naar het oordeel van de rechtbank in het verweerschrift duidelijk uiteengezet dat van een volledige uitfasering nog geen sprake is en hoe dat komt. De rechtbank ziet geen reden om aan deze uitleg van verweerder te twijfelen en gaat er voor het vervolg van de beoordeling dan ook vanuit dat nog geen volledige uitfasering heeft plaatsgevonden. Ter zitting heeft verweerder opgemerkt dat inderdaad een andere situatie ontstaat op het moment dat de software wel volledig is uitgefaseerd. Weigeringsgrond veiligheid van de Staat (artikel 10, eerste lid, onder b, van de Wob)
+
+Verweerder stelt zich op het standpunt dat het de veiligheid van de Staat kan schaden als door de openbaarmaking inzicht wordt gegeven in de door de verschillende Rijksonderdelen gebruikte anti-virussoftware. De rechtbank volgt verweerder op zichzelf wel in deze stelling, maar niet in zijn stelling dat dit ook betekent dat de volledige antwoorden van de verschillende Rijksonderdelen geheim moeten blijven. Naar het oordeel van de rechtbank valt niet in te zien waarom het niet mogelijk zou zijn om bijvoorbeeld de naam van het desbetreffende Rijksonderdeel en de gebruikte software weg te lakken, alsmede andere gegevens die ertoe zouden kunnen leiden dat duidelijk wordt om welk Rijksonderdeel het gaat. Daarmee zou het gegeven antwoord volledig geanonimiseerd kunnen worden en is er geen sprake meer van (vrees voor) herleidbaarheid. Verweerder heeft onvoldoende gemotiveerd hoe de veiligheid van de Staat dan nog geschaad kan worden. Ook is onvoldoende gemotiveerd hoe het geven van inzicht in de antwoorden maakt dat het aantal Rijksonderdelen dat software van [bedrijfsnaam] gebruikt of gebruikt heeft, inzichtelijk wordt en als gevolg daarvan ook de veiligheid van de Staat kan worden geschaad. Verweerder zal, als hij de mening is toegedaan dat ook niet openbaar mag worden hoeveel Rijksonderdelen de software van [bedrijfsnaam] gebruiken of hebben gebruikt, dit dus nader moeten motiveren. Weigeringsgrond economische of financiële belangen van de Staat (artikel 10, tweede lid, onder b, van de Wob)
+
+Naar het oordeel van de rechtbank heeft verweerder aan de weigering tot openbaarmaking ten onrechte ten grondslag gelegd dat de onderhandelingspositie van de Staat in het geding komt. Verweerder heeft onvoldoende gemotiveerd hoe bij marktpartijen inzicht kan ontstaan in de vervangingsvraag van departementen en organisatieonderdelen als de namen van departementen en organisatieonderdelen worden weggelakt. Het is algemeen bekend dat de antivirussoftware van [bedrijfsnaam] volledig wordt uitgefaseerd, maar als niet bekend is waar en wanneer dit precies aan de orde is, ziet de rechtbank niet in hoe marktpartijen hiermee nog hun voordeel zouden kunnen doen. Verweerder zal in de gelegenheid worden gesteld dit nader te motiveren. Weigeringsgrond onevenredige benadeling (artikel 10, tweede lid, onder g, van de Wob)
+
+Omdat verweerder voor deze weigeringsgrond dezelfde argumenten heeft genoemd als voor de hiervoor besproken weigeringsgrond ten aanzien van de veiligheid van de Staat geldt hiervoor hetzelfde als de rechtbank heeft overwogen voor die weigeringsgrond in rechtsoverweging 8. Een beroep op deze weigeringsgrond slaagt dus ook niet als de antwoorden van de verschillende Rijksonderdelen volledig worden geanonimiseerd en de herleidbaarheid naar de Rijksonderdelen en de gebruikte software uit het antwoord wordt weggelakt.Conclusie
+
+11. Zoals hiervoor is overwogen onder rechtsoverwegingen 6, 8, 9 en 10 is het bestreden besluit in strijd met artikel 7:12 van de Awb. Op grond van artikel 8:51a, eerste lid, van de Awb kan de rechtbank het bestuursorgaan in de gelegenheid stellen een gebrek in het bestreden besluit te herstellen of te laten herstellen. Op grond van artikel 8:80a van de Awb doet de rechtbank dan een tussenuitspraak. De rechtbank ziet aanleiding om verweerder in de gelegenheid te stellen het gebrek te herstellen. Dat herstellen kan hetzij met een aanvullende motivering, hetzij, voor zover nodig, met een nieuwe beslissing op bezwaar, na of tegelijkertijd met intrekking van het nu bestreden besluit. Om het gebrek te herstellen, moet verweerder de verzameling e-mailberichten opnieuw beoordelen en per passage motiveren welke weigeringsgrond zich tegen openbaarmaking verzet, met inachtneming van hetgeen de rechtbank hiervoor heeft overwogen over de verschillende weigeringsgronden. De rechtbank bepaalt de termijn waarbinnen verweerder het gebrek kan herstellen op zes weken na verzending van deze tussenuitspraak.
+
+11. Verweerder moet op grond van artikel 8:51b, eerste lid, van de Awb én om nodeloze vertraging te voorkomen zo spoedig mogelijk, maar uiterlijk binnen twee weken, meedelen aan de rechtbank of hij gebruik maakt van de gelegenheid het gebrek te herstellen. Als verweerder gebruik maakt van die gelegenheid, zal de rechtbank eiser in de gelegenheid stellen binnen vier weken te reageren op de herstelpoging van verweerder. In beginsel, ook in de situatie dat verweerder de hersteltermijn ongebruikt laat verstrijken, zal de rechtbank zonder tweede zitting uitspraak doen op het beroep.
+
+11. De rechtbank houdt iedere verdere beslissing aan tot de einduitspraak op het beroep. Dat laatste betekent ook dat zij over de proceskosten en het griffierecht nu nog geen beslissing neemt.
+
+Beslissing
+
+De rechtbank:
+
+- draagt verweerder op binnen twee weken aan de rechtbank mee te delen of hij gebruik maakt van de gelegenheid het gebrek te herstellen;
+
+- stelt verweerder in de gelegenheid om binnen zes weken na verzending van deze tussenuitspraak het gebrek te herstellen met inachtneming van de overwegingen en aanwijzingen in deze tussenuitspraak;
+
+- houdt iedere verdere beslissing aan.
+
+Deze uitspraak is gedaan door mr. L.A. Banga, voorzitter, en mr. M.C. Verra en
+
+mr. M. Eversteijn, leden, in aanwezigheid van mr. M.L. Bressers. Deze uitspraak is gedaan op 19 mei 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.
+
+De voorzitter en de griffier zijn verhinderd om deze uitspraak te ondertekenen.
+
+griffier
+
+voorzitter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze tussenuitspraak staat nog geen hoger beroep open. Tegen deze tussenuitspraak kan hoger beroep worden ingesteld tegelijkertijd met hoger beroep tegen de (eventuele) einduitspraak in deze zaak.
