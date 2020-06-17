@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:2212"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2020/1436", "JAAN 2020/107 met annotatie van Lombert, C.A.M."]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2020/1436", "JAAN 2020/107 met annotatie van mr. C.A.M. Lombert"]
 ---
 
 # ECLI:NL:RBMNE:2020:2212 Rechtbank Midden-Nederland , 17-06-2020 / C/16/501515 / KG ZA 20-192
