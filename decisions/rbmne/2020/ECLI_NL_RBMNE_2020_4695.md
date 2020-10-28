@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:4695"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1420", "PR-Updates.nl PR-2020-0188"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1420", "PR-Updates.nl PR-2020-0188", "VAAN-AR-Updates.nl 2020-1420", "PR-Updates.nl 2020-0188"]
 ---
 
 # ECLI:NL:RBMNE:2020:4695 Rechtbank Midden-Nederland , 28-10-2020 / 8322168
