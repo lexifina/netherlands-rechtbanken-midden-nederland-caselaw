@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2020:5111"
-published_in: ["Rechtspraak.nl", "Computerrecht 2021/6 met annotatie van M. Jansen", "JBP 2021/14 met annotatie van Konings, K.", "P&I 2021, afl. 1, p. 39 met annotatie van mr. M.D. Reijneveld en mr. T.F. Walree", "Mediaforum 2021-2, nr. 5 met annotatie van Q.J. Tjeenk Willink en C.R.F. Plaizier"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2021/6 met annotatie van M. Jansen", "JBP 2021/14 met annotatie van Konings, K.", "P&I 2021, afl. 1, p. 39 met annotatie van mr. M.D. Reijneveld en mr. T.F. Walree", "Mediaforum 2021-2, nr. 5 met annotatie van Q.J. Tjeenk Willink en C.R.F. Plaizier", "VSZ 2021/6"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2022:2173, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2020:5111 Rechtbank Midden-Nederland , 23-11-2020 / UTR 20/2315
@@ -51,7 +52,7 @@ Het beroep tegen het niet-tijdig beslissen heeft op grond van artikel 6:20, derd
 
 Verweerder heeft een verweerschrift ingediend.
 
-De zitting heeft plaatsgevonden op 12 oktober 2020. Namens eiseres zijn verschenen haar bestuurders M. Hoffer en M. Balken, en haar gemachtigden. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.
+De zitting heeft plaatsgevonden op 12 oktober 2020. Namens eiseres zijn verschenen haar bestuurders [A] en [B] , en haar gemachtigden. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.
 
 Overwegingen
 
