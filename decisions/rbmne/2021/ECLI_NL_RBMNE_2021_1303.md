@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:1303"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2021-0117 met annotatie van I.F.M. Lakwijk", "OR-Updates.nl 2021-0158 met annotatie van I.F.M. Lakwijk", "PJ 2021/66", "PR-Updates.nl PR-2021-0089 met annotatie van I.F.M. Lakwijk"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2021-0117 met annotatie van I.F.M. Lakwijk", "OR-Updates.nl 2021-0158 met annotatie van I.F.M. Lakwijk", "PJ 2021/66", "PR-Updates.nl PR-2021-0089 met annotatie van I.F.M. Lakwijk", "PR-Updates.nl 2021-0089"]
 ---
 
 # ECLI:NL:RBMNE:2021:1303 Rechtbank Midden-Nederland , 27-01-2021 / 8383222 AC EXPL 20-685
