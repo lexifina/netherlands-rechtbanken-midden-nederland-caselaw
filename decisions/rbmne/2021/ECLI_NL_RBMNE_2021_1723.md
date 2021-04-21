@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:1723"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0539", "PJ 2021/67", "PR-Updates.nl PR-2021-0077", "VAAN-AR-Updates.nl 2021-0539"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0539", "PJ 2021/67", "PR-Updates.nl PR-2021-0077", "VAAN-AR-Updates.nl 2021-0539", "PR-Updates.nl 2021-0077"]
 ---
 
 # ECLI:NL:RBMNE:2021:1723 Rechtbank Midden-Nederland , 21-04-2021 / 8581679 \ UC EXPL 20-4677  LH/1040
