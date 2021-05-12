@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:1758"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0096"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0096", "PR-Updates.nl 2021-0096"]
 ---
 
 # ECLI:NL:RBMNE:2021:1758 Rechtbank Midden-Nederland , 12-05-2021 / C/16/508479 / HA ZA 20-561
