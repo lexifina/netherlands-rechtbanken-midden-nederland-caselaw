@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:2093"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0092", "PJ 2021/100", "Viditax (FutD) 2021060121", "FutD 2021-1765"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0092", "PJ 2021/100", "Viditax (FutD) 2021060121", "FutD 2021-1765", "PR-Updates.nl 2021-0092"]
 ---
 
 # ECLI:NL:RBMNE:2021:2093 Rechtbank Midden-Nederland , 26-05-2021 / C/16/492403 / HA ZA 19-195 en C/16/493793 / HA ZA 19-258
