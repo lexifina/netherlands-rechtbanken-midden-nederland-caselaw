@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:2936"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1861", "V-N 2021/37.17 met annotatie van Redactie", "Viditax (FutD) 2021072107", "FutD 2021-2362"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1861", "V-N 2021/37.17", "Viditax (FutD) 2021072107", "FutD 2021-2362"]
 ---
 
 # ECLI:NL:RBMNE:2021:2936 Rechtbank Midden-Nederland , 18-06-2021 / AWB - 20 _ 2960
