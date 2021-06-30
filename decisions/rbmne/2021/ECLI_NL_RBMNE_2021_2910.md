@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:2910"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0888", "PR-Updates.nl PR-2021-0136", "PJ 2021/114", "VAAN-AR-Updates.nl 2021-0888"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0888", "PR-Updates.nl PR-2021-0136", "PJ 2021/114", "VAAN-AR-Updates.nl 2021-0888", "PR-Updates.nl 2021-0136"]
 ---
 
 # ECLI:NL:RBMNE:2021:2910 Rechtbank Midden-Nederland , 30-06-2021 / 8198973 UC EXPL  19-13061 JH/1050
