@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:6648"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0081"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0081", "PR-Updates.nl 2022-0081"]
 ---
 
 # ECLI:NL:RBMNE:2021:6648 Rechtbank Midden-Nederland , 22-11-2021 / C/16/522065 / FA RK 21-1133
