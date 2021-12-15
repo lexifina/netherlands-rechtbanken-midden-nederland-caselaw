@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2021:6176"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1618", "PR-Updates.nl PR-2022-0003", "PJ 2022/6", "VAAN-AR-Updates.nl 2021-1618"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1618", "PR-Updates.nl PR-2022-0003", "PJ 2022/6", "VAAN-AR-Updates.nl 2021-1618", "PR-Updates.nl 2022-0003"]
 ---
 
 # ECLI:NL:RBMNE:2021:6176 Rechtbank Midden-Nederland , 15-12-2021 / 8187455 UC EXPL 19-12887 JH/1050
