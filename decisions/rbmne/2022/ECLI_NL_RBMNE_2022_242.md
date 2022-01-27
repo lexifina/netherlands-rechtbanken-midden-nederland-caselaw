@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:242"
-published_in: ["Rechtspraak.nl", "PJ 2022/21", "PR-Updates.nl PR-2022-0053"]
+published_in: ["Rechtspraak.nl", "PJ 2022/21", "PR-Updates.nl PR-2022-0053", "PR-Updates.nl 2022-0053"]
 ---
 
 # ECLI:NL:RBMNE:2022:242 Rechtbank Midden-Nederland , 27-01-2022 / 9589585
