@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:567"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6182, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2022:567 Rechtbank Midden-Nederland , 17-02-2022 / UTR 21/1250
