@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:625"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0356", "PR-Updates.nl PR-2022-0079", "PJ 2022/60", "VAAN-AR-Updates.nl 2022-0356"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0356", "PR-Updates.nl PR-2022-0079", "PJ 2022/60", "VAAN-AR-Updates.nl 2022-0356", "PR-Updates.nl 2022-0079"]
 ---
 
 # ECLI:NL:RBMNE:2022:625 Rechtbank Midden-Nederland , 23-02-2022 / 9499224
