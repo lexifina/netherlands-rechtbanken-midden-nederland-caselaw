@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:665"
 published_in: ["Rechtspraak.nl", "JM 2022/52 met annotatie van Boerema, L."]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2097, Onduidelijk"]]
 ---
 
 # ECLI:NL:RBMNE:2022:665 Rechtbank Midden-Nederland , 24-02-2022 / UTR 21/1911
