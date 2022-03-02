@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:835"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0068", "PJ 2022/42"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0068", "PJ 2022/42", "PR-Updates.nl 2022-0068"]
 ---
 
 # ECLI:NL:RBMNE:2022:835 Rechtbank Midden-Nederland , 02-03-2022 / 9388141 UC EXPL 21-5801
