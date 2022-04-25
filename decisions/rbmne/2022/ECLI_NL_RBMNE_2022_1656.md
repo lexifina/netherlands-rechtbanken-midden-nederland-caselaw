@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:1656"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0142"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0142", "PR-Updates.nl 2022-0142"]
 ---
 
 # ECLI:NL:RBMNE:2022:1656 Rechtbank Midden-Nederland , 25-04-2022 / 503738 en 508076
