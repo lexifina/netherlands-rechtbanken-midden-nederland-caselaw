@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:1791"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5426, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBMNE:2022:1791 Rechtbank Midden-Nederland , 10-05-2022 / UTR 22/810 en UTR 22/811
