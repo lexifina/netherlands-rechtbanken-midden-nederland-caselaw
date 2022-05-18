@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:1864"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0564", "PR-Updates.nl PR-2022-0112", "PJ 2022/68", "VAAN-AR-Updates.nl 2022-0564"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0564", "PR-Updates.nl PR-2022-0112", "PJ 2022/68", "VAAN-AR-Updates.nl 2022-0564", "PR-Updates.nl 2022-0112"]
 ---
 
 # ECLI:NL:RBMNE:2022:1864 Rechtbank Midden-Nederland , 18-05-2022 / 8162944 UC EXPL  19-12383 PK
