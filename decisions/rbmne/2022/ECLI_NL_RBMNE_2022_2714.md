@@ -1,0 +1,85 @@
+---
+ecli: "ECLI:NL:RBMNE:2022:2714"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "22/1192"
+decided: "2022-07-07"
+published: "2022-07-11"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:2714"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2022:2714 Rechtbank Midden-Nederland , 07-07-2022 / 22/1192
+
+## Inhoudsindicatie
+
+pkv na intrekking fictief beroep
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 22/1192
+
+uitspraak van de enkelvoudige kamer van 5 juli 2022 in de zaak tussen
+
+[verzoeker] , te [plaats] , verzoeker,
+(gemachtigde: ir. S. Boonstra),
+
+en
+
+het college van burgemeester en wethouders van de gemeente Soest, verweerder.
+
+Procesverloop
+
+Verzoeker heeft op 14 juli 2021 bij verweerder een bezwaarschrift ingediend tegen het buiten behandeling laten van de aangevraagde omgevingsvergunning.
+
+Bij brief van 31 januari 2022 heeft verzoeker verweerder in gebreke gesteld.
+
+Verzoeker heeft op 17 februari 2022 beroep ingesteld tegen het niet tijdig nemen van een beslissing op bezwaar door verweerder.
+
+Bij besluit van 4 april 2022 (het bestreden besluit) heeft verweerder alsnog beslist op het verzoek van verzoeker.
+
+Bij brief van 6 april 2022 heeft verzoeker het beroep ingetrokken en de rechtbank op grond van artikel 8:75a van de Algemene wet bestuursrecht (Awb) verzocht verweerder bij afzonderlijke uitspraak te veroordelen in de proceskosten.
+
+Verweerder heeft hierop niet gereageerd.
+
+Overwegingen
+
+1. De rechtbank stelt vast dat verweerder alsnog een besluit heeft genomen en in zoverre aan verzoeker is tegemoetgekomen, dat verzoeker om die reden het beroep heeft ingetrokken en dat verzoeker proceskosten heeft gemaakt. Het verzoek is daarom kennelijk gegrond, zodat voortzetting van het onderzoek niet nodig is.
+
+2. De rechtbank ziet dan ook aanleiding verweerder te veroordelen in de kosten die verzoeker in verband met de behandeling van het beroep tot aan deze uitspraak heeft moeten maken.
+
+3. De rechtbank bepaalt de proceskosten op € 379,50,- (1 punt voor het indienen van het beroepschrift, met een waarde per punt van € 759,- en wegingsfactor 0,5) aan kosten van door een derde beroepsmatig verleende rechtsbijstand.
+
+4. In artikel 4:17 van de Awb staat dat als een bestuursorgaan niet op tijd een besluit neemt, het bestuursorgaan een dwangsom moet betalen voor elke dag dat het in gebreke is, voor maximaal 42 dagen. De dwangsom bedraagt de eerste veertien dagen € 23,- per dag, de daaropvolgende veertien dagen € 35,- per dag en de overige dagen € 45,- per dag. Het bestuursorgaan stelt de dwangsom vast binnen twee weken na de laatste dag waarover de dwangsom betaald moet worden (artikel 4:18, lid 1, Awb). Verweerder heeft dit voor zover bekend niet gedaan.
+
+5. Omdat er al ruim 42 dagen zijn verstreken sinds verweerder in gebreke is tot de beslissing op bezwaar van 4 april 2022, stelt de rechtbank de dwangsom vast op het maximale bedrag, € 1.442,-.
+
+6. De rechtbank wijst er ten slotte op dat verweerder, gelet op artikel 8:41, zevende lid, van de Awb, het door verzoeker betaalde griffierecht van € 184,- aan hem dient te vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- veroordeelt verweerder tot betaling van € 379,50,- aan proceskosten. Verweerder moet dit bedrag betalen aan verzoeker.
+
+- stelt de door verweerder te betalen dwangsom vast op  € 1.442,-;
+
+Deze uitspraak is gedaan door mr. R.C. Stijnen, rechter, in aanwezigheid van O. Asafiati, griffier. De beslissing is in het openbaar uitgesproken op 7 juli 2022.
+
+griffier	rechter
+
+Afschrift verzonden aan partijen op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak kunt een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum op de stempel die hierboven staat. Als u graag een zitting wilt waarbij u persoonlijk uw mening aan de rechter kunt geven, kunt u dit in uw verzetschrift aangeven.
