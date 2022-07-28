@@ -1,0 +1,103 @@
+---
+ecli: "ECLI:NL:RBMNE:2022:3813"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "UTR 22/1978"
+decided: "2022-07-28"
+published: "2022-09-23"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:3813"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2022:3813 Rechtbank Midden-Nederland , 28-07-2022 / UTR 22/1978
+
+## Inhoudsindicatie
+
+bnt, kot, gegrond
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 22/1978
+
+uitspraak van de enkelvoudige kamer van 28 juli 2022 in de zaak tussen
+
+[eiseres] , te [woonplaats] , eiseres
+
+en
+
+de Belastingdienst/Toeslagen, verweerder.
+
+Procesverloop
+
+Deze uitspraak gaat over het beroep van eiseres omdat verweerder niet op tijd heeft beslist op haar verzoek tot herbeoordeling in bezwaar.
+
+Overwegingen
+
+1. De rechtbank nodigt partijen niet uit voor een zitting, omdat dat in deze zaak niet nodig is.
+
+2. Als een bestuursorgaan niet op tijd beslist op een aanvraag of bezwaarschrift kan de betrokkene daartegen in beroep gaan. Wel moet de betrokken dan eerst een ‘ingebrekestelling’ aan het bestuursorgaan sturen. Dat wil zeggen dat de betrokkene per brief aan het bestuursorgaan moet laten weten dat er binnen twee weken alsnog beslist moet worden op zijn aanvraag of bezwaarschrift. Eiseres heeft verweerder bij brief van 18 februari 2022 (door verweerder ontvangen op 18 april 2022) in gebreke gesteld. Eiseres heeft daarna op 5 mei 2022 beroep ingesteld bij de rechtbank. Dat is dus na het verstrijken van de beslistermijn van verweerder.
+
+3. Niet in geschil is dat verweerder te laat is met het nemen van een beslissing op het verzoek van eiseres. Als een bestuursorgaan niet op tijd een besluit neemt moet het bestuursorgaan een dwangsom betalen voor elke dag dat het in gebreke is, voor maximaal 42 dagen.De dwangsom bedraagt de eerste veertien dagen € 23,- per dag, de daaropvolgende veertien dagen € 35,- per dag en de overige dagen € 45,- per dag. Het bestuursorgaan stelt de dwangsom vast binnen twee weken na de laatste dag waarover de dwangsom betaald moet worden.
+
+4. Verweerder heeft de hoogte van de dwangsom niet vastgesteld. Daarom zal de rechtbank in deze uitspraak alsnog de dwangsom vaststellen op het maximale bedrag van € 1.442,-.
+
+5. Omdat verweerder nog geen (nieuw) besluit heeft genomen bepaalt de rechtbank dat verweerder dit alsnog moet doen. De termijn voor het nemen van een besluit is twee weken na de dag dat deze uitspraak wordt verzonden. De bestuursrechter kan in bijzondere gevallen een andere termijn bepalen voor het bekendmaken van een besluit.
+
+6. Verweerder heeft de rechtbank in dit kader in zijn verweerschrift gevraagd om een termijn van twaalf weken, zo nodig verlengd met de termijn die ziet op de periode in afwachting van de hoorzitting van de bezwaarschriftenadviescommissie. Verweerder heeft uitgelegd dat hij deze tijd nodig heeft, omdat momenteel sprake is van een vrij uitzonderlijke situatie gelet op het grote aantal aanvragen tot herbeoordeling die verweerder binnenkrijgt. Verweerder heeft in zijn verweerschrift van 20 juni 2022 toegelicht hoe het proces van herbeoordeling eruit ziet. Na het toewijzen van een persoonlijk zaakbehandelaar wordt gedurende een periode van twee weken alle relevante informatie over en met de ouder verzameld over de jaren waarover een verschil van mening bestaat. Hierna moet verweerder verplicht advies vragen aan de Commissie van onafhankelijke deskundigen hersteloperatie toeslagen (de commissie) voor die gevallen waarin verweerder het voornemen heeft om afwijzend te oordelen over vooringenomenheid of opzet/grove schuld. De commissie heeft op haar beurt ook twee weken nodig om tot haar advies te komen. Hierna wordt eiseres over de uitkomst van het herbeoordelingsverzoek geïnformeerd. Dit gebeurt door middel van een vooraankondiging. Eiseres heeft de mogelijkheid om binnen zes weken haar zienswijze hierop te geven. Daarna wordt gedurende een periode van maximaal twee weken de definitieve beschikking gegeven. Verder zijn er bepaalde urgentie-criteria waar verweerder op kan letten, zodat een zaak eerder wordt behandeld dan zaken van andere ouders. In het geval van eiseres is er volgens verweerder geen aanleiding om de zaak sneller te behandelen. Gelet op het grote aantal aanvragen is er een vertraging in de afhandeling ontstaan, waardoor verweerder om een termijn van twaalf weken, zo nodig verlengd met de termijn die ziet op de periode in afwachting van de hoorzitting van de bezwaarschriftenadviescommissie, verzoekt.
+
+7. Hoewel de rechtbank begrijpt dat het voor eiseres ronduit vervelend is dat zij al erg lang moet wachten op een beslissing en zij als gevolg daarvan kan ervaren andermaal slachtoffer te zijn van de kinderopvangtoeslagenaffaire, ziet de rechtbank ook in dat de in artikel 8:55d, eerste lid, van de Awb, voorgeschreven beslistermijn van twee weken voor verweerder te kort is – gezien het grote aantal en de complexiteit van de herbeoordelingen en verweerders uitleg zoals hiervoor weergegeven. De rechtbank overweegt dat zij op basis van het derde lid van artikel 8:55d van de Awb in bijzondere gevallen een andere termijn kan bepalen voor het bekendmaken van een besluit. Gelet op wat verweerder heeft aangevoerd is er volgens de rechtbank sprake van een bijzonder geval. Daarom is er tot op heden aan verweerder in soortgelijke zaken veelal een langere termijn gegund dan de gebruikelijke termijn.
+
+8. Omdat de rechtbank ziet dat verweerder om verschillende termijnen heeft verzocht in voorgaande soortgelijke zaken, en ook de onderbouwing daarvan verschilt, heeft de rechtbank besloten om zelf een vaste termijn te bepalen in reactie op verweerders verzoeken in dergelijke zaken. De rechtbank verleent verweerder in principe een termijn van twaalf weken vanaf de datum van het verweerschrift om een besluit bekend te maken, met de mogelijkheid om daarvan af te wijken in bepaalde gevallen. Binnen die twaalf weken kan het gehele door verweerder geschetste proces van herbeoordeling doorlopen worden. In de onderhavige zaak ziet de rechtbank geen aanleiding om van die termijn af te wijken. Gelet op de periode tussen de datum van de ingebrekestelling, van het onderhavige verweerschrift en die van deze uitspraak vindt de rechtbank de hiervoor genoemde termijn van twaalf weken in lijn met de door de Afdeling gestelde eis van een nadere termijn die zodanig moet zijn dat deze in redelijkheid niet onnodig lang is maar ook niet onrealistisch kort. Met andere woorden, de rechtbank acht deze termijn reëel voor verweerder om een beslissing bekend te maken. Verweerder moet daarom uiterlijk 12 september 2022 een beslissing bekend maken.
+
+9. Het beroep is kennelijk gegrond.
+
+10. Omdat het beroep gegrond is moet verweerder het griffierecht van € 50,- aan eiseres betalen. Verder is niet gebleken dat eiseres proceskosten heeft gemaakt die voor vergoeding in aanmerking komen.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+-	vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+- stelt de door verweerder te betalen dwangsom vast op € 1.442,-;
+
+- draagt verweerder op binnen twaalf weken na de datum van het verweerschrift alsnog een besluit bekend te maken, aldus uiterlijk op 12 september 2022 en met dien verstande dat deze termijn wordt geacht verlengd te zijn met de periode die eiseres de zes weken voor het indienen van een zienswijze bij verweerder overschrijdt;
+
+- bepaalt dat verweerder het griffierecht van € 50,- moet betalen aan eiseres.
+
+Deze uitspraak is gedaan door mr. M.C. Verra, rechter, in aanwezigheid van
+
+mr. E. Mulder, griffier. De beslissing is in het openbaar uitgesproken op 28 juli 2022.
+
+de griffier						de rechter
+
+Afschrift verzonden of digitaal ter beschikking gesteld aan partijen op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen zes weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum op de stempel die hierboven staat. Als u graag een zitting wilt waarbij u persoonlijk uw mening aan de rechter kunt geven, kunt u dit in uw verzetschrift aangeven.
+
+Artikel 8:54 van de Algemene wet bestuursrecht (Awb).
+
+Dit staat (onder andere) in de artikelen 6:2, 6:12 en 7:1 van de Awb.
+
+Artikel 4:17 van de Awb.
+
+Artikel 4:18, eerste lid, van de Awb.
+
+Artikel 8:55d, eerste lid, van de Awb.
+
+Artikel 8:55d, eerste lid, van de Awb.
+
+Afdeling Bestuursrechtspraak van de Raad van State, bijvoorbeeld ECLI:NL:RVS:2020:1560.
