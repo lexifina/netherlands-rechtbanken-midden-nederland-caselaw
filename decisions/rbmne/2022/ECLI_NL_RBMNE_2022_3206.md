@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:3206"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2054, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2022:3206 Rechtbank Midden-Nederland , 03-08-2022 / UTR 21/2081
