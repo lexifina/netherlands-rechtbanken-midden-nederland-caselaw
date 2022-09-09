@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:3621"
 published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2022/105"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6166, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2022:3621 Rechtbank Midden-Nederland , 09-09-2022 / UTR 21/2443
