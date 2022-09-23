@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBMNE:2022:3795"
 court: "Rechtbank Midden-Nederland"
 court_code: "RBMNE"
 docket: "22/417"
-decided: "2022-09-22"
+decided: "2022-09-23"
 published: "2022-09-22"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:3795"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:236, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBMNE:2022:3795 Rechtbank Midden-Nederland , 22-09-2022 / 22/417
+# ECLI:NL:RBMNE:2022:3795 Rechtbank Midden-Nederland , 23-09-2022 / 22/417
 
 ## Inhoudsindicatie
 
