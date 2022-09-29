@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:3877"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5976, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBMNE:2022:3877 Rechtbank Midden-Nederland , 29-09-2022 / 22/1458
