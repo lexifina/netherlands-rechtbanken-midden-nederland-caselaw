@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:4018"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2022/8747"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2916, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBMNE:2022:4018 Rechtbank Midden-Nederland , 07-10-2022 / UTR 21/4730
