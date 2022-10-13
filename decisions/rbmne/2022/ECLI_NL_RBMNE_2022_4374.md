@@ -1,0 +1,117 @@
+---
+ecli: "ECLI:NL:RBMNE:2022:4374"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "22/3322"
+decided: "2022-10-13"
+published: "2022-11-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:4374"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2022:4374 Rechtbank Midden-Nederland , 13-10-2022 / 22/3322
+
+## Inhoudsindicatie
+
+BNT, UHT, beroep gegrond
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Bestuursrecht
+
+zaaknummer: UTR 22/3322
+
+uitspraak van de enkelvoudige kamer van 13 oktober 2022 in de zaak tussen
+
+[eiseres] , uit [woonplaats] , eiseres
+
+(gemachtigde: mr. W. Kort),
+
+en
+
+Belastingdienst/Toeslagen, verweerder
+
+Inleiding
+
+Deze uitspraak gaat over het beroep dat eiseres heeft ingesteld, omdat verweerder volgens haar niet op tijd heeft beslist op haar bezwaar van 24 februari 2022 tegen de definitieve beschikking compensatie kinderopvangtoeslag.Op 19 september 2022 heeft verweerder een verweerschrift ingediend.
+
+Overwegingen
+
+1. De rechtbank nodigt partijen niet uit voor een zitting, omdat dat in deze zaak niet nodig is.
+
+2. Tegen het niet tijdig nemen van een besluit kan beroep worden ingesteld. Het beroepschrift kan worden ingediend zodra het bestuursorgaan in gebreke is om op tijd een besluit te nemen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen.
+
+3. Eiseres heeft het bezwaarschrift ingediend op 24 februari 2022. Verweerder moet binnen zes weken beslissen, gerekend vanaf het moment waarop de bezwaartermijn voorbij is. Omdat er een adviescommissie is, geldt in dit geval een termijn van twaalf weken.
+
+4. Vaststaat dat verweerder niet tijdig op het bezwaar heeft beslist. Eiseres heeft verweerder op 17 juni 2022, door verweerder ontvangen op 21 juni 2022, in gebreke gesteld en sindsdien zijn twee weken voorbij gegaan.
+
+5. Het beroep is kennelijk gegrond.
+
+6. Eiseres heeft verzocht om de dwangsom vast te stellen. Als een bestuursorgaan een besluit niet op tijd neemt, moet het bestuursorgaan een dwangsom betalen voor elke dag dat het te laat is, voor maximaal 42 dagen. De dwangsom bedraagt de eerste veertien dagen € 23,- per dag, de daaropvolgende veertien dagen € 35,- per dag en de overige dagen € 45,- per dag. Het bestuursorgaan stelt de dwangsom vast binnen twee weken na de laatste dag waarover de dwangsom betaald moet worden.
+
+7. Verweerder heeft de hoogte van de dwangsom niet formeel in een besluit vastgesteld, maar slechts in zijn verweerschrift de hoogte van de nog toe te kennen dwangsom berekend.De rechtbank doet dit nu alsnog. Omdat er inmiddels al 42 dagen zijn verstreken sinds verweerder in gebreke is, stelt de rechtbank de dwangsom vast op het maximale bedrag van € 1.442,-.
+
+8. Omdat verweerder nog geen (nieuw) besluit heeft genomen, bepaalt de rechtbank dat verweerder dit alsnog moet doen. Op grond van artikel 8:55d, eerste lid, van de Awb moet het bestuursorgaan dit in principe doen binnen twee weken na het verzenden van de uitspraak. Verweerder heeft op grond van het derde lid van artikel 8:55d, van de Awb, gemotiveerd verzocht om een langere termijn, namelijk tien weken, zo nodig verlengd met een termijn die ziet op de periode in afwachting van de hoorzitting van de bezwaarschriftenadviescommissie. Daarbij heeft verweerder verzocht om in de uitspraak op te nemen dat de termijn ook wordt verlengd met de periode waarin de bezwaarprocedure geen voortgang kan vinden door toedoen van eiseres. Meer concreet heeft verweerder erop gewezen dat eiseres nog in de gelegenheid zal worden gesteld haar bezwaar aan te vullen met (nadere) gronden. Verweerder heeft uiteengezet dat de procedure die hij volgt bij de herbeoordelingen zoveel tijd kost.
+
+9. De rechtbank is van oordeel dat de in artikel 8:55d, eerste lid, van de Awb, voorgeschreven beslistermijn van twee weken voor verweerder te kort is, gezien het grote aantal aanvragen en de complexiteit van de herbeoordelingen en verweerders uitleg over het besluitvormingsproces. Gelet op wat verweerder heeft aangevoerd is er volgens de rechtbank sprake van een bijzonder geval als bedoeld in artikel 8:55d, derde lid, van de Awb. Daarom is er tot op heden aan verweerder in soortgelijke zaken over de bezwaarprocedure veelal een langere termijn gegund dan de gebruikelijke termijn.
+
+10. De rechtbank verleent verweerder in principe een termijn van tien weken vanaf de datum van het verweerschrift om een besluit bekend te maken. De rechtbank ziet vooralsnog geen aanleiding om die termijn, zoals verweerder verzoekt, zo nodig te verlengen met een termijn die ziet op de periode in afwachting van de hoorzitting van de bezwaarschriftenadviescommissie. Deze periode is volgens de procesbeschrijving van verweerder namelijk al verrekend in de voorgeschreven wettelijke termijn van twaalf weken vanaf ontvangst van het bezwaarschrift en de rechtbank constateert dat verweerder op het moment dat deze uitspraak wordt gedaan over die termijn al ruim heen is. Ook ziet de rechtbank geen aanleiding om de periode te verlengen met een extra termijn voor eiseres om de gronden van het bezwaar aan te vullen. Het bezwaarschrift van eiseres is immers al voorzien van gronden en het ligt op haar weg om het bezwaar – zo nodig – nader aan te vullen met gronden. Er doet zich daarmee op dit moment geen situatie voor waarin verweerder door toedoen van eiseres niet op het bezwaar zal kunnen beslissen.
+
+11. De rechtbank ziet daarom geen aanleiding om in deze zaak van de termijn van tien weken af te wijken. Verweerder moet daarom uiterlijk 28 november 2022 een beslissing op bezwaar bekendmaken.
+
+12. De rechtbank bepaalt dat verweerder een dwangsom van € 100,- moet betalen voor elke dag waarmee de beslistermijn nu nog wordt overschreden door verweerder. Daarbij geldt wel een maximum van € 15.000,-. Dit is het uitgangspunt voor dit soort zaken en de rechtbank ziet geen reden om hier in dit geval van af te wijken.
+
+13. Omdat het beroep gegrond is, krijgt eiseres een vergoeding voor de proceskosten die zij heeft gemaakt. Verweerder moet die vergoeding betalen. De vergoeding wordt met toepassing van het Besluit proceskosten bestuursrecht als volgt berekend. De bijstand door een gemachtigde levert 1 punt op (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 759,-), bij een wegingsfactor 0,5. Toegekend wordt € 379,50.
+
+14. Omdat de rechtbank het beroep gegrond verklaart, moet verweerder aan eiseres het door haar betaalde griffierecht vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+- stelt de door verweerder te betalen dwangsom vast op € 1.442,-;
+
+- draagt verweerder op binnen tien weken na de datum van het verweerschrift alsnog een besluit op bezwaar bekend te maken;
+
+- bepaalt dat verweerder aan eiseres een dwangsom van € 100,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 15.000,-;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 379,50;
+
+- draagt verweerder op het betaalde griffierecht van € 50,- aan eiseres te vergoeden.
+
+Deze uitspraak is gedaan door mr. M. Eversteijn, rechter, in aanwezigheid van
+
+mr. M.E.C. Bakker, griffier. De uitspraak is uitgesproken in het openbaar op 13 oktober 2022.
+
+De rechter is verhinderd deze uitspraak te
+
+ondertekenen.
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen zes weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven. Als u graag een zitting wilt waarin u uw verzetschrift kunt toelichten, kunt u dit in uw verzetschrift vermelden.
+
+Artikel 8:54 van de Algemene wet bestuursrecht (Awb).
+
+Artikel 6:2, aanhef en onder b, in samenhang met artikel 7:1, eerste lid, aanhef en onder f, van de Awb.
+
+Artikel 6:12, tweede lid, van de Awb.
+
+Artikelen 7:10 en 7:13 van de Awb.
+
+Artikelen 4:17 en 4:18, eerste lid, van de Awb.
