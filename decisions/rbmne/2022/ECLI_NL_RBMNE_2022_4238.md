@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:4238"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5605, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2022:4238 Rechtbank Midden-Nederland , 14-10-2022 / UTR 22/464
