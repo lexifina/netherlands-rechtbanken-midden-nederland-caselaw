@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:4936"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0207", "PJ 2023/14"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0207", "PJ 2023/14", "PR-Updates.nl 2022-0207"]
 ---
 
 # ECLI:NL:RBMNE:2022:4936 Rechtbank Midden-Nederland , 02-11-2022 / 9800959 UC EXPL  22-2457 LH/1040
