@@ -1,0 +1,1416 @@
+---
+ecli: "ECLI:NL:RBMNE:2022:4616"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "16/210985-21 (P)"
+decided: "2022-11-18"
+published: "2022-11-16"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:4616"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2024:1871"]]
+---
+
+# ECLI:NL:RBMNE:2022:4616 Rechtbank Midden-Nederland , 18-11-2022 / 16/210985-21 (P)
+
+## Inhoudsindicatie
+
+Mallorcazaak. Uitgaansgeweld door groep Nederlandse jongeren tegen twee andere groepen Nederlandse jongeren op het Spaanse eiland Mallorca. Veroordeling voor het medeplegen van poging doodslag en veroordeling voor het telkens openlijk in vereniging geweld plegen tegen personen. Geen toepassing jeugdstrafrecht. Oplegging van een gevangenisstraf van 30 maanden met aftrek. Strafmotivering groepsgeweld. Beslissingen op vorderingen benadeelde partij.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Strafrecht
+
+Zittingsplaats Lelystad
+
+Parketnummer: 16/210985-21 (P)
+
+Vonnis van de meervoudige kamer van 18 november 2022
+
+in de strafzaak tegen
+
+[verdachte]
+,
+
+geboren op [2003] te [geboorteplaats] ,
+
+wonende te [woonplaats] , [adres] ,
+
+hierna te noemen: verdachte.
+
+1
+ONDERZOEK TER TERECHTZITTING
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek op de terechtzittingen van 17 november 2021, 21 januari 2022, 4 februari 2022, 13 april 2022, 4 oktober 2022, 5 oktober 2022, 10 oktober 2022, 13 oktober 2022, 17 oktober 2022, 21 oktober 2022 en 4 november 2022.
+
+De rechtbank heeft kennisgenomen van de vordering en standpunten van officieren van justitie mr. A. Drogt, mr. M. Kamper en mr. B. Nitrauw (hierna gezamenlijk: de officier van justitie) en van hetgeen verdachte en zijn raadsman mr. D. Fontein, advocaat te Koog aan de Zaan naar voren hebben gebracht. Voorts heeft de rechtbank kennisgenomen van hetgeen:
+
+mr. E.W. Bosch, advocaat te Honselersdijk, namens de nabestaanden van [slachtoffer 1] en tevens benadeelde partijen [benadeelde 1] , [benadeelde 2] en [benadeelde 3] ;
+
+mr. L.A.C. ter Steeg, advocaat te Amsterdam, namens de slachtoffers en benadeelde partijen [slachtoffer 2] , [slachtoffer 3] , [slachtoffer 4] en [slachtoffer 5] ;
+
+mr. B. Roodveldt, advocaat te Zaandam, namens de slachtoffers en benadeelde partijen [slachtoffer 6] , [slachtoffer 7] en [slachtoffer 8] ;
+
+mr. P.M. Breukink, advocaat te Arnhem, namens het slachtoffer en benadeelde partij [slachtoffer 9] ;
+
+S.A. Moonen, gezondheidszorgpsycholoog,
+
+naar voren hebben gebracht.
+
+2
+TENLASTELEGGING
+
+De tenlastelegging is op de zitting van 13 april 2022 nader omschreven. De nader omschreven tenlastelegging is als bijlage aan dit vonnis gehecht.
+
+De verdenking komt erop neer dat verdachte:
+
+feit 1
+
+primair
+
+op 14 juli 2021 te [plaats] in Spanje, met een of meer ander(en), [slachtoffer 1] opzettelijk van het leven heeft beroofd;
+
+subsidiair
+
+op 14 juli 2021 te [plaats] in Spanje, met een of meer ander(en), aan [slachtoffer 1] opzettelijk zwaar lichamelijk letsel heeft toegebracht, terwijl dit feit de dood ten gevolge heeft gehad;
+
+meer subsidiair
+
+op 14 juli 2021 te [plaats] in Spanje, met een of meer ander(en), [slachtoffer 1] heeft mishandeld, terwijl dit feit de dood ten gevolge heeft gehad;
+
+feit 2
+
+primair
+
+op 14 juli 2021 te [plaats] in Spanje, met een of meer ander(en), heeft geprobeerd [slachtoffer 5] opzettelijk van het leven te beroven;
+
+subsidiair
+
+op 14 juli 2021 te [plaats] in Spanje, met een of meer ander(en), heeft geprobeerd aan [slachtoffer 5] opzettelijk zwaar lichamelijk letsel toe te brengen;
+
+feit 3
+
+op 14 juli 2021 te [plaats] in Spanje, ter hoogte van [café 1] en/of [restaurant] , met een of meer ander(en), openlijk geweld heeft gepleegd tegen [slachtoffer 9] en/of [slachtoffer 8] en/of [slachtoffer 6] en/of [slachtoffer 10] en/of [slachtoffer 7] ;
+
+feit 4
+
+op 14 juli 2021 te [plaats] in Spanje, ter hoogte van de bar [bar] , met een of meer ander(en), openlijk geweld heeft gepleegd tegen [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] en/of [slachtoffer 4] en/of [slachtoffer 5] , terwijl dit door hem gepleegde geweld zwaar/enig lichamelijk letsel ten gevolge heeft gehad bij [slachtoffer 5] en/of [slachtoffer 1] .
+
+3
+VOORVRAGEN
+
+De dagvaarding is geldig, de rechtbank is bevoegd tot kennisneming van het tenlastegelegde, de officier van justitie is ontvankelijk in de vervolging van verdachte en er zijn geen redenen voor schorsing van de vervolging.
+
+4
+WAARDERING VAN HET BEWIJS
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie acht het onder 1 primair, 2 primair, 3 en 4 tenlastegelegde wettig en overtuigend te bewijzen.
+
+4.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft vrijspraak bepleit van het onder 1, 2 primair en 3 tenlastegelegde. Ten aanzien van het onder 2 subsidiair tenlastegelegde heeft de raadsman zich gerefereerd aan het oordeel van de rechtbank. Ten aanzien van het onder 3 tenlastegelegde heeft de raadsman zich subsidiair op het standpunt gesteld dat slechts de ten laste gelegde openlijke geweldpleging jegens [slachtoffer 7] kan worden bewezen. Verdachte dient te worden vrijgesproken van het openlijk geweld jegens [slachtoffer 9] , [slachtoffer 8] , [slachtoffer 6] en [slachtoffer 10] . Ten aanzien van het onder 4 tenlastegelegde heeft de raadsman zich op het standpunt gesteld dat slechts de ten laste gelegde openlijke geweldpleging jegens [slachtoffer 5] kan worden bewezen. Verdachte dient te worden vrijgesproken van de ten laste gelegde openlijke geweldpleging jegens [slachtoffer 1] , [slachtoffer 3] , [slachtoffer 4] en [slachtoffer 2] . Daarnaast heeft de raadsman verzocht verdachte vrij te spreken van de strafverzwarende omstandigheid dat dit openlijk geweld enig dan wel zwaar lichamelijk letsel ten gevolge heeft gehad voor [slachtoffer 5] en [slachtoffer 1] .
+
+4.3
+
+Het oordeel van de rechtbank
+
+De rechtbank bespreekt de ten laste gelegde feiten in chronologische volgorde. Dit betekent dat eerst het geweld bij de [restaurant] wordt besproken (feit 3) en daarna het geweld bij de bar [bar] (feiten 1, 2 en 4). Hierbij wordt [café 1] aangeduid als “ [café 1] ”, de [restaurant] als “ [restaurant] ” en de bar [bar] als “ [bar] ”.
+
+Bewijsmiddelen
+
+ten aanzien van:
+
+Het openlijk geweld bij [restaurant] (feit 3)
+
+[slachtoffer 7] heeft volgens het daarvan opgemaakte proces-verbaal van aangifte, op 21 juli 2021 aangifte gedaan bij de politie en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+In de nacht van 13 op 14 juli 2021 zijn wij naar [café 1] in [plaats] op Mallorca gegaan. Ik zag [slachtoffer 8] staan. Hij stond op ongeveer drie of vier meter van mij vandaan. Ik zag dat hij tegen zijn kin werd geslagen. Hij werd door meerdere personen tegen zijn gezicht geslagen. Ik zag dat hij direct hierop zijn armen voor zijn gezicht hield ter bescherming. Ik zag dat ongeveer vijf personen op mij af kwamen. Voor ik het wist werd ik van alle kanten geslagen. Ik weet niet eens waar ik allemaal werd geraakt. Ik heb mijzelf gelijk beschermd door mijn armen voor mijn gezicht te houden. Ik ben neergegaan. Ik denk dat ik even bewusteloos ben geweest. Wat ik mij vervolgens herinner is dat ik tegen mijn benen werd geschopt. Het lukte mij om op te staan en ik weet dat ik mij heb verweerd door ook iemand van de anderen te slaan, maar ik weet niet eens of ik deze persoon heb geraakt. Ik weet ook dat er met een stoel is gegooid. Ik ben vervolgens weer geslagen en weer onderuit gegaan. Vanaf dat moment kan ik mij niets meer herinneren. Op het moment dat ik bijkwam was de andere partij weg. Ook mijn neus deed pijn en ik had een opgezwollen enkel. Ik toon u een foto van mijn gezicht vlak nadat het was gebeurd. Ook kan ik vertellen dat ik nog enkele blauwe plekken heb op mijn beide armen.
+
+[slachtoffer 8] heeft volgens het daarvan opgemaakte proces-verbaal van aangifte, op 11 augustus 2021 aangifte gedaan bij de politie en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+In de nacht van 13 op 14 juli was ik in [café 1] aan de [locatie] in [plaats] Mallorca gegaan. Ik stond tussen [café 1] en [restaurant] , maar meer richting [restaurant] . Ik stond met [slachtoffer 7] . Ik zag dat er links een groep jongens aan kwam lopen in onze richting. Ik herkende hiertussen die [medeverdachte 1] weer. Zij kwamen vanaf de weg en liepen recht op ons af. Zij waren met ongeveer vier of zes jongens. Mijn aandacht ging vooral naar [medeverdachte 1] uit. Er liep een jongen tussen. Hij was een kop kleiner dan ik. Hij droeg zwart T-shirt met gele letters, had kort zwart opgeschoren haar. Hij leek een Marokkaanse of Turkse afkomst te hebben. Hij liep recht op mij af en ik zag en voelde dat met zijn hand of vuist mij in mijn gezicht sloeg. Ik voelde direct een stekende pijn in mijn neus. Ik liep vervolgens naar achter en voelde nog steeds dat ik klappen kreeg. Ik kon niet verder omdat er een stapel stoelen stond. Ik kwam er tegenaan. Ik voelde pijn aan de linkerkant van mijn hoofd, achter mijn oor. Ik zag niet wie dit deed. Ik had mijn ogen dicht en beschermde mijn gezicht door mijn armen voor mijn hoofd te houden. Terwijl dit gebeurde kon ik een kort moment tussen mijn armen door naar rechts kijken en zag [slachtoffer 7] . Ik zag hem staan en zag dat een jongen die mij sloeg naar [slachtoffer 7] liep en hem ook sloeg. Het volgende moment dat ik weer kon kijken naar [slachtoffer 7] , zag ik dat hij op de grond lag en zag ik een stoel in de richting van [slachtoffer 7] vliegen, terwijl hij dus op de grond lag. Daarna werd ik met rust gelaten.
+
+Van de gebeurtenissen voor de [restaurant] bevinden zich camerabeelden in het procesdossier. De rechtbank neemt op deze beelden – voor zover relevant voor het bewijs – het volgende waar:
+
+Op 1:44:18 staan [medeverdachte 2] en [slachtoffer 8] tegenover elkaar. Achter/naast [medeverdachte 2] staan [medeverdachte 3] , [medeverdachte 4] , [medeverdachte 5] , [medeverdachte 1] en [medeverdachte 6] . [slachtoffer 7] staat naast [slachtoffer 8] ;
+
+Op 1:44:22 geeft [medeverdachte 1] (vanachter [medeverdachte 2] ) [slachtoffer 8] een klap op zijn gezicht. [slachtoffer 8] wankelt naar achteren en beweegt zich vervolgens naar voren richting [medeverdachte 1] . [slachtoffer 8] wordt vervolgens tegen zijn hoofd/gezicht geslagen door [medeverdachte 2] , [medeverdachte 3] en [medeverdachte 6] . [medeverdachte 4] beweegt ook in zijn richting. [slachtoffer 8] valt achteruit richting gestapelde stoelen. [slachtoffer 8] wordt vervolgens nog steeds geslagen door [medeverdachte 2] , [medeverdachte 3] en [medeverdachte 6] . [medeverdachte 5] beweegt richting [slachtoffer 8] . [slachtoffer 7] slaat [medeverdachte 5] op zijn achterhoofd. [medeverdachte 5] valt naar achteren en trekt [slachtoffer 8] mee.
+
+Op 1:44:27 valt [slachtoffer 8] op de grond.
+
+Op 1:44:28 valt [slachtoffer 7] op de grond.
+
+[medeverdachte 5] maakt vervolgens een schoppende beweging in de richting van de opstaande [slachtoffer 8] . [medeverdachte 2] slaat en [medeverdachte 3] schopt de op de grond liggende [slachtoffer 7] .
+
+Op 1:44:31 komt [slachtoffer 7] overeind. Hij wordt dan geslagen door [medeverdachte 2] en er wordt naar hem geschopt door [medeverdachte 4] , [medeverdachte 1] en [medeverdachte 5] . [slachtoffer 7] valt weer op de grond en wordt dan geschopt door [medeverdachte 3] . [slachtoffer 7] krabbelt weer op en wordt dan geslagen door [medeverdachte 6] . Terwijl [slachtoffer 7] overeind blijft, wordt er gelijktijdig van drie verschillende kanten naar hem geslagen door [medeverdachte 1] , [medeverdachte 5] en [medeverdachte 2] .
+
+Op 1:44:33 loopt [verdachte] richting het gevecht.
+
+Op 1:44:35 komt [medeverdachte 6] van opzij en geeft [slachtoffer 7] een harde klap in het gezicht. [slachtoffer 7] wankelt en wordt vervolgens van verschillende kanten geslagen door [medeverdachte 3] en [medeverdachte 2] . [verdachte] maakt een slaande beweging richting [slachtoffer 7] .
+
+Op 1:44:37 valt [slachtoffer 7] achterover op de grond. Terwijl [slachtoffer 7] op de grond ligt maakt [medeverdachte 2] achtereenvolgens met zijn linkervoet een stampende en met zijn rechtervoet een schoppende beweging richting het hoofd van [slachtoffer 7] . Vervolgens geeft [medeverdachte 5] twee trappen tegen de benen van de op de grond liggende [slachtoffer 7] . Bij de eerste trap stampt hij met kracht tegen het onderbeen van [slachtoffer 7] .
+
+Op 1:44:39 vliegt van rechts een stoel door het beeld. [medeverdachte 2] en [medeverdachte 5] worden door [medeverdachte 7] weggeleid van de op de grond liggende [slachtoffer 7] .
+
+Verdachte is op 11 november 2021 volgens het daarvan opgemaakte proces-verbaal van verhoor verdachte als verdachte gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+De jongens belandden in een vechtpartij. Ik heb een zwaaiende beweging gemaakt.
+
+Bewijsoverwegingen ten aanzien van:
+
+Vrijspraak ten aanzien van [slachtoffer 10]
+
+Door [slachtoffer 10] is aangifte gedaan van openlijk geweld voor [café 1] en [restaurant] , maar de rechtbank kan – net als de officier van justitie en de raadsman – op basis van de inhoud van het procesdossier niet goed plaatsen wanneer, waar, hoe en door wie er geweld tegen haar is gebruikt. Verdachte zal dan ook van openlijk geweld tegen [slachtoffer 10] worden vrijgesproken nu niet kan worden vastgesteld dat hij daaraan een significante of wezenlijke bijdrage heeft geleverd.
+
+Splitsing geweld [café 1] en [restaurant]
+
+Aan verdachte is het geweld bij [café 1] en [restaurant] ten laste gelegd als één feitelijk geheel. De rechtbank ziet dit anders en verwijst hierbij naar de verklaringen van [slachtoffer 7] , [slachtoffer 8] en [medeverdachte 6] . Ook wijst de rechtbank op de camerabeelden van de gebeurtenissen voor [restaurant] . Uit die beelden en de daarbij weergegeven tijdsaanduidingen volgt ook dat de confrontatie voor [restaurant] pas begint, geruime tijd nádat de groep van verdachten richting [café 1] loopt en ook enige tijd nádat [slachtoffer 9] , kennelijk gewond, uit de richting van [café 1] komt. Eerst heeft er (openlijk) geweld plaatsgevonden voor [café 1] , tegen [slachtoffer 6] en [slachtoffer 9] ; zij kregen klappen. Na deze klappen was dit geweld voorbij en liepen [slachtoffer 6] en [slachtoffer 9] weg. Korte tijd daarna ontstond er opnieuw geweld, dit keer voor [restaurant] , tegen [slachtoffer 8] en [slachtoffer 7] . Het geweld heeft kortom plaatsgevonden op twee verschillende momenten, op twee verschillende plekken, met andere slachtoffers en deels met andere daders. Dit maakt dat er naar het oordeel van de rechtbank sprake is van twee afzonderlijke gebeurtenissen en dat zij voor iedere gebeurtenis ook afzonderlijk zal beoordelen of er sprake was van deelname aan openlijk geweld.
+
+Vrijspraak van het openlijk geweld bij [café 1] (partiële vrijspraak feit 3)
+
+Op grond van het procesdossier en het verhandelde ter zitting kan niet worden vastgesteld dat verdachte enige rol van betekenis heeft gespeeld bij het openlijk geweld voor [café 1] tegen [slachtoffer 6] en [slachtoffer 9] . Verdachte zal dan ook van dit gedeelte van het onder 3 tenlastegelegde worden vrijgesproken.
+
+Het openlijk geweld bij [restaurant] (feit 3)
+
+De bewijsmiddelen leiden tot de volgende conclusies.
+
+Verdachte heeft zich samen met medeverdachten [medeverdachte 2] , [medeverdachte 6] , [medeverdachte 3] , [medeverdachte 5] , [medeverdachte 1] en [medeverdachte 4] schuldig gemaakt aan openlijk geweld tegen [slachtoffer 7] . Het geweld is begonnen met een klap van een medeverdachte aan [slachtoffer 8] , waarna het geweld zich voortzette tegen [slachtoffer 8] en vervolgens ook tegen [slachtoffer 7] . Beide slachtoffers zijn geslagen en/of gestompt, zijn geduwd en/of getrokken, zijn tegen de grond gewerkt en zijn geschopt. Ook is er met een stoel gegooid.
+
+Uit de waarnemingen van de rechtbank volgt dat verdachte zich pas in het gevecht heeft gemengd toen het geweld tegen [slachtoffer 8] al voorbij was. Daarvóór bevond hij zich op enige afstand van het geweld en heeft hij daaraan geen bijdrage geleverd. Gelet daarop zal hij van het ten laste gelegde openlijk geweld tegen [slachtoffer 8] worden vrijgesproken. Wel volgt uit de waarnemingen dat hij zich in de richting van [slachtoffer 7] heeft begeven terwijl deze al werd geschopt en geslagen door de medeverdachten. Hij heeft vervolgens een slaande beweging richting [slachtoffer 7] gemaakt. Dat verdachte dit uitsluitend deed als intimidatie, uit stoerdoenerij of om ‘ruimte af te bakenen’ – zoals hij heeft verklaard – doet niet af aan het feit dat hij hiermee een significante bijdrage aan het in vereniging gepleegde geweld heeft geleverd.
+
+Bewijsmiddelen ten aanzien van:
+
+Poging doodslag [slachtoffer 5] (feit 2 primair) en het openlijk geweld bij de [bar] (feit 4)
+
+[slachtoffer 5] heeft volgens het daarvan opgemaakte proces-verbaal van aangifte op 27 juli 2021 aangifte gedaan bij de politie en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Op 14 juli 2021 was ik samen met vier vrienden, te weten [slachtoffer 1] , [slachtoffer 4] , [slachtoffer 3] en [slachtoffer 2] in Spanje in het plaatsje [plaats] . We zijn naar de [bar] gegaan.
+
+Rond 02:00 uur gingen we naar buiten omdat de kroeg dicht ging. Ik kan mij herinneren dat ik alleen met [slachtoffer 2] , die rechts naast mij liep, naar huis ben gegaan. Het volgende wat ik mij herinner is dat ik wakker werd in het gras. Ik heb niet bewust meegemaakt wat er met mij gebeurd is. Ik had erg veel pijn in mijn linker knie. Aan de binnenkant van mijn knie zat een blauwe plek. Ik had een schaafwond op mijn rechterheup. Ik had een pijnlijke en blauwe plek op mijn linker schouder. Ik had een bebloede schaafwond op de rechterkant van mijn voorhoofd. De binnenkant van mijn rechter oor was blauw. Achter mijn oor op mijn schedel had ik veel pijn en een zwelling en een beurs gevoel. Ik had diverse bulten op mijn hoofd. Ik had een pijnlijke en bebloede neus. Ik had op mijn linkerwang een schaafplek. Ik had een wondje in mijn linker bakkenbaard.
+
+[slachtoffer 2] heeft volgens het daarvan opgemaakte proces-verbaal van aangifte op 28 juli 2021 aangifte gedaan bij de politie en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Wij zijn op 13 juli 2021 naar Mallorca gevlogen. Dit alles is in de nacht van 14 juli 2021 gebeurd. Ik ben met [slachtoffer 1] , [slachtoffer 4] , [slachtoffer 5] en [slachtoffer 3] daarheen gegaan.
+
+Wij zijn toen naar een club gegaan. Uiteindelijk zijn wij naar buiten gegaan.
+
+Wat is dan het eerstvolgende dat je weet?
+
+Dat ik in de steeg ben gevallen met zes mensen achter mij aan en dat ik mijn handen
+
+voor mijn ogen heb gedaan. Ik weet dat er vijf mensen om mij heen waren en dat ik zo snel mogelijk op moest staan omdat ik anders problemen had.
+
+Hoe heette die club waar jullie geweest zijn?
+
+De [bar] .
+
+Wat is het eerstvolgende dat jij nog weet?
+
+Dat ik val. In een steeg naast de club. Als je met je gezicht naar de club staat was
+
+op een aantal meter die steeg. Die lag daar echt direct naast. Daar ben ik gevallen.
+
+Waardoor viel je?
+
+Doordat ze mij schopten. Ik weet dat zij mijn benen tegen elkaar wilden trappen en ik ben gevallen doordat ik sprong.
+
+Wie zijn 'zij'?
+
+Die groep. Mannen, jongens. Ik denk dat het er een stuk of vier tot zes waren.
+
+Jij ging dus springen om te voorkomen dat ze jou onderuit schoppen. Je viel en je
+
+weet niet dat het komt omdat jij je verstapte of dat ze jou raakte.
+
+Ik heb last van mijn been dus ik denk dat ze mij wel één keer geraakt hebben. Ik weet niet meer op welk been ze mij geraakt hebben. Mijn knie lag open en ik voelde een plek waaraan je voelde dat ik geraakt was.
+
+Waarom deed jij je handen voor je ogen?
+
+Om mijn hoofd te beschermen zodat zij mij niet op mijn hoofd konden schoppen of slaan. Ik had zes plekken op mijn hoofd waardoor ik kon weten dat ze mij geraakt hebben. Als ik op de plekken drukte deed het pijn.
+
+Je had last van je hoofd, van je knie en een plek op je been?
+
+Ik had ook plekken op mijn hoofd je zag alleen een licht plekje langs mijn oog. De rest deed zeer en zag je niet vooral.
+
+[slachtoffer 4] heeft volgens het daarvan opgemaakte proces-verbaal van aangifte op 29 juli 2021 aangifte gedaan bij de politie en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Ik was op vakantie naar Mallorca samen met vier vrienden waaronder [slachtoffer 1] . De andere vrienden die erbij waren zijn [slachtoffer 3] , [slachtoffer 5] en [slachtoffer 2] . Wij zijn vervolgens naar de strip gelopen en bij een kroeg gaan zitten. Deze kroeg heette de [bar] . De kroegen gingen op 14 juli om 02.00 uur dicht. Wij gingen toen weg. Vervolgens liepen wij over de strip richting het noorden om naar de straat te gaan waar onze Airbnb zich bevond. Hier kwam een andere groep ons tegemoet lopen. Dit waren alleen maar jongens. Op het moment dat wij de groep passeren ging het heel snel. Vervolgens werden er klappen uitgedeeld. Dit gebeurde voor mij. Ik zag dat iemand van onze groep geslagen werd. Hierop ben ik weggerend, terug richting de bar [bar] . Terwijl ik wegrende voelde ik dat ik meerdere klappen kreeg. Ik voelde dat ik deze klappen kreeg en ik voelde pijn. Er bleven vervolgens nog even mensen achter mij aanrennen maar
+
+die stopten na een tijdje. Ik ben toen tot stilstand gekomen, ongeveer voor de
+
+[bar] .
+
+[slachtoffer 3] heeft volgens het daarvan opgemaakte proces-verbaal van aangifte op 29 juli 2021 aangifte gedaan bij de politie en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Plaats delict: Mallorca.
+
+Pleegdatum/tijd: 14 juli 2021.
+
+Wij waren met zijn vijven, dat waren [slachtoffer 1] , [slachtoffer 5] , [slachtoffer 4] , [slachtoffer 2] en ik. Wij zijn toen een café in gegaan, dat was de [bar] . Daar hebben wij gezeten tot het sluiten. Wij liepen toen een meter of 10 á 15 en wij komen die groep tegen. Ik had het gevoel dat er iets ging gebeuren, we stonden ook ineens stil. Ik zag alleen [slachtoffer 2] . Ik kreeg een klap op mijn neus. Ik raakte in paniek omdat ik voelde dat ik gelijk bloedde. Ik haalde mijn arm langs mijn neus en die zat ook gelijk onder het bloed. Ik dacht gelijk dat ik weg moest rennen. Er rende nog een jongen achter mij aan. Hij probeerde mij nog te tackelen, wat niet is gelukt. Ik ben doorgerend en hij is vrij snel gestopt. Ik dacht dat hij een wit shirt aan had en een spijkerbroekje. Volgens mij was het een wat langer wit shirt, dus niet standaard tot zijn middel. Hij was wel wat groter dan ik. Ik ben 1.84 meter.
+
+[medeverdachte 2] is op 27 juni 2022 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige door de rechter-commissaris als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+In uw beleving stond u alleen met de vijf mensen die scholden. En toen?
+
+Toen begon het gevecht tussen mij en [slachtoffer 2] . Ik gaf een klap in zijn gezicht. Hij struikelde een beetje achterover. Hij is toen gevallen. Ik keek op dat moment om mij heen en ik zag vrijwel meteen [slachtoffer 5] . Ik zag hem in een houding tegenover [verdachte] staan en ik zag hem duwen en trekken naar [verdachte] toe.  Ik heb ook geweldshandelingen verricht, Ik heb [slachtoffer 5] naar de grond toe geduwd. Ik weet dat ik hem één schop heb gegeven. Op dat moment ben ik uiteindelijk weggegaan via de steeg. Ik weet dat ik een schop heb gegeven. Hij draaide zich om naar [verdachte] . [verdachte] gaf een schop. Ik zat toen te kijken wat er met hem is gebeurd.
+
+Verdachte is op 12 januari 2022 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige door de rechter-commissaris als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Ik zag op een gegeven moment [slachtoffer 5] op mij afkomen. Ik kende hem toen niet. Het was een jongen in een zwart shirt, beetje klein. Hij kwam op mij aflopen. Voordat hij op mij af kwam lopen, sprong [medeverdachte 2] ertussen. Hij vocht met de jongen in het zwarte shirt. Ik was met mijn volle aandacht daarop gefocust. De jongen met het zwarte shirt kwam van de rechterkant. Ik weet dat [medeverdachte 2] vanaf de rechterkant kwam aangesneld tussen ons in. Hij kwam ertussen om [slachtoffer 5] weg te duwen. Hij heeft [slachtoffer 5] geduwd. Er zijn klappen uitgedeeld van beide kanten. Ik weet niet welke klappen het waren of waar het was. Ik weet ook dat [medeverdachte 6] op een gegeven moment van de rechterkant kwam aangesneld. Volgens mij om een trap te geven tegen het been van [slachtoffer 5] of om een klap te geven. Daardoor is [slachtoffer 5] uit balans geraakt. Toen viel hij uiteindelijk op de grond. Toen heb ik hem nog een schop gegeven en [medeverdachte 2] ook nog eentje.
+
+[getuige 1]
+is op 20 juli 2021 door de Spaanse politie als getuige gehoord. Haar verklaring is, voor zover relevant voor het bewijs, als volgt gerelateerd:
+
+Dat de declarante ter hoogte van de [bar] iets zag wat leek op het begin van een gevecht midden op de openbare weg, aangezien een groep van ongeveer tíen of vijftien jongeren minimaal drie andere jongeren aan het achtervolgen en aanvallen was door middel van stompen en schoppen. De declarante zag dat een van de jongens die aangevallen werd op de grond viel nadat hij verschillende stompen had gekregen en dat, toen hij al op de grond lag, de geweldplegers, minimaal drie personen, hem tegen het hoofd schopten, waarop deze jongen bewusteloos op de grond bleef liggen ter hoogte van de bar " [bar] ". De declarante weet dat de daders en slachtoffers van Nederlandse afkomst waren omdat zij hen hoorde schreeuwen voor en tijdens het gevecht..
+
+[getuige 2] is op 20 augustus 2021 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Op de boulevard zag ik [medeverdachte 2] , [verdachte] , [medeverdachte 8] , [medeverdachte 7] , [medeverdachte 5] , [medeverdachte 3] , [medeverdachte 1] en [medeverdachte 6] neus aan neus staan met een andere groep jongens. lk had deze groep nog niet eerder gezien maar later bleek dit de groep van de overleden jongen te zijn. lk zag dat [medeverdachte 2] door jongens uit mijn groep, werd tegengehouden. lk zag dat [medeverdachte 2] loskwam en richting de andere jongens rende. Toen ging de vechtpartij los. Het ging zo snel allemaal. Voor mijn gevoel knipte ik met mijn ogen en lagen er twee jongens op de grond.
+
+[getuige 3] is op 16 juli 2021 door de Spaanse politie als getuige gehoord. Zijn verklaring is, voor zover relevant voor het bewijs, als volgt gerelateerd:
+
+Dat aan hem een video wordt getoond en dat bij de jongens die te zien zijn de volgende
+
+namen horen: - man 1 [medeverdachte 2] , man 2: [medeverdachte 4] , man 3: [medeverdachte 3] , man 4: [medeverdachte 5] , man 5: [medeverdachte 1] , man 6: [medeverdachte 6] , man 7: [verdachte] . Dat de groep doorloopt zonder bij een gelegenheid naar binnen te gaan, totdat het tweede gevecht begint. Dat dat tweede gevecht begint omdat een jongen in de mond van zijn vriend [medeverdachte 2] spuugt, waardoor deze laatste met hem begint te vechten, waarna andere jongens zich erbij voegen; dit zijn de zeven jongens zoals beschreven bij het voorgaande gevecht, plus nog een vriend van hem die [medeverdachte 8] heet.
+
+Verbalisant [verbalisant] heeft volgens het daarvan opgemaakte proces-verbaal van bevindingen (camerabeelden [verdachte] incident 2) het volgende gerelateerd, zakelijk weergegeven:
+
+Afb. 08, 14/07/2021, Tijdstip onbekend (Camera Getuige (IMG_ [bestandsnaam] ))
+
+[medeverdachte 6] sprong op slachtoffer [slachtoffer 5] die ten val kwam. [medeverdachte 2] schopte hem terwijl hij lag. [verdachte] stond achter [medeverdachte 6] en zette aan richting [slachtoffer 5] . [verdachte] was op dit beeld steeds net buiten beeld.
+
+Afb. 09, 14/07/2021, Tijdstip onbekend (Camera Getuige (VID- [bestandsnaam] ))
+
+[verdachte] stond bij slachtoffer [slachtoffer 5] waar [medeverdachte 2] aan de andere kant van stond. [medeverdachte 2] haalde uit met zijn rechterbeen. [verdachte] deed eenzelfde aanzet. Het been van [medeverdachte 2] ging naar achteren en op hetzelfde moment draaide [slachtoffer 5] zich naar [verdachte] toe. De camera bewoog naar links en zowel [medeverdachte 2] als het slachtoffer [slachtoffer 5] verdwenen uit beeld.
+
+Afb. 10, 14/07/2021, Tijdstip onbekend (Camera Getuige (VID- [bestandsnaam] ))
+
+Net voordat [verdachte] ook uit beeld verdween doordat de camera naar links draaide, was
+
+te zien dat [verdachte] ook aanzette en met zijn been richting de plek ging waar [slachtoffer 5] lag.
+
+Afb. 11, 14/07/2021, Tijdstip onbekend (Camera Getuige (VID- [bestandsnaam] ))
+
+De camera draaide terug naar [slachtoffer 5] die nog op de grond lag. [medeverdachte 2] stond bij hem met zijn voet dicht tegen hem aan. [verdachte] trok zijn been terug en stond ook vlak bij [slachtoffer 5] . (het beeld werd bij de volgende frames weer scherp en personen waren te herkennen)
+
+Afb. 12, 14/07/2021, Tijdstip onbekend (Camera Getuige (VlD- [bestandsnaam] ))
+
+[verdachte] trok zijn been terug en draaide zich om. [medeverdachte 2] stapte over en langs [slachtoffer 5] die roerloos op de grond bleef liggen. [verdachte] volgde [medeverdachte 2] een stukje en ging toen naar links in de richting van waar [medeverdachte 6] en [medeverdachte 3] slachtoffer [slachtoffer 2] belaagden.
+
+Verbalisant [verbalisant] heeft volgens het daarvan opgemaakte proces-verbaal van bevindingen (onderzoekswens video) het volgende gerelateerd, zakelijk weergegeven:
+
+Ik onderzocht video [bestandsnaam] .mp4. Op de aangeleverde USB stick is dit filmpje genaamd: ‘Blauw shirt rent weg’. Ik zag dat [slachtoffer 5] op de grond lag. Boven hem stonden [medeverdachte 2] en [verdachte] . Ik zag dat [verdachte] zijn armen strekte, deze evenredig hield aan zijn schouders en vervolgens deze opzij zwaaide. Ik herken deze beweging als een beweging om een schop meer kracht bij te zetten.
+
+[getuige 4] is op 24 augustus 2022 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige door de rechter-commissaris als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+mr. Bertels: Kunt u vertellen wat u bij die andere jongen hebt zien gebeuren en wanneer dat gebeurde?
+
+Ik heb het filmpje niet nodig om te weten dat de jongen aan beide kanten op zijn hoofd is getrapt. Dat is iets dat ik echt 100% zeker weet. Dat heb ik ook gezien en bij de politie verteld. Dit gaat over de jongen die niet dood is gegaan.
+
+De rechter-commissaris: Even zonder het filmpje. Wat zag u toen met uw eigen ogen?
+
+Die jongen viel op de grond. Ik weet niet of hij eerst van de rechter- of linkerkant een trap kreeg. Hij kreeg van twee verschillende jongens van beide kanten een trap. De een kwam van rechts en de ander kwam van links.
+
+mr. Nitrauw: Hoe vaak werd hij getrapt?
+
+Een op zijn hoofd en een dicht bij zijn hoofd. Hiermee bedoel ik het bovenlichaam boven de elleboog.
+
+Wat gebeurde er met die jongen?
+
+Hij bleef even liggen op de grond.
+
+De rechter-commissaris: Bij beide trappen?
+
+Ja. Hij bleef na beide trappen, die redelijk vlot na elkaar waren, gedekt/in een beschermhouding op de grond liggen.
+
+[getuige 5] is op 23 augustus 2022 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+U hebt verklaard dat u de aanleiding niet hebt gezien, maar dat er een grote vechtpartij ontstond. Kunt u beschrijven wat u precies zag gebeuren vanaf het eerste moment dat u keek?
+
+Het eerste moment kan ik mij niet helemaal meer herinneren. Schuin tegenover, bij [slachtoffer 1] , stonden best veel mensen. Ik heb niet gezien hoe hij naar de grond is gekomen. Toen ik keek, lag hij al op de grond met allemaal mensen eromheen. Er was nog een andere jongen, die lag recht tegenover mij. Ik weet zijn naam niet. Ik zag dat hij op de grond lag en dat er op een gegeven moment twee jongens aankwamen en er werd tegelijkertijd tegen zijn hoofd/bovenlichaam aangetrapt. Ik weet niet precies of het zijn hoofd was, dus dat gedeelte in ieder geval; de bovenkant.
+
+[getuige 1] is op 16 augustus 2021 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+V1: Ja, jij zei net al even dat er op een andere plek ook een jongen in elkaar geslagen werd?
+
+G: Twee volgens mij. Op twee andere plekken nog. Eentje op dezelfde lijn als waar hij lag (OV: getuige bedoelt [slachtoffer 1] ), maar dan een stukje verder.
+
+V2: En wat heb jij gezien van het geweld dat werd uitgeoefend op die jongen?
+
+G: Toen ik die kant op keek, lag hij al op de grond, dus ik heb niet gezien dat hij in elkaar werd geslagen. Het enige wat ik heb gezien is dat hij echt een super harde trap kreeg. Echt op zo'n manier dat je een voetbal wegtrapt. Weet je, als je op het voetbalveld staat, uithaalt naar zo'n voetbal. Op zo'n manier kreeg hij een trap van een jongen.
+
+De verklaring van verdachte ter terechtzitting van 5 oktober 2022, zakelijk weergegeven:
+
+Ik weet niet waarom ik [slachtoffer 5] een trap heb gegeven. Het was superstom. U, jongste rechter, houdt mij voor dat [slachtoffer 5] al op de grond lag. Ik was bang dat hij opnieuw zou opstaan.
+
+[getuige 6] is op 2 augustus 2021 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+A: [verdachte] , die was geschrokken van zijn daden. We hoorde dat er een jongen gereanimeerd moest worden en [verdachte] was bang dat hij dat gedaan had dus hij was in paniek.
+
+V: Je vertelde net dat [verdachte] erg geschrokken is over zijn handelen, wat zei hij wat hij gedaan heeft.
+
+A: Hij zei dat hij weet van zichzelf dat hij tegen iemand heeft geschopt die op de grond lag en dat hij bang was dat dit de jongen was die er slecht aan toe was. Later bleek dat dit niet het geval was.
+
+[getuige 7] is op 27 september 2021 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+V: Wat heb jij allemaal gezien de nacht van 13 op 14 juli 2021?A: Rond 02:00 uur liepen wij op de boulevard. Ik zag een jongen een klap geven en zag dat die andere jongen knocked out zou gaan. Aan de klap hoorde je dat al dat er iemand gaat vallen. Het was een doffe klap. Ik zag die jongen plat achterover vallen. Ik zag toen andere personen daar naartoe rennen en zag dat er trapbewegingen tegen zijn hoofd werden gemaakt. Stuk of drie. Ik weet ook niet of ze raak waren. Ik zag vervolgens die jongens wegrenden de straat in. Ik zag toen die jongen die op straat lag, in een plas bloed liggen. Hier stonden toen al allemaal mensen omheen.
+
+[getuige 8] is op 12 augustus 2021 volgens het daarvan opgemaakte proces-verbaal van verhoor getuige als getuige gehoord en heeft daarbij zakelijk weergegeven het volgende verklaard, voor zover relevant voor het bewijs:
+
+Ik zag dat [slachtoffer 1] een klap kreeg die op zijn borst terecht kwam. Daarna gaf diezelfde jongen [slachtoffer 1] nog een klap. lk zag dat die jongen [slachtoffer 1] raakte met zijn vuist in het gezicht ter hoogte van zijn neus. Ik zag dat [slachtoffer 1] gelijk achterover viel en met zijn achterhoofd op de straat terecht kwam. [slachtoffer 1] stond op de stoeprand en viel daar vanaf. Hij stond met zijn gezicht richting de [bar] en viel achterover in de richting van het strand. Hij is daarna niet meer opgestaan. Er liepen nog drie jongens bij de jongen die [slachtoffer 1] sloeg. Zij liepen tegelijk met zijn vieren weg.
+
+De hiervoor weergegeven bewijsmiddelen worden steeds gebruikt tot het bewijs van het feit of de feiten, waarop zij blijkens hun inhoud uitdrukkelijk betrekking hebben. Sommige onderdelen van de bewijsmiddelen hebben niet betrekking op alle feiten, maar op één of meerdere feiten.
+
+Bewijsoverwegingen ten aanzien van:
+
+Vrijspraak van de doodslag op dan wel (zware) mishandeling van [slachtoffer 1]
+
+(feit 1 primair, subsidiair en meer subsidiair)
+
+De rechtbank zal verdachte vrijspreken van de doodslag dan wel (zware) mishandeling met de dood tot gevolg van [slachtoffer 1] , nu daarvoor onvoldoende wettig en overtuigend bewijs aanwezig is. Aan het begin van het onderzoek waren er meerdere aanwijzingen in de richting van verdachte. Het ging daarbij voornamelijk om de verklaring van [getuige 1] , die een signalement gaf dat paste bij verdachte en die verdachte aanwees op een foto als één van de personen die betrokken was bij de mishandeling van [slachtoffer 1] . Bovendien was daarbij het element van belang dat [getuige 1] een koppeling maakte met de mishandeling van [slachtoffer 5] , waarbij verdachte – zoals hij toen zelf ook bekende – betrokken was geweest. Op grond van deze elementen heeft de rechtbank eerder de ernstige bezwaren aangenomen voor betrokkenheid van verdachte bij de doodslag op [slachtoffer 1] .
+
+Op het moment dat de rechtbank vonnis wijst dient zij niet langer te beoordelen of er sprake is van ernstige bezwaren in de richting van verdachte, maar of er sprake is van voldoende wettig en overtuigend bewijs. Daarbij is van belang dat het door [getuige 1] gegeven signalement niet zonder meer wijst op verdachte, terwijl verdachte op de foto die zij aanwijst slecht zichtbaar is. De rechtbank stelt verder vast dat er in de richting van verdachte geen nieuwe belastende elementen naar voren zijn gekomen in het verdere onderzoek. Al het voorgaande, in samenhang bezien, maakt dat de rechtbank van oordeel is dat de drempel van wettig en overtuigend bewijs niet wordt gehaald in de strafzaak tegen verdachte. Verdachte zal dan ook worden vrijgesproken van betrokkenheid bij de doodslag dan wel (zware) mishandeling met de dood tot gevolg van [slachtoffer 1] .
+
+Het gebruik van de verklaring van [getuige 1]
+
+De raadsman heeft zich op het standpunt gesteld dat de getuigenverklaringen van [getuige 1] onbetrouwbaar en daarmee onbruikbaar zijn voor het bewijs. Hij verwijst daarbij naar het rapport van Van Koppen en benoemt ook zelf een aantal specifieke punten, onder andere ten aanzien van de gegeven signalementen en herkenningen.
+
+De rechtbank is zich bewust van de omstandigheid dat er voorzichtig dient te worden omgegaan met de getuigenverklaringen van [getuige 1] . Zoals ook is benoemd in het rapport van Van Koppen is er een aantal elementen dat hiervoor van belang is. Het gaat daarbij onder meer om de wijze waarop er is vertaald tijdens het eerste verhoor in Spanje, hoe de herkenningen hebben plaatsgevonden en de manier van ondervraging en verslaglegging. Dit staat dus allemaal los van de persoon van [getuige 1] . Er is geen enkele aanleiding om aan te nemen dat zij in het voor- of nadeel van aangevers dan wel verdachten zou verklaren en de rechtbank om die reden terughoudend met haar verklaring om zou moeten gaan.
+
+Zelfs als de rechtbank deze voorzichtigheid in het oog houdt, is er een aantal elementen van de verklaringen van [getuige 1] dat de rechtbank betrouwbaar en geloofwaardig acht, en daarmee bruikbaar voor het bewijs. Dit ziet in de eerste plaats op het geweld dat tegen [slachtoffer 1] is gebruikt. [getuige 1] heeft vanaf het begin eenduidig verklaard over wat daar heeft plaatsgevonden. Anders dan de raadsman ziet de rechtbank in latere verhoren geen tegenstrijdigheden met haar eerdere verhoor, maar een verduidelijking van wat zij nu wel of niet heeft gezien en van hetgeen zij zich daar later wel of niet meer van kan herinneren. Bovendien wordt dit deel van de verklaring van [getuige 1] ondersteund door andere getuigenverklaringen. Daarnaast acht de rechtbank de verklaring van [getuige 1] betrouwbaar met betrekking tot hetgeen zij heeft verklaard over het geweld tegen [slachtoffer 5] . De raadsman heeft niet aangegeven om welke redenen de verklaring van [getuige 1] op dit punt niet betrouwbaar zou zijn en de rechtbank ziet hier zelf ook geen gronden voor.
+
+Het verweer van de raadsman op deze punten wordt verworpen. Voor het overige zal de verklaring van [getuige 1] niet voor het bewijs worden gebruikt.
+
+Het openlijk geweld bij de [bar] (feit 4)
+
+De rechtbank overweegt ten aanzien van een bewezenverklaring voor feit 4 in het bijzonder als volgt.
+
+Nadat in de nacht van 14 juli 2021 al fors geweld was gepleegd tegen meerdere personen voor [café 1] en voor [restaurant] gingen verdachte en de medeverdachten over de boulevard in de richting [café 2] /de [bar] . Nadat de openstaande rekening in [café 2] was betaald, kwam het tot een confrontatie tussen de groep van verdachte en een groep mannen, te weten [slachtoffer 1] , [slachtoffer 5] , [slachtoffer 2] , [slachtoffer 3] en [slachtoffer 4] (ook: de groep uit [woonplaats] ). De groep van verdachte stond tegenover de groep uit [woonplaats] . Nadat medeverdachte [medeverdachte 2] een eerste klap uitdeelde, ontstond er een massale vechtpartij waarbij door de verschillende personen uit de groep van verdachte verschillende vormen van geweld werden uitgeoefend tegen de personen van de groep uit [woonplaats] . Bij het begin van dit geweld waren aanwezig verdachte en de medeverdachten [medeverdachte 2] , [medeverdachte 6] , [medeverdachte 5] , [medeverdachte 3] , [medeverdachte 8] en [medeverdachte 4] .
+
+In korte opeenvolgende tijd volgde vanuit de groep van verdachte onder meer het volgende geweld. [slachtoffer 3] kreeg één klap op zijn gezicht en er werd geprobeerd hem te tackelen. [slachtoffer 1] is op zijn hoofd geslagen en op de grond gevallen. Daarna is hij tegen zijn hoofd geschopt. [slachtoffer 4] is tijdens het wegrennen geslagen. [slachtoffer 5] is tegen de grond gewerkt. Daarna is er tegen en in de richting van zijn hoofd geschopt. [slachtoffer 2] is geschopt, geslagen en geduwd. Uit onder meer de verklaring van [getuige 10] blijkt dat de groep uit [woonplaats] tijdens deze geweldsuitbarsting niet veel deed en vooral de klappen kreeg. [slachtoffer 1] is als gevolg van het geweld overleden.
+
+De rechtbank stelt op grond van onder meer de verklaringen van [getuige 2] en [getuige 3] vast dat verdachte vanaf het begin aanwezig was bij het geweld tegen de groep uit [woonplaats] . Hij heeft zelf in ieder geval ook geweldshandelingen gepleegd tegen [slachtoffer 5] . Dit levert naar het oordeel van de rechtbank een voldoende significante bijdrage op aan de openlijke geweldpleging, niet alleen tegen [slachtoffer 5] maar tegen de hele groep uit [woonplaats] . Immers, hetgeen voor [bar] toen en daar is voorgevallen dient te worden aangemerkt als één massale aanval op een groep personen door gezamenlijk gepleegd (openlijk) geweld, waarbij de ene geweldpleger zich gesterkt voelt door de andere geweldplegers en er dus gemakkelijk escalatie optreedt.
+
+Anders dan betoogd valt het openlijk geweld voor de [bar] juridisch niet uiteen in meerdere kleine vechtpartijen tegen afzonderlijke personen, waarbij per verdachte moet worden beoordeeld tegen wie hij geweld heeft gepleegd. Dit gaat niet alleen in tegen de feitelijke situatie zoals die heeft plaatsgevonden – te weten één massale vechtpartij van de groep van verdachte tegen de groep uit [woonplaats] – maar ook tegen de inhoud en ratio van artikel 141 van het Wetboek van Strafrecht (hierna: Sr), namelijk het strafbaar stellen van openlijk en in verenigde krachten gepleegd (groeps)geweld tegen personen, waarbij niet iedere pleger zelf geweld moet hebben gepleegd tegen ieder slachtoffer. Voor een bewezenverklaring van het “in vereniging” plegen van geweld moet – zoals eerder is overwogen – niet meer komen vast te staan dan dat de verdachte een voldoende significante of wezenlijke bijdrage heeft geleverd aan dat openlijke geweld.
+
+Gelet op voorgenoemde feiten en omstandigheden is de rechtbank van oordeel dat wettig en overtuigend is bewezen dat verdachte welbewust heeft deelgenomen aan het openlijk geweld zoals is tenlastegelegd als feit 4, en daaraan bovendien een significante bijdrage heeft geleverd, zodat hij als pleger daarvan dient te worden aangemerkt.
+
+(Zwaar) lichamelijk letsel tot gevolg
+
+Aan verdachte is voorts tenlastegelegd dat zijn bijdrage aan het openlijk geweld (zwaar) lichamelijk letsel van [slachtoffer 5] en [slachtoffer 1] ten gevolge heeft gehad. Niet bewezen is dat verdachte zelf geweldshandelingen tegen [slachtoffer 1] heeft begaan. Wel staat vast dat verdachte fors geweld heeft gebruikt tegen [slachtoffer 5] , maar voor de rechtbank is niet met voldoende zekerheid vast te stellen welk specifiek letsel dit uitgeoefende geweld van verdachte tot gevolg heeft gehad. Dit maakt dat verdachte zal worden vrijgesproken van het ten laste gelegde (zwaar) lichamelijk letsel. Dat ten laste van verdachte het medeplegen van de poging doodslag op [slachtoffer 5] bewezen wordt verklaard, betekent immers nog niet dat vastgesteld kan worden dat het de schop van verdachte is geweest die het ten laste gelegde letsel heeft veroorzaakt.
+
+Poging doodslag [slachtoffer 5] (feit 2 primair)
+
+De rechtbank overweegt ten aanzien van een bewezenverklaring voor feit 2 primair in het bijzonder als volgt.
+
+In de vechtpartij voor de [bar] is [slachtoffer 5] door medeverdachte [medeverdachte 6] naar de grond gewerkt. Nadat [slachtoffer 5] op de grond terecht kwam, is [medeverdachte 6] omgedraaid en weggelopen. Verdachte en medeverdachte [medeverdachte 2] hebben [slachtoffer 5] vervolgens allebei getrapt, waarbij één keer op het hoofd van [slachtoffer 5] is getrapt en één keer dichtbij het hoofd.
+
+Uit het onderzoek ter terechtzitting is de rechtbank niet gebleken dat verdachte en zijn medeverdachte de bedoeling (in de zin van boos opzet) hebben gehad om [slachtoffer 5] te doden. Van opzet op de dood is echter eveneens sprake wanneer verdachte en zijn medeverdachte voorwaardelijk opzet op de dood van [slachtoffer 5] hebben gehad. Dat wil zeggen dat zij met hun handelen bewust de aanmerkelijke kans hebben aanvaard dat het gevolg – de dood van [slachtoffer 5] – zal intreden. Anders dan de verdediging komt de rechtbank tot het oordeel dat daarvan sprake is geweest. De rechtbank stelt dat vast op grond van de volgende feiten en omstandigheden.
+
+Verdachte en de medeverdachte hebben zich schuldig gemaakt aan ernstig geweld gericht op het hoofd van [slachtoffer 5] , door met kracht tegen en in de richting van zijn hoofd te trappen. Het standpunt van elk van de verdachten dat hun trappen op de schouders van [slachtoffer 5] waren gericht, acht de rechtbank gelet op de camerabeelden, de getuigenverklaringen en het letsel van [slachtoffer 5] niet aannemelijk.
+
+De trap van medeverdachte [medeverdachte 2] is door getuigen ook wel omschreven als een voetbaltrap. Dit lijkt ook te volgen uit de camerabeelden van net na de trap. Kort na die trap schopte ook verdachte [slachtoffer 5] in de richting van zijn hoofd. Doordat [slachtoffer 5] vlak daarvoor naar de grond was gewerkt, kon hij zich niet goed tegen de trappen verdedigen; dat maakte hem extra kwetsbaar. Op de camerabeelden is te zien dat [slachtoffer 5] in eerste instantie op zijn rug lag, zonder dat zijn armen zijn hoofd beschermden, waardoor de kans bestond dat hij met kracht tegen zijn slaap zou worden geschopt. Dat het geweld heftig was volgt ook uit het commentaar van omstanders in het ‘ [site] filmpje’. Daarop is door de rechtbank waargenomen dat er ten tijde, en vlak na het schoppen te horen is: ‘Wiejooo wiejooo. 112. Wow. What the fuck maat? Hé, zag je dat? Er moet 112 gebeld. Ze vlogen. Hij is kaaaoo… holy shit maat.’ Verdachte heeft verder verklaard dat hij [slachtoffer 5] heeft geschopt, omdat hij bang was dat hij op zou staan. Dat impliceert dat hij [slachtoffer 5] schopte met de intentie dat hij daarna niet meer kon opstaan. Immers hij lag al op de grond. Na de schoppen bewoog [slachtoffer 5] niet meer, was hij bewusteloos, en verdachte en de medeverdachte liepen bij hem weg zonder zich om hem te bekommeren. Hij moet dus met kracht op zijn hoofd zijn geraakt.
+
+Na afloop van het gevecht, nadat de groep van verdachte had gehoord dat er iemand in coma was geraakt, was verdachte erg emotioneel en bezorgd dat hij diegene dat had aangedaan. Ook hieruit volgt dat hij fors geweld heeft gebruikt. Immers, als hij werkelijk alleen een zachte schop tegen een schouder zou hebben gegeven, dan was hij niet bang geweest dat daardoor iemand in coma was geraakt.
+
+De mate van het geweld gericht op het hoofd van [slachtoffer 5] , alsmede de intentie waarmee verdachte dit geweld gebruikte, maakt dat de rechtbank van oordeel is dat een reële, niet onwaarschijnlijke kans bestond op de dood. Door het geweld op deze wijze op [slachtoffer 5] uit te oefenen, hebben verdachte en de medeverdachte deze kans bewust aanvaard.
+
+De rechtbank stelt vast dat verdachte en zijn medeverdachte het ten laste gelegde feit in vereniging hebben gepleegd, nu sprake was van een gezamenlijke uitvoering. Tijdens het geweld tegen [slachtoffer 5] was sprake van een nauwe en bewuste samenwerking, omdat zij [slachtoffer 5] samen, om de beurt, richting zijn hoofd hebben geschopt terwijl hij op de grond lag.
+
+5
+BEWEZENVERKLARING
+
+De rechtbank acht wettig en overtuigend bewezen dat verdachte:
+
+feit 2 primair
+
+op 14 juli 2021 te [plaats] in Spanje, tezamen en in vereniging met een ander, ter uitvoering van het door verdachte voorgenomen misdrijf om [slachtoffer 5] opzettelijk van het leven te beroven, voornoemde [slachtoffer 5] met kracht tegen het hoofd, heeft getrapt en/of geschopt terwijl voornoemde [slachtoffer 5] op de grond lag, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+feit 3
+
+op 14 juli 2021 te [plaats] in Spanje, openlijk, te weten op de [locatie] ter hoogte van [restaurant] , in vereniging geweld heeft gepleegd tegen personen, te weten [slachtoffer 7] door voornoemde [slachtoffer 7] te duwen en naar de grond toe te brengen en met de vuist te stompen en te slaan en te schoppen en/of te trappen op en/of in de richting van en/of tegen het hoofd en het (boven)lichaam en met een stoel te gooien in de richting van voornoemde slachtoffer;
+
+feit 4
+
+op 14 juli 2021 te [plaats] in Spanje, openlijk, ter hoogte van bar [bar] in vereniging geweld heeft gepleegd tegen personen, te weten [slachtoffer 1] en [slachtoffer 2] en [slachtoffer 3] en [slachtoffer 4] en [slachtoffer 5]
+
+door voornoemde [slachtoffer 1] en [slachtoffer 2] en [slachtoffer 3] en [slachtoffer 4]
+
+en [slachtoffer 5] te duwen en te trekken en naar de grond toe te brengen en/of (met de vuist) te stompen en/of te slaan en/of te schoppen en/of te trappen op en/of in de richting van en/of tegen het hoofd en/of (boven)lichaam.
+
+Voor zover in het bewezen verklaarde deel van de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Verdachte is daardoor niet in de verdediging geschaad.
+
+Hetgeen onder 2 primair, 3 en 4 of anders is ten laste gelegd is niet bewezen. Verdachte wordt hiervan vrijgesproken.
+
+6
+STRAFBAARHEID VAN DE FEITEN
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van het bewezenverklaarde uitsluit, zodat dit strafbaar is.
+
+Het bewezenverklaarde levert volgens de wet de volgende strafbare feiten op:
+
+feit 2 primair
+
+medeplegen van poging tot doodslag;
+
+feit 3 en feit 4
+
+telkens, het openlijk in vereniging geweld plegen tegen personen.
+
+7
+STRAFBAARHEID VAN VERDACHTE
+
+Er is niet gebleken van feiten of omstandigheden die de strafbaarheid van verdachte uitsluiten. Verdachte is dan ook strafbaar.
+
+8
+OPLEGGING VAN STRAF
+
+8.1
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd verdachte ter zake van het door haar bewezen geachte
+
+te veroordelen tot een gevangenisstraf van acht jaren, met aftrek van het voorarrest.
+
+De officier van justitie heeft voorts gevorderd aan verdachte een vrijheidsbeperkende maatregel als bedoeld in artikel 38v Sr op te leggen, inhoudende een contactverbod met [slachtoffer 2] , [slachtoffer 3] , [slachtoffer 4] , [slachtoffer 5] en [slachtoffer 9] voor de duur van vijf jaren.
+
+De officier van justitie heeft gevorderd de vrijheidsbeperkende maatregel en het uit te oefenen toezicht (door de politie) dadelijk uitvoerbaar te verklaren.
+
+8.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft de rechtbank verzocht om bij de strafoplegging in strafmatigende zin rekening te houden met de media-aandacht in deze zaak. Verdachte heeft door de media-aandacht nadeel geleden. Daarnaast heeft de raadsman verzocht rekening te houden met de leeftijd van verdachte, zijn persoonlijke omstandigheden waaronder zijn studie en het reclasseringsrapport. Er zijn weinig problemen en het recidiverisico is laag. Dit alles dient er volgens de raadsman toe te leiden dat in het geval van strafoplegging er wordt volstaan met een gevangenisstraf die gelijk is aan de tijd die verdachte reeds in voorarrest heeft doorgebracht. Indien nodig kan de straf van verdachte worden aangevuld met een deels voorwaardelijke jeugddetentie en een onvoorwaardelijke werkstraf.
+
+8.3
+
+Het oordeel van de rechtbank
+
+Bij het bepalen van de straf heeft de rechtbank rekening gehouden met de ernst van het bewezenverklaarde, de omstandigheden waaronder dit is begaan en de persoon van verdachte, zoals van één en ander ter terechtzitting is gebleken. Meer in het bijzonder geldt het volgende.
+
+De aard en ernst van de feiten
+
+Verdachte heeft zich in de nacht van 14 juli 2021 op Mallorca schuldig gemaakt aan meerdere ernstige geweldsfeiten. Hij heeft zich zowel bij [restaurant] als bij de [bar] schuldig gemaakt aan openlijk geweld. Bij [restaurant] heeft hij bijgedragen aan geweld tegen [slachtoffer 7] . [slachtoffer 7] is bij dat geweld verwond en buiten bewustzijn achtergebleven. Bij de [bar] maakte verdachte vervolgens deel uit van een groep die zwaar geweld heeft gepleegd tegen vijf slachtoffers: [slachtoffer 5] , [slachtoffer 1] , [slachtoffer 2] , [slachtoffer 3] en [slachtoffer 4] . Verdachte heeft samen met medeverdachte [medeverdachte 2] [slachtoffer 5] tegen het hoofd geschopt, terwijl hij weerloos op de grond lag. Dat geweld was zo heftig dat [slachtoffer 5] hierdoor had kunnen overlijden. Alle vijf slachtoffers hebben verwondingen opgelopen en [slachtoffer 1] is door de opgelopen verwondingen overleden. Dat het hier om ernstige feiten gaat met zeer ernstige gevolgen, behoeft geen betoog.
+
+Het openlijk geweld voor [restaurant] rechtvaardigt, ondanks de (relatief geringe) bijdrage van verdachte daaraan, al een forse straf.
+
+Maar, terwijl te verwachten zou zijn dat verdachte van dit geweld en het resultaat ervan geschrokken zou zijn, gaat hij enige tijd later bij de [bar] opnieuw over tot geweld. Hij heeft van het begin af aan meegedaan met een geweldsuitbarsting tegen voor hem onbekende slachtoffers. Dat geweld had al meteen tot resultaat dat [slachtoffer 1] buiten bewustzijn op de grond achterbleef en [slachtoffer 3] en [slachtoffer 4] gewond wisten te ontkomen. Niettemin ging het geweld door tegen [slachtoffer 2] en [slachtoffer 5] . Op de beelden is te zien dat de hele groep zich dan tegen hen beiden richt. [slachtoffer 5] wordt naar de grond gewerkt en wordt vervolgens door verdachte en een medeverdachte naar zijn hoofd geschopt. Hij wordt op zijn hoofd geraakt, waarna hij bewusteloos blijft liggen. Ook wordt door meerdere personen geprobeerd [slachtoffer 2] ten val te brengen en ook naar hem wordt geslagen en geschopt. De vraag komt op wat er met hem zou zijn gebeurd als hij zich niet ternauwernood staande had weten te houden.
+
+Aan de ernst en strafwaardigheid van het openlijk geweld bij de [bar] draagt nog bij dat verdachte kort daarvoor ook al betrokken was bij ernstig openlijk geweld bij de [restaurant] . Dat geweld eindigde met een slachtoffer dat bewusteloos op de grond achterbleef. Niettemin is hij kort daarna – wetende hoe het eerdere geweld was afgelopen – samen met die medeverdachten opnieuw een gevecht begonnen. Hij kon weten hoe dit af zou kunnen lopen en had, in plaats van mee te doen en zelf iemand te schoppen die op de grond lag, zich hiervan moeten distantiëren.
+
+Verdachte is vrijgesproken van de doodslag op [slachtoffer 1] . Maar de rechtbank acht wel bewezen dat verdachte bij de [bar] in vereniging geweld heeft gepleegd tegen alle vijf de slachtoffers, ook tegen [slachtoffer 1] . Dat [slachtoffer 1] is overleden, levert voor verdachte niet een strafverzwarende omstandigheid in de zin van de wet op, maar draagt wel bij aan de ernst van het feit en de gevolgen daarvan en heeft daarmee invloed op de hoogte van de op te leggen straf.
+
+De rechtbank hecht er aan het volgende op te merken. Er is in de media en ook ter zitting gesproken over ‘het geheim van Mallorca’. Daarbij is de vraag opgeworpen of betrokkenen meer weten over de dood van [slachtoffer 1] dan zij vertellen. Wat daar van zij, niet vastgesteld kan worden dat dit voor verdachte geldt. Alleen al daarom speelt dit geen rol bij de strafoplegging. Bij de op te leggen straf is alleen bepalend wat ten laste van verdachte bewezen is verklaard.
+
+De vraag rijst waarom verdachte en zijn medeverdachten tot dit geweld zijn overgegaan. Er zijn door hen woorden als “verhaal halen”, “uitpraten” “verdedigen” en “vrienden helpen” gebruikt. Maar waartegen nu verdedigd moest worden en wie er nu geholpen moest worden, blijkt niet. En “verhaal halen” en “uitpraten” lijken, zoals wel vaker in de rechtszaal, synoniemen voor vechten.
+
+De slotsom blijft dat sprake is geweest van zonder werkelijke aanleiding gepleegd, zinloos en excessief groepsgeweld. Met in dit geval fatale gevolgen.
+
+Mensen moeten veilig uit kunnen gaan en daarna ook weer veilig thuis kunnen komen. Dat geldt ook – en misschien wel in het bijzonder – voor jongeren.
+
+In de media en ook door de officier van justitie is een beeld geschetst van een groep jongens die ‘op oorlogspad’ was. Het mag zo zijn dat dit allemaal niet het vooropgezette plan was van verdachte en zijn medeverdachten was, maar wat wel gezegd mag worden is dit: het is de angst van veel jongeren – en waarschijnlijk ook van hun ouders – dat ze op een uitgaansavond een groep als die van verdachte en zijn medeverdachten tegenkomen.
+
+De persoon van verdachte
+
+De rechtbank heeft acht geslagen op een uittreksel uit de Justitiële Documentatie van 25 januari 2022 betreffende verdachte. Hieruit blijkt dat blijkt dat verdachte niet eerder voor vergelijkbare delicten is veroordeeld.
+
+Verder heeft de rechtbank kennisgenomen van de Pro-Justitia rapportage van 18 januari 2022, opgemaakt door S.A. Moonen, gezondheidszorgpsycholoog, waaruit blijkt dat dat er bij verdachte geen sprake is van een psychische stoornis noch van een verstandelijke handicap. Dit was evenmin het geval ten tijde van het tenlastegelegde. Gelet op de afwezigheid van pathologie adviseert de psycholoog om bij een bewezenverklaring van de tenlastegelegde feiten deze volledig aan verdachte toe te rekenen. Doordat er bij verdachte geen psychische stoornis is vastgesteld, kan er geen pathologisch bepaalde risico inschatting worden gemaakt. Volgens de psycholoog kan betrokkene beschouwd worden als een typische adolescent met één been in de volwassenwereld en bij wie gesproken kan worden van een nog onvoltooide ontwikkeling. Er zijn geen contra-indicaties voor toepassing van het minderjarigenstrafrecht. Er zijn volgens de psycholoog geen gronden aanwezig voor het adviseren van begeleiding of behandeling in een strafrechtelijk kader. Ter terechtzitting van 10 oktober 2022 heeft de deskundige haar standpunten herhaald en haar advies gehandhaafd.
+
+Ook heeft de rechtbank acht geslagen op het reclasseringsadvies van 8 september 2022
+
+opgemaakt door M. van der Graaf, reclasseringswerker bij Reclassering Nederland. Uit het reclasseringsrapport blijkt dat de reclassering het recidiverisico van verdachte als laag inschat en er geen sprake is van agressieproblematiek. De reclassering adviseert bij een veroordeling verdachte een straf op te leggen zonder bijzondere voorwaarden. Interventies of toezicht zijn niet nodig. De reclassering acht het belangrijk dat verdachte zijn opleiding volgt en afrondt. Indien de rechtbank een werkstraf overweegt, wordt verdachte hiertoe in staat geacht. De reclassering adviseert voorts een contactverbod met [slachtoffer 5] , [slachtoffer 9] , [slachtoffer 4] , [slachtoffer 2] , [slachtoffer 3] en [slachtoffer 10] .
+
+De rechtbank heeft uit het dossier en op grond van de terechtzitting de indruk dat verdachte – al snel na de feiten – oprecht geschrokken lijkt te zijn van zijn handelen. Een duidelijke verklaring voor zijn gedrag, anders dan stoerdoenerij en groepsbeïnvloeding, heeft hij echter niet kunnen geven.
+
+Het volwassenenstrafrecht
+
+Verdachte was ten tijde van het plegen van de strafbare feiten achttien jaar oud, zodat in beginsel het volwassenenstrafrecht van toepassing is. Op grond van artikel 77c Sr is het mogelijk om bij jongvolwassenen tussen de 16 en 23 jaar af te wijken van die hoofdregel en toepassing te geven aan het jeugdstrafrecht. De persoonlijkheid van een verdachte of de omstandigheden waaronder de feiten zijn begaan moeten daarvoor dan aanleiding geven.
+
+Uit de wetsgeschiedenis blijkt dat deze uitzondering is ingevoerd om toepassing van het sanctiestelsel voor jeugdigen bij jongvolwassenen te bevorderen, wanneer dit, gelet op de ontwikkelingsfase van de jongvolwassene, de meest effectieve manier is om het gedrag in gunstige zin te beïnvloeden. Het doel daarbij is om zo ook de adolescent te stimuleren een verantwoorde rol in de samenleving op zich te nemen. Er wordt daarbij voornamelijk gedacht aan jongvolwassen verdachten van ernstige misdrijven, die als veelpleger te boek staan en die bijzonder kwetsbaar zijn. In die gevallen is er mogelijk sprake van een (forse) vrijheidsbenemende straf, waarbij de tenuitvoerlegging onder het jeugdrecht afwijkt van het volwassenenstrafrecht. Een belangrijk verschil daarbij is dat binnen een justitiële jeugdinrichting (JJI) een pedagogische aanpak mogelijk is. Ook kan er in de hiervoor genoemde gevallen eerder sprake zijn van oplegging van een maatregel met behandeling, waarvoor het jeugdrecht andere mogelijkheden biedt dan het volwassenenstrafrecht.
+
+Dit is het uitgangspunt zoals die op dit moment geldt en door de rechtbank zal worden gehanteerd. Met betrekking tot de door de raadsman benoemde discussies ten aanzien van een mogelijke wijziging hiervan, overweegt de rechtbank dat deze ontwikkeling niet zo eenduidig en pertinent is dat zij daarin reden ziet een ander uitgangspunt te hanteren.
+
+De rechtbank ziet geen aanleiding om in de zaak van verdachte het jeugdstrafrecht toe te passen. De indruk van verdachte zoals die ter zitting naar voren is gekomen en zoals die ook uit de rapportages blijkt, is die van een jongvolwassene zonder stoornis of een cognitieve beperking, die thuis woont maar ook een zelfstandig leven leidt met studie en een baan als ZZP-er. Verder blijkt uit de rapportages dat er bij verdachte een mogelijkheid bestaat van pedagogische beïnvloeding, maar dat daar geen noodzaak toe is. Er wordt ook geen specifieke behandeling of maatregel van het jeugdstrafrecht geadviseerd. Dit alles tezamen maakt dat de rechtbank er niet van is overtuigd dat het sanctiestelsel van het jeugdstrafrecht de meest effectieve manier is om het gedrag van verdachte te beïnvloeden. De enkele omstandigheid dat verdachte mogelijk meer op zijn plek is in een JJI dan in PI, acht de rechtbank onvoldoende zwaarwegend om tot een andere conclusie te komen. Dit alles maakt dat het verzoek van de verdediging om het jeugdstrafrecht toe te passen zal worden afgewezen.
+
+De straf
+
+Alles overwegende is de rechtbank van oordeel dat een gevangenisstraf voor de duur van dertig maanden, met aftrek van het voorarrest, passend en geboden is en zal deze straf aan verdachte opleggen.
+
+De rechtbank is zich ervan bewust dat deze straf ingrijpend is en mogelijk het leven van verdachte en zijn familie zal ontwrichten. Zijn studie komt in het gedrang en de gevolgen voor zijn toekomst zullen groot zijn. Verdachte is een nog jonge man met een grotendeels blanco strafblad, die in één nacht ernstig de fout in is gegaan. Maar de rechtbank moet ook rekening houden met de ernstige gevolgen van zijn handelen voor de slachtoffers. En met de ernstige inbreuk die zijn handelen heeft gemaakt op het gevoel van veiligheid in de samenleving. Het signaal naar verdachte en ook naar anderen moet zijn: dit soort zinloos en extreem groepsgeweld wordt zwaar bestraft.
+
+De raadsman heeft verzocht tot matiging van de op te leggen straf over te gaan, vanwege het nadeel dat verdachte door de media-aandacht heeft geleden. Inderdaad kan worden vastgesteld dat de gebeurtenissen van 14 juli 2021 op Mallorca veel aandacht in alle soorten media hebben gekregen. Dit is echter, gelet op de omstandigheden rond deze zaak en in de huidige tijd van social media, haast onvermijdelijk en vormt op zichzelf geen grond voor strafvermindering. Dat persoonsgegevens van verdachte op social media zijn gepubliceerd, is daarvoor ook onvoldoende. De rechtbank wijst er in de eerste plaats op dat dit al was gebeurd vóórdat hij als verdachte was aangemerkt. In de tweede plaats geldt dat onvoldoende is onderbouwd dat dit voor verdachte zodanig nadelige gevolgen heeft gehad dat strafvermindering geboden zou zijn.
+
+De rechtbank merkt nog op dat de tenuitvoerlegging van de op te leggen gevangenisstraf volledig zal plaatsvinden binnen de penitentiaire inrichting, tot het moment dat de verdachte in aanmerking komt voor deelname aan een penitentiair programma, als bedoeld in artikel 4 Penitentiaire beginselenwet, dan wel de regeling van voorwaardelijke invrijheidsstelling, als bedoeld in artikel 6:2:10 van het Wetboek van Strafvordering, aan de orde is.
+
+Voorlopige hechtenis
+
+Het verzoek tot opheffing dan wel schorsing van de voorlopige hechtenis wordt, gelet op de bewezenverklaring en de straf die de rechtbank aan verdachte zal opleggen, afgewezen. De rechtbank weegt hierbij mee dat er sprake is van een bewezenverklaring voor een feit waardoor de rechtsorde is geschokt.
+
+Geen vrijheidsbeperkende maatregel
+
+De rechtbank ziet geen aanleiding de door de officier van justitie gevorderde vrijheidsbeperkende maatregel op te leggen. Er is geen enkele aanwijzing dat verdachte contact zou willen zoeken met slachtoffers in deze zaak. Niet gebleken is daarom dat een contactverbod noodzakelijk is ter beveiliging van de maatschappij of ter voorkoming van strafbare feiten.
+
+9
+BESLAG
+
+9.1
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft geconcludeerd tot teruggave van de in beslag genomen goederen aan verdachte.
+
+9.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft verzocht de in beslag genomen goederen terug te geven aan verdachte.
+
+9.3
+
+Het oordeel van de rechtbank
+
+Teruggave aan verdachte
+
+De rechtbank zal teruggave gelasten aan verdachte van de in beslag genomen voorwerpen, te weten:
+
+1 STK Broek (omschrijving/goednummer: PL0900-2021230390-G2859102);
+
+1 STK Schoenen (omschrijving/goednummer: PL0900-2021230390-G2859208).
+
+10
+BENADEELDE PARTIJEN
+
+Nabestaanden en slachtoffers hebben zich als benadeelde partij in het geding gevoegd. Zij hebben de rechtbank verzocht om hoofdelijke toewijzing van hun vordering, en deze te vermeerderen met de wettelijke rente vanaf het moment van het ontstaan van de schade. Daarnaast is verzocht de schadevergoedingsmaatregel als bedoeld in artikel 36f Sr aan verdachte op te leggen.
+
+10.1.1
+
+Slachtoffers ‘ [café 1] ’
+
+[slachtoffer 9]
+
+vordert een bedrag van in totaal € 3.146,93 (€ 646,93 materieel en € 2.500,- immaterieel). Dit bedrag bestaat uit:
+
+Medische kosten € 130,-;
+
+Reis- parkeerkosten naar KNO-arts € 41,93;
+
+Kosten bebloede kleding € 125,-;
+
+Eigen risico rechtsbijstandsverzekering € 250,-;
+
+Immateriële schade € 2.500,-.
+
+[slachtoffer 6]
+
+vordert een bedrag van in totaal € 2.702,50 (€ 862,50 materieel, € 1.750,- immaterieel en € 90,- proceskosten). Dit bedrag bestaat uit:
+
+- Gederfde inkomsten € 862,50;
+
+Immateriële schade € 1.750,-;
+
+Reiskosten naar de rechtbank € 90,-.
+
+10.1.2
+
+Slachtoffers ‘ [restaurant] ’
+
+[slachtoffer 7]
+
+vordert een bedrag van in totaal € 3.702,46 (€ 572,46 materieel, € 3.000,- immaterieel en € 130,- proceskosten). Dit bedrag bestaat uit:
+
+Reiskosten naar ziekenhuis Mallorca € 45,66;
+
+Ziektekosten € 385,-;
+
+Reiskosten naar ziekenhuis Nederland € 22,80;
+
+Horloge € 119,-;
+
+Immateriële schade € 3.000,-;
+
+Reiskosten naar de rechtbank € 130,-.
+
+[slachtoffer 8]
+
+vordert een bedrag van in totaal € 1991,20 (€ 150,- materieel, € 1.750,- immaterieel en € 91,20 proceskosten). Dit bedrag bestaat uit:
+
+Beschadigde kleding € 150,-;
+
+Immateriële schade € 1.750,-;
+
+Reiskosten naar de rechtbank € 91,20.
+
+10.1.3
+
+Slachtoffers ‘ [bar] ’
+
+[slachtoffer 5]
+
+vordert een bedrag van in totaal € 9.067,39 (€ 4.067,39 materieel en € 5.000,- immaterieel). Dit bedrag bestaat uit:
+
+Kosten AirBnB Mallorca € 157,68;
+
+Huurauto € 56,65;
+
+Vliegticket Mallorca-Amsterdam € 145,01;
+
+Huurkosten woning € 2.292,15;
+
+Kosten laminaatvloer huurwoning € 645,90;
+
+Eigen risico zorgverzekering 2022 en 2023 € 770,-;
+
+Immateriële schade € 5.000,-.
+
+[slachtoffer 4]
+
+vordert een bedrag van in totaal € 17.598,16, (€ 12.598,16 materieel en
+
+€ 5.000,- immaterieel). Dit bedrag bestaat uit:
+
+Kosten AirBnB Mallorca € 157,68;
+
+Huurauto € 56,65;
+
+Bootticket Mallorca-Ibiza € 87,66;
+
+Vliegticket Ibiza-Amsterdam € 152,45;
+
+Hotel Palma de Mallorca € 56,63;
+
+Kleding begrafenis [slachtoffer 1] € 109,94;
+
+Taxi naar ziekenhuis Mallorca € 32,-;
+
+Eigen risico zorgverzekering 2022 en 2023 € 770,-;
+
+Gederfde inkomsten € 11.175,15;
+
+Immateriële schade en/of schokschade € 5.000,-.
+
+[slachtoffer 2]
+
+vordert een bedrag van in totaal € 15.595,56 (€ 10.595,56 materieel en € 5.000,- immaterieel). Dit bedrag bestaat uit:
+
+Kosten AirBnB Mallorca € 157,68;
+
+Bootticket Mallorca-Ibiza € 87,66;
+
+Vliegticket Ibiza-Amsterdam € 152,45;
+
+Hotel Palma de Mallorca € 56,63;
+
+Taxi van ziekenhuis Mallorca € 40,-;
+
+Eigen risico zorgverzekering 2022 en 2023 € 1270,-;
+
+Kosten opvragen medische informatie € 31,14;
+
+Gederfde inkomsten € 8.800,-;
+
+Immateriële schade en/of schokschade € 5.000,-.
+
+[slachtoffer 3]
+
+vordert een bedrag van in totaal € 6.702,42,42 (€ 1.702,42 materieel en
+
+€ 5.000,- immaterieel). Dit bedrag bestaat uit:
+
+Kosten AirBnB Mallorca € 157,68;
+
+Bootticket Mallorca-Ibiza € 87,66;
+
+Vliegticket Ibiza-Amsterdam € 152,45;
+
+Hotel Palma de Mallorca € 56,63;
+
+Eigen risico zorgverzekering 2022 en 2023 € 1248,-;
+
+Immateriële schade en/of schokschade € 5.000,-.
+
+10.1.4
+
+Nabestaanden van [slachtoffer 1]
+
+[benadeelde 2] en [benadeelde 1] , ouders van [slachtoffer 1]
+
+De ouders van [slachtoffer 1] vorderen een bedrag van in totaal € 69.100,63 (€ 9.350,63 materieel en € 59.750,- immaterieel). Dit bedrag bestaat uit:
+
+Vererfde letselschade van € 28.648,11;
+
+Overlijdensschade € 40.452,52.
+
+[benadeelde 3] , vriendin van [slachtoffer 1]
+
+De vriendin van [slachtoffer 1] vordert een bedrag van in totaal € 307.652,- (€ 287.652,- materieel en € 20.000,- immaterieel). Dit bedrag bestaat uit:
+
+Gederfd levensonderhoud van € 287.652,-;
+
+Affectieschade van € 20.000,-.
+
+10.2
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft verschillende standpunten ingenomen ten aanzien van de vorderingen. De rechtbank zal hierop, voor zover nodig, hierna ingaan.
+
+10.3
+
+Het standpunt van de verdediging
+
+De verdediging heeft verschillende verweren gevoerd tegen de vorderingen. De rechtbank zal hierop, voor zover nodig, hierna ingaan.
+
+10.4
+
+Het oordeel van de rechtbank
+
+Groepsaansprakelijkheid en hoofdelijkheid
+
+In de gevallen waarin het geweld door verdachte in vereniging met één of meer anderen is gepleegd, stelt de rechtbank vast dat sprake is van groepsaansprakelijkheid in de zin van artikel 6:166 van het Burgerlijk Wetboek (hierna: BW). Dit geldt zowel voor de (poging(en) tot) doodslag als het openlijk geweld. Dit brengt met zich dat iedere betrokkene hoofdelijk aansprakelijk is voor de als gevolg daarvan geleden schade. Er is namelijk steeds sprake geweest van deelname aan gewelddadige gedragingen in groepsverband en tussen die gedragingen bestaat naar het oordeel van de rechtbank een duidelijke samenhang. Groepsgeweld tegen een persoon (of personen) brengt de kans met zich dat aan die persoon of personen letsel wordt toegebracht, en verdachte heeft dat voor lief genomen. Door gewelddadige deelname aan de groep zijn verdachte en zijn mededaders naar burgerlijk recht hoofdelijk aansprakelijk voor de schade die door het strafbare feit is toegebracht. Of aan verdachte zelf het opgelopen (zwaar) lichamelijk letsel is tenlastegelegd c.q. bewezenverklaard is daarbij niet van belang. Voor aansprakelijkheid krachtens artikel 6:166 BW is namelijk niet vereist dat een individu uit de groep zelf schade heeft veroorzaakt om daarvoor in civielrechtelijke zin aangesproken te kunnen worden. De regeling beoogt buiten twijfel te stellen dat een deelnemer aan onrechtmatige gedragingen in groepsverband zich niet aan aansprakelijkheid voor de daaruit geresulteerde schade kan onttrekken met het causaliteitsverweer dat de schade ook zonder zijn deelneming zou zijn ontstaan.
+
+10.4.1
+
+Slachtoffers ‘ [café 1] ’
+
+[slachtoffer 9] en [slachtoffer 6]
+
+De rechtbank zal de benadeelde partijen [slachtoffer 9] en [slachtoffer 6] niet-ontvankelijk verklaren in de vorderingen nu verdachte van het ten laste gelegde geweld jegens hen zal worden vrijgesproken.
+
+Nu de benadeelde partijen niet-ontvankelijk worden verklaard in hun vorderingen, zullen de benadeelde partijen in de kosten van verdachte worden veroordeeld voor zover deze betrekking hebben op het verweer tegen de vordering. Deze kosten worden tot op dit moment begroot op nihil.
+
+10.4.2
+
+Slachtoffers ‘ [restaurant] ’
+
+Verdachte heeft, met medeverdachten [medeverdachte 3] , [medeverdachte 2] , [medeverdachte 4] , [medeverdachte 6] , [medeverdachte 1] en [medeverdachte 5] openlijk in vereniging geweld gepleegd tegen [slachtoffer 7] . Hij is dus, samen met die medeverdachten, hoofdelijk aansprakelijk voor de schade die [slachtoffer 7] daardoor heeft geleden.
+
+[slachtoffer 7]
+
+Materiële schade
+
+Ten aanzien van de gevorderde reiskosten naar het ziekenhuis in Mallorca ter hoogte van
+
+€ 45,66, de ziektekosten ter hoogte van € 385,-, en de reiskosten naar het ziekenhuis in Nederland ter hoogte van € 22,80 van de benadeelde partij [slachtoffer 7] geldt dat zij allemaal voldoende zijn onderbouwd, en in rechtstreeks verband staan tot de door verdachte gepleegde strafbare feiten, zodat zij voor vergoeding in aanmerking komen.
+
+De rechtbank is van oordeel dat vordering van de benadeelde partij die ziet op het horloge ter hoogte van € 119,- onvoldoende is onderbouwd, in die zin dat het rechtstreeks verband tussen de strafbare feiten en de schade onvoldoende is komen vast te staan. Het zou een onevenredige belasting van het strafgeding opleveren indien de benadeelde partij in dit stadium van de procedure alsnog in de gelegenheid zou worden gesteld om nader bewijs in te brengen. In zoverre kan de benadeelde partij daarom niet in zijn vordering worden ontvangen en kan hij zijn vordering slechts bij de burgerlijke rechter aanbrengen.
+
+Immateriële schade
+
+De gevorderde immateriële schade ligt op grond van het bepaalde in artikel 6:106 lid 1 sub b BW voor toewijzing gereed, omdat de benadeelde partij door het gepleegde geweld lichamelijk letsel heeft opgelopen in de vorm van onder meer een gebroken duim, en de benadeelde partij door het forse geweld op andere wijze in zijn persoon is aangetast. Gelet op de aard van het letsel en de normschending, alsmede de hoogte van de schadevergoedingen die doorgaans in soortgelijke zaken worden toegewezen, acht de rechtbank een toewijzing van de gevorderde
+
+€ 3.000,- billijk.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partij heeft gemaakt ter hoogte van € 130,- aan reiskosten van en naar de rechtbank. Anders dan de verdediging heeft gesteld vormt het bepaalde uit artikel 238 lid 1 van het Wetboek van Burgerlijke Rechtsvordering (hierna: Rv) geen beletsel voor het toekennen van deze reiskosten. Dit komt voort uit het feit dat de benadeelde partij uitsluitend zijn eigen reiskosten vordert, en daarbij niet ook vergoeding vordert van kosten van zijn gemachtigde advocaat.
+
+Eigen schuld
+
+De rechtbank zal op de toe te wijzen schade geen eigen schuld-correctie toepassen in de zin van het bepaalde in artikel 6:101 BW, nu niet is gebleken van een gedraging aan de zijde van de benadeelde partij waardoor zijn schade (mede) zou zijn ontstaan.
+
+[slachtoffer 8]
+
+De rechtbank zal de benadeelde partij [slachtoffer 8] niet-ontvankelijk verklaren in de vordering nu verdachte van het ten laste gelegde geweld jegens hem zal worden vrijgesproken.
+
+Nu de benadeelde partij niet-ontvankelijk wordt verklaard in de vordering, zal de benadeelde partij in de kosten van verdachte worden veroordeeld voor zover deze betrekking hebben op het verweer tegen de vordering. Deze kosten worden tot op dit moment begroot op nihil.
+
+10.4.3.
+
+Slachtoffers [bar] ’
+
+Verdachte heeft, samen met medeverdachten [medeverdachte 3] , [medeverdachte 2] , [medeverdachte 8] , [medeverdachte 4] , [medeverdachte 6] en [medeverdachte 5] openlijk in vereniging geweld gepleegd tegen [slachtoffer 1] , [slachtoffer 5] , [slachtoffer 2] , [slachtoffer 3] en [slachtoffer 4] .
+
+Hij is dus, samen met die medeverdachten, hoofdelijk aansprakelijk voor de schade die de nabestaanden van [slachtoffer 1] en die [slachtoffer 5] , [slachtoffer 2] , [slachtoffer 3] en [slachtoffer 4] daardoor hebben geleden.
+
+[slachtoffer 5]
+
+Materiële schade
+
+Ten aanzien van de gevorderde kosten van de AirBnB op Mallorca ter hoogte van € 157,68, en de kosten van het vliegticket van Mallorca naar Amsterdam ter hoogte van € 145,01 van de benadeelde partij [slachtoffer 5] geldt dat zij voldoende zijn onderbouwd, en in rechtstreeks verband staan tot het door verdachte gepleegde strafbare feit, zodat zij voor vergoeding in aanmerking komen.
+
+In de vordering van de toekomstige schade, te weten het gevorderde eigen risico van de zorgverzekering over 2022 en 2023 ter hoogte van € 770,- zal de benadeelde partij door de rechtbank niet ontvankelijk worden verklaard, nu niet vaststaat dat die schade werkelijk zal worden geleden.
+
+De kosten van de huurauto ter hoogte van € 56,65 zullen worden afgewezen nu deze niet zijn onderbouwd.
+
+De rechtbank is van oordeel dat vorderingen van de benadeelde partij die zien op de huurkosten van de woning ter hoogte van € 2.292,15, alsmede de laminaatvloer ter hoogte van € 645,90 onvoldoende zijn onderbouwd, in die zin dat het rechtstreeks verband tussen het strafbare feit en deze schade onvoldoende is komen vast te staan. Het zou een onevenredige belasting van het strafgeding opleveren indien de benadeelde partij in dit stadium van de procedure alsnog in de gelegenheid zou worden gesteld om nader bewijs in te brengen. In zoverre kan de benadeelde partij daarom niet in zijn vorderingen worden ontvangen en kan hij die vorderingen slechts bij de burgerlijke rechter aanbrengen.
+
+Immateriële schade
+
+De gevorderde immateriële schade ligt op grond van het bepaalde in artikel 6:106 lid 1 sub b BW voor toewijzing gereed, omdat de benadeelde partij door het gepleegde geweld lichamelijk letsel heeft opgelopen aan onder meer zijn hoofd, en de benadeelde partij door het forse geweld tegen de groep waarbij iemand uit de groep ( [slachtoffer 1] ) is omgekomen, op andere wijze in zijn persoon is aangetast. De benadeelde partij is door het geweld bewusteloos geraakt en werd er na het bijkomen mee geconfronteerd dat een vriend door hetzelfde geweld in coma was geraakt en daarna is overleden. De rechtbank is van oordeel dat laatstgenoemde omstandigheden bijdragen aan de aantasting in de persoon en daarmee de immateriële schade vergroten. Gelet op de aard van het letsel en de normschending, alsmede de hoogte van de schadevergoedingen die doorgaans in soortgelijke zaken worden toegewezen, acht de rechtbank een toewijzing van de gevorderde € 5.000,- billijk.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken. Deze kosten worden tot op dit moment begroot op nihil.
+
+Eigen schuld
+
+De rechtbank zal op de toe te wijzen schade geen eigen schuld-correctie toepassen in de zin van het bepaalde in artikel 6:101 BW, nu niet is gebleken van een gedraging aan de zijde van de benadeelde partij waardoor zijn schade (mede) zou zijn ontstaan. Het gedrag van de benadeelde partij voorafgaand aan de strafbare feiten kan, wat er verder ook van zij, niet worden aangemerkt als een gedraging die de schade (mede) heeft veroorzaakt.
+
+[slachtoffer 4]
+
+Materiële schade
+
+Ten aanzien van de gevorderde kosten van de AirBnB op Mallorca ter hoogte van € 157,68, de kosten van het bootticket van Mallorca naar Ibiza ter hoogte van € 87,66, de kosten van het vliegticket van Ibiza naar Amsterdam ter hoogte van € 152,45, de kosten van het hotel in Palma de Mallorca ter hoogte van € 56,63, en de kosten van de taxi naar het ziekenhuis op Mallorca ter hoogte van € 32,- van de benadeelde partij [slachtoffer 4] geldt dat zij voldoende zijn onderbouwd, en in rechtstreeks verband staan tot het door verdachte gepleegde strafbare feit, zodat zij voor vergoeding in aanmerking komen.
+
+In de vordering van de toekomstige schade, te weten het gevorderde eigen risico van de zorgverzekering over 2022 en 2023 ter hoogte van € 770,- zal de benadeelde partij door de rechtbank niet ontvankelijk worden verklaard, nu niet vaststaat dat die schade werkelijk zal worden geleden.
+
+De kosten van de huurauto ter hoogte van € 56,65 zullen worden afgewezen nu deze niet zijn onderbouwd.
+
+De kosten voor de kleding voor de begrafenis van [slachtoffer 1] ter hoogte van € 109,94 zullen worden afgewezen nu het rechtstreeks verband tussen bewezen verklaarde strafbare feit en de schade ontbreekt.
+
+De rechtbank is van oordeel dat vordering van de benadeelde partij die ziet op de gederfde inkomsten ter hoogte van € 11.175,15 onvoldoende is onderbouwd. Het zou een onevenredige belasting van het strafgeding opleveren indien de benadeelde partij in dit stadium van de procedure alsnog in de gelegenheid zou worden gesteld om nader bewijs in te brengen. In zoverre kan de benadeelde partij daarom niet in zijn vordering worden ontvangen en kan hij zijn vordering slechts bij de burgerlijke rechter aanbrengen.
+
+Immateriële schade/Schokschade
+
+De vorderding tot schokschade zal worden afgewezen, omdat aan de criteria voor toewijzing ervan niet wordt voldaan. In het bijzonder is onvoldoende gebleken van een zodanige aard en hechtheid van de relatie tussen de benadeelde partij en [slachtoffer 1] dat schokschade kan worden toegewezen.
+
+De gevorderde immateriële schade ligt op grond van het bepaalde in artikel 6:106 lid 1 sub b BW voor toewijzing gereed, omdat de benadeelde partij door het forse geweld tegen de groep waarbij iemand uit de groep ( [slachtoffer 1] ) is omgekomen, op andere wijze in zijn persoon is aangetast. De benadeelde partij is er, na het geweld tegen hemzelf, mee geconfronteerd dat een vriend door hetzelfde geweld in coma was geraakt en daarna is overleden. De rechtbank is van oordeel dat laatstgenoemde omstandigheid bijdraagt aan de aantasting in de persoon en daarmee de immateriële schade vergroot. Gelet op de aard van de normschending, alsmede de hoogte van de schadevergoedingen die doorgaans in soortgelijke zaken worden toegewezen, acht de rechtbank een toewijzing van € 3.000,- billijk. Voor het overige wordt de vordering afgewezen.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken. Deze kosten worden tot op dit moment begroot op nihil.
+
+Eigen schuld
+
+De rechtbank zal op de toe te wijzen schade geen eigen schuld-correctie toepassen in de zin van het bepaalde in artikel 6:101 BW, nu niet is gebleken van een gedraging aan de zijde van de benadeelde partij waardoor zijn schade (mede) zou zijn ontstaan.
+
+[slachtoffer 2]
+
+Materiële schade
+
+Ten aanzien van de gevorderde kosten van de AirBnB op Mallorca ter hoogte van € 157,68, de kosten van het bootticket van Mallorca naar Ibiza ter hoogte van € 87,66, de kosten van het vliegticket van Ibiza naar Amsterdam ter hoogte van € 152,45, de kosten van het hotel in Palma de Mallorca ter hoogte van € 56,63, de kosten van de taxi van het ziekenhuis op Mallorca ter hoogte van € 40,-, en de kosten voor het opvragen van de medische informatie ter hoogte van € 31,14 van de benadeelde partij [slachtoffer 2] geldt dat zij voldoende zijn onderbouwd, en in rechtstreeks verband staan tot het door verdachte gepleegde strafbare feit, zodat zij voor vergoeding in aanmerking komen.
+
+In de vordering van de toekomstige schade, te weten het gevorderde eigen risico van de zorgverzekering over 2022 en 2023 ter hoogte van € 1.270,- zal de benadeelde partij door de rechtbank niet ontvankelijk worden verklaard, nu niet vaststaat dat die schade werkelijk zal worden geleden.
+
+De rechtbank is van oordeel dat vordering van de benadeelde partij die ziet op de gederfde inkomsten ter hoogte van € 8.800,- onvoldoende is onderbouwd. Het zou een onevenredige belasting van het strafgeding opleveren indien de benadeelde partij in dit stadium van de procedure alsnog in de gelegenheid zou worden gesteld om nader bewijs in te brengen. In zoverre kan de benadeelde partij daarom niet in zijn vordering worden ontvangen en kan hij zijn vordering slechts bij de burgerlijke rechter aanbrengen.
+
+Immateriële schade/schokschade
+
+De vorderding tot schokschade zal worden afgewezen, omdat aan de criteria voor toewijzing ervan niet wordt voldaan. In het bijzonder is onvoldoende gebleken van een zodanige aard en hechtheid van de relatie tussen de benadeelde partij en [slachtoffer 1] dat schokschade kan worden toegewezen.
+
+De gevorderde immateriële schade ligt op grond van het bepaalde in artikel 6:106 lid 1 sub b BW voor toewijzing gereed, omdat de benadeelde partij door het forse geweld tegen de groep waarbij iemand uit de groep ( [slachtoffer 1] ) is omgekomen, op andere wijze in zijn persoon is aangetast. De benadeelde partij is er, na het geweld tegen hemzelf, mee geconfronteerd dat een vriend door hetzelfde geweld in coma was geraakt en daarna is overleden. De rechtbank is van oordeel dat laatstgenoemde omstandigheid bijdraagt aan de aantasting in de persoon en daarmee de immateriële schade vergroot. Gelet op de aard van de normschending, alsmede de hoogte van de schadevergoedingen die doorgaans in soortgelijke zaken worden toegewezen, acht de rechtbank een toewijzing van € 3.000,- billijk. Voor het overige wordt de vordering afgewezen.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken. Deze kosten worden tot op dit moment begroot op nihil.
+
+Eigen schuld
+
+De rechtbank zal op de toe te wijzen schade geen eigen schuld-correctie toepassen in de zin van het bepaalde in artikel 6:101 BW, nu niet is gebleken van een gedraging aan de zijde van de benadeelde partij waardoor zijn schade (mede) zou zijn ontstaan.
+
+[slachtoffer 3]
+
+Materiële schade
+
+Ten aanzien van de gevorderde kosten van de AirBnB op Mallorca ter hoogte van € 157,68, de kosten van het bootticket van Mallorca naar Ibiza ter hoogte van € 87,66, de kosten van het vliegticket van Ibiza naar Amsterdam ter hoogte van € 152,45 en de kosten van het hotel in Palma de Mallorca ter hoogte van € 56,63van de benadeelde partij [slachtoffer 3] geldt dat zij voldoende zijn onderbouwd, en in rechtstreeks verband staan tot het door verdachte gepleegde strafbare feit, zodat zij voor vergoeding in aanmerking komen.
+
+In de vordering van de toekomstige schade, te weten het gevorderde eigen risico van de zorgverzekering over 2022 en 2023 ter hoogte van € 1.248,- zal de benadeelde partij door de rechtbank niet ontvankelijk worden verklaard, nu niet vaststaat dat die schade werkelijk zal worden geleden.
+
+Immateriële schade/Schokschade
+
+De vorderding tot schokschade zal worden afgewezen, omdat aan de criteria voor toewijzing ervan niet wordt voldaan. In het bijzonder is onvoldoende gebleken van een zodanige aard en hechtheid van de relatie tussen de benadeelde partij en [slachtoffer 1] dat schokschade kan worden toegewezen.
+
+De gevorderde immateriële schade ligt op grond van het bepaalde in artikel 6:106 lid 1 sub b BW voor toewijzing gereed, omdat de benadeelde partij door het forse geweld tegen de groep waarbij iemand uit de groep ( [slachtoffer 1] ) is omgekomen, op andere wijze in zijn persoon is aangetast. De benadeelde partij is er, na het geweld tegen hemzelf, mee geconfronteerd dat een vriend door hetzelfde geweld in coma was geraakt en daarna is overleden. De rechtbank is van oordeel dat laatstgenoemde omstandigheid bijdraagt aan de aantasting in de persoon en daarmee de immateriële schade vergroot. Gelet op de aard van de normschending, alsmede de hoogte van de schadevergoedingen die doorgaans in soortgelijke zaken worden toegewezen, acht de rechtbank een toewijzing van € 3.000,- billijk. Voor het overige wordt de vordering afgewezen.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken. Deze kosten worden tot op dit moment begroot op nihil.
+
+Eigen schuld
+
+De rechtbank zal op de toe te wijzen schade geen eigen schuld-correctie toepassen in de zin van het bepaalde in artikel 6:101 BW, nu niet is gebleken van een gedraging aan de zijde van de benadeelde partij waardoor zijn schade (mede) zou zijn ontstaan.
+
+10.4.4
+
+Nabestaanden van [slachtoffer 1]
+
+[benadeelde 2] en [benadeelde 1] , ouders van [slachtoffer 1]
+
+De ouders van [slachtoffer 1] vorderen (mede namens zijn broer) een bedrag van € 28.648,11 aan letselschade van [slachtoffer 1] welke vordering door vererving onder algemene titel op hen is overgegaan. Dit bedrag valt uiteen in een ziekenhuisdaggeldvergoeding ter hoogte van
+
+€ 155,-, reis- en verblijfkosten Mallorca van zijn ouders en vriendin ter hoogte van
+
+€ 3.743,11 en immateriële schade (smartengeld) ter hoogte van € 24.750,- voor de periode die [slachtoffer 1] in het ziekenhuis heeft gelegen zonder kwaliteit van leven.
+
+Voorts vorderen de ouders van [slachtoffer 1] een bedrag van € 40.452,52 aan overlijdensschade, bestaande uit affectieschade ter hoogte van € 35.000,- (tweemaal
+
+€ 17.500,-) en uitvaartkosten ter hoogte van € 5.452,52.
+
+Op grond van artikel 6:95 lid 2 BW kan een vordering ter zake immateriële schade onder algemene titel overgaan als de gerechtigde aan de wederpartij heeft medegedeeld op de vergoeding aanspraak te maken. De rechtbank is van oordeel dat het naar maatstaven van redelijkheid en billijkheid (artikel 6:2 BW) onaanvaardbaar zou zijn indien verdachte zich erop zou kunnen beroepen dat [slachtoffer 1] , die na het door de groep van verdachte toegebrachte letsel niet meer bij bewustzijn is geweest, geen mededeling heeft gedaan dat hij aanspraak maakt op vergoeding van door hem geleden immateriële schade.
+
+Materiële schade (al dan niet vererfd)
+
+Ten aanzien van de gevorderde ziekenhuisdaggeldvergoeding ter hoogte van € 155,-, de reis- en verblijfkosten Mallorca van [slachtoffer 1] zijn ouders en vriendin ter hoogte van € 3.743,11, en de uitvaartkosten ter hoogte van € 5.452,52 geldt dat zij voldoende zijn onderbouwd, en in rechtstreeks verband staan tot het door verdachte gepleegde strafbare feit, zodat zij voor vergoeding in aanmerking komen.
+
+Voor de gevorderde reis- en verblijfskosten op Mallorca geldt dat [slachtoffer 1] in het ziekenhuis niet meer in staat was zijn eigen belangen te behartigen, zodat zijn ouders en vriendin moesten komen om dat voor hem te doen. De als gevolg daarvan gemaakte kosten zijn te kwalificeren als kosten gemaakt wegens zaakwaarneming (artikel 6:198 BW) die, hoewel zij in eerste instantie zijn gedragen door de ouders van [slachtoffer 1] , op grond van artikel 6:200 BW voor rekening van [slachtoffer 1] kwamen, en derhalve door de erfgenamen van [slachtoffer 1] als materiële schade kunnen worden gevorderd en moeten worden vergoed.
+
+Immateriële schade (al dan niet vererfd)
+
+De gevorderde immateriële schade van [slachtoffer 1] ligt op grond van het bepaalde in artikel 6:106 lid 1 sub b BW voor toewijzing gereed, omdat verdachte door het gepleegde geweld zwaar lichamelijk letsel is toegebracht, ten gevolge waarvan hij na vijf dagen in het ziekenhuis uiteindelijk is komen te overlijden. De rechtbank acht toewijzing van de gevorderde € 24.750,- billijk.
+
+Op grond van artikel 6:108 lid 3 BW hebben nabestaanden ook recht op vergoeding van ander nadeel dan vermogensschade (affectieschade). Conform artikel 1 van het Besluit vergoeding affectieschade (overlijden door een misdrijf van een meerderjarig uitwonend kind) zal aan beide ouders worden toegewezen het gevorderde bedrag van € 17.500,-, dus in totaal € 35.000,-.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partijen hebben gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zullen maken. Deze kosten worden tot op dit moment begroot op nihil.
+
+[benadeelde 3] , vriendin van [slachtoffer 1]
+
+Materiële schade
+
+[benadeelde 3] vordert een bedrag van € 287.652,- aan gederfd levensonderhoud. Voor toewijzing van dit bedrag moet op grond van artikel 6:108 lid 1 sub c BW komen vast te staan dat zij in gezinsverband samenwoonde met [slachtoffer 1] . [benadeelde 3] heeft weliswaar gesteld dat hiervan sprake was, maar de verdediging heeft dit gemotiveerd betwist. Gelet op die betwisting – en op wat door de benadeelde partij ter onderbouwing van haar stelling naar voren is gebracht – staat het op dit moment onvoldoende vast dat [slachtoffer 1] en [benadeelde 3] inderdaad in gezinsverband samenwoonden. Er zal op dit punt (nadere) bewijslevering nodig zijn. Het zou echter een onevenredige belasting van het strafgeding opleveren indien de benadeelde partij in dit stadium van de procedure alsnog in de gelegenheid zou worden gesteld om nader bewijs in te brengen. In zoverre kan de benadeelde partij daarom niet in haar vordering worden ontvangen en kan zij dit deel van haar vordering slechts bij de burgerlijke rechter aanbrengen.
+
+Immateriële schade
+
+De gevorderde immateriële schade ligt op grond van het bepaalde in artikel 6:108 lid 3 BW (deels) voor toewijzing gereed, omdat de [benadeelde 3] als nabestaande recht heeft op vergoeding van affectieschade. Conform artikel 1 van het Besluit vergoeding affectieschade zal aan [benadeelde 3] worden toegewezen een bedrag van € 17.500,-. Dit is het bedrag dat op grond van dit besluit toekomt aan een persoon die ten tijde van de gebeurtenis in een zodanige nauwe persoonlijke relatie tot de overledene staat, dat uit de eisen van redelijkheid en billijkheid voortvloeit dat hij voor de toepassing van lid 3 als naaste wordt aangemerkt. [benadeelde 3] had € 20.000,- gevorderd. Dit is het bedrag dat op grond van het besluit toekomt aan de levensgezel die met de overledene een gezamenlijke huishouding voerde. Gelet op wat hiervoor op dit punt bij de materiële schade is overwogen, zal [benadeelde 3] in het gedeelte van € 2.500,- van haar vordering, niet ontvankelijk worden verklaard en zal worden bepaald dat zij ook dit deel slechts bij de burgerlijke rechter kan aanbrengen.
+
+Proceskosten
+
+Verdachte zal ook worden veroordeeld in de proceskosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken. Deze kosten worden tot op dit moment begroot op nihil.
+
+Wettelijke rente en schadevergoedingsmaatregel ten aanzien van alle vorderingen
+
+De toegewezen bedragen worden vermeerderd met de wettelijke rente vanaf de datum van de schadeveroorzakende gebeurtenis, te weten 14 juli 2022. Als extra waarborg voor betaling zal de rechtbank ten behoeve van de benadeelde partijen – ten aanzien van de verschillende toegewezen materiële en immateriële schadeposten – aan verdachte de schadevergoedingsmaatregel als bedoeld in artikel 36f Sr opleggen, op de wijze zoals hieronder is opgenomen.
+
+De rechtbank overweegt hierbij dat het jeugdrecht niet van toepassing wordt verklaard, zodat zij geen aanleiding ziet om af te wijken van het gebruikelijke aantal dagen gijzeling, zoals opgenomen in de oriëntatiepunten die door het in de organisatie van de Rechtspraak bestaande Landelijk Overleg Vakinhoud Strafrecht (LOVS) zijn vastgesteld. De rechtbank houdt hierbij rekening met de maximumduur van 1 jaar (360 dagen) gijzeling per schadevergoedingsmaatregel, waarbij de samenloopregeling van artikel 57 en 58 van het Wetboek van Strafrecht in acht wordt genomen. Die maximale duur van de gijzeling zal naar rato van de hoogte van de toegewezen bedragen over de verschillende maatregelen worden verdeeld.
+
+11
+TOEPASSELIJKE WETTELIJKE VOORSCHRIFTEN
+
+De beslissing berust op de artikelen 36f, 45, 47, 57, 60a, 63, 141 en 287 van het Wetboek van Strafrecht, zoals de artikelen luidden ten tijde van het bewezenverklaarde.
+
+12
+BESLISSING
+
+De rechtbank:
+
+Vrijspraak
+
+- verklaart het onder 1 primair, subsidiair en meer subsidiair tenlastegelegde niet bewezen en spreekt verdachte daarvan vrij;
+
+Bewezenverklaring
+
+- verklaart het onder 2 primair, 3 en 4 tenlastegelegde bewezen zoals hiervoor in rubriek 5 is vermeld;
+
+- verklaart het onder 2 primair, 3 en 4 meer of anders ten laste gelegde niet bewezen en spreekt verdachte daarvan vrij;
+
+Strafbaarheid
+
+- verklaart het onder 2 primair, 3 en 4 bewezen verklaarde strafbaar en kwalificeert dit zoals hiervoor in rubriek 6 is vermeld;
+
+- verklaart verdachte strafbaar;
+
+Oplegging straf
+
+- veroordeelt verdachte tot een gevangenisstraf van 30 (dertig) maanden;
+
+- bepaalt dat de tijd, door verdachte vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht, bij de tenuitvoerlegging van de gevangenisstraf in mindering zal worden gebracht;
+
+Beslag
+
+- gelast de teruggave aan verdachte van de volgende voorwerpen:
+
+1 STK Broek (omschrijving/goednummer: PL0900-2021230390-G2859102);
+
+1 STK Schoenen (omschrijving/goednummer: PL0900-2021230390-G2859208).
+
+Voorlopige hechtenis
+
+- wijst af het verzoek tot opheffing dan wel schorsing van de voorlopige hechtenis;
+
+Benadeelde partijen
+
+[slachtoffer 9]
+
+verklaart [slachtoffer 9] niet-ontvankelijk in de vordering;
+
+veroordeelt de benadeelde partij in de kosten door de verdachte gemaakt, tot op heden begroot op nihil;
+
+[slachtoffer 6]
+
+verklaart [slachtoffer 6] niet-ontvankelijk in de vordering;
+
+veroordeelt de benadeelde partij in de kosten door de verdachte gemaakt, tot op heden begroot op nihil;
+
+[slachtoffer 7]
+
+wijst de vordering van [slachtoffer 7] gedeeltelijk toe tot een bedrag van € 3.453,46, waarvan € 453,46 aan materiële schadevergoeding en € 3.000 aan immateriële schadevergoeding;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [slachtoffer 7] van het toegewezen bedrag, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+verklaart [slachtoffer 7] wat betreft de kosten voor het verloren horloge niet-ontvankelijk in de vordering en bepaalt dat de vordering voor dat deel kan worden aangebracht bij de burgerlijke rechter;
+
+veroordeelt verdachte ook in de kosten die de benadeelde partij heeft gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog zal maken, tot op dit moment begroot op € 130,-;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [slachtoffer 7] aan de Staat € 3.453,46te betalen, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 22 dagen gijzeling;
+
+bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed;
+
+[slachtoffer 8]
+
+verklaart [slachtoffer 8] niet-ontvankelijk in de vordering;
+
+veroordeelt de benadeelde partij in de kosten door de verdachte gemaakt, tot op heden begroot op nihil;
+
+[slachtoffer 5]
+
+wijst de vordering van [slachtoffer 5] gedeeltelijk toe tot een bedrag van € 5.302,69, waarvan € 302,69 aan materiële schadevergoeding en € 5.000,- aan immateriële schadevergoeding;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [slachtoffer 5] van het toegewezen bedrag, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+verklaart [slachtoffer 5] wat betreft de gevorderde kosten aan eigen risico, huurkosten en kosten voor de laminaatvloer niet-ontvankelijk in de vordering en bepaalt dat de vordering voor dat deel kan worden aangebracht bij de burgerlijke rechter;
+
+wijst de vordering van [slachtoffer 5] wat betreft de gevorderde kosten voor de huurauto af;
+
+veroordeelt verdachte ook in de kosten door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [slachtoffer 5] aan de Staat € 5.302,69 te betalen, vermeerderd met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 30 dagen gijzeling;
+
+bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed;
+
+[slachtoffer 4]
+
+wijst de vordering van [slachtoffer 4] gedeeltelijk toe tot een bedrag van € 3.486,42, waarvan € 486,42 aan materiële schadevergoeding en € 3.000,- aan immateriële schadevergoeding;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [slachtoffer 4] van het toegewezen bedrag, vermeerderd met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+verklaart [slachtoffer 4] wat betreft de gevorderde kosten aan eigen risico en gederfde inkomsten niet-ontvankelijk in de vordering en bepaalt dat de vordering voor dat deel kan worden aangebracht bij de burgerlijke rechter;
+
+wijst de vordering van [slachtoffer 4] wat betreft de meer gevorderde immateriële schade en de gevorderde kosten voor de huurauto, kosten voor de kleding van de begrafenis van [slachtoffer 1] en af;
+
+veroordeelt verdachte ook in de kosten door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [slachtoffer 4] aan de Staat € 3.486,42 te betalen, vermeerderd met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 22 dagen gijzeling;
+
+bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed;
+
+[slachtoffer 2]
+
+- wijst de vordering van [slachtoffer 2] gedeeltelijk toe tot een bedrag van
+
+€ 3.525,56, waarvan € 525,56 aan materiële schadevergoeding en € 3.000,- aan immateriële schadevergoeding;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [slachtoffer 2] van het toegewezen bedrag, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+verklaart [slachtoffer 2] wat betreft de gevorderde kosten aan eigen risico en gederfde inkomsten niet-ontvankelijk in de vordering en bepaalt dat de vordering voor dat deel kan worden aangebracht bij de burgerlijke rechter;
+
+wijst de vordering van [slachtoffer 2] wat betreft de meer gevorderde immateriële schade af;
+
+veroordeelt verdachte ook in de kosten door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [slachtoffer 2] aan de Staat
+
+€ 3.525,56 te betalen, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 22 dagen gijzeling;
+
+- bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed;
+
+[slachtoffer 3]
+
+- wijst de vordering van [slachtoffer 3] gedeeltelijk toe tot een bedrag van
+
+€ 3.454,42, waarvan € 454,42 aan materiële schadevergoeding en € 3.000,- aan immateriële schadevergoeding;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [slachtoffer 3] van het toegewezen bedrag, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+verklaart [slachtoffer 3] wat betreft de meer gevorderde kosten aan eigen risico niet-ontvankelijk in de vordering en bepaalt dat de vordering voor dat deel kan worden aangebracht bij de burgerlijke rechter;
+
+wijst de vordering van [slachtoffer 3] wat betreft de meer gevorderde immateriële schade en af;
+
+veroordeelt verdachte ook in de kosten door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [slachtoffer 3] aan de Staat
+
+€ 3.454,42 te betalen, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 22 dagen gijzeling;
+
+- bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed;
+
+[benadeelde 2] en [benadeelde 1]
+
+- wijst de vordering van [benadeelde 2] en [benadeelde 1] geheel toe tot een bedrag van € 69.100,63, waarvan € 9.350,63 aan materiële schadevergoeding en
+
+€ 59.750,- aan immateriële schade;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [benadeelde 2] en [benadeelde 1] van het toegewezen bedrag, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+veroordeelt verdachte ook in de kosten door de benadeelde partijen gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [benadeelde 2] en [benadeelde 1] aan de Staat € 69.100,63 te betalen, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 174 dagen gijzeling;
+
+bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed;
+
+[benadeelde 3]
+
+- wijst de vordering van [benadeelde 3] gedeeltelijk toe tot een bedrag van
+
+€ 17.500,- aan immateriële schadevergoeding;
+
+veroordeelt verdachte hoofdelijk tot betaling aan [benadeelde 3] van het toegewezen bedrag, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de algehele voldoening, met dien verstande dat indien en voor zover reeds door een ander/anderen (gedeeltelijk) is betaald, verdachte (in zoverre) van deze verplichting zal zijn bevrijd;
+
+verklaart [benadeelde 3] wat betreft het meer gevorderde niet-ontvankelijk in de vordering en bepaalt dat de vordering voor dat deel kan worden aangebracht bij de burgerlijke rechter;
+
+veroordeelt verdachte ook in de kosten door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak nog te maken, tot op heden begroot op nihil;
+
+legt verdachte de hoofdelijke verplichting op ten behoeve van [benadeelde 3] aan de Staat € 17.500,- te betalen, te vermeerderen met de wettelijke rente vanaf 14 juli 2021 tot de dag van de volledige betaling, bij niet betaling aan te vullen met 68 dagen gijzeling;
+
+bepaalt dat verdachte van zijn verplichting tot het vergoeden van schade is bevrijd als hij en/of (een van) zijn mededader(s) op een van de hiervoor beschreven manieren de schade aan de benadeelde dan wel aan de Staat heeft vergoed.
+
+Dit vonnis is gewezen door mr. R.P.P. Hoekstra, voorzitter, mr. V.C. Kool, (kinder)rechter, en mr. H.B.W. Beekman, rechter, in tegenwoordigheid van mr. J.M. Tason Avila en
+
+mr. R. van Donk-Carbo, griffiers, en is uitgesproken op de openbare terechtzitting van 18 november 2022.
+
+Bijlage: de tenlastelegging
+
+Aan verdachte wordt ten laste gelegd dat:
+
+feit 1
+
+primair
+
+hij, op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in
+
+Spanje, tezamen en in vereniging met een of meer anderen, althans alleen,
+
+[slachtoffer 1] opzettelijk van het leven heeft beroofd, door
+
+- voornoemde [slachtoffer 1] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd,
+
+althans het (boven)lichaam, te slaan en/of te stompen en/of
+
+- voornoemde [slachtoffer 1] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd,
+
+althans het (boven)lichaam, te trappen en/of te schoppen, (terwijl voornoemde [slachtoffer 1]
+
+op de grond lag);
+
+subsidiair
+
+hij op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in
+
+Spanje, tezamen en in vereniging met een of meer anderen, althans alleen,
+
+aan [slachtoffer 1] opzettelijkzwaar lichamelijk letsel, te weten (onder andere) een of meerdere onderhuidse
+
+bloeduitstorting(en) en/of schaafletsel(s) en/of huidscheur(en) aan het hoofd en/of een
+
+gebroken neus en/of een of meerdere schedelbreuk(en), heeft toegebracht, door
+
+- voornoemde [slachtoffer 1] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd,
+
+althans het (boven)lichaam, te slaan en/ofte stompen en/of
+
+- voornoemde [slachtoffer 1] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd,
+
+althans het (boven)lichaam, te trappen en/of te schoppen, (terwijl voornoemde [slachtoffer 1]
+
+op de grond lag), terwijl het feit de dood ten gevolge heeft gehad;
+
+meer subsidiair
+
+hij op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in
+
+Spanje, tezamen en in vereniging met een of meer anderen, althans alleen,
+
+[slachtoffer 1]
+
+heeft mishandeld door
+
+- voornoemde [slachtoffer 1] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd,
+
+althans het (boven)lichaam, te slaan en/of te stompen en/of
+
+- voornoemde [slachtoffer 1] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd,
+
+althans het (boven)lichaam, te trappen en/ofte schoppen, (terwijl voornoemde [slachtoffer 1]
+
+op de grond lag), terwijl het feit de dood ten gevolge heeft gehad;
+
+feit 2
+
+hij, op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in
+
+Spanje, tezamen en in vereniging met een of meer anderen, althans alleen,
+
+ter uitvoering van het door verdachte voorgenomen misdrijf om
+
+[slachtoffer 5] opzettelijk van het leven te beroven,
+
+- voornoemde [slachtoffer 5] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd, althans
+
+het (boven)lichaam, heeft getrapt en/of geschopt en/of geslagen en/of gestompt en/of
+
+geduwd en/of
+
+- voornoemde [slachtoffer 5] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd, althans
+
+het (boven)lichaam, heeft getrapt en/of geschopt en/of geslagen en/of gestompt (terwijl
+
+voornoemde [slachtoffer 5] op de grond lag), terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+subsidiair
+
+hij, op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in
+
+Spanje, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om aan [slachtoffer 5] opzettelijk
+
+zwaar lichamelijk letsel toe te brengen,
+
+- voornoemde [slachtoffer 5] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd, althans
+
+het (boven)lichaam, heeft getrapt en/of geschopt en/of geslagen en/of gestompt en/of
+
+geduwd en/of
+
+- voornoemde [slachtoffer 5] meermalen, althans eenmaal, (met kracht) op/tegen het hoofd, althans
+
+het (boven)lichaam, heeft getrapt en/of geschopt en/of geslagen en/of gestompt (terwijl
+
+voornoemde [slachtoffer 5] op de grond lag), terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+feit 3
+
+hij, op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in Spanje, openlijk, te weten op de [locatie] (ter hoogte van [café 1] en/of [restaurant] ), in elk geval op of aan de openbare weg en/of op een voor het publiek toegankelijke plaats, in vereniging geweld heeft gepleegd tegen een of meer personen, te weten [slachtoffer 9] en/of [slachtoffer 8] en/of [slachtoffer 6] en/of [slachtoffer 10] en/of [slachtoffer 7] door:
+
+-voornoemde [slachtoffer 9] en/of [slachtoffer 8] en/of [slachtoffer 6] en/of [slachtoffer 10] en/of [slachtoffer 7]
+
+meermalen, althans eenmaal, te duwen en/of te trekken en/of naar de grond toe te
+
+brengen en/of (met de vuist) te stompen en/of te slaan en/of te schoppen en/of te trappen
+
+op en/of in de richting van en/of tegen het hoofd en/of het (boven)lichaam en/of met voornoemde slachtoffer(s) te worstelen en/of met een stoel te gooien in de richting van voornoemde slachtoffer(s) en/of een of meer andere perso(o)n(en);
+
+feit 4
+
+hij, op of omstreeks 14 juli 2021 te [plaats] , althans in de provincie Balearen, althans in Spanje, openlijk, te weten op de [locatie] (ter hoogte van bar [bar] ), in elk geval op of aan de openbare weg en/of op een voor het publiek toegankelijke plaats,
+
+in vereniging geweld heeft gepleegd tegen een of meer personen, te weten [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] en/of [slachtoffer 4] en/of [slachtoffer 5]
+
+door:
+
+-voornoemde [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] en/of [slachtoffer 4]
+
+en/of [slachtoffer 5] meermalen, althans eenmaal, te duwen en/of te trekken en/of naar de grond toe te
+
+brengen en/of (met de vuist) te stompen en/of te slaan en/of te schoppen en/of te trappen
+
+op en/of in de richting van en/of tegen het hoofd en/of het (boven)lichaam en/of met voornoemde slachtoffer(s) te worstelen, terwijl dit door hem gepleegde geweld zwaar lichamelijk letsel, althans enig lichamelijk letsel tengevolge heeft gehad, te weten:
+
+- een of meer blauwe plek(en) en/of schaafwond(en) op de knie en/of de heup en/of het
+
+oor en/of in het gezicht, althans het lichaam, en/of een gezwollen schedel en/of een bult op
+
+het hoofd bij [slachtoffer 5] en/of
+
+- een of meerdere onderhuidse bloeduitstorting(en) en/of schaafletsel(s) en/of
+
+huidscheur(en) aan het hoofd en/of een gebroken neus en/of een of meerdere schedelbreuk(en) bij [slachtoffer 1] .
+
+Wanneer hierna wordt verwezen naar paginanummers betreffen dit pagina’s van op ambtseed of ambtsbelofte opgemaakte processen-verbaal. Deze processen-verbaal zijn als bijlagen opgenomen bij het in de wettelijke vorm opgemaakte proces-verbaal van 5 januari 2022, met onderzoeksnummer MD1R021036 (TGO 14Eiland), opgemaakt door politie Midden-Nederland, doorgenummerd pagina 1 tot en met pagina 3772 en het wettelijke vorm opgemaakt proces-verbaal van forensisch onderzoek van 17 december 2021 met proces-verbaalnummer 2021230390, doorgenummerd pagina 1 tot en met pagina 316. Tenzij anders vermeld, zijn dit processen-verbaal in de wettelijke vorm opgemaakt door daartoe bevoegde opsporingsambtenaren.
+
+Pagina 54.
+
+Pagina 55.
+
+Deze foto is weergegeven op pagina 58. Hierop is te zien dat [slachtoffer 7] een blauw oog heeft.
+
+Pagina 56.
+
+Pagina 98.
+
+Pagina 100.
+
+Het bestand ‘ [bestandsnaam] ’. Daar waar de rechtbank verwijst naar tijdstippen, gaat dit om de tijd die rechtsboven in beeld wordt weergegeven. Op deze beelden zijn door de politie de namen van verdachten en slachtoffers aangegeven.
+
+Pagina 2579.
+
+Het proces-verbaal van aangifte van [slachtoffer 7] , pagina 56; het proces-verbaal van aangifte van [slachtoffer 8] , pagina 100 en het proces-verbaal van verhoor van getuige [medeverdachte 6] bij de rechter-commissaris op 11 april 2022, pagina 10.
+
+Het bestand ‘ [bestandsnaam] ’.
+
+Het proces-verbaal van aangifte van [slachtoffer 9] , pagina 88-90; het proces-verbaal van aangifte van [slachtoffer 6] , pagina 66-69; het proces-verbaal van verhoor van getuige [getuige 9] , pagina 1832-1834; het proces-verbaal van verhoor van getuige [medeverdachte 2] bij de rechter-commissaris op 27 juni 2022, pagina 7 en het proces-verbaal van verhoor van verdachte [medeverdachte 6] op 13 augustus 2021, pagina 2657 en 2658.
+
+Pagina 108.
+
+Pagina 109.
+
+Pagina 132.
+
+Pagina 133.
+
+Pagina 134.
+
+Pagina 136.
+
+Pagina 145.
+
+Pagina 146.
+
+Pagina 147.
+
+Pagina 179.
+
+Pagina 180.
+
+Het proces-verbaal van verhoor van getuige [medeverdachte 2] bij de rechter-commissaris op 27 juni 2022, pagina 18.
+
+Het proces-verbaal van verhoor van getuige [medeverdachte 2] bij de rechter-commissaris op 27 juni 2022, pagina 19.
+
+Het proces-verbaal van verhoor van getuige [medeverdachte 2] bij de rechter-commissaris op 27 juni 2022, pagina 21.
+
+Het proces-verbaal van verhoor van getuige [verdachte] bij de rechter-commissaris op 12 januari 2021, pagina 5.
+
+Pagina 1535.
+
+Pagina 1536.
+
+Pagina 1963.
+
+Pagina 1435.
+
+Pagina 1436.
+
+Pagina 1437.
+
+Pagina 466.
+
+Pagina 467.
+
+Pagina 468.
+
+Pagina 469.
+
+Pagina 470.
+
+Pagina 3342.
+
+Pagina 3344.
+
+Het proces-verbaal van verhoor van getuige [getuige 4] bij de rechter-commissaris op 24 augustus 2022, pagina 4.
+
+Het proces-verbaal van verhoor van getuige [getuige 4] bij de rechter-commissaris op 24 augustus 2022, pagina 5.
+
+Het proces-verbaal van verhoor van getuige [getuige 5] bij de rechter-commissaris op 23 augustus 2022, pagina 3.
+
+Pagina 1569.
+
+Pagina 1642.
+
+Pagina 2039.
+
+Pagina 1872.
+
+Deskundigenrapport van 31 augustus 2022 inzake de strafzaak tegen [verdachte] , op grond van de opdracht van mr. D. Fontein in Koog aan de Zaan, opgesteld door Prof. dr. P.J. van Koppen, pagina’s 1-39.
+
+Het proces-verbaal van verhoor van getuige [getuige 10] bij de politie op 9 augustus 2021, pagina 1710.
+
+Een geschrift, te weten een rapport van het Nederlands Forensisch Instituut van het forensisch pathologisch onderzoek aan het lichaam van [slachtoffer 1] , van 9 februari 2022, pagina 3199.
