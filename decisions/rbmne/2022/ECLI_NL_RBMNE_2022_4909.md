@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2022:4909"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1317", "PR-Updates.nl PR-2022-0205", "VAAN-AR-Updates.nl 2022-1317"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1317", "PR-Updates.nl PR-2022-0205", "VAAN-AR-Updates.nl 2022-1317", "PR-Updates.nl 2022-0205"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBMNE:2022:4908"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBMNE:2021:6810"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBMNE:2021:6811"]]
 ---
 
