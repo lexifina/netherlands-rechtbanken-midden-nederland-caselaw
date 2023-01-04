@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:227"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0076"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0076", "PR-Updates.nl 2023-0076"]
 ---
 
 # ECLI:NL:RBMNE:2023:227 Rechtbank Midden-Nederland , 04-01-2023 / C/16/533521 / HA ZA 22-53
