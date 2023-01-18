@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:287"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0471", "PJ 2023/46", "PR-Updates.nl PR-2023-0072", "VAAN-AR-Updates.nl 2023-0471"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0471", "PJ 2023/46", "PR-Updates.nl PR-2023-0072", "VAAN-AR-Updates.nl 2023-0471", "PR-Updates.nl 2023-0072"]
 ---
 
 # ECLI:NL:RBMNE:2023:287 Rechtbank Midden-Nederland , 18-01-2023 / 9709903 UC EXPL 22-1365
