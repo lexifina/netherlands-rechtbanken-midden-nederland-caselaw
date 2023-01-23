@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:164"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3493"]]
 ---
 
 # ECLI:NL:RBMNE:2023:164 Rechtbank Midden-Nederland , 23-01-2023 / 16.209013.20 (P)
