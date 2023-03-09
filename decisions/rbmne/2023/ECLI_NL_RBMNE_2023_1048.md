@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:1048"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:929, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBMNE:2023:1048 Rechtbank Midden-Nederland , 09-03-2023 / UTR 23/449 en UTR 23/450
