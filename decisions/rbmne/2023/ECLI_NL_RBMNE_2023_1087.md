@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:1087"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0171", "AR-Updates.nl 2023-1028", "VAAN-AR-Updates.nl 2023-1028"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0171", "AR-Updates.nl 2023-1028", "VAAN-AR-Updates.nl 2023-1028", "PR-Updates.nl 2023-0171"]
 ---
 
 # ECLI:NL:RBMNE:2023:1087 Rechtbank Midden-Nederland , 14-03-2023 / 10261142 AE VERZ 22-63
