@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "NJFS 2023/191"]
 
 ## Inhoudsindicatie
 
-Blauwe kamer. Bevoegdheid rechtbank Midden-Nederland en ontvankelijkheid verzoek ogv 530 Sv na feitenonderzoek ogv 511a Sv. Is de rechtbank ogv art 2 lid 3 Sv bij uitsluiting bevoegd ? Is het feitenonderzoek aan te merken als 'vervolging' ogv 2 lid 3 Sv?
+Blauwe kamer-zaak. Bevoegdheid rechtbank Midden-Nederland en ontvankelijkheid verzoek ogv 530 Sv na feitenonderzoek ogv 511a Sv. Is de rechtbank ogv art 2 lid 3 Sv bij uitsluiting bevoegd ? Is het feitenonderzoek aan te merken als 'vervolging' ogv 2 lid 3 Sv?
 
 ## Uitspraak
 
