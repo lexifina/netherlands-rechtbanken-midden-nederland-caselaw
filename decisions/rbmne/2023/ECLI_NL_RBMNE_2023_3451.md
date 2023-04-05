@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:3451"
-published_in: ["Rechtspraak.nl", "PJ 2023/105", "PR-Updates.nl PR-2023-0152"]
+published_in: ["Rechtspraak.nl", "PJ 2023/105", "PR-Updates.nl PR-2023-0152", "PR-Updates.nl 2023-0152"]
 ---
 
 # ECLI:NL:RBMNE:2023:3451 Rechtbank Midden-Nederland , 05-04-2023 / C/16/535198 / HA ZA 22-123
