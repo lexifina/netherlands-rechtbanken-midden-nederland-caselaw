@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBMNE:2023:1591"
 court: "Rechtbank Midden-Nederland"
 court_code: "RBMNE"
 docket: "21-4214 en 21-3579"
-decided: "2023-04-07"
+decided: "2023-04-11"
 published: "2023-04-07"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:1591"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5984, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBMNE:2023:1591 Rechtbank Midden-Nederland , 07-04-2023 / 21-4214 en 21-3579
+# ECLI:NL:RBMNE:2023:1591 Rechtbank Midden-Nederland , 11-04-2023 / 21-4214 en 21-3579
 
 ## Inhoudsindicatie
 
