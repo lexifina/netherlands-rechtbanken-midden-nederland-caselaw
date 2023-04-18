@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:1857"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0499", "Sdu Nieuws Arbeidsrecht 2023/174", "OR-Updates.nl 2023-0096", "PR-Updates.nl PR-2023-0065", "JAR 2023/152 met annotatie van Mr. K. Wiersma", "VAAN-AR-Updates.nl 2023-0499", "Brightmine 2023-20009185"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0499", "Sdu Nieuws Arbeidsrecht 2023/174", "OR-Updates.nl 2023-0096", "PR-Updates.nl PR-2023-0065", "JAR 2023/152 met annotatie van Mr. K. Wiersma", "VAAN-AR-Updates.nl 2023-0499", "Brightmine 2023-20009185", "PR-Updates.nl 2023-0065"]
 ---
 
 # ECLI:NL:RBMNE:2023:1857 Rechtbank Midden-Nederland , 18-04-2023 / C/16/551790 / HA RK 23-20
