@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:1882"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0524", "PJ 2023/51", "PR-Updates.nl PR-2023-0064", "VAAN-AR-Updates.nl 2023-0524"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0524", "PJ 2023/51", "PR-Updates.nl PR-2023-0064", "VAAN-AR-Updates.nl 2023-0524", "PR-Updates.nl 2023-0064"]
 ---
 
 # ECLI:NL:RBMNE:2023:1882 Rechtbank Midden-Nederland , 19-04-2023 / 10012426 UC EXPL  22-4997 JH/1050
