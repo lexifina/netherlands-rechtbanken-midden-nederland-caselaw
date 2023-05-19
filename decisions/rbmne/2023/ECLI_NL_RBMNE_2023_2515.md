@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:2515"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2424, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2023:2515 Rechtbank Midden-Nederland , 19-05-2023 / UTR 21/340
