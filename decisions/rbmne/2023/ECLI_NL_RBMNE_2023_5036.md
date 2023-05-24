@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5036"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1216", "PJ 2023/125 met annotatie van C. Beltman", "PR-Updates.nl PR-2023-0205", "VAAN-AR-Updates.nl 2023-1216"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1216", "PJ 2023/125 met annotatie van C. Beltman", "PR-Updates.nl PR-2023-0205", "VAAN-AR-Updates.nl 2023-1216", "PR-Updates.nl 2023-0205"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBMNE:2023:6049"]]
 ---
 
