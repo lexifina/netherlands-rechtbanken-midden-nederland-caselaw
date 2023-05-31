@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:2698"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0125", "PJ 2023/82 met annotatie van C. Beltman"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0125", "PJ 2023/82 met annotatie van C. Beltman", "PR-Updates.nl 2023-0125"]
 ---
 
 # ECLI:NL:RBMNE:2023:2698 Rechtbank Midden-Nederland , 31-05-2023 / 10200612 AC EXPL  22-2705 LH/1040
