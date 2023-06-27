@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:3535"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2095, Onduidelijk"]]
 ---
 
 # ECLI:NL:RBMNE:2023:3535 Rechtbank Midden-Nederland , 27-06-2023 / UTR 22/2714
