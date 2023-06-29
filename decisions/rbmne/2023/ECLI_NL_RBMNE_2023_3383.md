@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:3383"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0851", "OR-Updates.nl 2023-0150", "PR-Updates.nl PR-2023-0157", "VAAN-AR-Updates.nl 2023-0851"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0851", "OR-Updates.nl 2023-0150", "PR-Updates.nl PR-2023-0157", "VAAN-AR-Updates.nl 2023-0851", "PR-Updates.nl 2023-0157"]
 ---
 
 # ECLI:NL:RBMNE:2023:3383 Rechtbank Midden-Nederland , 29-06-2023 / C/16/555101 / HL RK 23-16 BW 4890
