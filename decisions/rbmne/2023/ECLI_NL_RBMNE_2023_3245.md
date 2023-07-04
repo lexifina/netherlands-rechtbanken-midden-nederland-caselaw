@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Een politieagent uit Deventer wordt vrijgesproken van mishandeling. Tegen de agent was aangifte gedaan van mishandeling door een verdachte die in september 2020 door de agent buiten heterdaad werd aangehouden. De rechtbank is van oordeel dat het door de agent uitgeoefende geweld bij deze aanhouding proportioneel en subsidiair was, en dat dit is gepleegd in de rechtmatige uitoefening van de bediening (artikel 7 Politiewet).
+Blauwe Kamer-zaak. Een politieagent uit Deventer wordt vrijgesproken van mishandeling. Tegen de agent was aangifte gedaan van mishandeling door een verdachte die in september 2020 door de agent buiten heterdaad werd aangehouden. De rechtbank is van oordeel dat het door de agent uitgeoefende geweld bij deze aanhouding proportioneel en subsidiair was, en dat dit is gepleegd in de rechtmatige uitoefening van de bediening (artikel 7 Politiewet).
 
 ## Uitspraak
 
