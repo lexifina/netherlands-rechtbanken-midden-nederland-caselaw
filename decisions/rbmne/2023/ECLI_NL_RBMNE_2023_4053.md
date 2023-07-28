@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:4053"
-published_in: ["Rechtspraak.nl", "Notamail 2023/184", "Sdu Nieuws Personen- en familierecht 2023/469", "PR-Updates.nl PR-2023-0169", "PFR-Updates.nl 2023-0180", "FJR 2024/12.29"]
+published_in: ["Rechtspraak.nl", "Notamail 2023/184", "Sdu Nieuws Personen- en familierecht 2023/469", "PR-Updates.nl PR-2023-0169", "PFR-Updates.nl 2023-0180", "FJR 2024/12.29", "PR-Updates.nl 2023-0169"]
 ---
 
 # ECLI:NL:RBMNE:2023:4053 Rechtbank Midden-Nederland , 28-07-2023 / C/16/526982 / FA RK 21-1799
