@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:4385"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1152", "PR-Updates.nl PR-2023-0186", "VAAN-AR-Updates.nl 2023-1152"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1152", "PR-Updates.nl PR-2023-0186", "VAAN-AR-Updates.nl 2023-1152", "PR-Updates.nl 2023-0186"]
 ---
 
 # ECLI:NL:RBMNE:2023:4385 Rechtbank Midden-Nederland , 23-08-2023 / 10519760 AE VERZ 23-29
