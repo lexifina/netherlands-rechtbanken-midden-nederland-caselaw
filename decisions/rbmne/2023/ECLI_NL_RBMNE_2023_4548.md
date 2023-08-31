@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:4548"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1730, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBMNE:2023:4548 Rechtbank Midden-Nederland , 31-08-2023 / 22/1695
