@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:4481"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2008", "Sdu Nieuws Bestuursrecht 2023/240", "V-N 2023/41.12 met annotatie van Redactie", "NLF 2023/2163 met annotatie van Sara Verkaik", "JB 2023/209", "Viditax (FutD) 2023090602", "FutD 2023-2344"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2008", "Sdu Nieuws Bestuursrecht 2023/240", "V-N 2023/41.12", "NLF 2023/2163 met annotatie van Sara Verkaik", "JB 2023/209", "Viditax (FutD) 2023090602", "FutD 2023-2344"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2024:6146, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
