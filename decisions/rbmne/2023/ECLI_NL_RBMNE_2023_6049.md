@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:6049"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1386", "PR-Updates.nl PR-2023-0227", "VAAN-AR-Updates.nl 2023-1386"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1386", "PR-Updates.nl PR-2023-0227", "VAAN-AR-Updates.nl 2023-1386", "PR-Updates.nl 2023-0227"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBMNE:2023:5036"]]
 ---
 
