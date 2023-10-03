@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5165"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:572"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:572"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4805, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2023:5165 Rechtbank Midden-Nederland , 03-10-2023 / UTR 23/1885
