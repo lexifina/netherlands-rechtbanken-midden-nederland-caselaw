@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5223"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0101", "FJR 2024/22.62"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0101", "FJR 2024/22.62", "BPR-Updates.nl 2023-0101"]
 ---
 
 # ECLI:NL:RBMNE:2023:5223 Rechtbank Midden-Nederland , 03-10-2023 / C/16/552270
