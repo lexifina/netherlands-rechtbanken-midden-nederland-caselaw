@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5437"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0102"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0102", "BPR-Updates.nl 2023-0102"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4227"]]
 ---
 
 # ECLI:NL:RBMNE:2023:5437 Rechtbank Midden-Nederland , 18-10-2023 / C/16/541028 / HL ZA 22-168
