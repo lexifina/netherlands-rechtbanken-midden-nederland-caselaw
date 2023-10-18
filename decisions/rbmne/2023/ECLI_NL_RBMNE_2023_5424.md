@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5424"
-published_in: ["Rechtspraak.nl", "PJ 2023/129", "PR-Updates.nl PR-2023-0201"]
+published_in: ["Rechtspraak.nl", "PJ 2023/129", "PR-Updates.nl PR-2023-0201", "PR-Updates.nl 2023-0201"]
 ---
 
 # ECLI:NL:RBMNE:2023:5424 Rechtbank Midden-Nederland , 18-10-2023 / 549533
