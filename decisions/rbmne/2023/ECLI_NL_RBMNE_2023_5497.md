@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5497"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1464", "VAAN-AR-Updates.nl 2023-1464"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:5197"]]
 ---
 
 # ECLI:NL:RBMNE:2023:5497 Rechtbank Midden-Nederland , 20-10-2023 / 10638607 UE VERZ 23-242 MS/1270
