@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5747"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1440", "PR-Updates.nl PR-2023-0222", "PJ 2024/7", "VAAN-AR-Updates.nl 2023-1440"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1440", "PR-Updates.nl PR-2023-0222", "PJ 2024/7", "VAAN-AR-Updates.nl 2023-1440", "PR-Updates.nl 2023-0222"]
 ---
 
 # ECLI:NL:RBMNE:2023:5747 Rechtbank Midden-Nederland , 08-11-2023 / 10440289 UC EXPL 23-2411
