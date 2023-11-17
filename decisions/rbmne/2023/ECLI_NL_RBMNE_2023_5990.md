@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:5990"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0228"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0228", "PR-Updates.nl 2023-0228"]
 ---
 
 # ECLI:NL:RBMNE:2023:5990 Rechtbank Midden-Nederland , 17-11-2023 / C/16/557128
