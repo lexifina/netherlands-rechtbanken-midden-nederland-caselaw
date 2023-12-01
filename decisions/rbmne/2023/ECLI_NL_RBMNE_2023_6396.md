@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Tijdens de boerenprotesten op 5 juli 2022 heeft verdachte, in de uitoefening van zijn functie als politieambtenaar, met zijn dienstwapen een schot gelost op de cabine van een rijdende tractor, met als doel de tractor te stoppen. De bestuurder van de tractor had hierdoor dodelijk geraakt kunnen worden. Door gericht op de cabine te schieten heeft verdachte die mogelijkheid op de koop toe genomen. De rechtbank acht daarom bewezen dat verdachte zich schuldig heeft gemaakt aan een poging tot doodslag. Aan verdachte wordt een voorwaardelijke gevangenisstraf van een maand, met een proeftijd van een jaar, en een onvoorwaardelijke taakstraf van tachtig uren opgelegd.
+Blauwe Kamer-zaak. Tijdens de boerenprotesten op 5 juli 2022 heeft verdachte, in de uitoefening van zijn functie als politieambtenaar, met zijn dienstwapen een schot gelost op de cabine van een rijdende tractor, met als doel de tractor te stoppen. De bestuurder van de tractor had hierdoor dodelijk geraakt kunnen worden. Door gericht op de cabine te schieten heeft verdachte die mogelijkheid op de koop toe genomen. De rechtbank acht daarom bewezen dat verdachte zich schuldig heeft gemaakt aan een poging tot doodslag. Aan verdachte wordt een voorwaardelijke gevangenisstraf van een maand, met een proeftijd van een jaar, en een onvoorwaardelijke taakstraf van tachtig uren opgelegd.
 
 ## Uitspraak
 
