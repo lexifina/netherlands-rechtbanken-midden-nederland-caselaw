@@ -1,0 +1,181 @@
+---
+ecli: "ECLI:NL:RBMNE:2023:7087"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "UTR 22/4409, UTR 22/4411 en UTR 22/4413"
+decided: "2023-12-08"
+published: "2023-12-29"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2023:7087"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2023:7087 Rechtbank Midden-Nederland , 08-12-2023 / UTR 22/4409, UTR 22/4411 en UTR 22/4413
+
+## Inhoudsindicatie
+
+woz, woning, niet-woningen, strijd met de goede procesorde, verlenging redelijke termijn, ongegrond
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummers: UTR 22/4409, UTR 22/4411 en UTR 22/4413
+
+uitspraak van de enkelvoudige kamer van 8 december 2023 in de zaak tussen
+
+[eiseres] B.V., uit [vestigingsplaats] , eiseres
+
+(gemachtigde: mr. D.A.N. Bartels MRE),
+
+en
+
+de heffingsambtenaar van de Belastingsamenwerking gemeenten & hoogheemraadschap [gemeente], de heffingsambtenaar
+
+(gemachtigde: W.G. Vos).
+
+Inleiding
+
+1. In deze uitspraak beoordeelt de rechtbank de beroepen van eiseres tegen de uitspraken op bezwaar van de heffingsambtenaar van 20 juli 2022.
+
+1.1.
+
+In de beschikking van 28 februari 2021 (het primaire besluit) heeft de heffingsambtenaar op grond van de Wet waardering onroerende zaken (wet WOZ) de waarde van diverse onroerende zaken voor het belastingjaar 2021 naar waardepeildatum 1 januari 2020 als volgt vastgesteld:
+
+Zaaknummer
+
+Woning/niet-woning
+
+Object
+
+Vastgestelde waarde
+
+UTR 22/4408
+
+Niet-woning
+
+[adres 1] in [plaats 1]
+
+€ 1.898.000,-
+
+UTR 22/4409
+
+Niet-woning
+
+[adres 2] (begane grond) in [plaats 2]
+
+€ 468.000,-
+
+UTR 22/4411
+
+Niet-woning
+
+[adres 2] (eerste en tweede verdieping) in [plaats 2]
+
+€ 963.000,-
+
+UTR 22/4413
+
+Woning
+
+[adres 3]
+
+€ 277.000,-
+
+1.2.
+
+De heffingsambtenaar heeft bij deze beschikking aan eiseres als eigenaar van deze objecten ook een aanslag onroerendzaakbelasting opgelegd, waarbij deze waarden als heffingsmaatstaf worden gehanteerd.
+
+1.3.
+
+Eiseres is tegen het bestreden besluit in bezwaar gegaan. In de uitspraak op bezwaar van 20 juli 2022 heeft de heffingsambtenaar het bezwaar van eiseres ongegrond verklaard.
+
+1.4.
+
+Eiseres heeft tegen de uitspraak op bezwaar beroep ingesteld. De heffingsambtenaar heeft op het beroep gereageerd met een verweerschrift en taxatiematrices.
+
+1.5.
+
+Aan eiseres is op 6 oktober 2023 een brief gestuurd door de rechtbank waarin de gemachtigde van eiseres vier weken de tijd krijgt om op het verweerschrift te reageren. Hier heeft de gemachtigde van eiseres geen gehoor aan gegeven.
+
+1.6.
+
+De rechtbank heeft de beroepen op 27 november 2023 met behulp van een beeldverbinding op zitting behandeld. Hieraan hebben deelgenomen: de gemachtigde van eiseres en de gemachtigde van de heffingsambtenaar, bijgestaan door [taxateur 1] en [taxateur 2] (taxateurs). Op de zitting heeft de gemachtigde van eiseres het beroep in de zaak met nummer UTR 22/4408 ingetrokken.
+
+Beoordeling door de rechtbank
+
+2. Op de heffingsambtenaar rust de bewijslast om aannemelijk te maken dat de waarde van de objecten op de waardepeildatum (1 januari 2021) niet hoger is vastgesteld dan de waarde in het economisch verkeer. De rechtbank is van oordeel dat de heffingsambtenaar aan die bewijslast heeft voldaan.
+
+3. Wat eiseres in beroep aanvoert, brengt de rechtbank niet tot een ander oordeel.  De gemachtigde van eiseres heeft een algemeen geformuleerd beroepschrift en meerdere, ook algemeen geformuleerde, brieven waaronder een ‘pinpointbrief’ ter aanvulling daarop ingediend. Aan de gemachtigde van eiseres is door de rechtbank op 6 oktober 2023 een brief gestuurd waarin hij vier weken de tijd kreeg om te reageren op het verweerschrift dat de heffingsambtenaar heeft overgelegd. In deze brief is de gemachtigde van eiseres er ook op gewezen dat het op zitting pas aanvoeren van beroepsgronden tot strijd met de goede procesorde kan leiden. De gemachtigde van eiseres heeft nagelaten op de brief van 6 oktober 2023 te reageren.
+
+Ter zitting heeft de gemachtigde van eiseres wel de specifieke beroepsgronden die
+
+in deze zaken aan de orde zijn toegelicht. De rechtbank laat deze gronden echter buiten beschouwing, omdat het zó laat aanvoeren van gronden in strijd is met een goede procesorde. Dit geldt temeer nu de gemachtigde van eiseres in de brief van 6 oktober 2023 door de rechtbank de gelegenheid is geboden om alsnog binnen vier weken de beroepsgronden aan te vullen.
+
+Proceskosten van de heffingsambtenaar
+
+4. De heffingsambtenaar heeft de rechtbank verzocht om (de gemachtigde van) eiseres in de proceskosten van de heffingsambtenaar te veroordelen. Deze kosten bedragen 2 x € 75,- voor het inhuren van een extern persoon die specifiek zaken van deze gemachtigde behandelt. Haar uurvergoeding bedraagt € 75,-. Daarbij wijst de heffingsambtenaar op uitspraken van de rechtbank Rotterdam en het gerechtshof Den Haag over het procedeergedrag van gemachtigde. Hoewel de gemachtigde van eiseres in de fase voor het onderzoek op de zitting op bedroevende wijze procedeert ziet de rechtbank onvoldoende aanknopingspunten om vast te stellen dat sprake is van misbruik van procesrecht. Ook anderszins is er geen aanleiding voor een proceskostenveroordeling ten laste van eiseres of haar gemachtigde. De rechtbank verwijst naar uitspraken van het gerechtshof Arnhem-Leeuwarden en van de meervoudige kamer van deze rechtbank. De rechtbank wijst dit verzoek af.
+
+Immateriële schadevergoeding
+
+5. Eiseres heeft verzocht om een vergoeding van immateriële schade wegens overschrijding van de redelijke termijn. Een vergoeding van immateriële schade wordt op verzoek toegekend indien een procedure over een belastingaanslag onredelijk lang heeft geduurd. In belastingzaken wordt, als de redelijke termijn is overschreden, behoudens bijzondere omstandigheden, verondersteld dat eiseres immateriële schade heeft geleden in de vorm van spanning en frustratie. Daarbij heeft als uitgangspunt te gelden dat een periode van twee jaar voor de bezwaar- en beroepsfase gezamenlijk als redelijk wordt beschouwd. De termijn hiervoor vangt aan op het moment waarop verweerder het bezwaarschrift ontvangt.
+
+6. In deze zaken is het bezwaarschrift ontvangen op 18 maart 2021 en is door de rechtbank op 8 december 2023 uitspraak gedaan. Sinds de ontvangst van het bezwaarschrift zijn dus twee jaar en (afgerond naar boven) 9 maanden verstreken.
+
+7. De rechtbank ziet, evenals in een eerdere zaak van deze gemachtigde en heffingsambtenaar, reden de redelijke termijn voor deze zaken te verlengen. De reden daarvoor is de volgende. De termijn van twee jaar kan verlengd worden bij bijzondere omstandigheden. Tot de bijzondere omstandigheden die aanleiding kunnen zijn voor verlenging van de redelijke termijn, worden volgens vaste rechtspraak onder meer gerekend:
+
+“[…] de invloed van de belanghebbende en/of diens gemachtigde op de duur van het proces, bijvoorbeeld door het doen van herhaalde verzoeken om verlenging van gestelde termijnen of om uitstel voor (het voldoen aan) uitnodigingen of oproepingen.”
+
+8. De rechtbank is er ambtshalve mee bekend dat de gemachtigde van eiseres geen personeel in dienst heeft. Hij doet alles zelf. De rechtbank is er daarnaast mee bekend dat de gemachtigde van eiseres een zeer groot aantal bezwaar- en (hoger) beroepsprocedures heeft lopen. Dit leidt bij meerdere rechtbanken tot problemen in de planning van zijn zaken.
+
+9. Het grote aantal zaken dat de gemachtigde behandelt, heeft tot gevolg gehad dat hij zeer vaak op een zittingsvoornemen reageerde met het bericht verhinderd te zijn. Daardoor kwam de afdoening van zaken in het gedrang. Vanwege die drukke agenda zijn er, in afwijking van de gebruikelijke werkwijze bij de planning van zaken, afspraken met hem gemaakt. De maandagmiddag is nu sinds 2022 als vast zittingsmoment vastgelegd. De rechtbank realiseert zich dat hiermee voor deze gemachtigde een uitzonderingspositie is gecreëerd. Met het oog op de bewaking van de redelijke afdoeningstermijn voor de zaken van deze gemachtigde heeft de rechtbank zich hiertoe genoodzaakt gezien.
+
+10. Vervolgens is het aantal beroepen dat de gemachtigde van eiseres bij deze rechtbank namens zijn cliënten heeft ingesteld alleen maar toegenomen. Zo heeft hij in het jaar 2021 in totaal 731 beroepen ingediend en in 2022 heeft hij 1.199 beroepen ingediend.
+
+11. In zijn correspondentie wijst de gemachtigde van eiseres er steeds op ‘normaliter elke dag beschikbaar te zijn (op donderdagmiddagen na)’, maar in de praktijk blijkt het moeilijk om op andere dagen zittingen met hem te plannen. Dit was ook juist de reden om een vast zittingsdagdeel met hem af te spreken. De rechtbank heeft niettemin meerdere keren geprobeerd meer zittingsdagen met hem te plannen, naast de vaste maandagmiddag. De rechtbank heeft op 21 november 2022 aan de gemachtigde gevraagd of hij op 13 februari 2023, 14 februari 2023 en 24 februari 2023 beschikbaar was voor een extra zitting. Van die dagen was hij alleen op 14 februari 2023 beschikbaar. Voor de periode maart 2023 tot en met juni 2023 heeft overleg tussen rechtbank en de gemachtigde geleid tot 11 mogelijke extra zittingen. Per e-mails van 2 maart 2023 heeft de rechtbank verder aan de gemachtigde gevraagd op welke dagen hij nog meer beschikbaar is in 2023 voor extra zittingen. Ook heeft de rechtbank aan hem gevraagd om per maand twee extra vaste zittingsdagen af te spreken. Per e-mail van 11 maart 2023 heeft de gemachtigde aangegeven daar niet meer aan mee te willen werken, omdat het “uitermate oncollegiaal van [de rechtbank] is om méér dagdelen te claimen ten koste van [andere rechtbanken/gerechtshoven]”.
+
+12. Over het gehele jaar 2023 was de gemachtigde van eiseres dus beschikbaar voor 64 zittingen van een dagdeel bij deze rechtbank. In de praktijk zijn het er minder omdat de gemachtigde soms een maandagmiddag toch niet kan6 en er ook feestdagen op maandag vallen. Op een zitting met de gemachtigde van eiseres worden gemiddeld 11 zaken gepland. In theorie zou de rechtbank dan in het meest gunstige geval 64 x 11 = 704 zaken van de cliënten van deze gemachtigde in 2023 kunnen plannen. Dit is bij lange na niet genoeg om alle door hem ingestelde beroepen te behandelen en in de praktijk zijn het er dus ook veel minder.
+
+13. De rechtbank stelt daarom vast dat de hoeveelheid zaken van de gemachtigde van eiseres en de momenten waarop hij beschikbaar is voor zittingen niet op elkaar aansluiten. Veel zaken kunnen niet of niet tijdig op zitting worden behandeld, omdat hij geen ruimte heeft in zijn agenda. De handelwijze van de gemachtigde van eiseres leidt noodzakelijkerwijs tot het oplopen van de duur van de behandeling van de door hem ingestelde beroepen en daarmee tot het overschrijden van de redelijke termijn. Deze handelwijze kan eiseres worden toegerekend. Gelet op het aantal door de gemachtigde van
+
+eiseres ingediende beroepen, afgezet tegen zijn beperkte beschikbaarheid voor zittingen is de rechtbank van oordeel dat de redelijke termijn moet worden verlengd met 12 maanden. Dit leidt tot de conclusie dat in dit geval de redelijke termijn niet is overschreden en dat het verzoek om schadevergoeding wordt afgewezen.
+
+Conclusie en gevolgen
+
+14. De beroepen zijn ongegrond. Dat betekent dat eiseres geen gelijk krijgt. Eiseres krijgt daarom het griffierecht niet terug. Zij krijgt ook geen vergoeding van haar proceskosten. De heffingsambtenaar krijgt ook geen vergoeding van zijn proceskosten. Het verzoek om immateriële schadevergoeding wordt afgewezen.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart de beroepen ongegrond;
+
+- wijst het verzoek om immateriële schadevergoeding af.
+
+Deze uitspraak is gedaan door mr. R.C. Stijnen, rechter, in aanwezigheid van mr. E. Mulder, griffier. De uitspraak is uitgesproken in het openbaar op 8 december 2023.
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Informatie over hoger beroep
+
+Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift sturen naar het gerechtshof Arnhem-Leeuwarden waarin wordt uitgelegd waarom deze partij het niet eens is met deze uitspraak. Het hogerberoepschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden.
+
+Digitaal beroep instellen kan via “Formulieren en inloggen” op www.rechtspraak.nl. Hoger beroep instellen kan eventueel ook nog steeds door verzending van een brief aan het gerechtshof Arnhem-Leeuwarden (belastingkamer), Locatie Arnhem, Postbus 9030, 6800 EM Arnhem.
+
+Kan de indiener de behandeling van het hoger beroep niet afwachten, omdat de zaak spoed heeft, dan kan de indiener de voorzieningenrechter van het gerechtshof Arnhem-Leeuwarden vragen om een voorlopige voorziening (een tijdelijke maatregel) te treffen.
+
+Uitspraak van 24 januari 2023, ECLI:NL:GHARL:2023:674.
+
+Uitspraak van 31 mei 2023, ECLI:NL:RBMNE:2023:2562.
+
+Uitspraak van 20 november 2023, UTR 22/4539 (nog niet gepubliceerd op rechtspraak.nl).
