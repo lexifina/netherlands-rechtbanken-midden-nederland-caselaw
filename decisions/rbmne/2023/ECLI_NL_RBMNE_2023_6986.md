@@ -165,7 +165,7 @@ Ernst & Prognose
 
 - schatting duur verdere genezing overige letsels: 4 weken.
 
-3. Verbalisant B. Reijenga heeft in een proces-verbaal van bevindingen van 23 mei 2023 – zakelijk weergegeven – het volgende gerelateerd:
+3. Verbalisant [verbalisant] heeft in een proces-verbaal van bevindingen van 23 mei 2023 – zakelijk weergegeven – het volgende gerelateerd:
 
 Op 14 mei 2023 kwam bij de politie de melding dat er tweemaal geschoten zou zijn buiten het café [café] , gelegen aan de [adres] te [woonplaats] . Naar aanleiding van dit incident zijn de camerabeelden opgevraagd van de beveiligingscamera’s van café [café] . Deze camerabeelden heb ik bekeken. Ik heb het volgende gezien op deze camerabeelden:
 
