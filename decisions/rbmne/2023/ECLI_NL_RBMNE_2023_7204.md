@@ -51,7 +51,7 @@ de voortgangsrapportages over de periode van 3 april 2022 tot en met 3 juli 2023
 
 het Pro Justitia-rapport van 26 september 2023, opgemaakt door J.R. Nijdam, psychiater;
 
-het reclasseringsadvies van 6 november 2023, opgemaakt door M. Ariëns, reclasseringswerker;
+het reclasseringsadvies van 6 november 2023, opgemaakt door [A] , reclasseringswerker;
 
 de vordering van de officier van justitie van 24 november 2023, die strekt tot verlenging van de terbeschikkingstelling met twee jaar.
 
@@ -64,12 +64,12 @@ De behandeling van de zaak heeft op 18 december 2023 ter terechtzitting plaatsge
 
 - de betrokkene, bijgestaan door zijn raadsman mr. J.C.N.T. van Haren, advocaat te Utrecht;
 
-- B. van der Plas, reclasseringswerker.
+- [B] , reclasseringswerker.
 
 3
 Het standpunt van de reclassering
 
-Het standpunt van de reclassering blijkt uit het onder 1 genoemde rapport. De reclasseringswerker B. van der Plas heeft ter zitting het reclasseringsadvies toegelicht.
+Het standpunt van de reclassering blijkt uit het onder 1 genoemde rapport. De reclasseringswerker [B] heeft ter zitting het reclasseringsadvies toegelicht.
 
 Het standpunt luidt – zakelijk weergegeven – dat er bij de betrokkene nog steeds sprake is van een stoornis. Ook is het recidiverisico nog aanwezig. Dit risico wordt bij beëindiging van de maatregel ingeschat als gemiddeld. Ter zitting heeft de reclasseringswerker toegelicht dat bij het wegvallen van het huidige kader de kans op een terugval in middelengebruik en verwaarlozing van het medicatiegebruik hoog is. Daarmee neemt ook het recidiverisico toe.
 
@@ -120,7 +120,7 @@ De rechtbank heeft als uitgangspunt dat, wanneer aannemelijk is geworden dat de 
 8
 De beslissing
 
-De rechtbank verlengt de termijn van de terbeschikkingstelling met voorwaarden van Mario Theofilus Da Silva met twee jaar.
+De rechtbank verlengt de termijn van de terbeschikkingstelling met voorwaarden van [betrokkene] met twee jaar.
 
 Deze beslissing is genomen door mr. H.J. van Woudenberg, voorzitter, mrs. L.M.M. Heppe en G.A. Bos, rechters, in tegenwoordigheid van mr. E.E. van Wiggen – van der Hoek als griffier en in het openbaar uitgesproken op 29 december 2023.
 
