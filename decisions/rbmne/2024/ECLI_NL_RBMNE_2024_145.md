@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:145"
 published_in: ["Rechtspraak.nl", "JOM 2024/118", "Omgevingsvergunning in de praktijk 2024/9031", "Jurisprudentie Grondzaken 2024/52 met annotatie van mr. F.M.A. van der Loo", "M en R 2024/25 met annotatie van P. Mendelts"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4431, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2024:145 Rechtbank Midden-Nederland , 17-01-2024 / 23/2044
