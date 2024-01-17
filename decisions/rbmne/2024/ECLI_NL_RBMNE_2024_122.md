@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:122"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4145, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:122 Rechtbank Midden-Nederland , 17-01-2024 / UTR 22/3724
