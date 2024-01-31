@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:447"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1028, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:447 Rechtbank Midden-Nederland , 31-01-2024 / UTR 22/5246
