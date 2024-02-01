@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:423"
-published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2024/9036", "JM 2024/42 met annotatie van S. Pieters"]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2024/9036", "JM 2024/42 met annotatie van S. Pieters", "AB 2024/Studentenspecial 3 met annotatie van T. Vlug"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2905, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2024:423 Rechtbank Midden-Nederland , 01-02-2024 / UTR 23/1160
