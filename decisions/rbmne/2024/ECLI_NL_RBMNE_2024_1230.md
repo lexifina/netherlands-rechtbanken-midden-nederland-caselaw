@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:1230"
 published_in: ["Rechtspraak.nl", "Belastingblad 2024/168 met annotatie van A.W. Schep"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1324, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2024:1230 Rechtbank Midden-Nederland , 21-02-2024 / UTR 22/3922
