@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:1176"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/635", "V-N 2024/32.2.3"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:8216, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2024:1176 Rechtbank Midden-Nederland , 04-03-2024 / UTR 22/3424
