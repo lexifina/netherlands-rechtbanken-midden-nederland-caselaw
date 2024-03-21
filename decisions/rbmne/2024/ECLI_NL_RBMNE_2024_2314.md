@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBMNE:2024:2314"
 court: "Rechtbank Midden-Nederland"
 court_code: "RBMNE"
 docket: "UTR 23/1787 en UTR 23/1788"
-decided: "2024-02-21"
+decided: "2024-03-21"
 published: "2024-04-16"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:2314"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2765, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBMNE:2024:2314 Rechtbank Midden-Nederland , 21-02-2024 / UTR 23/1787 en UTR 23/1788
+# ECLI:NL:RBMNE:2024:2314 Rechtbank Midden-Nederland , 21-03-2024 / UTR 23/1787 en UTR 23/1788
 
 ## Inhoudsindicatie
 
