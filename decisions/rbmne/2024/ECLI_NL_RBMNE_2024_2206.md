@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:2206"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4141, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:2206 Rechtbank Midden-Nederland , 12-04-2024 / 23/1628
