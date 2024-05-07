@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "NJFS 2024/251"]
 
 ## Inhoudsindicatie
 
-Beslissing van de Blauwe Kamer op de verzoeken tot afscherming van de identiteit van de verdachte in onderzoek ‘Cuzco’, gedurende het onderzoek ter terechtzitting van 17 mei 2024.
+Blauwe Kamer-zaak. Beslissing van de Blauwe Kamer op de verzoeken tot afscherming van de identiteit van de verdachte in onderzoek ‘Cuzco’, gedurende het onderzoek ter terechtzitting van 17 mei 2024.
 
 ## Uitspraak
 
