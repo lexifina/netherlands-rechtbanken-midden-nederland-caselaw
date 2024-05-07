@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:2836"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1029", "Sdu Nieuws Bestuursrecht 2024/97", "VR 2024/77 met annotatie van I.N.D.J. Rissema", "NJFS 2024/244"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:6498"]]
 ---
 
 # ECLI:NL:RBMNE:2024:2836 Rechtbank Midden-Nederland , 07-05-2024 / 11086227 e.v.
