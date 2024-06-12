@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:3668"
 published_in: ["Rechtspraak.nl", "Notamail 2024/148", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/208", "JERF Actueel 2024/297", "ERF-Updates.nl 2024-0345", "VEAN-ERF-Updates.nl 2024-0345", "RO 2024/69", "JERF 2024/130 met annotatie van Redactie", "JONDR 2024/697", "JOR 2024/258 met annotatie van Mr. P.H.N. Quist"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:5134"]]
 ---
 
 # ECLI:NL:RBMNE:2024:3668 Rechtbank Midden-Nederland , 12-06-2024 / C/16/566085 / HL ZA 23-324
