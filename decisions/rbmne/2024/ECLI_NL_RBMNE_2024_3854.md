@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:3854"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1747, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:3854 Rechtbank Midden-Nederland , 21-06-2024 / UTR 23/232 en UTR 24/3914
