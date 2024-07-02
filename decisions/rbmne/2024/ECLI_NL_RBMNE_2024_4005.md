@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Sinds juli 2022 is de rechtbank Midden Nederland als enige rechtbank bevoegd om zaken te berechten waarbij politieagenten als verdachten worden aangemerkt wegens het toepassen van geweld tijdens hun werk. Voor andere delicten die agenten kunnen begaan tijdens hun werk zijn ook de andere rechtbanken bevoegd.
+Blauwe Kamer-zaak. Sinds juli 2022 is de rechtbank Midden Nederland als enige rechtbank bevoegd om zaken te berechten waarbij politieagenten als verdachten worden aangemerkt wegens het toepassen van geweld tijdens hun werk. Voor andere delicten die agenten kunnen begaan tijdens hun werk zijn ook de andere rechtbanken bevoegd.
 
 Op 2 juli 2024 heeft deze zogeheten blauwe kamer van de rechtbank Midden Nederland zich onbevoegd verklaard in een zaak waar aan de verdachte in de kern het verwijt werd gemaakt dat hij zich schuldig heeft gemaakt aan misbruik van zijn gezag als politieagent door een ander te dwingen op zijn rug te gaan liggen, en daarbij te dreigen met een geweldmiddel, namelijk met een stroomstootwapen. Met betrekking tot de bevoegdheid van deze rechtbank is daarbij de vraag gerezen of dreigen met een stroomstootwapen valt onder ‘het in de uitoefening van zijn functie gebruiken van geweld’ zoals bepaald in artikel 2, 2e lid 3 Sv, waarin de bevoegdheid van de blauwe kamer is geregeld. Met andere woorden of een dergelijk gebruik van een stroomstootwapen valt aan te merken als het gebruiken van geweld.
 
