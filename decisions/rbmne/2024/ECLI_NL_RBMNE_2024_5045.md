@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Blauwe Kamer zaak. Politierechter veroordeelt een politieagent tot 60 uur taakstraf waarvan 30 uur voorwaardelijk, wegens mishandeling. De politieagent is hiervoor strafbaar omdat hij heeft gehandeld in strijd met de geweldsinstructie, door een man die hij wilde aanhouden zonder noodzaak en waarschuwing met zijn vuist in het gezicht te slaan. De man liep een gebroken neus op.
+Blauwe Kamer-zaak. Politierechter veroordeelt een politieagent tot 60 uur taakstraf waarvan 30 uur voorwaardelijk, wegens mishandeling. De politieagent is hiervoor strafbaar omdat hij heeft gehandeld in strijd met de geweldsinstructie, door een man die hij wilde aanhouden zonder noodzaak en waarschuwing met zijn vuist in het gezicht te slaan. De man liep een gebroken neus op.
 
 ## Uitspraak
 
