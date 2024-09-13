@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5485"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Hersteluitspraak: ECLI:NL:RBMNE:2024:5863"]]
+relations: [["Formele relatie", "Hersteluitspraak: ECLI:NL:RBMNE:2024:5863"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4142, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2024:5485 Rechtbank Midden-Nederland , 13-09-2024 / UTR_23_3439 en UTR_23_3440 en UTR_23_5797
