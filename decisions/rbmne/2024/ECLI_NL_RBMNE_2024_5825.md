@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:5825"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3744"]]
 ---
 
 # ECLI:NL:RBMNE:2024:5825 Rechtbank Midden-Nederland , 16-10-2024 / 11092323 \ MC EXPL 24-2982
