@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:6043"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6380, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:6043 Rechtbank Midden-Nederland , 23-10-2024 / UTR 23/3434
