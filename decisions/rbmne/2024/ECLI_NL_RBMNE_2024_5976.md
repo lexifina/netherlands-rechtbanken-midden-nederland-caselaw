@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Verdachte heeft geweld gebruikt tijdens zijn werk als hoofdagent bij de politie, door driemaal met een wapenstok richting het lichaam of het hoofd van aangever te slaan. Aangever heeft als gevolg hiervan lichamelijk letsel opgelopen, waaruit kan worden afgeleid dat hij ten minste eenmaal op zijn hoofd is geraakt. Aan verdachte is ten laste gelegd dat hij de geweldsinstructie heeft geschonden, en dat die schending aan zijn schuld te wijten is (het nieuwe artikel 372 Sr).
+Blauwe Kamer-zaak. Verdachte heeft geweld gebruikt tijdens zijn werk als hoofdagent bij de politie, door driemaal met een wapenstok richting het lichaam of het hoofd van aangever te slaan. Aangever heeft als gevolg hiervan lichamelijk letsel opgelopen, waaruit kan worden afgeleid dat hij ten minste eenmaal op zijn hoofd is geraakt. Aan verdachte is ten laste gelegd dat hij de geweldsinstructie heeft geschonden, en dat die schending aan zijn schuld te wijten is (het nieuwe artikel 372 Sr).
 
 De rechtbank spreekt verdachte vrij. Verdachte mocht in het kader van de zogeheten afweerbevoegdheid gebruik maken van zijn wapenstok. De manier waarop hij dat heeft gedaan moet naar het oordeel van de rechtbank op grond van de objectieve feiten en omstandigheden en de (subjectieve) beleving daarvan door verdachte, als proportioneel, redelijk en gematigd worden aangemerkt. Verdachte heeft aldus gehandeld conform de geweldsinstructie.
 
