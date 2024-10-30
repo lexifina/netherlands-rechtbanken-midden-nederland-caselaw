@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:6431"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024120901", "NLF 2024/2776", "V-N Vandaag 2024/2481", "FutD 2024-2632", "Belastingblad 2025/51 met annotatie van J.K. Lanser", "V-N 2025/7.22 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024120901", "NLF 2024/2776", "V-N Vandaag 2024/2481", "FutD 2024-2632", "Belastingblad 2025/51 met annotatie van J.K. Lanser", "V-N 2025/7.22"]
 ---
 
 # ECLI:NL:RBMNE:2024:6431 Rechtbank Midden-Nederland , 30-10-2024 / UTR 23/3987
