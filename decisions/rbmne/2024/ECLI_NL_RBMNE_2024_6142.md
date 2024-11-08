@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:6142"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5468, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBMNE:2024:6142 Rechtbank Midden-Nederland , 08-11-2024 / 24/6137 en 24/4606
