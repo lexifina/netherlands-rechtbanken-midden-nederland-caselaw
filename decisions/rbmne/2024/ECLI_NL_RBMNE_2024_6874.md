@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBMNE:2024:6874"
 court: "Rechtbank Midden-Nederland"
 court_code: "RBMNE"
 docket: "UTR 23/4236"
-decided: "2024-12-17"
+decided: "2024-11-26"
 published: "2024-12-17"
 type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:6874"
 published_in: ["Rechtspraak.nl", "JBP 2025/53"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5715, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
-# ECLI:NL:RBMNE:2024:6874 Rechtbank Midden-Nederland , 17-12-2024 / UTR 23/4236
+# ECLI:NL:RBMNE:2024:6874 Rechtbank Midden-Nederland , 26-11-2024 / UTR 23/4236
 
 ## Inhoudsindicatie
 
