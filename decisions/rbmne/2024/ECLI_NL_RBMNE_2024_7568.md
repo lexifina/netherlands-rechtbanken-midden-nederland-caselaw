@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:7568"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:924, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:7568 Rechtbank Midden-Nederland , 28-11-2024 / UTR 24/900
