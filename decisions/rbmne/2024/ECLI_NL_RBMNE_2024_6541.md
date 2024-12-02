@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Blauwe kamer-zaak.
+Blauwe Kamer-zaak.
 
 Verdachte heeft als hondengeleider bij de politie zijn diensthond ingezet. Als gevolg hiervan heeft aangever letsel opgelopen.
 
