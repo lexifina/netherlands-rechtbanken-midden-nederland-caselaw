@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2024:7506"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2405, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2024:7506 Rechtbank Midden-Nederland , 16-12-2024 / UTR 5318 T
