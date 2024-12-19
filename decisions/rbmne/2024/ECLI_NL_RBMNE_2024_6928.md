@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "NJFS 2025/67"]
 
 ## Inhoudsindicatie
 
-Blauwe kamer-zaak.
+Blauwe Kamer-zaak.
 
 De rechtbank spreekt een hondengeleider en een ME’er vrij van mishandeling. Het ten laste gelegde feit houdt in dat beide agenten in vereniging een diensthond hebben ingezet ter aanhouding van aangever, dat zij de aangever meermalen met een wapenstok hebben geslagen, dat zij hem hebben geschopt en dat zij de diensthond in het been van aangever hebben laten bijten. Dat de hondengeleider en de ME’er dit geweld jegens aangever hebben uitgeoefend, staat niet ter discussie. De vraag die de rechtbank heeft beantwoord is of dit geweldsoptreden in de gegeven omstandigheden rechtmatig is geweest. Het oordeel van de rechtbank luidt dat de hondengeleider en de ME’er met hun handelen op basis van alle objectieve feiten en omstandigheden, in samenhang bezien met hun subjectieve beleving, steeds hebben voldaan aan de vereisten van subsidiariteit en proportionaliteit. Dat geldt ook voor de handelingen die de hondengeleider heeft verricht op het moment dat zijn subjectieve beleving niet geheel overeenkwam met de objectieve feiten en omstandigheden. Gelet op wat de rechtbank wel aan feiten en omstandigheden heeft kunnen vaststellen, was zijn subjectieve beoordeling op dat moment gebaseerd op een eerlijk en oprecht geloof, waarvoor hij goede redenen had. Dat betekent dat het toegepaste geweld niet wederrechtelijk was, zodat de ten laste gelegde mishandeling niet kan worden bewezen.
 
