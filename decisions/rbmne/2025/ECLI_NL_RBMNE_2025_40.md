@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "NJFS 2025/84"]
 
 ## Inhoudsindicatie
 
-Blauwe kamer. Verdachte heeft geweld gebruikt tijdens zijn werk als politieambtenaar door met zijn politievoertuig het slachtoffer aan te rijden. Het slachtoffer heeft als gevolg hiervan lichamelijk letsel opgelopen. Aan verdachte is ten laste gelegd dat hij de geweldinstructie heeft geschonden, en dat die schending aan zijn schuld te wijten is (artikel 372 Sr).
+Blauwe Kamer-zaak. Verdachte heeft geweld gebruikt tijdens zijn werk als politieambtenaar door met zijn politievoertuig het slachtoffer aan te rijden. Het slachtoffer heeft als gevolg hiervan lichamelijk letsel opgelopen. Aan verdachte is ten laste gelegd dat hij de geweldinstructie heeft geschonden, en dat die schending aan zijn schuld te wijten is (artikel 372 Sr).
 
 De rechtbank spreekt verdachte vrij. Verdachte kon redelijkerwijs oordelen dat zich een levensgevaarlijke situatie voordeed waarin onmiddellijk ingrijpen noodzakelijk was. Verdachte heeft vervolgens bij de inzet van het politievoertuig als geweldsmiddel voldaan aan de vereisten van subsidiariteit en proportionaliteit. Verdachte heeft aldus gehandeld conform de geweldsinstructie.
 
