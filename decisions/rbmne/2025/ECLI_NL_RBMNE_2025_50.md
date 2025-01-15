@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:50"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2025-0036"]
 ---
 
 # ECLI:NL:RBMNE:2025:50 Rechtbank Midden-Nederland , 15-01-2025 / C/16/571678 / HA ZA 24-117
