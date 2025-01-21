@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:122"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "School en Wet 2025/91"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2060, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2025:122 Rechtbank Midden-Nederland , 21-01-2025 / UTR 24/4247
