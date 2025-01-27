@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Blauwe Kamerzaak: vervolging van een politieagente voor een poging tot doodslag in Rotterdam.
+Blauwe Kamer-zaak: vervolging van een politieagente voor een poging tot doodslag in Rotterdam.
 
 Verdachte heeft tijdens haar werk als hoofdagent vijfmaal met haar dienstwapen op een auto geschoten die wegreed tijdens een staandehouding.
 
