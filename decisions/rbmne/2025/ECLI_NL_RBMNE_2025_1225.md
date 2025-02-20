@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1225"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2025/88"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1403, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBMNE:2025:1225 Rechtbank Midden-Nederland , 20-02-2025 / 24/4030
