@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1655"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0518", "Sdu Nieuws Arbeidsrecht 2025/164"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0518", "Sdu Nieuws Arbeidsrecht 2025/164", "JAR 2025/135 met annotatie van mr. Y. El Harchaoui", "RO 2025/47", "JIN 2025/83 met annotatie van mr. J.P.M. van Zijl", "JONDR 2025/604"]
 ---
 
 # ECLI:NL:RBMNE:2025:1655 Rechtbank Midden-Nederland , 26-02-2025 / C/16/581737 / HA ZA 24-490
