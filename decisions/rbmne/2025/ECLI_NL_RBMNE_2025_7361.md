@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7361"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/17", "INS-Updates.nl 2026-0025", "JOR 2026/78 met annotatie van mr. K.R. Kedis"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/17", "INS-Updates.nl 2026-0025", "JOR 2026/78 met annotatie van mr. K.R. Kedis", "RI 2026/43"]
 ---
 
 # ECLI:NL:RBMNE:2025:7361 Rechtbank Midden-Nederland , 27-02-2025 / 25-137
