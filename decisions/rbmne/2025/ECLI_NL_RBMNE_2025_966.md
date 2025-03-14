@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:966"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025031806", "V-N Vandaag 2025/542", "Sdu Nieuws Belastingzaken 2025/339", "FutD 2025-0623", "NLF 2025/0640", "V-N 2025/15.22 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025031806", "V-N Vandaag 2025/542", "Sdu Nieuws Belastingzaken 2025/339", "FutD 2025-0623", "NLF 2025/0640", "V-N 2025/15.22"]
 ---
 
 # ECLI:NL:RBMNE:2025:966 Rechtbank Midden-Nederland , 14-03-2025 / C/16/588537 / KL ZA 25-31
