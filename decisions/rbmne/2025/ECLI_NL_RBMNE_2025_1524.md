@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1524"
-published_in: ["Rechtspraak.nl", "Prg. 2025/144"]
+published_in: ["Rechtspraak.nl", "Prg. 2025/144", "FJR 2026/40.61"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:2816"]]
 ---
 
 # ECLI:NL:RBMNE:2025:1524 Rechtbank Midden-Nederland , 03-04-2025 / 11326269 MT VERZ 24-5087
