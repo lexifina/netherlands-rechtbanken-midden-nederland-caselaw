@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1854"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6907"]]
 ---
 
 # ECLI:NL:RBMNE:2025:1854 Rechtbank Midden-Nederland , 16-04-2025 / C/16/576796 / HL ZA 24-160 en 591697 KL RK 25-117
