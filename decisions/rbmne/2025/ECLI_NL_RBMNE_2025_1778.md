@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1778"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2025/98", "NJF 2025/234", "RAV 2025/55", "Mediaforum 2025-6, nr. 15 met annotatie van S.A.J.C. Wagemakers"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3183"]]
 ---
 
 # ECLI:NL:RBMNE:2025:1778 Rechtbank Midden-Nederland , 17-04-2025 / C/16/590766 / KG ZA 25-121
