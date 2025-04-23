@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:1802"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PJ 2025/59 met annotatie van E. Lutjens", "PR-Updates.nl 2025-0095"]
 ---
 
 # ECLI:NL:RBMNE:2025:1802 Rechtbank Midden-Nederland , 23-04-2025 / 11343932 AC EXPL 24-2498
