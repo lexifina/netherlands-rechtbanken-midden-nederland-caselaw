@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2044"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2025/85"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6396"]]
 ---
 
 # ECLI:NL:RBMNE:2025:2044 Rechtbank Midden-Nederland , 30-04-2025 / 11172676 \ MC EXPL  24-4037
