@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2203"
 published_in: ["Rechtspraak.nl", "Module Aanbesteding 2025/2483", "JAAN 2025/108"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:5744"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3328"]]
 ---
 
 # ECLI:NL:RBMNE:2025:2203 Rechtbank Midden-Nederland , 07-05-2025 / C/16/585427 / KG ZA 24-619
