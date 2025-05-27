@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2608"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3098"]]
 ---
 
 # ECLI:NL:RBMNE:2025:2608 Rechtbank Midden-Nederland , 27-05-2025 / C/16/592529 / KL ZA 25-93
