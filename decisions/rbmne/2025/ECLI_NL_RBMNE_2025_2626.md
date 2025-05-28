@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2626"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3230"]]
 ---
 
 # ECLI:NL:RBMNE:2025:2626 Rechtbank Midden-Nederland , 28-05-2025 / 16/098562-24 en 16/0411167-25 (gev. ttz) (P)
