@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2611"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/376"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/376", "FJR 2026/46.62"]
 ---
 
 # ECLI:NL:RBMNE:2025:2611 Rechtbank Midden-Nederland , 30-05-2025 / C/16/585017 / FO RK 24-1443
