@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2706"
-published_in: ["Rechtspraak.nl", "JHV 2025/24 met annotatie van N.L. Bol"]
+published_in: ["Rechtspraak.nl", "JHV 2025/24 met annotatie van N.L. Bol", "TvPP 2026/28, p.98 met annotatie van P.S.M. Schilperoort"]
 ---
 
 # ECLI:NL:RBMNE:2025:2706 Rechtbank Midden-Nederland , 11-06-2025 / 11422146
