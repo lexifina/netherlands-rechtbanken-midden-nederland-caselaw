@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:3172"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.51"]
 ---
 
 # ECLI:NL:RBMNE:2025:3172 Rechtbank Midden-Nederland , 17-06-2025 / C/16/592342 C/16/592343  C/16/591321
