@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:2989"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/196 met annotatie van J.E. van den Brink"]
 ---
 
 # ECLI:NL:RBMNE:2025:2989 Rechtbank Midden-Nederland , 25-06-2025 / UTR 23/5065
