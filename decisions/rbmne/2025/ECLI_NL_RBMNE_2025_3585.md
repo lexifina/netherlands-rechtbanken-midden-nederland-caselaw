@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:3585"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/472"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:8047"]]
 ---
 
 # ECLI:NL:RBMNE:2025:3585 Rechtbank Midden-Nederland , 09-07-2025 / C/16/568014 / FO RK 23-1585
