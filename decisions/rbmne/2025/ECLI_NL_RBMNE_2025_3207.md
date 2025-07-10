@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:3207"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5667, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBMNE:2025:3207 Rechtbank Midden-Nederland , 10-07-2025 / 23-4414
