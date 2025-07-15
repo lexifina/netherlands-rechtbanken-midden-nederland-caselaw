@@ -10,7 +10,6 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7154"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Sprongcassatie: ECLI:NL:HR:2026:570"]]
 ---
 
 # ECLI:NL:RBMNE:2025:7154 Rechtbank Midden-Nederland , 15-07-2025 / 24/5898
