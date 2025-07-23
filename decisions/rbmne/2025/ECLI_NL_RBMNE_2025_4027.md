@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "Notamail 2025/181", "NJF 2025/406"]
 
 ## Inhoudsindicatie
 
-Tussenvonnis. Appartementsrecht. VvE heeft besloten om de splitsingsakte te wijzigen. Bepaalde zaken en gedeelten van het gebouw die voorheen tot de onderhouds- en beheerstaak van de VvE behoorde, behoren na wijzging tot de onderhouds- en beheerstaak van de individuele appartementseigenaars. Die wijziging raakt de eigendomsverhouding van de apartementseigenaars niet. De door de Hoge Raad overwogen beperking (ECLI:NL:HR:2023:286) van het toepassingsbereik van artikel 5:139 lid 2 BW is niet van toepassing. Het besluit kon genomen worden met een 80%-meerderheid van de appartementseigenaars. Het is niet gebleken dat eiser door het besluit geen schade lijden. Voor de vraag of eiser een redelijke schadeloosstelling is geboden krijgen partijen de gelegeneid om aktes te nemen.
+Tussenvonnis. Appartementsrecht. VvE heeft besloten om de splitsingsakte te wijzigen. Bepaalde zaken en gedeelten van het gebouw die voorheen tot de onderhouds- en beheerstaak van de VvE behoorde, behoren na wijzging tot de onderhouds- en beheerstaak van de individuele appartementseigenaars. Die wijziging raakt de eigendomsverhouding van de apartementseigenaars niet. De door de Hoge Raad overwogen beperking (ECLI:NL:HR:2023:286) van het toepassingsbereik van artikel 5:139 lid 2 BW is niet van toepassing. Het besluit kon genomen worden met een 80%-meerderheid van de appartementseigenaars. Het is niet gebleken dat eiser door het besluit geen schade lijden. Voor de vraag of eiser een redelijke schadeloosstelling is geboden krijgen partijen de gelegeneid om aktes te nemen. (ZIE OOK: ECLI:NL:RBMNE:2025:7229, ECLI:NL:RBMNE:2026:4007)
 
 ## Uitspraak
 
