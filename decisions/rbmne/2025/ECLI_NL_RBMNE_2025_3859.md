@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:3859"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3192, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBMNE:2025:3859 Rechtbank Midden-Nederland , 25-07-2025 / UTR 25/1787
