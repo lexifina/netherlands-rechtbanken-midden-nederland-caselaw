@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7539"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/196 met annotatie van C.M. Dijkstra"]
 ---
 
 # ECLI:NL:RBMNE:2025:7539 Rechtbank Midden-Nederland , 10-09-2025 / UTR 23/3793
