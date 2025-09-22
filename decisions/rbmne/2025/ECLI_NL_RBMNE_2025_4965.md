@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:4965"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1335", "VAAN-AR-Updates.nl 2025-1335"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4232"]]
 ---
 
 # ECLI:NL:RBMNE:2025:4965 Rechtbank Midden-Nederland , 22-09-2025 / 11786538
