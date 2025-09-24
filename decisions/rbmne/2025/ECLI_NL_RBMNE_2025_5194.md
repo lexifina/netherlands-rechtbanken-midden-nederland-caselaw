@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5194"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:2820"]]
 ---
 
 # ECLI:NL:RBMNE:2025:5194 Rechtbank Midden-Nederland , 24-09-2025 / C/16/577927 / FL RK 24-701
