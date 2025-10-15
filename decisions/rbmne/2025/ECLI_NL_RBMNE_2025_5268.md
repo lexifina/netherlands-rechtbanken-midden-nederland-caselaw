@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5268"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025110408", "FutD 2025-2237", "PJ 2025/139"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025110408", "FutD 2025-2237", "PJ 2025/139", "PR-Updates.nl 2025-0187"]
 ---
 
 # ECLI:NL:RBMNE:2025:5268 Rechtbank Midden-Nederland , 15-10-2025 / 11527625
