@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Provisionele vordering ex artikel 223 Rv. Voorschot op schadevergoeding wegens non-conformiteit van een koopwoning in de hoofdzaak.
+Provisionele vordering ex artikel 223 Rv. Voorschot op schadevergoeding wegens non-conformiteit van een koopwoning in de hoofdzaak. (ZIE OOK: ECLI:NL:RBMNE:2026:3080)
 
 ## Uitspraak
 
