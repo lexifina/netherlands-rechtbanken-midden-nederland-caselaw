@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6055"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/170"]
 ---
 
 # ECLI:NL:RBMNE:2025:6055 Rechtbank Midden-Nederland , 22-10-2025 / C/16/588725 / HA ZA 25-90
