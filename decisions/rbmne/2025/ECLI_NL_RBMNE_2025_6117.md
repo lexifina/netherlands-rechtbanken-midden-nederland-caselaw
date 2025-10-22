@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6117"
-published_in: ["Rechtspraak.nl", "Notamail 2025/263", "Sdu Nieuws Personen- en familierecht 2025/666", "JERF Actueel 2025/466", "ERF-Updates.nl 2025-0606", "VEAN-ERF-Updates.nl 2025-0606"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/263", "Sdu Nieuws Personen- en familierecht 2025/666", "JERF Actueel 2025/466", "ERF-Updates.nl 2025-0606", "VEAN-ERF-Updates.nl 2025-0606", "JERF 2026/64 met annotatie van prof. mr. W.D. Kolkman", "FJR 2026/55.10", "FJR 2026/55.17"]
 ---
 
 # ECLI:NL:RBMNE:2025:6117 Rechtbank Midden-Nederland , 22-10-2025 / C/16/587276
