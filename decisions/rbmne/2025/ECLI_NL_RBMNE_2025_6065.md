@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6065"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/338", "Sdu Nieuws Financieel recht 2025/144", "S&E FR 2025/12, UDH:S&E FR/56802 met annotatie van Wendy Pronk", "NJFCZ 2026/20", "RF 2026/11", "JONDR 2026/156"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/338", "Sdu Nieuws Financieel recht 2025/144", "S&E FR 2025/12, UDH:S&E FR/56802 met annotatie van Wendy Pronk", "NJFCZ 2026/20", "RF 2026/11", "JONDR 2026/156", "NTHR 2026/30, p.141"]
 ---
 
 # ECLI:NL:RBMNE:2025:6065 Rechtbank Midden-Nederland , 12-11-2025 / C/16/581351 / HA ZA 24-478
