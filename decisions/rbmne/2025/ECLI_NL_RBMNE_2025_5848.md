@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:5848"
-published_in: ["Rechtspraak.nl", "Notamail 2025/269"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/269", "WR 2026/58 met annotatie van A.P.W. Tonen"]
 ---
 
 # ECLI:NL:RBMNE:2025:5848 Rechtbank Midden-Nederland , 12-11-2025 / 11822406
