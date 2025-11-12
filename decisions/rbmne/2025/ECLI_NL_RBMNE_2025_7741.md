@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7741"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RAV 2026/48"]
 ---
 
 # ECLI:NL:RBMNE:2025:7741 Rechtbank Midden-Nederland , 12-11-2025 / C/16/592896 / HA RK 25-82
