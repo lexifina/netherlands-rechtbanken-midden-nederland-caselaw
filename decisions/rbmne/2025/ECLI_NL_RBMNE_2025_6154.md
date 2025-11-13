@@ -1,0 +1,104 @@
+---
+ecli: "ECLI:NL:RBMNE:2025:6154"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "602163 HA RK 25-195"
+decided: "2025-11-13"
+published: "2025-11-17"
+type: "uitspraak"
+procedure: "Wraking"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6154"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2025:6154 Rechtbank Midden-Nederland , 13-11-2025 / 602163 HA RK 25-195
+
+## Inhoudsindicatie
+
+Wrakingszaak. Wrakingsverzoek. Buiten zitting beslissing. Er is nog steeds geen behandelend rechter. Verzoeker is daarom niet-ontvankelijk. Volgende verzoeken worden niet in behandeling genomen zolang er nog geen behandelend rechter is voor de zaak.
+
+## Uitspraak
+
+Beslissing
+
+RECHTBANK MIDDEN-NEDERLAND
+
+WRAKINGSKAMER
+
+Locatie: Utrecht
+
+Zaaknummer: 602163 HA RK 25-195
+
+Beslissing van de meervoudige kamer voor de behandeling van wrakingszaken van 13 november 2025
+
+op het verzoek in de zin van artikel 8:15 van de Algemene wet bestuursrecht (hierna: Awb) van:
+
+[verzoeker] ,
+
+wonende in [woonplaats]
+
+hierna: verzoeker.
+
+1
+De procedure
+
+1.1.
+
+Verzoeker heeft op 6 november 2025 een wrakingsverzoek ingediend in de zaak met zaaknummer UTR 25/4628 (hierna: de hoofdzaak).
+
+1.2.
+
+De wrakingskamer heeft, gelet op het onderstaande, afgezien van een mondelinge behandeling.
+
+1.3.
+
+De uitspraak is bepaald op vandaag.
+
+2
+De beoordeling
+
+Het toetsingskader
+
+2.1.
+
+In artikel 8:15 Awb staat dat elk van de rechters die een zaak behandelen op verzoek van een partij kan worden gewraakt op grond van feiten en omstandigheden waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden. Alleen een rechter die een zaak behandelt, kan dus worden gewraakt.
+
+Het oordeel van de wrakingskamer
+
+2.2.
+
+In de hoofdzaak heeft verzoeker al eerder een wrakingsverzoek ingediend, maar dit verzoek is op 1 oktober 2025 (zaaknummer 600243 HA RK 25-170) niet-ontvankelijk verklaard omdat er nog geen behandeld rechter bij de hoofdzaak was betrokken.
+
+2.3.
+
+Er is nog steeds geen behandelend rechter. Verzoeker is daarom ook in zijn wrakingsverzoek van 6 november 2025 niet-ontvankelijk.
+
+Onredelijke belasting van de wrakingskamer
+
+2.4.
+
+Om onredelijke belasting van de wrakingskamer te voorkomen, bepaalt de wrakingskamer daarnaast het volgende. Als verzoeker opnieuw een wrakingsverzoek indient terwijl er nog geen behandelend rechter is in de hoofdzaak, zal dat verzoek niet in behandeling worden genomen. Dat betekent dat de wrakingskamer een mail of brief waarin zo’n verzoek is opgenomen, zal negeren.
+
+3
+De beslissing
+
+De wrakingskamer:
+
+3.1.
+
+verklaart verzoeker niet-ontvankelijk in zijn wrakingsverzoek;
+
+3.2.
+
+draagt de griffier van de wrakingskamer op deze beslissing toe te sturen aan verzoeker, andere betrokken partijen en de president van deze rechtbank;
+
+3.3.
+
+bepaalt dat een volgend wrakingsverzoek in de zaak met het zaaknummer UTR 25/4628 niet in behandeling wordt genomen zolang er nog geen behandelend rechter is voor die zaak.
+
+Deze beslissing is genomen door mr. J.G. Nicholson, voorzitter, mr. R.C. Stijnen en mr. N.A.J. Purcell, als leden van de wrakingskamer, bijgestaan door mr. N.S. Stekkel, griffier, en in het openbaar uitgesproken op 13 november 2025.
+
+de griffier                                                                                                   de voorzitter
+
+Tegen deze beslissing staat geen rechtsmiddel open.
