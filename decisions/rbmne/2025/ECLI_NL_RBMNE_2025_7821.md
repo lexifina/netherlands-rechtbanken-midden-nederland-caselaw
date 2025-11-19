@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7821"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/71"]
 ---
 
 # ECLI:NL:RBMNE:2025:7821 Rechtbank Midden-Nederland , 19-11-2025 / C/16/584993 / HL ZA 24-310
