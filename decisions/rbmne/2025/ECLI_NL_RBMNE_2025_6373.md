@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6373"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0028", "NJFCZ 2026/55"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0028", "NJFCZ 2026/55", "VR 2026/82"]
 ---
 
 # ECLI:NL:RBMNE:2025:6373 Rechtbank Midden-Nederland , 21-11-2025 / 576716 HA RK 24-127
