@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6210"
-published_in: ["Rechtspraak.nl", "JAAN 2026/33 met annotatie van G.J. van Essen, mr. T. van Wijk"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/33 met annotatie van G.J. van Essen, mr. T. van Wijk", "VGR 2026/23, p.89 met annotatie van Marc Houweling"]
 ---
 
 # ECLI:NL:RBMNE:2025:6210 Rechtbank Midden-Nederland , 21-11-2025 / C/16/598570 / KG ZA 25-442
