@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6734"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6930"]]
 ---
 
 # ECLI:NL:RBMNE:2025:6734 Rechtbank Midden-Nederland , 25-11-2025 / 11826841 MT VERZ 25-3138
