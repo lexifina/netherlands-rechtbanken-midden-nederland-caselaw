@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7228"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2026/20", "VEAN-ERF-Updates.nl 2026-0039", "ERF-Updates.nl 2026-0039"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2026/20", "VEAN-ERF-Updates.nl 2026-0039", "ERF-Updates.nl 2026-0039", "JERF 2026/67 met annotatie van mr. J.M. van Anken"]
 ---
 
 # ECLI:NL:RBMNE:2025:7228 Rechtbank Midden-Nederland , 26-11-2025 / C/16/572433 / BE ZA 24-21
