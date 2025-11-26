@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7764"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/183", "JOR 2026/95 met annotatie van prof. mr. dr. P.P. de Vries", "RO 2026/36", "JONDR 2026/445"]
 ---
 
 # ECLI:NL:RBMNE:2025:7764 Rechtbank Midden-Nederland , 26-11-2025 / C/16/590831 / HL ZA 25-80
