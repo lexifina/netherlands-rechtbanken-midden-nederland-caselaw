@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Blauwe kamer-zaak: vervolging van een politieagent voor zware mishandeling door het bijtend inzetten van de diensthond.
+Blauwe Kamer-zaak: vervolging van een politieagent voor zware mishandeling door het bijtend inzetten van de diensthond.
 
 Verdachte is hondengeleider bij de politie. Bewezenverklaring van het opzettelijk toebrengen van zwaar lichamelijk letsel door zijn diensthond ter aanhouding in het been van een persoon te laten bijten.
 
