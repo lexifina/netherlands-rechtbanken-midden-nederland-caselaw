@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7077"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0017", "RI 2026/14"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0017", "RI 2026/14", "JOR 2026/138 met annotatie van mr. J.B.A. Jansen"]
 ---
 
 # ECLI:NL:RBMNE:2025:7077 Rechtbank Midden-Nederland , 02-12-2025 / F.16/23/427
