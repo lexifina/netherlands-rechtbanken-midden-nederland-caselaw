@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Vrijwaring, incident.
+Vrijwaring, incident. (ZIE OOK: ECLI:NL:RBMNE:2026:5306)
 
 ## Uitspraak
 
