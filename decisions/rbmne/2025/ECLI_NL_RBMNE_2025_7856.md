@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7856"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-1438", "AR-Updates.nl 2026-1438"]
 ---
 
 # ECLI:NL:RBMNE:2025:7856 Rechtbank Midden-Nederland , 03-12-2025 / 11708935 UC EXPL  25-4442 LvdH/1470
