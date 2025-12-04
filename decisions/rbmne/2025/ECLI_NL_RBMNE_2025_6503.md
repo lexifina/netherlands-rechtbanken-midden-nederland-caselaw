@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6503"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2025/223"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2025/223", "Prg. 2026/147"]
 ---
 
 # ECLI:NL:RBMNE:2025:6503 Rechtbank Midden-Nederland , 04-12-2025 / 11945930 UV EXPL 25-277 CFd/63200
