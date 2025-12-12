@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7137"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0074", "OR-Updates.nl 2026-0006", "JAR 2026/44 met annotatie van mr. K. Wiersma"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0074", "OR-Updates.nl 2026-0006", "JAR 2026/44 met annotatie van mr. K. Wiersma", "PR-Updates.nl 2026-0053"]
 ---
 
 # ECLI:NL:RBMNE:2025:7137 Rechtbank Midden-Nederland , 12-12-2025 / C/16/598946 / HL RK 25-41 BW 4890
