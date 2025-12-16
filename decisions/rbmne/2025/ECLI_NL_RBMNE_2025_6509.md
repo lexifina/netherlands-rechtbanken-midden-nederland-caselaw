@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:6509"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.48"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:2452"]]
 ---
 
 # ECLI:NL:RBMNE:2025:6509 Rechtbank Midden-Nederland , 16-12-2025 / C/16/580775 / FO RK 24-1075
