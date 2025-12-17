@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7863"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0631", "VAAN-AR-Updates.nl 2026-0631", "PR-Updates.nl 2026-0141"]
 ---
 
 # ECLI:NL:RBMNE:2025:7863 Rechtbank Midden-Nederland , 17-12-2025 / 11847320 \ UE VERZ  25-244
