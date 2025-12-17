@@ -1,0 +1,111 @@
+---
+ecli: "ECLI:NL:RBMNE:2025:7684"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "25/3185"
+decided: "2025-12-17"
+published: "2026-03-10"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Bestuursprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7684"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2025:7684 Rechtbank Midden-Nederland , 17-12-2025 / 25/3185
+
+## Inhoudsindicatie
+
+BNT UHT
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 25/3185
+
+uitspraak van de enkelvoudige kamer van 17 december 2025 in de zaak tussen
+
+[eiseres] , uit [plaats] , eiseres,
+
+(gemachtigde: mr. N. Köse-Albayrak),
+
+en
+
+Dienst Toeslagen, verweerder,
+
+(gemachtigden: mr. [gemachtigde 1] en mr. [gemachtigde 2] )
+
+Inleiding
+
+Deze uitspraak gaat over het beroep dat eiseres heeft ingesteld, omdat verweerder volgens haar niet op tijd heeft beslist op haar aanvraag van 28 oktober 2024 om aanvullende compensatie voor werkelijke schade bij de Commissie Werkelijke Schade (CWS).
+
+Op 11 juni 2025 heeft verweerder een verweerschrift ingediend.
+
+De rechtbank heeft het beroep op 10 december 2025 op zitting behandeld. Hieraan heeft de gemachtigde van verweerder deelgenomen.
+
+Overwegingen
+
+1. Tegen het niet tijdig nemen van een besluit kan beroep worden ingesteld. Het beroepschrift kan worden ingediend zodra het bestuursorgaan in gebreke is om op tijd een besluit te nemen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen.
+
+2. Tussen partijen is niet in geschil dat de beslistermijn is overschreden. Verweerder is op 30 april 2025 door eiseres in gebreke gesteld. Eiseres heeft meer dan twee weken daarna, te weten bij brief van 22 mei 2025, beroep ingesteld tegen het niet tijdig nemen van een besluit op haar verzoek.
+
+3. Het beroep is gegrond.Verweerder moet alsnog een besluit nemen
+
+4. Omdat verweerder nog geen (nieuw) besluit heeft genomen, bepaalt de rechtbank dat verweerder dit alsnog moet doen. Het bestuursorgaan moet dit in principe doen binnen twee weken na het verzenden van de uitspraak. In bijzondere gevallen kan de bestuursrechter een andere termijn bepalen.
+
+5. In haar uitspraak van 25 juli 2025 heeft de rechtbank bepaald dat in zaken zoals deze een nadere beslistermijn wordt bepaald van 60 weken na ommekomst van de wettelijke beslistermijn van maximaal 52 weken. Als deze termijn al is verstreken op het moment dat de rechtbank uitspraak doet, bepaalt de rechtbank in beginsel een nadere beslistermijn van twee weken vanaf verzending van de uitspraak op het beroep. Voor de motivering van deze termijnen verwijst de rechtbank naar die uitspraak.
+
+6. In dit geval betekent dit het volgende. Eiseres heeft op 28 oktober 2024 een aanvraag ingediend voor vergoeding van werkelijke schade. De beslistermijn eindigde dus op                   28 oktober 2025. De uiterlijke datum waarop verweerder een besluit op de aanvraag bekend moet maken is dus 22 december 2026.
+
+7. De rechtbank bepaalt dat verweerder een dwangsom van € 50,- moet betalen voor elke dag dat verweerder de hiervoor bepaalde termijnen niet haalt. Daarbij geldt een maximum van € 15.000,-. De rechtbank verwijst voor de motivering van deze bedragen naar de uitspraak van deze rechtbank van 25 oktober 2024.
+
+8. Omdat verweerder reeds in een besluit de bestuurlijke dwangsom heeft toegekend, beslist de rechtbank daar niet meer over. Proceskosten en griffierecht
+
+9. Omdat het beroep gegrond is, krijgt eiseres een vergoeding voor de proceskosten die zij heeft gemaakt. Verweerder moet die vergoeding betalen. De vergoeding wordt met toepassing van het Besluit proceskosten bestuursrecht als volgt berekend. De bijstand door een gemachtigde levert 1 punt op (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 907,-), bij een wegingsfactor 0,5. Toegekend wordt € 453,50.
+
+10. Omdat de rechtbank het beroep gegrond verklaart, moet verweerder aan eiseres het door haar betaalde griffierecht vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+- draagt verweerder op uiterlijk 22 december 2026 een besluit op de aanvraag bekend te maken;
+
+- bepaalt dat verweerder aan eiseres een dwangsom van € 50,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijnen overschrijdt, met een maximum van € 15.000,-;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 453,50;- draagt verweerder op het betaalde griffierecht van € 53,- aan eiseres te vergoeden.
+
+Deze uitspraak is gedaan door mr. G. Schnitzler, rechter, in aanwezigheid van
+
+mr. A.C. van de Biesebos, griffier. De uitspraak is uitgesproken in het openbaar op 17 december 2025.
+
+De griffier is buiten staatte ondertekenen
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Bent u het niet eens met deze uitspraak? Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een beroepschrift. U moet dit beroepschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven.
+
+Artikel 6:2, aanhef en onder b, in samenhang met artikel 7:1, eerste lid, aanhef en onder f, van de Awb.
+
+Artikel 6:12, tweede lid, van de Awb.
+
+Artikel 8:55d, eerste lid, van de Awb.
+
+Artikel 8:55d, derde lid, van de Awb.
+
+ECLI:NL:RBMNE:2025:3859.
+
+ECLI:NL:RBMNE:2024:6003.
