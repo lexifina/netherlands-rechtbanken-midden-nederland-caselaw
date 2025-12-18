@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "RVR 2026/27"]
 
 ## Inhoudsindicatie
 
-Aannemingsovereenkomst. Heeft eiser recht op voltooiing van de werkzaamheden en oplevering van de woningen op uiterlijk 1 februari 2026? Veroordeling om de werkzaamheden te hervatten en af te ronden op 1 mei 2026 op straffe van verbeurte van een dwangsom.
+Aannemingsovereenkomst. Heeft eiser recht op voltooiing van de werkzaamheden en oplevering van de woningen op uiterlijk 1 februari 2026? Veroordeling om de werkzaamheden te hervatten en af te ronden op 1 mei 2026 op straffe van verbeurte van een dwangsom. (ZIE OOK: ECLI:NL:RBMNE:2026:2125)
 
 ## Uitspraak
 
