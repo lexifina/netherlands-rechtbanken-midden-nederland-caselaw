@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7751"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/76"]
 ---
 
 # ECLI:NL:RBMNE:2025:7751 Rechtbank Midden-Nederland , 19-12-2025 / 24/949
