@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7865"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0633"]
 ---
 
 # ECLI:NL:RBMNE:2025:7865 Rechtbank Midden-Nederland , 22-12-2025 / 11878207 \ AE VERZ  25-55
