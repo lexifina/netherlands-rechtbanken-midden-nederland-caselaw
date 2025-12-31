@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2025:7914"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PJ 2026/65 met annotatie van V. Gerlach", "PR-Updates.nl 2026-0134", "VAAN-AR-Updates.nl 2026-1443", "AR-Updates.nl 2026-1443"]
 ---
 
 # ECLI:NL:RBMNE:2025:7914 Rechtbank Midden-Nederland , 31-12-2025 / 11871061 \ UE VERZ  25-259
