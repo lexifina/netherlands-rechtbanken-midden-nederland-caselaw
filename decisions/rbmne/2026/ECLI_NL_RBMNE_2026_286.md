@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:286"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0083", "VEAN-ERF-Updates.nl 2026-0083", "JERF Actueel 2026/44"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0083", "VEAN-ERF-Updates.nl 2026-0083", "JERF Actueel 2026/44", "Notamail 2026/136", "Sdu Nieuws Personen- en familierecht 2026/390"]
 ---
 
 # ECLI:NL:RBMNE:2026:286 Rechtbank Midden-Nederland , 06-01-2026 / 12037608 UB VERZ 25-543
