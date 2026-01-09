@@ -7,7 +7,7 @@ decided: "2026-01-09"
 published: "2026-01-20"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:98"
 published_in: ["Rechtspraak.nl"]
 ---
