@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:381"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0096"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0096", "VR 2026/139"]
 ---
 
 # ECLI:NL:RBMNE:2026:381 Rechtbank Midden-Nederland , 13-01-2026 / C/16/599452 / HA RK 25-157
