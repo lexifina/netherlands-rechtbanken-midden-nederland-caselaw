@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:25"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.59"]
 ---
 
 # ECLI:NL:RBMNE:2026:25 Rechtbank Midden-Nederland , 14-01-2026 / C/09/637060 / FA RK 22-7127
