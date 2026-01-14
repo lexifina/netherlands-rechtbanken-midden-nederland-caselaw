@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:393"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/27"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/27", "WR 2026/60 met annotatie van E.E. van der Kamp"]
 ---
 
 # ECLI:NL:RBMNE:2026:393 Rechtbank Midden-Nederland , 14-01-2026 / 11763230 \ UC EXPL  25-5405
