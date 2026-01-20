@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:211"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/233", "NLF 2026/0284", "V-N 2026/17.1.4"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/233", "NLF 2026/0284", "V-N 2026/17.1.4", "Belastingblad 2026/259 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBMNE:2026:211 Rechtbank Midden-Nederland , 20-01-2026 / UTR 25/2321
