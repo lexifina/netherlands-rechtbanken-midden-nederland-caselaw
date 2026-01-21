@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:136"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/62"]
 ---
 
 # ECLI:NL:RBMNE:2026:136 Rechtbank Midden-Nederland , 21-01-2026 / C/16/604537 / KG ZA 25-637
