@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:213"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/32 met annotatie van mr. G.J. Baken"]
 ---
 
 # ECLI:NL:RBMNE:2026:213 Rechtbank Midden-Nederland , 21-01-2026 / C/16/604905 / FZ RK 26-2
