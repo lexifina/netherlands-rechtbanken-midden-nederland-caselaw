@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:741"
-published_in: ["Rechtspraak.nl", "Notamail 2026/53", "Sdu Nieuws Personen- en familierecht 2026/144", "ERF-Updates.nl 2026-0174", "VEAN-ERF-Updates.nl 2026-0174"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/53", "Sdu Nieuws Personen- en familierecht 2026/144", "ERF-Updates.nl 2026-0174", "VEAN-ERF-Updates.nl 2026-0174", "JERF Actueel 2026/73", "JERF 2026/72"]
 ---
 
 # ECLI:NL:RBMNE:2026:741 Rechtbank Midden-Nederland , 21-01-2026 / C/16/582571 / BE ZA 24-65
