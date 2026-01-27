@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:659"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0054"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0054", "RI 2026/42", "Sdu Nieuws Insolventierecht 2026/67"]
 ---
 
 # ECLI:NL:RBMNE:2026:659 Rechtbank Midden-Nederland , 27-01-2026 / 604987 FT RK 26-1
