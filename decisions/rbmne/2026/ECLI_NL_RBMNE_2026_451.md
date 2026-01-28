@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:451"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/51", "TVA 2026/34", "TvPP 2026/26, p.94 met annotatie van A.J.J. Kool"]
 ---
 
 # ECLI:NL:RBMNE:2026:451 Rechtbank Midden-Nederland , 28-01-2026 / C/16/586603 / HA ZA 25-21
