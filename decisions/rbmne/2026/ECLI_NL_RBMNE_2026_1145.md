@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1145"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0151"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0151", "NJFCZ 2026/210", "NTHR 2026/29, p.139"]
 ---
 
 # ECLI:NL:RBMNE:2026:1145 Rechtbank Midden-Nederland , 28-01-2026 / C/16/595663 / HA ZA 25-326
