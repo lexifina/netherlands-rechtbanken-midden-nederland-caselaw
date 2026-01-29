@@ -6,8 +6,8 @@ docket: "25-3172"
 decided: "2026-01-29"
 published: "2026-02-04"
 type: "uitspraak"
-procedure: "Conservatoire maatregel"
-subject: "Civiel recht"
+procedure: "Beschikking"
+subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:301"
 published_in: ["Rechtspraak.nl"]
 ---
