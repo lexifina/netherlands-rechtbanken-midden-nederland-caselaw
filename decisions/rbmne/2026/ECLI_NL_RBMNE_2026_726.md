@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:726"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0051"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0051", "RI 2026/41", "JOR 2026/144 met annotatie van mr. B. van Veen"]
 ---
 
 # ECLI:NL:RBMNE:2026:726 Rechtbank Midden-Nederland , 29-01-2026 / C/16/14/768 F
