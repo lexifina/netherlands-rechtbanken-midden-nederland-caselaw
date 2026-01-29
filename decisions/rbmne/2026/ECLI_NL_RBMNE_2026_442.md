@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:442"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/74"]
 ---
 
 # ECLI:NL:RBMNE:2026:442 Rechtbank Midden-Nederland , 29-01-2026 / 12000991 \ UV EXPL  25-314
