@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:220"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/174 met annotatie van A.P. Monsma"]
 ---
 
 # ECLI:NL:RBMNE:2026:220 Rechtbank Midden-Nederland , 30-01-2026 / UTR 25/2187
