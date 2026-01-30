@@ -1,0 +1,88 @@
+---
+ecli: "ECLI:NL:RBMNE:2026:6385"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "UTR 25/7568"
+decided: "2026-01-30"
+published: "2026-09-17"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Bestuursprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:6385"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2026:6385 Rechtbank Midden-Nederland , 30-01-2026 / UTR 25/7568
+
+## Inhoudsindicatie
+
+BNT WIA aanvraag gegrond
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 25/7568
+
+uitspraak van de enkelvoudige kamer van 30 januari 2026 in de zaak tussen
+
+[eiseres] , te [plaats] , eiseres
+(gemachtigde: mr. M.A.E. Bol),
+
+en
+
+de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, verweerder.
+
+Procesverloop
+
+Deze uitspraak gaat over het beroep van eiseres omdat verweerder niet op tijd heeft beslist op haar verzoek om herbeoordeling van haar arbeidsongeschiktheid op grond van de Wet werk en inkomen naar arbeidsvermogen (WIA).
+
+Overwegingen
+
+1. De rechtbank nodigt partijen niet uit voor een zitting, omdat dat in deze zaak niet nodig is. Hieronder legt de rechtbank dat verder uit.
+
+2. Als een bestuursorgaan niet op tijd beslist op een aanvraag of bezwaarschrift kan de betrokkene daartegen in beroep gaan. Wel moet de betrokkene dan eerst een ‘ingebrekestelling’ aan het bestuursorgaan sturen. Dat wil zeggen dat de betrokkene per brief aan het bestuursorgaan moet laten weten dat er binnen twee weken alsnog beslist moet worden op zijn verzoek. Dit staat (onder andere) in de artikelen 6:2, 6:12 en 7:1 van de Algemene wet bestuursrecht (Awb).
+
+3. Eiseres heeft haar verzoek om herbeoordeling ingediend op 28 november 2022. Niet in geschil is dat verweerder te laat is met het nemen van een beslissing op het verzoek om herbeoordeling. Dat geeft verweerder ook aan in zijn verweerschrift van 6 januari 2026. De rechtbank stelt vast dat verweerder de ingebrekestelling op 2 oktober 2025 heeft ontvangen en sindsdien twee weken zijn verstreken. Eiseres heeft op 22 december 2025 beroep ingesteld
+
+4. Omdat verweerder nog geen besluit heeft genomen bepaalt de rechtbank dat verweerder dit alsnog moet doen. Het wettelijke uitgangspunt is op grond van het bepaalde in artikel 8:55d, eerste lid, van de Awb een termijn van twee weken. In bijzondere gevallen kan de rechtbank een andere termijn bepalen (artikel 8:55d, derde lid, Awb). Het is vaste rechtspraak dat die andere termijn niet onnodig lang, maar ook niet onrealistisch kort moet zijn.
+
+5. Verweerder geeft in het verweerschrift aan dat de verzekeringsarts het onderzoek op 28 juli 2025 heeft afgerond en dat de arbeidsdeskundige nog niet in de gelegenheid is geweest om een herbeoordeling te verrichten. De rechtbank ziet hierin geen aanleiding om de beslistermijn vast te stellen op langer dan twee weken. Dit betekent dat verweerder binnen twee weken na het verzenden van deze uitspraak een beslissing moet nemen.
+
+6. De rechtbank bepaalt verder dat verweerder een dwangsom van € 100,- moet betalen voor elke dag waarmee de beslistermijn nu nog wordt overschreden door verweerder. Daarbij geldt wel een maximum van € 15.000, -.
+
+7. Het beroep is kennelijk gegrond (artikel 8:54 van de Awb).
+
+8. Dat betekent ook dat eiseres een vergoeding krijgt voor de proceskosten die zij heeft gemaakt. Verweerder moet dit betalen. Volgens het Besluit proceskosten bestuursrecht is dit een vast bedrag omdat eiseres een professionele (juridische) hulpverlener heeft ingeschakeld om voor haar een beroepschrift in te dienen. Omdat de zaak alleen gaat over de vraag of de beslistermijn is overschreden wordt een lager bedrag toegekend (wegingsfactor 0,5). Verder zijn er geen kosten gemaakt die vergoed kunnen worden. Toegekend wordt € 467,-.
+
+9. Omdat het beroep gegrond is moet verweerder het griffierecht van € 53,- aan eiseres betalen.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+-	vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+- draagt verweerder op binnen twee weken na de dag van verzending van deze uitspraak alsnog een besluit bekend te maken;
+
+- bepaalt dat verweerder aan eiseres een dwangsom van € 100,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 15.000, -;
+
+- bepaalt dat verweerder het griffierecht van € 53,- dat eiseres heeft betaald moet betalen;
+
+- veroordeelt verweerder tot betaling van € 467,- aan proceskosten. Verweerder moet dit bedrag betalen aan eiseres.
+
+Deze uitspraak is gedaan door mr. R.C. Stijnen, rechter, in aanwezigheid van E.J.H.C. Hui, griffier. De beslissing is in het openbaar uitgesproken op 30 januari 2026.
+
+griffier						rechter
+
+Afschrift verzonden of digitaal ter beschikking gesteld aan partijen op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum op de stempel die hierboven staat. Als u graag een zitting wilt waarbij u persoonlijk uw mening aan de rechter kunt geven, kunt u dit in uw verzetschrift aangeven.
