@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:453"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/125 met annotatie van prof. mr. dr. P.P. de Vries", "JONDR 2026/530"]
 ---
 
 # ECLI:NL:RBMNE:2026:453 Rechtbank Midden-Nederland , 30-01-2026 / C/16/599424 / HA ZA 25-458
