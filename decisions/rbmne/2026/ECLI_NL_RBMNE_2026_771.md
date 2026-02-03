@@ -7,7 +7,7 @@ decided: "2026-02-03"
 published: "2026-03-04"
 type: "uitspraak"
 procedure: "Beschikking"
-subject: "Civiel recht"
+subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:771"
 published_in: ["Rechtspraak.nl"]
 ---
