@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:746"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RO 2026/44", "JONDR 2026/613"]
 ---
 
 # ECLI:NL:RBMNE:2026:746 Rechtbank Midden-Nederland , 04-02-2026 / 11905108 \ UE VERZ  25-296
