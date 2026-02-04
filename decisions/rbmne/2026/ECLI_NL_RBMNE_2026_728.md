@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:728"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0055", "VEAN-ERF-Updates.nl 2026-0175", "ERF-Updates.nl 2026-0175"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0055", "VEAN-ERF-Updates.nl 2026-0175", "ERF-Updates.nl 2026-0175", "JERF Actueel 2026/74"]
 ---
 
 # ECLI:NL:RBMNE:2026:728 Rechtbank Midden-Nederland , 04-02-2026 / C/16/559209 / HL ZA 23-194
