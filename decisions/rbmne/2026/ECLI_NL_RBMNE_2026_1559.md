@@ -7,7 +7,7 @@ decided: "2026-02-04"
 published: "2026-04-15"
 type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1559"
 published_in: ["Rechtspraak.nl"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBMNE:2024:2256"]]
