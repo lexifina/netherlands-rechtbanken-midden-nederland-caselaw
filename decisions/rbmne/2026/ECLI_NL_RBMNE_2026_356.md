@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:356"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0094", "GZR-Updates.nl 2026-0022"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0094", "GZR-Updates.nl 2026-0022", "RAV 2026/39"]
 ---
 
 # ECLI:NL:RBMNE:2026:356 Rechtbank Midden-Nederland , 11-02-2026 / C/16/555152 / HA ZA 23-289
