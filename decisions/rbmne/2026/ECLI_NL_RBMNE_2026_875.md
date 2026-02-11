@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:875"
-published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0153"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0153", "JERF Actueel 2026/79", "JERF 2026/75 met annotatie van prof. mr. J.W.A. Biemans"]
 ---
 
 # ECLI:NL:RBMNE:2026:875 Rechtbank Midden-Nederland , 11-02-2026 / NL:TZ:0000239168:B001
