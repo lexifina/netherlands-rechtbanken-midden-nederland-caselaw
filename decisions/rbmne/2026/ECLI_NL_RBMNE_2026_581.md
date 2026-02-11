@@ -7,7 +7,7 @@ decided: "2026-02-11"
 published: "2026-02-23"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:581"
 published_in: ["Rechtspraak.nl"]
 ---
