@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:770"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030603", "FutD 2026-0415", "V-N Vandaag 2026/433"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030603", "FutD 2026-0415", "V-N Vandaag 2026/433", "V-N 2026/20.17.18"]
 ---
 
 # ECLI:NL:RBMNE:2026:770 Rechtbank Midden-Nederland , 11-02-2026 / UTR 24/2783, UTR 24/2947
