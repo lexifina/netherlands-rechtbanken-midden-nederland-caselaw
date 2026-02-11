@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:470"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/215"]
 ---
 
 # ECLI:NL:RBMNE:2026:470 Rechtbank Midden-Nederland , 11-02-2026 / UTR 24/1099
