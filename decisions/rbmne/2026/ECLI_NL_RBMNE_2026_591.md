@@ -7,9 +7,9 @@ decided: "2026-02-12"
 published: "2026-02-23"
 type: "uitspraak"
 procedure: "Beschikking"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:591"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0289", "Prg. 2026/125"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0289", "Prg. 2026/125", "TAR 2026/20"]
 ---
 
 # ECLI:NL:RBMNE:2026:591 Rechtbank Midden-Nederland , 12-02-2026 / 11973552 \ AE VERZ  25-68
