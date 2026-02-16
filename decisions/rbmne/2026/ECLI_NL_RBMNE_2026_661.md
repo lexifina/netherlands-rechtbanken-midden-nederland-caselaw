@@ -7,9 +7,9 @@ decided: "2026-02-16"
 published: "2026-02-27"
 type: "uitspraak"
 procedure: "Beschikking"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:661"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0310", "VAAN-AR-Updates.nl 2026-0310"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0310", "VAAN-AR-Updates.nl 2026-0310", "RAR 2026/82"]
 ---
 
 # ECLI:NL:RBMNE:2026:661 Rechtbank Midden-Nederland , 16-02-2026 / 11946330 \ UE VERZ  25-333
