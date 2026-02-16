@@ -7,9 +7,9 @@ decided: "2026-02-16"
 published: "2026-02-27"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:660"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0328", "VAAN-AR-Updates.nl 2026-0328"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0328", "VAAN-AR-Updates.nl 2026-0328", "Jurisprudentie HSE 2026/28"]
 ---
 
 # ECLI:NL:RBMNE:2026:660 Rechtbank Midden-Nederland , 16-02-2026 / 12004852 \ UE VERZ  25-385
