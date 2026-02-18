@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:559"
-published_in: ["Rechtspraak.nl", "Notamail 2026/54"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/54", "RVR 2026/50"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBMNE:2025:7937"]]
 ---
 
 # ECLI:NL:RBMNE:2026:559 Rechtbank Midden-Nederland , 18-02-2026 / C/16/580021 / HL ZA 24-230
