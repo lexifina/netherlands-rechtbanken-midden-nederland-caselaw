@@ -7,9 +7,10 @@ decided: "2026-02-18"
 published: "2026-03-02"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:704"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0336"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:5325"]]
 ---
 
 # ECLI:NL:RBMNE:2026:704 Rechtbank Midden-Nederland , 18-02-2026 / 11947720 ME VERZ  25-151 BmR/842
