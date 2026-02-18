@@ -7,7 +7,7 @@ decided: "2026-02-18"
 published: "2026-03-02"
 type: "uitspraak"
 procedure: "Beschikking"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:688"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0333", "AR-Updates.nl 2026-0333"]
 ---
