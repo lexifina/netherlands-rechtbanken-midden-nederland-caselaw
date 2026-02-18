@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:697"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0122"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0122", "JA 2026/61", "VR 2026/118"]
 ---
 
 # ECLI:NL:RBMNE:2026:697 Rechtbank Midden-Nederland , 18-02-2026 / C/16/584284 / HA ZA 24-568
