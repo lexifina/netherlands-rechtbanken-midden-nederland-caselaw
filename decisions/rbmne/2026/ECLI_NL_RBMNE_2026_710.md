@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:710"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/263"]
 ---
 
 # ECLI:NL:RBMNE:2026:710 Rechtbank Midden-Nederland , 18-02-2026 / 11395484 \ UC EXPL  24-7565
