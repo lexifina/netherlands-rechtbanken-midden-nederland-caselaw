@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:517"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2026/4507", "JBP 2026/78"]
 ---
 
 # ECLI:NL:RBMNE:2026:517 Rechtbank Midden-Nederland , 18-02-2026 / UTR 25/2120
