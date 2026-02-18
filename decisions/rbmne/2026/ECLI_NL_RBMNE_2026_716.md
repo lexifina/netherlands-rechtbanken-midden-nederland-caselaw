@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:716"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/49", "JHV 2026/26 met annotatie van mr. J. Groenewoud"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBMNE:2026:3094"]]
 ---
 
 # ECLI:NL:RBMNE:2026:716 Rechtbank Midden-Nederland , 18-02-2026 / 11830837 \ LC EXPL  25-1683
