@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Conservatoire maatregel"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1099"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/33 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBMNE:2026:1099 Rechtbank Midden-Nederland , 20-02-2026 / C/16/607157 / FZ RK 26-130
