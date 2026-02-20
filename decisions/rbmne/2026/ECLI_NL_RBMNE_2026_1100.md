@@ -7,9 +7,9 @@ decided: "2026-02-20"
 published: "2026-03-21"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1100"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/34 met annotatie van mr. M.A.J.M. van Sprundel-Jansen"]
 ---
 
 # ECLI:NL:RBMNE:2026:1100 Rechtbank Midden-Nederland , 20-02-2026 / C/16/606452 / FZ RK 26-98
