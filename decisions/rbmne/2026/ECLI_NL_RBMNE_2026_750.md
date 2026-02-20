@@ -7,9 +7,9 @@ decided: "2026-02-20"
 published: "2026-03-03"
 type: "uitspraak"
 procedure: "Kort geding"
-subject: "Civiel recht"
+subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:750"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/79"]
 ---
 
 # ECLI:NL:RBMNE:2026:750 Rechtbank Midden-Nederland , 20-02-2026 / C/16/603617 / KG ZA 25-600
