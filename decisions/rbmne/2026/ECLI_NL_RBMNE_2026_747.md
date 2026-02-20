@@ -7,9 +7,9 @@ decided: "2026-02-20"
 published: "2026-03-03"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:747"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0409", "AR-Updates.nl 2026-0409", "Sdu Nieuws Arbeidsrecht 2026/95", "JAR 2026/96"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0409", "AR-Updates.nl 2026-0409", "Sdu Nieuws Arbeidsrecht 2026/95", "JAR 2026/96", "RAR 2026/81"]
 ---
 
 # ECLI:NL:RBMNE:2026:747 Rechtbank Midden-Nederland , 20-02-2026 / 11950768 \ LE VERZ  25-71 BW 31650
