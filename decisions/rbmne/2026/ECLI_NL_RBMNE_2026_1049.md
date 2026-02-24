@@ -7,7 +7,7 @@ decided: "2026-02-24"
 published: "2026-03-19"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht; Ondernemingsrecht"
+subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1049"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/42", "INS-Updates.nl 2026-0069", "OR-Updates.nl 2026-0055"]
 ---
