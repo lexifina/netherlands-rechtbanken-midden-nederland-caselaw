@@ -7,7 +7,7 @@ decided: "2026-02-25"
 published: "2026-03-09"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:853"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0370"]
 ---
@@ -110,7 +110,7 @@ Op 6 november 2024 heeft [B] een excuusmail naar [verweerder] gestuurd.
 
 3.5.
 
-Op vrijdag 8 november 2024 sprak [verweerder] met de rector. [verweerder] gaf aan dat hij wilde dat er maatregelen tegen de leerlingen worden genomen en dat hij het niet vindt [verweerder] dat dit nog niet was gebeurd. [verweerder] gaf ook aan zich onveilig te voelen op school door het incident en omdat er nog geen maatregelen zijn genomen. In overleg is [verweerder] na het gesprek naar huis gegaan.
+Op vrijdag 8 november 2024 sprak [verweerder] met de rector. [verweerder] gaf aan dat hij wilde dat er maatregelen tegen de leerlingen worden genomen en dat hij het niet vindt kunnen dat dit nog niet was gebeurd. [verweerder] gaf ook aan zich onveilig te voelen op school door het incident en omdat er nog geen maatregelen zijn genomen. In overleg is [verweerder] na het gesprek naar huis gegaan.
 
 3.6.
 
@@ -149,7 +149,7 @@ De wet geeft een aantal situaties waarin een arbeidsovereenkomst niet ontbonden 
 
 4.4.
 
-De kantonrechter verwerpt deze stelling, omdat van een opzegverbod wegens ziekte geen sprake is. Weliswaar heeft de bedrijfsarts is op 7 februari 2025 vastgesteld dat er sprake is van medische arbeidsongeschiktheid, maar de omstandigheden waarop het verzoek tot ontbinding is gebaseerd hebben geen verband met de ziekte van [verweerder] . Het ontbindingsverzoek is namelijk niet ingediend omdat [verweerder] arbeidsongeschikt is (geworden), maar omdat [verzoekster] en [verweerder] samen niet tot een oplossing [verweerder] komen om uit de impasse te komen die tussen hen is ontstaan na het incident. Daarbij verwijt [verzoekster] [verweerder] dat zijn houding ertoe heeft bijgedragen dat partijen niet uit de impasse [verweerder] komen.
+De kantonrechter verwerpt deze stelling, omdat van een opzegverbod wegens ziekte geen sprake is. Weliswaar heeft de bedrijfsarts is op 7 februari 2025 vastgesteld dat er sprake is van medische arbeidsongeschiktheid, maar de omstandigheden waarop het verzoek tot ontbinding is gebaseerd hebben geen verband met de ziekte van [verweerder] . Het ontbindingsverzoek is namelijk niet ingediend omdat [verweerder] arbeidsongeschikt is (geworden), maar omdat [verzoekster] en [verweerder] samen niet tot een oplossing kunnen komen om uit de impasse te komen die tussen hen is ontstaan na het incident. Daarbij verwijt [verzoekster] [verweerder] dat zijn houding ertoe heeft bijgedragen dat partijen niet uit de impasse kunnen komen.
 
 Een (nog te starten) procedure van [verweerder] bij het College voor de Rechten van de Mens hoeft niet te worden afgewacht
 
@@ -225,7 +225,7 @@ telefonisch advies gevraagd over de juiste handelswijze na het incident aan meer
 
 4.17.
 
-[verzoekster] heeft direct na het incident in gesprekken met [verweerder] erkend en begrip uitgesproken voor zijn gevoel van onveiligheid als gevolg van dit incident. Zij heeft ook erkend dat zij eerder dan zij heeft gedaan, maatregelen jegens [B] had [verweerder] nemen. Verder heeft zij [verweerder] een klassenwissel en, desgewenst, een herplaatsing voorgesteld. Ook is [verweerder] coaching (als ondersteuning) aangeboden.
+[verzoekster] heeft direct na het incident in gesprekken met [verweerder] erkend en begrip uitgesproken voor zijn gevoel van onveiligheid als gevolg van dit incident. Zij heeft ook erkend dat zij eerder dan zij heeft gedaan, maatregelen jegens [B] had kunnen nemen. Verder heeft zij [verweerder] een klassenwissel en, desgewenst, een herplaatsing voorgesteld. Ook is [verweerder] coaching (als ondersteuning) aangeboden.
 
 4.18.
 
@@ -247,7 +247,7 @@ Erkenning van discriminatie bij het schelden met ‘kankerhomo’;
 
 Open informatie over wat er is gezegd en afgesproken met beide leerlingen;
 
-Dat de kwesties rondom deze twee leerlingen niet los van elkaar gezien en afgehandeld [verweerder] worden.
+Dat de kwesties rondom deze twee leerlingen niet los van elkaar gezien en afgehandeld kunnen worden.
 
 Door deze acties niet uit te voeren heeft [verzoekster] volgens [verweerder] haar zorgplicht als werkgever geschonden.
 
@@ -257,7 +257,7 @@ De kantonrechter heeft tijdens de mondelinge behandeling aan [verweerder] gevraa
 
 4.22.
 
-[verzoekster] heeft aangegeven dat het haar opvoedkundige taak en dagelijkse praktijk is om leerlingen grenzen en normen bij te brengen. [verzoekster] heeft erkend dat zij de leerling die [verweerder] heeft uitgescholden eerder had [verweerder] schorsen, maar vindt dat zij in reactie op het incident adequaat heeft gehandeld. Volgens [verzoekster] is er wel degelijk een signaal afgegeven dat het uitschelden van een leraar met dergelijke bewoordingen niet getolereerd wordt. [B] is immers daarvoor geschorst. Aan het verzoek van [verweerder] om kennis te nemen van wat er exact is besproken met beide leerlingen, kan [verzoekster] vanwege privacy redenen niet voldoen.
+[verzoekster] heeft aangegeven dat het haar opvoedkundige taak en dagelijkse praktijk is om leerlingen grenzen en normen bij te brengen. [verzoekster] heeft erkend dat zij de leerling die [verweerder] heeft uitgescholden eerder had kunnen schorsen, maar vindt dat zij in reactie op het incident adequaat heeft gehandeld. Volgens [verzoekster] is er wel degelijk een signaal afgegeven dat het uitschelden van een leraar met dergelijke bewoordingen niet getolereerd wordt. [B] is immers daarvoor geschorst. Aan het verzoek van [verweerder] om kennis te nemen van wat er exact is besproken met beide leerlingen, kan [verzoekster] vanwege privacy redenen niet voldoen.
 
 4.23.
 
