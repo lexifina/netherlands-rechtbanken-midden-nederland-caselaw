@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1184"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/69.8"]
 ---
 
 # ECLI:NL:RBMNE:2026:1184 Rechtbank Midden-Nederland , 25-02-2026 / C/16/593443 / FO RK 25-574
