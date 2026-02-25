@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:787"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/102"]
 ---
 
 # ECLI:NL:RBMNE:2026:787 Rechtbank Midden-Nederland , 25-02-2026 / UTR 24/5787 R
