@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1368"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0188", "VEAN-ERF-Updates.nl 2026-0188"]
 ---
 
 # ECLI:NL:RBMNE:2026:1368 Rechtbank Midden-Nederland , 25-02-2026 / C/16/586721 / BE ZA 25-1
