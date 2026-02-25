@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:857"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/135", "JHV 2026/18 met annotatie van mr. E.P.W. Korevaar"]
 ---
 
 # ECLI:NL:RBMNE:2026:857 Rechtbank Midden-Nederland , 25-02-2026 / 11888746 \ UC EXPL  25-7399 VL/58599
