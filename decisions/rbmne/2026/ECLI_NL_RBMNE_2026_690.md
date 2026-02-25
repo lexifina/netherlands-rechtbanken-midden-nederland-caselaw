@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:690"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBMNE:2026:2989"]]
 ---
 
 # ECLI:NL:RBMNE:2026:690 Rechtbank Midden-Nederland , 25-02-2026 / UTR 25/29-T
