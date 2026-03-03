@@ -7,7 +7,7 @@ decided: "2026-03-03"
 published: "2026-03-16"
 type: "uitspraak"
 procedure: "Kort geding"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:976"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0454", "VAAN-AR-Updates.nl 2026-0454"]
 ---
