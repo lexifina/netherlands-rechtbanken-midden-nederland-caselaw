@@ -7,7 +7,7 @@ decided: "2026-03-04"
 published: "2026-04-14"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1515"
 published_in: ["Rechtspraak.nl"]
 ---
