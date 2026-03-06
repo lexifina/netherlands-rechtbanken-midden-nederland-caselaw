@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Worldline is een Belgische betaalinstelling. Zij faciliteert de coffeeshops bij het accepteren van elektronische kaartbetalingen, zoals pinbetalingen, op basis van een met hen gesloten overeenkomst. Worldline maakt daarbij gebruik van een betaalrekening bij een buitenlandse bank. Worldline heeft de overeenkomsten met de coffeeshops opgezegd omdat die bank de verwerking van transacties van Nederlandse coffeeshops niet langer wil accepteren. In geschil is of Worldline contractueel bevoegd was de overeenkomsten op te zeggen en zo ja, of zij van die bevoegdheid gebruik mocht maken. De voorzieningenrechter beantwoordt de eerste vraag met ‘ja’ en de tweede vraag met ‘nee’ en wijst de vorderingen van de coffeeshops voor een deel toe.
+Worldline is een Belgische betaalinstelling. Zij faciliteert de coffeeshops bij het accepteren van elektronische kaartbetalingen, zoals pinbetalingen, op basis van een met hen gesloten overeenkomst. Worldline maakt daarbij gebruik van een betaalrekening bij een buitenlandse bank. Worldline heeft de overeenkomsten met de coffeeshops opgezegd omdat die bank de verwerking van transacties van Nederlandse coffeeshops niet langer wil accepteren. In geschil is of Worldline contractueel bevoegd was de overeenkomsten op te zeggen en zo ja, of zij van die bevoegdheid gebruik mocht maken. De voorzieningenrechter beantwoordt de eerste vraag met ‘ja’ en de tweede vraag met ‘nee’ en wijst de vorderingen van de coffeeshops voor een deel toe. (ZIE OOK: ECLI:NL:RBMNE:2026:7654)
 
 ## Uitspraak
 
