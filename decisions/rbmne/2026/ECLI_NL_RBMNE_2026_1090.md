@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1090"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026050706", "FutD 2026-0822", "Belastingblad 2026/187 met annotatie van J.C. Scherff"]
 ---
 
 # ECLI:NL:RBMNE:2026:1090 Rechtbank Midden-Nederland , 06-03-2026 / UTR 24/4285
