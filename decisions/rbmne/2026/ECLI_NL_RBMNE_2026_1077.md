@@ -7,9 +7,9 @@ decided: "2026-03-09"
 published: "2026-03-20"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1077"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/103", "AR-Updates.nl 2026-0448", "VAAN-AR-Updates.nl 2026-0448"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/103", "AR-Updates.nl 2026-0448", "VAAN-AR-Updates.nl 2026-0448", "Prg. 2026/140"]
 ---
 
 # ECLI:NL:RBMNE:2026:1077 Rechtbank Midden-Nederland , 09-03-2026 / 12026982 \ AE VERZ  25-78
