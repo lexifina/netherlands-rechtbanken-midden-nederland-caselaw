@@ -7,9 +7,9 @@ decided: "2026-03-10"
 published: "2026-03-19"
 type: "uitspraak"
 procedure: "Kort geding"
-subject: "Civiel recht"
+subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1074"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.15"]
 ---
 
 # ECLI:NL:RBMNE:2026:1074 Rechtbank Midden-Nederland , 10-03-2026 / C/16/605847 / KG ZA 26-27
