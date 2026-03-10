@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1104"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2528"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2528", "JAAN 2026/93"]
 ---
 
 # ECLI:NL:RBMNE:2026:1104 Rechtbank Midden-Nederland , 10-03-2026 / C/16/603188 / KG ZA 25-589
