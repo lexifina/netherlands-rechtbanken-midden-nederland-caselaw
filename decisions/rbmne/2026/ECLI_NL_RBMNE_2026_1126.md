@@ -7,7 +7,7 @@ decided: "2026-03-11"
 published: "2026-03-23"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1126"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0464", "AR-Updates.nl 2026-0464", "Sdu Nieuws Arbeidsrecht 2026/117"]
 ---
