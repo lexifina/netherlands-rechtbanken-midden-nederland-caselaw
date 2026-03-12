@@ -7,7 +7,7 @@ decided: "2026-03-12"
 published: "2026-03-13"
 type: "uitspraak"
 procedure: "Kort geding"
-subject: "Civiel recht"
+subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:955"
 published_in: ["Rechtspraak.nl"]
 ---
