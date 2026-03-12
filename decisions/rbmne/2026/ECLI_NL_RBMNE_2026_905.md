@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:905"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/77"]
 ---
 
 # ECLI:NL:RBMNE:2026:905 Rechtbank Midden-Nederland , 12-03-2026 / 12072456 \ UV EXPL  26-21  BJvd/61169
