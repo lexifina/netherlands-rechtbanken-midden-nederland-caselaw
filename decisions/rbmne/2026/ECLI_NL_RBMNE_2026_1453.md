@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Sluiting koopwoning op grond van artikel 13b Opiumwet voor de duur van 3 maanden. Hennepstekkerij en harddrugs aangetroffen. Verzoek om voorlopige voorziening wordt afgewezen.
+Verzoek om een voorlopige voorziening. Woningsluiting op grond van artikel 13b van de Opiumwet en overeenkomstig het Damoclesbesluit van de gemeente Almere 2025. O.a. hennepstekkerij en harddrugs aangetroffen in de woning. Burgemeester was bevoegd om de woning te sluiten en kon in redelijkheid gebruik maken van deze bevoegdheid. Voorzieningenrechter wijst daarom het verzoek om een voorlopige voorziening af.
 
 ## Uitspraak
 
