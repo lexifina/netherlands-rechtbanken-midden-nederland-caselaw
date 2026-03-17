@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1006"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2026/476"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2026/476", "Belastingblad 2026/210 met annotatie van M.M. Franse"]
 ---
 
 # ECLI:NL:RBMNE:2026:1006 Rechtbank Midden-Nederland , 17-03-2026 / UTR 24/3794
