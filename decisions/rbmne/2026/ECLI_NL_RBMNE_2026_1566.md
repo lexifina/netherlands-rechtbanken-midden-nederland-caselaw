@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1566"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/230"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/230", "FJR 2026/46.31"]
 ---
 
 # ECLI:NL:RBMNE:2026:1566 Rechtbank Midden-Nederland , 17-03-2026 / C/16/588281 / FO RK 25-120
