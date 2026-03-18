@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1236"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0161"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0161", "JA 2026/85"]
 ---
 
 # ECLI:NL:RBMNE:2026:1236 Rechtbank Midden-Nederland , 18-03-2026 / C/16/598299 / HA ZA 25-418
