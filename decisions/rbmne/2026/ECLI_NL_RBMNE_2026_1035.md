@@ -7,9 +7,9 @@ decided: "2026-03-18"
 published: "2026-03-18"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1035"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0573", "VAAN-AR-Updates.nl 2026-0573", "PS-Updates.nl 2026-0173"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0573", "VAAN-AR-Updates.nl 2026-0573", "PS-Updates.nl 2026-0173", "Jurisprudentie HSE 2026/53"]
 ---
 
 # ECLI:NL:RBMNE:2026:1035 Rechtbank Midden-Nederland , 18-03-2026 / 11766743 \ UC EXPL  25-5455
