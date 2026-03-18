@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1241"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/222"]
 ---
 
 # ECLI:NL:RBMNE:2026:1241 Rechtbank Midden-Nederland , 18-03-2026 / C/16/607682 / KG ZA 26-99
