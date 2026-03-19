@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1258"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/249 met annotatie van R. Ortlep"]
 ---
 
 # ECLI:NL:RBMNE:2026:1258 Rechtbank Midden-Nederland , 19-03-2026 / UTR 25/1866
