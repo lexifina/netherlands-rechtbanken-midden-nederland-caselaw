@@ -7,9 +7,9 @@ decided: "2026-03-20"
 published: "2026-04-01"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1293"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2526"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2526", "JAAN 2026/116 met annotatie van mr. J.W.A. Meesters, mr. L. Bras-Snijdewind"]
 ---
 
 # ECLI:NL:RBMNE:2026:1293 Rechtbank Midden-Nederland , 20-03-2026 / C/16/604070 / KG ZA 25-616
