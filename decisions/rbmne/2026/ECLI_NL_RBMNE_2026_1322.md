@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1322"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBMNE:2026:2126"]]
 ---
 
 # ECLI:NL:RBMNE:2026:1322 Rechtbank Midden-Nederland , 23-03-2026 / C/16/606831 / KL ZA 26-42
