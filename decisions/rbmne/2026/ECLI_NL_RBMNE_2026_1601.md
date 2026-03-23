@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1601"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/82"]
 ---
 
 # ECLI:NL:RBMNE:2026:1601 Rechtbank Midden-Nederland , 23-03-2026 / C/16/606083 / KL ZA 26-21
