@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1197"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0158"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0158", "JA 2026/68"]
 ---
 
 # ECLI:NL:RBMNE:2026:1197 Rechtbank Midden-Nederland , 24-03-2026 / C/16/607625 / KG ZA 26-98
