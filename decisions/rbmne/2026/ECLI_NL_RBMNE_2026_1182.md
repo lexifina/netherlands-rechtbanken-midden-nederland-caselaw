@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1182"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0256", "VEAN-ERF-Updates.nl 2026-0256", "JERF Actueel 2026/129", "JERF 2026/97"]
 ---
 
 # ECLI:NL:RBMNE:2026:1182 Rechtbank Midden-Nederland , 25-03-2026 / C/16/604207 / BE ZA 25-68
