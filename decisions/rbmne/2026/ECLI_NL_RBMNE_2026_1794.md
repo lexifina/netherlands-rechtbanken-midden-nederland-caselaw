@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1794"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0249", "ERF-Updates.nl 2026-0249", "JERF Actueel 2026/130", "JERF 2026/98 met annotatie van mr. L.A.G.M. van der Geld"]
 ---
 
 # ECLI:NL:RBMNE:2026:1794 Rechtbank Midden-Nederland , 25-03-2026 / C/16/598120 / BE ZA 25-43
