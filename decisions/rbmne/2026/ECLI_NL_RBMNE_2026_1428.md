@@ -1,0 +1,139 @@
+---
+ecli: "ECLI:NL:RBMNE:2026:1428"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "26/1175"
+decided: "2026-03-27"
+published: "2026-04-09"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Bestuursprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1428"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2026:1428 Rechtbank Midden-Nederland , 27-03-2026 / 26/1175
+
+## Inhoudsindicatie
+
+Tweede UHT BNT, aanvraag, CWS, reeds verbeurde dwangsom uitbetalen
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: UTR 26/1175
+
+uitspraak van de enkelvoudige kamer van 27 maart 2026 in de zaak tussen
+
+[eiseres] , uit [plaats] (België), eiseres
+
+(gemachtigde: mr. J. van den Ende),
+
+en
+
+Dienst Toeslagen, verweerder
+
+(gemachtigde: mr. [gemachtigde] ).
+
+Inleiding
+
+Deze uitspraak gaat over het beroep dat eiseres heeft ingesteld, omdat verweerder volgens haar niet op tijd heeft beslist op haar aanvraag van 7 december 2023 om aanvullende compensatie voor werkelijke schade bij de Commissie Werkelijke Schade.
+
+Bij uitspraak van 14 februari 2025 heeft deze rechtbank een eerder beroep tegen het niet tijdig beslissen van eiseres gegrond verklaard en verweerder opgedragen om uiterlijk 10 april 2025 een besluit op de aanvraag te nemen (UTR 25/27).
+
+Op 13 februari 2026 heeft verweerder een verweerschrift ingediend.
+
+Partijen zijn gevraagd of zij gehoord willen worden op een zitting. Geen van partijen heeft verklaard gebruik te willen maken van dit recht. Daarop heeft de rechtbank het onderzoek gesloten.
+
+Overwegingen
+
+1. Tegen het niet tijdig nemen van een besluit kan beroep worden ingesteld. De rechtbank
+
+heeft in de uitspraak van 14 februari 2025 een termijn gesteld met daaraan gekoppeld een rechterlijke dwangsom.
+
+2. De rechtbank stelt vast dat deze termijn is verstreken. Tot op heden heeft verweerder niet
+
+beslist op het bezwaar van eiseres.
+
+3. Het beroep is gegrond.
+
+Verweerder moet alsnog een besluit nemen
+
+4. Omdat verweerder nog geen (nieuw) besluit heeft genomen, bepaalt de rechtbank dat
+
+verweerder dit alsnog moet doen. Het bestuursorgaan moet dit in principe doen binnen twee weken na het verzenden van de uitspraak. In bijzondere gevallen kan de bestuursrechter een andere termijn bepalen.
+
+5. In haar uitspraak van 25 juli 2025 heeft de rechtbank bepaald dat in zaken zoals deze een
+
+nadere beslistermijn wordt bepaald van 60 weken na het verlopen van de wettelijke beslistermijn van maximaal 52 weken. Als deze termijn al is verstreken op het moment dat de rechtbank uitspraak doet, bepaalt de rechtbank in beginsel een nadere beslistermijn van twee weken vanaf verzending van de uitspraak op het beroep. Voor de motivering van deze termijnen verwijst de rechtbank naar die uitspraak.
+
+6. In dit geval betekent dit het volgende. Eiseres heeft op 7 december 2023 een aanvraag
+
+ingediend voor vergoeding van werkelijke schade. De beslistermijn eindigde dus op
+
+7 december 2024. Omdat sindsdien meer dan 60 weken zijn verstreken bepaalt de rechtbank dat verweerder uiterlijk twee weken na verzending van deze uitspraak een besluit op de aanvraag bekend moet maken.
+
+7. De rechtbank bepaalt dat verweerder een dwangsom van € 50,- moet betalen voor elke dag
+
+dat verweerder de hiervoor bepaalde termijnen niet haalt. Daarbij geldt een maximum van € 15.000,-. De rechtbank verwijst voor de motivering van deze bedragen naar de uitspraak van deze rechtbank van 25 oktober 2024.
+
+Reeds verbeurde dwangsom
+
+8. Eiseres verzoekt de rechtbank te bepalen dat verweerder de, in de uitspraak van
+
+14 februari 2025, toegekende rechterlijke dwangsom uitbetaalt nu deze is verbeurd. De rechtbank overweegt dat zij binnen haar bevoegdheden in dit beroep geen mogelijkheden heeft om verweerder te verplichten tot uitbetaling van de toegekende dwangsom. Het uitbetalen van een toegekende dwangsom is namelijk een feitelijke handeling en niet een besluit in de zin van de Awb. Als verweerder de dwangsom niet betaalt, zal eiseres zich moeten wenden tot de civiele rechter.
+
+Proceskosten en griffierecht
+
+9. Omdat het beroep gegrond is, krijgt eiseres een vergoeding voor de proceskosten die zij
+
+heeft gemaakt. Verweerder moet die vergoeding betalen. De vergoeding wordt met toepassing van het Besluit proceskosten bestuursrecht als volgt berekend. De bijstand door een gemachtigde levert 1 punt op (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 934,-), bij een wegingsfactor 0,5. Toegekend wordt € 467,-.
+
+10. Omdat de rechtbank het beroep gegrond verklaart, moet verweerder aan eiseres het door
+
+haar betaalde griffierecht vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+- draagt verweerder op uiterlijk twee weken na verzending van deze uitspraak een besluit op de aanvraag bekend te maken;
+
+- bepaalt dat verweerder aan eiseres een dwangsom van € 50,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijnen overschrijdt, met een maximum van € 15.000,-;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 467,-;- draagt verweerder op het betaalde griffierecht van € 54,- aan eiseres te vergoeden.
+
+Deze uitspraak is gedaan door mr. M. Eversteijn, rechter, in aanwezigheid van L. El Kabch, griffier. De uitspraak is uitgesproken in het openbaar op 27 maart 2026.
+
+De griffier is verhinderd deze
+
+uitspraak te ondertekenen.
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Bent u het niet eens met deze uitspraak? Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een beroepschrift. U moet dit beroepschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven.
+
+Artikel 8:57, van de Algemene wet bestuursrecht (Awb).
+
+Artikel 6:2, aanhef en onder b, in samenhang met artikel 7:1, eerste lid, aanhef en onder f, van de Awb.
+
+Artikel 8:55d, eerste lid, van de Awb.
+
+Artikel 8:55d, derde lid, van de Awb.
+
+ECLI:NL:RBMNE:2025:3859.
+
+ECLI:NL:RBMNE:2024:6003.
