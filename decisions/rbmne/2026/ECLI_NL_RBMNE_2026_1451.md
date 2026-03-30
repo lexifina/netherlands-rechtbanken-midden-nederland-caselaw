@@ -7,9 +7,9 @@ decided: "2026-03-30"
 published: "2026-04-10"
 type: "uitspraak"
 procedure: "Beschikking"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1451"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-1432", "AR-Updates.nl 2026-1432"]
 ---
 
 # ECLI:NL:RBMNE:2026:1451 Rechtbank Midden-Nederland , 30-03-2026 / 12020773 \ LE VERZ  25-79   AW/1583
