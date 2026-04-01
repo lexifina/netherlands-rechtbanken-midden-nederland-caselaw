@@ -7,9 +7,9 @@ decided: "2026-04-01"
 published: "2026-04-13"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1479"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0644", "VAAN-AR-Updates.nl 2026-0644"]
 ---
 
 # ECLI:NL:RBMNE:2026:1479 Rechtbank Midden-Nederland , 01-04-2026 / 11986349 \ UE VERZ  25-360 (JH/1050)
