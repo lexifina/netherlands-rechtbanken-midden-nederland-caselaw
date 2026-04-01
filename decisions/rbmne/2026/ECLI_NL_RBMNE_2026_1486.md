@@ -7,9 +7,9 @@ decided: "2026-04-01"
 published: "2026-04-13"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1486"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0131", "PJ 2026/62 met annotatie van J. Kaldenberg"]
 ---
 
 # ECLI:NL:RBMNE:2026:1486 Rechtbank Midden-Nederland , 01-04-2026 / 11880238 \ UC EXPL  25-7211
