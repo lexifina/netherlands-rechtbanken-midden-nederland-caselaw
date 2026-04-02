@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1371"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/125", "VR 2026/104"]
 ---
 
 # ECLI:NL:RBMNE:2026:1371 Rechtbank Midden-Nederland , 02-04-2026 / 11540046 UM VERZ  25-2451
