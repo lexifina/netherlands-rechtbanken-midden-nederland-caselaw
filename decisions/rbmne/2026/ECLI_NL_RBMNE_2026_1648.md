@@ -7,9 +7,9 @@ decided: "2026-04-07"
 published: "2026-04-18"
 type: "uitspraak"
 procedure: "Beschikking"
-subject: "Civiel recht"
+subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1648"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0639"]
 ---
 
 # ECLI:NL:RBMNE:2026:1648 Rechtbank Midden-Nederland , 07-04-2026 / 12110889 \ ME VERZ  26-28
