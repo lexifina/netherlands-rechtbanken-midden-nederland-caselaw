@@ -6,8 +6,8 @@ docket: "C/16/606711 / KG ZA 26-60"
 decided: "2026-04-08"
 published: "2026-04-19"
 type: "uitspraak"
-procedure: "Eerste aanleg - enkelvoudig"
-subject: "Civiel recht"
+procedure: "Kort geding"
+subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1658"
 published_in: ["Rechtspraak.nl"]
 ---
@@ -107,11 +107,11 @@ Uitgangspunt: het woordmerk heeft een zwak onderscheidend vermogen
 
 3.6
 
-Het woordmerk [eiseres] had toen het werd ingeschreven (“ab initio”) een zeer zwak onderscheidend vermogen voor de meeste diensten waarvoor het is ingeschreven (waarbij vooral van belang zijn de juridische diensten). Het woordmerk bestaat uit twee beschrijvende woorden, te weten [woord] en [woord]. Het woord [woord] is volledig beschrijvend; dat ziet op de aard van de diensten. Het woord WE is niet zo direct beschrijvend als het woord [woord] , maar nu sprake is van een netwerk van juristen die de diensten verlenen, is het gebruik van ‘wij’ ook beschrijvend. Dat er tussen de woorden [woord] en [woord] een werkwoord ontbreekt, zorgt er niet voor dat deze woorden minder beschrijvend zijn en is ook geen unieke schrijfstijl. In koppen van journalistieke teksten bijvoorbeeld worden vaak werkwoorden weggelaten. Kortom, de woorden van het woordmerk hebben ook in de gebruikte combinatie zeer weinig onderscheidend vermogen.
+Het woordmerk [eiseres] had toen het werd ingeschreven (“ab initio”) een zeer zwak onderscheidend vermogen voor de meeste diensten waarvoor het is ingeschreven (waarbij vooral van belang zijn de juridische diensten). Het woordmerk bestaat uit twee beschrijvende woorden, te weten [woord] en [woord]. Het woord [woord] is volledig beschrijvend; dat ziet op de aard van de diensten. Het woord [woord] is niet zo direct beschrijvend als het woord [woord] , maar nu sprake is van een netwerk van juristen die de diensten verlenen, is het gebruik van ‘wij’ ook beschrijvend. Dat er tussen de woorden [woord] en [woord] een werkwoord ontbreekt, zorgt er niet voor dat deze woorden minder beschrijvend zijn en is ook geen unieke schrijfstijl. In koppen van journalistieke teksten bijvoorbeeld worden vaak werkwoorden weggelaten. Kortom, de woorden van het woordmerk hebben ook in de gebruikte combinatie zeer weinig onderscheidend vermogen.
 
 3.7
 
-De voorzieningenrechter acht aannemelijk dat het woordmerk, omdat het inmiddels 5 jaar is gebruikt, en gelet op wat [eiseres] heeft gesteld over (de omvang van) haar activiteiten, meer onderscheidend vermogen heeft gekregen dan het bij aanvang had. Maar er zijn geen aanknopingspunten dat die toename significant is. [eiseres] heeft slechts algemene stellingen ingenomen over haar activiteiten die haar in beeld brengen bij juristen en bij opdrachtgevers. Maar die stellingen, zoals dat zij een podcast heeft, dat zij een van de twee organisatoren van een bepaalde award is, en dat haar oprichter een column heeft, of het feit dat [eiseres] werkt voor toonaangevende opdrachtgevers, zijn onvoldoende om aan te nemen dat het woordmerk [eiseres] zijn hoge beschrijvende gehalte duidelijk is ontstegen. Uit die stellingen kan de voorzieningenrechter immers niet afleiden dat het publiek, als gevolg van intensief gebruik, de beschrijvende woordcombinatie WE en LEGAL als uniek voor één specifieke onderneming herkent. Daardoor blijft de beschermingsomvang van het woordmerk [eiseres] beperkt.
+De voorzieningenrechter acht aannemelijk dat het woordmerk, omdat het inmiddels 5 jaar is gebruikt, en gelet op wat [eiseres] heeft gesteld over (de omvang van) haar activiteiten, meer onderscheidend vermogen heeft gekregen dan het bij aanvang had. Maar er zijn geen aanknopingspunten dat die toename significant is. [eiseres] heeft slechts algemene stellingen ingenomen over haar activiteiten die haar in beeld brengen bij juristen en bij opdrachtgevers. Maar die stellingen, zoals dat zij een podcast heeft, dat zij een van de twee organisatoren van een bepaalde award is, en dat haar oprichter een column heeft, of het feit dat [eiseres] werkt voor toonaangevende opdrachtgevers, zijn onvoldoende om aan te nemen dat het woordmerk [eiseres] zijn hoge beschrijvende gehalte duidelijk is ontstegen. Uit die stellingen kan de voorzieningenrechter immers niet afleiden dat het publiek, als gevolg van intensief gebruik, de beschrijvende woordcombinatie [woord] en [woord] als uniek voor één specifieke onderneming herkent. Daardoor blijft de beschermingsomvang van het woordmerk [eiseres] beperkt.
 
 De b-grond: er is geen verwarringsgevaar, geen merkinbreuk
 
