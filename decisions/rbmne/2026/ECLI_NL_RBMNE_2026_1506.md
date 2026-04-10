@@ -7,9 +7,9 @@ decided: "2026-04-10"
 published: "2026-04-13"
 type: "uitspraak"
 procedure: "Kort geding"
-subject: "Civiel recht"
+subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1506"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0229", "ERF-Updates.nl 2026-0229", "JERF Actueel 2026/124", "JERF 2026/104 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBMNE:2026:1506 Rechtbank Midden-Nederland , 10-04-2026 / C/16/608090 / KG ZA 26-113
