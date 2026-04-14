@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1629"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/80"]
 ---
 
 # ECLI:NL:RBMNE:2026:1629 Rechtbank Midden-Nederland , 14-04-2026 / NL:TZ:2604558:R-RK
