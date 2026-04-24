@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:1798"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/648"]
 ---
 
 # ECLI:NL:RBMNE:2026:1798 Rechtbank Midden-Nederland , 24-04-2026 / UTR 25/3135
