@@ -1,0 +1,202 @@
+---
+ecli: "ECLI:NL:RBMNE:2026:2987"
+court: "Rechtbank Midden-Nederland"
+court_code: "RBMNE"
+docket: "16/054689.25 (ontneming)"
+decided: "2026-05-29"
+published: "2026-06-01"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMNE:2026:2987"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMNE:2026:2987 Rechtbank Midden-Nederland , 29-05-2026 / 16/054689.25 (ontneming)
+
+## Inhoudsindicatie
+
+180 dagen gevangenisstraf waarvan 88 dagen voorwaardelijk voor het aanwezig hebben van cocaïne, cocaïnehandel en deelname aan een criminele organisatie vanuit een loods. Ontneming van crimineel voordeel van € 3.253,69.
+
+## Uitspraak
+
+RECHTBANK MIDDEN-NEDERLAND
+
+Strafrecht
+
+Zittingsplaats Lelystad
+
+Parketnummer: 16-054689-25 (ontneming)
+
+Vonnis van de meervoudige kamer op de vordering van de officier van justitie tot ontneming
+
+in de zaak tegen
+
+[veroordeelde]
+
+geboren op [geboortedatum] 2002 te [geboorteplaats] ,
+
+ingeschreven op het adres [adres] , [postcode] Dronten,hierna te noemen: de veroordeelde.
+
+1
+ONDERZOEK TER TERECHTZITTING
+
+De vordering is inhoudelijk behandeld tijdens het onderzoek op de terechtzitting van 8 april 2026.
+
+De rechtbank heeft kennisgenomen van de vordering en de standpunten van officier van justitie mr. B.C. Niks en van hetgeen veroordeelde en mr. D.J. van Rinsum, advocaat te Amsterdam, naar voren hebben gebracht.
+
+2
+VORDERING
+
+2.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gevorderd dat de rechtbank het bedrag vaststelt waarop het wederrechtelijk verkregen voordeel als bedoeld in artikel 36e Wetboek van Strafrecht wordt geschat en aan de veroordeelde de verplichting oplegt tot betaling aan de Staat van dit bedrag.
+
+Volgens de officier van justitie bedraagt het totale wederrechtelijk verkregen voordeel van de veroordeelde en zijn medeveroordeelden in deze zaak € 361.195,12. Dit bedrag vloeit voort uit de berekening zoals die is opgenomen in het rapport berekening wederrechtelijk verkregen voordeel. De officier van justitie heeft gevorderd om het voordeel niet in gelijke delen, maar op andere wijze over de veroordeelden te verdelen, omdat de periode van handel in drugs niet bij iedereen gelijk was en omdat niet iedereen dezelfde rol had in de criminele organisatie. Omdat de veroordeelde [medeveroordeelde 1] heeft opgevolgd geldt voor hen tezamen een aandeel van 15% in het totale voordeel. De officier van justitie vordert dat aan de veroordeelde een verplichting tot betaling aan de Staat wordt opgelegd van een bedrag van
+
+€ 5.902,21 ter ontneming van het door hem wederrechtelijk verkregen voordeel.
+
+2.2
+
+Het standpunt van de verdediging
+
+De verdediging heeft geen eigen verweer gevoerd en sluit zich aan bij alle verweren die zijn gevoerd door de advocaat van [medeveroordeelde 1] . Dit betekent dat de verdediging zich primair op het standpunt stelt dat de in het ontnemingsrapport gehanteerde berekening niet als grondslag kan dienen voor de vaststelling van wederrechtelijk verkregen voordeel en de vordering daarom moet worden afgewezen.
+
+Subsidiair is hoogstens sprake van twee gelijktijdig handelende dealers, kan de omzet van één week niet zo maar geëxtrapoleerd worden, moet daar een foutmarge voor worden berekend, is de verkoopprijs per ponypack lager en moet de inkoopprijs per kilo cocaïne van 2024 (en niet van 2023) worden gehanteerd. Daarmee komt het totale wederrechtelijk verkregen voordeel lager uit dan in het rapport.
+
+3
+BEOORDELING VAN DE VORDERING
+
+3.1
+
+De grondslag van de vordering
+
+De grondslag voor de ontnemingsvordering is een veroordeling voor een strafbaar feit. Voor de ontnemingsvordering betekent dit, dat bij de vaststelling van het wederrechtelijk verkregen voordeel kan worden gelet op voordeel verkregen door middel van of uit de baten van de strafbare feiten waarvoor de veroordeelde is veroordeeld (artikel 36e, lid 2 Wetboek van Strafrecht).
+
+De veroordeelde is bij vonnis van deze rechtbank van 29 mei 2026, veroordeeld voor onder meer – kort gezegd – deelname aan een criminele organisatie die tot oogmerk het plegen van Opiumwetdelicten heeft en het medeplegen van de handel in cocaïne, in de periode van 21 januari 2025 tot en met 26 februari 2025.
+
+3.2
+
+Beoordeling en berekening van het wederrechtelijk verkregen voordeel
+
+De rechtbank zal op grond van het bepaalde in het vijfde lid van artikel 36e van het Wetboek van Strafrecht het bedrag vaststellen waarop het door de veroordeelde wederrechtelijk verkregen voordeel uit de hiervoor genoemde feiten wordt geschat. Daarbij zal de rechtbank uitgaan van de uit bewijsmiddelen voortvloeiende – als aannemelijk aan te merken – gegevens.
+
+Voor de berekening van de opbrengsten en kosten neemt de rechtbank tot uitgangspunt wat is opgenomen in het ontnemingsrapport, maar wijkt daarvan op het volgende punt af. Voor de berekening van de weekverkoop wordt in het rapport gerekend met het verschil tussen de door [medeveroordeelde 2] meegenomen kilo cocaïne en de hoeveelheid cocaïne die ruim een maand later bij hem in huis is gevonden. Het rapport gaat ervan uit dat het verschil daartussen is verhandeld.
+
+De rechtbank is echter van oordeel dat de in de Apple iPhone X (dealertelefoon) aangetroffen notitie (hierna: de notitie) een beter uitgangspunt is voor de berekening. Het betreft de notitie die op 19 mei 2024 is aangemaakt en is bijgewerkt tot en met 26 mei 2024. Daarmee bevat deze notitie een overzicht van de drugstransacties gedurende één week. Die week kan als uitgangspunt voor een extrapolatie naar de gehele bewezenverklaarde periode  gelden. Gelet op aangetroffen poflijsten op verschillende telefoons, de grote hoeveelheid chats over drugsbestellingen, de grootte van het werkgebied, en het gegeven dat de veroordeelden in opgenomen gesprekken zelf spreken over een ‘organisatie’, ‘werken’ en over wie wanneer ‘werkt’ waarbij dagen/dagdelen worden genoemd is sprake van bestendige leveranties. Deze wijze van berekenen vormt bovendien een voorzichtige (dat wil zeggen: in het voordeel van veroordeelde) inschatting ten opzichte van de berekening zoals in het ontnemingsrapport wordt gehanteerd.
+
+3.2.1
+
+Duur van het delict
+
+De bewezenverklaarde periode ten aanzien van de veroordeelde in het vonnis in de strafzaak is 21 januari 2025 tot en met 26 februari 2025. De pleegperiode betreft dus omgerekend 37 dagen.
+
+3.2.2
+
+Berekening opbrengst
+
+De intensiteit van de handel is geschat op basis van de hiernavolgende bevindingen uit het opsporingsonderzoek.
+
+Aantal dealers
+
+Uit de notitie blijkt dat door ‘ [A] ’ en ‘ [B] ’ cocaïne is verkocht. Zowel tegen betaling als op de pof. Hoewel er – gelet op de administratie in het schrift zoals aangetroffen in de loods – gedurende een bepaalde periode door drie personen cocaïne lijkt te zijn verkocht, moet dit naar het oordeel van de rechtbank een korte periode zijn geweest. De veroordeelde lijkt immers [medeveroordeelde 1] als koerier te zijn opgevolgd. De rechtbank zal er bij de berekening dan ook van uitgaan dat gedurende de bewezenverklaarde periode door twee personen cocaïne is verkocht en afgeleverd bij afnemers met uitzondering tijdens de periode 21 januari 2025 tot en met 31 januari 2025 (11 dagen in totaal). Daar gaat de rechtbank uit van drie dealers.
+
+Verkochte hoeveelheid ponypacks
+
+Op basis van een optelsom van de in de notitie genoemde hoeveelheden (met daarachter tussen haakjes de prijs) komt de rechtbank tot de conclusie dat door de twee dealers in deze week 131 ponypacks van 1 gram cocaïne zijn verkocht. Berekend over de volledige bewezenverklaarde periode van 385 dagen levert dit een totale verkoop van 7216 ponypacks op.
+
+Geleverde hoeveelheid cocaïne
+
+Op basis van verschillende waarnemingen tijdens het opsporingsonderzoek stelt de rechtbank vast dat de veroordeelde en de medeveroordeelden niet 1 gram cocaïne, maar 0,7 gram in een ponypack verkochten. Zo werden tijdens de doorzoeking in de woning van [medeveroordeelde 2] op 26 februari 2025 352 ponypacks met harddrugs aangetroffen van in totaal 254,68 gram oftewel afgerond 0,7 gram per ponypack. Bij de doorzoeking van de auto van [medeveroordeelde 3] werden in de bigshopper op de achterbank 42 ponypacks aangetroffen met in totaal 29 gram cocaïne oftewel 0,7 gram per ponypack. Bij de doorzoeking van de auto van de veroordeelde werden 2 ponypacks gevonden met daarin 1,4 gram cocaïne oftewel 0,7 gram per ponypack. Er zijn geen aanwijzingen dat in enige periode dit anders is geweest. Uitgaande van 0,7 gram cocaïne per ponypack is door de veroordeelde en de medeveroordeelden – over de gehele bewezenverklaarde periode – in totaal 5051,20 gram cocaïne geleverd.
+
+Verkoopprijs per transactie
+
+Op basis van de notitie is gebleken dat er door afnemers € 50,- per gram cocaïne werd betaald. Dit wordt bevestigd in meerdere getuigenverklaringen. Er werden wel kortingen gegeven, maar dat was uitzonderlijk. Daar stond bovendien tegenover dat ook naar boven werd afgerond in verband met het afnemen van minder dan één gram cocaïne. De rechtbank rekent dan ook met een opbrengst van € 50,- per gram cocaïne.
+
+3.2.3
+
+Berekening kosten
+
+Om de geschatte inkoopprijs van cocaïne te kunnen vaststellen maakt de rechtbank gebruik van het document “Prijzen Drugs en (pre)precursoren 2024”. Op basis van de in dit document opgegeven prijzen wordt voor een kilogram cocaïne een inkoopbedrag geïndiceerd van € 26.744,79. Uitgaande van een geleverde hoeveelheid cocaïne van 5051,20 gram over de bewezenverklaarde periode, resulteert dit in een totale kostenpost van € 135.093,28. Dat er andere – voor in aftrek komende – kosten zijn gemaakt, is de rechtbank niet gebleken.
+
+3.2.4
+
+Berekening van het wederrechtelijk verkregen voordeel
+
+Het wederrechtelijk verkregen voordeel bedraagt op basis van het vorenstaande:
+
+opbrengst (7216 x € 50,-)					€ 360.800,00
+
+kosten (5051,20 gram x € 26.744,79 : 1.000)			€ 135.093,28 -
+
+----------------
+
+wederrechtelijk verkregen voordeel				€ 225.706,72
+
+3.3
+
+Toerekening van het voordeel
+
+Bij de bepaling van het wederrechtelijk verkregen voordeel als bedoeld in artikel 36e Sr dient te worden uitgegaan van het voordeel dat de betrokkene in de concrete omstandigheden van het geval daadwerkelijk heeft behaald. In dat verband zal de rechtbank op basis van alle haar bekende omstandigheden van het geval, zoals de rol die de onderscheiden daders hebben gespeeld en het aantreffen van het voordeel bij één of meer van hen, moeten bepalen welk deel van het totale voordeel aan elk van hen moet worden toegerekend. Voldoende is dat die feiten en omstandigheden, zoals een bepaalde rolverdeling, uit het onderzoek op de terechtzitting zijn gebleken.
+
+Geen van de verdachten heeft openheid gegeven over zijn verdiensten of over de onderlinge verdeling daarvan, niet bij de politie en ook niet op zitting. Daarom heeft de rechtbank op basis van het strafdossier gekeken naar de zwaarte van de rol van iedere verdachte. In het vonnis in de hoofdzaak is uitgelegd hoe de rechtbank de rolverdeling ziet. Voor verdachte komt dat neer op een uitvoerende rol.
+
+percentage	aantal dgn bewezen	toerekening
+
+[medeveroordeelde 2]			40%		385			€ 90.282,69
+
+[medeveroordeelde 3]				30%		332			€ 58.390,62
+
+[medeveroordeelde 4]			15%		350			€ 30.778,19
+
+[medeveroordeelde 1] / [veroordeelde]	15%
+
+- waarvan [medeveroordeelde 1]				359 			€ 31.569,63
+
+- waarvan [veroordeelde]				37 			€   3.253,69
+
+3.4
+
+Betalingsverplichting
+
+De rechtbank stelt het bedrag dat door veroordeelde dient te worden betaald aan de Staat vast op € 3.253,69. De rechtbank ziet geen redenen om de betalingsverplichting te matigen. Wel zal de rechtbank de waarde van de verbeurdverklaarde geldbedragen van in totaal € 4.755,- in mindering brengen op de betalingsverplichting, omdat er van moet worden uitgegaan dat dit geld is verdiend met de handel in verdovende middelen.
+
+Door verbeurdverklaring van voorwerpen die kunnen worden aangemerkt als opbrengst van een strafbaar feit, kan worden bereikt dat aan een veroordeelde wederrechtelijk verkregen voordeel wordt ontnomen. Wordt in zo een geval tevens de maatregel van ontneming van wederrechtelijk verkregen voordeel opgelegd, dan dient, in verband met het reparatoire karakter van die maatregel, de waarde van het onder de betrokkene inbeslaggenomen en in zijn strafzaak verbeurdverklaarde voorwerp in mindering te worden gebracht op de aan de betrokkene op te leggen betalingsverplichting.
+
+De waarde van de verbeurdverklaarde voorwerpen overstijgt de betalingsverplichting van de veroordeelde uit hoofde van de ontnemingsvordering. Dat betekent dat de veroordeelde door verrekening aan zijn betalingsverplichting heeft voldaan.
+
+4
+TOEGEPAST WETSARTIKEL
+
+De op te leggen maatregel is gegrond op artikel 36e van het Wetboek van Strafrecht.
+
+5
+BESLISSING
+
+De rechtbank:
+
+- stelt het bedrag waarop het door de veroordeelde wederrechtelijk verkregen voordeel wordt geschat vast op € 3.253,69;
+
+- stelt de  verplichting  tot betaling  aan de staat ter ontneming van het wederrechtelijk verkregen voordeel vast op nihil;
+
+Dit vonnis is gewezen door mr. V.A. Groeneveld, voorzitter, mrs. J.P. Verboom en S.M. van Meer, rechters, in tegenwoordigheid van mr. T. Lap, griffier, en is uitgesproken op de openbare terechtzitting van 29 mei 2026.
+
+Mr. Verboom is niet in staat dit vonnis mede te ondertekenen.
+
+Het “Rapport berekening wederrechtelijk verkregen voordeel per delict”, opgenomen in het aan de strafzaak ten grondslag liggende proces-verbaal, nummer MD2R024038 (onderzoek Molokai). Omdat niet steeds is doorgenummerd, wordt verwezen naar de digitale paginanummers 1 tot en met 1887.
+
+Proces-verbaal van bevindingen d.d. 17 februari 2025, pagina 409 en 410
+
+Proces-verbaal van bevindingen d.d. 26 februari 2025, pagina 447
+
+Proces-verbaal onderzoek verdovende middelen d.d. 6 maart 2025, pagina 589
+
+Proces-verbaal onderzoek verdovende middelen d.d. 24 januari 2025, pagina 221
+
+Proces-verbaal onderzoek verdovende middelen d.d. 6 maart 2025, pagina 586
+
+Proces-verbaal verhoor getuige [getuige 1] d.d. 7 maart 2025, pagina 612 en proces-verbaal verhoor getuige [getuige 2] d.d. 14 maart 2025, pagina 788
+
+Hoge Raad 17 mei 2016, ECLI:NL:HR:2016:874, NJ 2016/283
