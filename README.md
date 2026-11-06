@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): midden nederland
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Midden-Nederland (with the former Rechtbanken Utrecht and Almere), Netherlands, which global-law reads at `netherlands/rechtbanken-midden-nederland/caselaw/`.
+
 Every decision of the rechtbanken (district courts): midden nederland that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 47,710 decisions from 1994-06-02 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-midden-nederland/caselaw`.
